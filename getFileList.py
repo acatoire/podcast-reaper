@@ -28,6 +28,7 @@ for item in root.findall("./channel/item"):
                    .replace("?", '_')
                    .replace("!", '_')
                    .replace(',', '')
+                   .replace('...', '')
                    .replace(' ', '_')
                    .replace('"', ''))
     pub_date = item.find("pubDate").text

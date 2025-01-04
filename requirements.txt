@@ -1,4 +1,9 @@
-requests~=2.32.3
 
-openai-whisper~=20240930
-mutagen~=1.47.0
+# Requirement for the project: podcast-reaper
+requests # for download
+openai-whisper # voice to text
+mutagen # lercture mp3 metadata
+reportlab # for pdf
+
+# Written using linter: ruff, uncomment for debugging
+# ruff
