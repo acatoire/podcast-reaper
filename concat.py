@@ -9,14 +9,13 @@ from reportlab.pdfgen import canvas
 
 DO_NOT_PRINT = ["WEBVTT"]
 
-def find_files(dir_path, ext, start_txt):
+def find_files(dir_path, ext, contains_txt):
     print("Find all .vtt files in the given directory and its subdirectories.")
-    ext_files = glob.glob(os.path.join(dir_path, '**', f'{start_txt}*.{ext}'), recursive=True)
+    ext_files = glob.glob(os.path.join(dir_path, '**', f'*{contains_txt}*.{ext}'), recursive=True)
     print(f"Found {len(ext_files)} files in {dir_path}.")
     return sorted(ext_files)
 
 def read_vtt_file(file_path):
-    print("Read the content of a file.")
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
@@ -27,6 +26,7 @@ def add_footer(c, page_number):
     c.restoreState()
 
 def create_pdf(files_list, pdf_path):
+    print("\n\n----------------------------------------")
     print("Create a PDF by concatenating the content of files.")
 
     c = canvas.Canvas(pdf_path, pagesize=letter)
@@ -74,14 +74,39 @@ def create_pdf(files_list, pdf_path):
     add_footer(c, page_number)
     c.save()
 
-def main(directory, output_pdf, ext, start_txt):
-    files = find_files(directory, ext, start_txt)
+def main(directory, output_pdf, ext, contains_txt):
+    files = find_files(directory, ext, contains_txt)
     create_pdf(files, output_pdf)
     print(f"PDF created: {output_pdf}")
 
 if __name__ == "__main__":
-    directory_input = "transcript/turbo"
-    extension = "vtt"
-    start = '2020'
-    output_pdf_path = f"output_{start}.pdf"
-    main(directory_input, output_pdf_path, extension, start)
+    model = "turbo"
+    directory_input = f"transcript/{model}"
+    extensions = ["vtt", "txt", 'srt', 'tsv', 'json']
+    contains = 'Confinés'
+    contains_list = ['Plutôt_Confinés_',
+                     'Plutôt_Déconfinés-',
+                     'Plutôt_reConfinés-',
+                     'Plutôt_MiConfinés_',
+                     '2020',
+                     '2021',
+                     '2022',
+                     '2023',
+                     '2024',]
+
+    # output_pdf_path = f"output_{contains}.pdf"
+    # main(directory_input, output_pdf_path, extension, contains)
+
+    output_dir = f"transcript/pdf-{model}"
+    if os.path.exists(output_dir):
+        import shutil
+        shutil.rmtree(output_dir)
+    os.makedirs(output_dir, exist_ok=True)
+
+    for extension in extensions:
+        print(f"--- Processing extension: {extension}")
+        for contains in contains_list:
+            print(f"------ Processing contains: {contains}")
+            output_pdf_path = f"{output_dir}/{contains}_{extension}.pdf"
+            main(directory_input, output_pdf_path, extension, contains)
+
