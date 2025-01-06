@@ -15,15 +15,19 @@ pipeline = Pipeline.from_pretrained(
     "pyannote/speaker-diarization-3.1",
     use_auth_token=USE_AUTH_TOKEN)
 
-input_dir = "downloads"
+input_folder = "downloads"
+output_folder = os.path.join("transcript", "diarization")
 
 
-for file_name in os.listdir(input_dir):
+# List all MP3 files in the input folder
+mp3_files = [filename for filename in os.listdir(input_folder) if filename.endswith(".mp3")]
+
+for file_name in os.listdir(input_folder):
     if not file_name.endswith(".mp3"):
         continue
 
-    file_path = os.path.join(input_dir, file_name)
-    diarization_output = file_path.replace('.mp3', '-diari.txt')
+    file_path = os.path.join(input_folder, file_name)
+    diarization_output = os.path.join(output_folder, file_name.replace('.mp3', '-diari.txt'))
 
     if os.path.exists(diarization_output):
         print(f"Diarization already exists for {file_name}, skipping.")
@@ -31,6 +35,7 @@ for file_name in os.listdir(input_dir):
 
     # send pipeline to GPU (when available)
     if torch.cuda.is_available():
+        print("GPU available. Sending pipeline to GPU.")
         pipeline.to(torch.device("cuda"))
 
     print(f"Diarization started for {file_name}...", end="")
