@@ -80,7 +80,7 @@ def main(directory, output_pdf, ext, contains_txt):
     print(f"PDF created: {output_pdf}")
 
 if __name__ == "__main__":
-    model = "turbo"
+    model = "large-v3"
     directory_input = f"transcript/{model}"
     extensions = ["vtt", "txt", 'srt', 'tsv', 'json']
     contains = 'Confinés'

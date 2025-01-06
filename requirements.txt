@@ -1,9 +1,12 @@
 
 # Requirement for the project: podcast-reaper
-requests # for download
-openai-whisper # voice to text
-mutagen # lercture mp3 metadata
-reportlab # for pdf
+requests~=2.32.3
+openai-whisper~=20240930
+mutagen~=1.47.0
+reportlab~=4.2.5
+pyannote.audio # for speaker diarization
+torch~=2.5.1
+torchaudio~=2.5.1
 
 # Written using linter: ruff, uncomment for debugging
 # ruff
