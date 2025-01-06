@@ -44,7 +44,7 @@ for file_name in os.listdir(input_folder):
     waveform, sample_rate = torchaudio.load(file_path)
     diarization = pipeline({"waveform": waveform, "sample_rate": sample_rate})
 
-    print(f"... completed. Saving in file{diarization_output}", end="")
+    print(f"... completed. Saving in file{diarization_output}")
 
     # print the result
     with open(diarization_output, "a") as f:
