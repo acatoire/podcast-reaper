@@ -43,14 +43,19 @@ class PdfCanvas:
 
         self.reset_canvas()
 
+        print("\n\n----------------------------------------")
+        print(f"Create a PDF by concatenating the transcript of {contains_txt} files.")
+
         # Create the PDF file handler
         output_pdf = f"{self.output_dir}/{self.model}-{ext}/{self.model}-{contains_txt}-{ext}.pdf"
         os.makedirs(os.path.dirname(output_pdf), exist_ok=True)
         self.pdf_canvas = canvas.Canvas(output_pdf, pagesize=letter)
 
         # Find all files in the given directory and its subdirectories
+        # TODO add exclude list
         files = self.find_files(ext,
                                 contains_txt)
+
 
         # Create the PDF file
         self.create_pdf(files,
@@ -198,7 +203,6 @@ class PdfCanvas:
         self.pdf_canvas.restoreState()
 
     def first_page(self, title, files_list):
-        self.pdf_canvas.saveState()
 
         # first page with list of files
         self.pdf_canvas.setFont("Helvetica-Bold", 14)
@@ -236,14 +240,9 @@ class PdfCanvas:
 
             self.y_position -= 12
 
-        self.pdf_canvas.restoreState()
-
     def create_pdf(self,
                    files_list,
                    with_diari = False):
-
-        print("\n\n----------------------------------------")
-        print("Create a PDF by concatenating the transcript_content of files.")
 
         self.first_page("Lists des épisodes",
                         files_list)
