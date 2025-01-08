@@ -4,6 +4,8 @@
 
 
 import os
+import time
+
 import torch
 import torchaudio
 from pyannote.audio import Pipeline
@@ -22,7 +24,7 @@ output_folder = os.path.join("transcript", "diarization")
 # List all MP3 files in the input folder
 mp3_files = [filename for filename in os.listdir(input_folder) if filename.endswith(".mp3")]
 
-for file_name in os.listdir(input_folder):
+for index, file_name in enumerate(mp3_files, start=1):
     if not file_name.endswith(".mp3"):
         continue
 
@@ -38,7 +40,7 @@ for file_name in os.listdir(input_folder):
         print("GPU available. Sending pipeline to GPU.")
         pipeline.to(torch.device("cuda"))
 
-    print(f"Diarization started for {file_name}...", end="")
+    print(f"Diarization {index}/{len(mp3_files)} started at {time.strftime('%H:%M:%S')} for {file_name}...", end="")
 
     # apply pretrained pipeline
     waveform, sample_rate = torchaudio.load(file_path)
