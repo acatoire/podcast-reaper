@@ -17,6 +17,7 @@ class OptimTool:
                  output_path,
                  model_name):
 
+        self.speaker_info = None
         self.hide_timestamps = True
 
         self.directory_input = input_path
@@ -57,12 +58,25 @@ class OptimTool:
             diarization_file = os.path.join('transcript',
                                             'diarization',
                                             f'{folder_ep}-diari.txt')
-            diarization_speaker = self.get_speaker_info(diarization_file)
+            self.set_speaker_info(diarization_file)
+
+            for line in file_content:
+                print(f"DEBUG : line - {line}")
+                speaker = self.find_speaker(int(line['start'] * 1000),
+                                            int(line['end'] * 1000),
+                                            self.speaker_info)
+
+                if speaker == 'SPEAKER_NOT_FOUND':
+                    print(f"DEBUG : speaker not found - {line}")
+                else :
+                    print(f"DEBUG : speaker found - {line}")
+
+                line['speaker'] = speaker
 
             if with_merge:
                 for line in file_content:
                     print(f"DEBUG : line - {line}")
-                    speaker = self.find_speaker(line['start'], line['end'], diarization_speaker)
+                    speaker = self.find_speaker(line['start'], line['end'], self.speaker_info)
                     line['speaker'] = speaker
 
         # store new file
@@ -128,20 +142,24 @@ class OptimTool:
         return None
 
     @staticmethod
-    def find_speaker(start, end, speaker_info):
+    def find_speaker(start_search_ms: int,
+                     end_search_ms: int,
+                     speaker_info: dict):
         """Find the speaker for a given seconds."""
 
-        speak_center = start + ((end - start) // 2)
+        speak_center = int(start_search_ms + ((end_search_ms - start_search_ms) // 2))
 
         # improve with a better search
-        for start, stop, speaker in speaker_info:
-            if start <= speak_center <= stop:
-                return speaker
+        for line in speaker_info:
+            if line['start'] <= speak_center <= line['stop']:
+                return line['speaker']
 
         # print (f"Speaker not found ( {speak_center}s).")
         return 'SPEAKER_NOT_FOUND'
 
-    def match_timestamps_to_speakers(self, timestamps, speaker_info):
+    def match_timestamps_to_speakers(self,
+                                     timestamps,
+                                     speaker_info):
         """Match timestamps to speaker information and print the results."""
 
         start_timestamp, end_timestamp = timestamps.strip().split(' --> ')
@@ -171,21 +189,32 @@ class OptimTool:
         else:
             return line
 
-    def get_speaker_info(self, diarization_path):
+    def set_speaker_info(self, diarization_file_path):
 
-        if not os.path.exists(diarization_path):
-            raise FileNotFoundError(f"Speaker information file not found: {diarization_path}")
+        if not os.path.exists(diarization_file_path):
+            raise FileNotFoundError(f"Speaker information file not found: {diarization_file_path}")
 
-        with open(diarization_path, 'r') as f:
+        with open(diarization_file_path, 'r') as f:
             speaker_def = f.readlines()
 
+        # create an empty list to store speaker information
+        self.speaker_info = []
+
         # Parse speaker information
-        speaker_info = []
         for line in speaker_def:
             info = self.parse_speaker_info(line)
             if info:
-                speaker_info.append(info)
-        return speaker_info
+                # append speaker information to the list
+                self.speaker_info.append(info)
+
+
+        # merge speaker info when speaker is the same
+        if len(self.speaker_info) > 1:
+            for i in range(1, len(self.speaker_info)):
+                if self.speaker_info[i]['speaker'] == self.speaker_info[i-1]['speaker']:
+                    self.speaker_info[i-1]['stop'] = self.speaker_info[i]['stop']
+                    self.speaker_info.pop(i)
+
 
 
 if __name__ == "__main__":
@@ -197,7 +226,7 @@ if __name__ == "__main__":
     output_dir = "transcript/"
     
     with_diarization = True
-    merge_speaker = True
+    merge_speaker = False
 
     extensions = [#"vtt",
                   #"txt",
