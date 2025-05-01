@@ -701,259 +701,296 @@
           "episode": "Plutôt Confinés : JOUR 53",
           "date": "2020-05-07",
           "cleanTitle": "Plutôt_Confinés-JOUR_53",
-          "fileName": "2020-05-07-Plutôt_Confinés-JOUR_53.mp3"
+          "fileName": "2020-05-07-Plutôt_Confinés-JOUR_53.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/1460539d-db3e-4b1c-9000-40dee92d976c/media.mp3",
           "episode": "Plutôt Confinés : JOUR 52",
           "date": "2020-05-06",
           "cleanTitle": "Plutôt_Confinés-JOUR_52",
-          "fileName": "2020-05-06-Plutôt_Confinés-JOUR_52.mp3"
+          "fileName": "2020-05-06-Plutôt_Confinés-JOUR_52.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/00141ada-ef45-4930-9939-9ad00183f592/media.mp3",
           "episode": "Plutôt Confinés : JOUR 51",
           "date": "2020-05-05",
           "cleanTitle": "Plutôt_Confinés-JOUR_51",
-          "fileName": "2020-05-05-Plutôt_Confinés-JOUR_51.mp3"
+          "fileName": "2020-05-05-Plutôt_Confinés-JOUR_51.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/ecd1d2e2-fa66-47e6-a617-d5e605d3efed/media.mp3",
           "episode": "Plutôt Confinés : JOUR 50",
           "date": "2020-05-04",
           "cleanTitle": "Plutôt_Confinés-JOUR_50",
-          "fileName": "2020-05-04-Plutôt_Confinés-JOUR_50.mp3"
+          "fileName": "2020-05-04-Plutôt_Confinés-JOUR_50.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/783f1340-2309-4169-87da-42eabc0734ba/media.mp3",
           "episode": "Plutôt Confinés : JOUR 46",
           "date": "2020-04-30",
           "cleanTitle": "Plutôt_Confinés-JOUR_46",
-          "fileName": "2020-04-30-Plutôt_Confinés-JOUR_46.mp3"
+          "fileName": "2020-04-30-Plutôt_Confinés-JOUR_46.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/91491a85-896a-4fbe-bbc8-a6fbf605b97f/media.mp3",
           "episode": "Plutôt Confinés : JOUR 45",
           "date": "2020-04-29",
           "cleanTitle": "Plutôt_Confinés-JOUR_45",
-          "fileName": "2020-04-29-Plutôt_Confinés-JOUR_45.mp3"
+          "fileName": "2020-04-29-Plutôt_Confinés-JOUR_45.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/37e8a39f-9b1c-43ea-965f-f24e81d7406e/media.mp3",
           "episode": "Plutôt Confinés : JOUR 44",
           "date": "2020-04-28",
           "cleanTitle": "Plutôt_Confinés-JOUR_44",
-          "fileName": "2020-04-28-Plutôt_Confinés-JOUR_44.mp3"
+          "fileName": "2020-04-28-Plutôt_Confinés-JOUR_44.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/def50550-7602-43b0-9fc8-fcf48cb79194/media.mp3",
           "episode": "Plutôt Confinés : JOUR 43",
           "date": "2020-04-27",
           "cleanTitle": "Plutôt_Confinés-JOUR_43",
-          "fileName": "2020-04-27-Plutôt_Confinés-JOUR_43.mp3"
+          "fileName": "2020-04-27-Plutôt_Confinés-JOUR_43.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/738c6744-b107-466d-85b2-2e706964fda5/media.mp3",
           "episode": "Plutôt Confinés : JOUR 40",
           "date": "2020-04-24",
           "cleanTitle": "Plutôt_Confinés-JOUR_40",
-          "fileName": "2020-04-24-Plutôt_Confinés-JOUR_40.mp3"
+          "fileName": "2020-04-24-Plutôt_Confinés-JOUR_40.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/10a7bf76-691b-41c7-8f37-bf04b201b2b1/media.mp3",
           "episode": "Plutôt Confinés : JOUR 39",
           "date": "2020-04-23",
           "cleanTitle": "Plutôt_Confinés-JOUR_39",
-          "fileName": "2020-04-23-Plutôt_Confinés-JOUR_39.mp3"
+          "fileName": "2020-04-23-Plutôt_Confinés-JOUR_39.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/ce6f5920-5746-42e1-a243-a2c832885012/media.mp3",
           "episode": "Plutôt Confinés : JOUR 38",
           "date": "2020-04-22",
           "cleanTitle": "Plutôt_Confinés-JOUR_38",
-          "fileName": "2020-04-22-Plutôt_Confinés-JOUR_38.mp3"
+          "fileName": "2020-04-22-Plutôt_Confinés-JOUR_38.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/685e01f0-b143-4fe6-a121-c1064d07ebc5/media.mp3",
           "episode": "Plutôt Confinés : JOUR 37",
           "date": "2020-04-21",
           "cleanTitle": "Plutôt_Confinés-JOUR_37",
-          "fileName": "2020-04-21-Plutôt_Confinés-JOUR_37.mp3"
+          "fileName": "2020-04-21-Plutôt_Confinés-JOUR_37.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/b13d2a81-187f-4555-8f68-9c10a64c59af/media.mp3",
           "episode": "Plutôt Confinés : JOUR 36",
           "date": "2020-04-20",
           "cleanTitle": "Plutôt_Confinés-JOUR_36",
-          "fileName": "2020-04-20-Plutôt_Confinés-JOUR_36.mp3"
+          "fileName": "2020-04-20-Plutôt_Confinés-JOUR_36.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/f298d6a9-d4fa-4152-b9c7-6a2c3ccc9383/media.mp3",
           "episode": "Plutôt Confinés : JOUR 33",
           "date": "2020-04-17",
           "cleanTitle": "Plutôt_Confinés-JOUR_33",
-          "fileName": "2020-04-17-Plutôt_Confinés-JOUR_33.mp3"
+          "fileName": "2020-04-17-Plutôt_Confinés-JOUR_33.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/59eb6634-0ae7-40e9-ad96-47e3469e4a0f/media.mp3",
           "episode": "Plutôt Confinés : JOUR 32",
           "date": "2020-04-16",
           "cleanTitle": "Plutôt_Confinés-JOUR_32",
-          "fileName": "2020-04-16-Plutôt_Confinés-JOUR_32.mp3"
+          "fileName": "2020-04-16-Plutôt_Confinés-JOUR_32.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/09e4b90c-ec07-4159-98af-fb88b6e044cc/media.mp3",
           "episode": "Plutôt Confinés : JOUR 31",
           "date": "2020-04-15",
           "cleanTitle": "Plutôt_Confinés-JOUR_31",
-          "fileName": "2020-04-15-Plutôt_Confinés-JOUR_31.mp3"
+          "fileName": "2020-04-15-Plutôt_Confinés-JOUR_31.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/e333f896-0fd4-4b42-af0d-08d55f1ce958/media.mp3",
           "episode": "Plutôt Confinés : JOUR 30",
           "date": "2020-04-14",
           "cleanTitle": "Plutôt_Confinés-JOUR_30",
-          "fileName": "2020-04-14-Plutôt_Confinés-JOUR_30.mp3"
+          "fileName": "2020-04-14-Plutôt_Confinés-JOUR_30.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/4fdc85c2-e160-4abb-84a0-a19b6aefd401/media.mp3",
           "episode": "Plutôt Confinés : JOUR 26",
           "date": "2020-04-10",
           "cleanTitle": "Plutôt_Confinés-JOUR_26",
-          "fileName": "2020-04-10-Plutôt_Confinés-JOUR_26.mp3"
+          "fileName": "2020-04-10-Plutôt_Confinés-JOUR_26.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/840109db-c966-4eca-8077-78113b411673/media.mp3",
           "episode": "Plutôt Confinés : JOUR 25",
           "date": "2020-04-09",
           "cleanTitle": "Plutôt_Confinés-JOUR_25",
-          "fileName": "2020-04-09-Plutôt_Confinés-JOUR_25.mp3"
+          "fileName": "2020-04-09-Plutôt_Confinés-JOUR_25.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/c44cde17-f058-4576-8208-1d0b535959cc/media.mp3",
           "episode": "Plutôt Confinés : JOUR 24",
           "date": "2020-04-08",
           "cleanTitle": "Plutôt_Confinés-JOUR_24",
-          "fileName": "2020-04-08-Plutôt_Confinés-JOUR_24.mp3"
+          "fileName": "2020-04-08-Plutôt_Confinés-JOUR_24.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/b01c9030-c7ee-40fb-a2da-1b77416e08aa/media.mp3",
           "episode": "Plutôt Confinés : JOUR 23",
           "date": "2020-04-07",
           "cleanTitle": "Plutôt_Confinés-JOUR_23",
-          "fileName": "2020-04-07-Plutôt_Confinés-JOUR_23.mp3"
+          "fileName": "2020-04-07-Plutôt_Confinés-JOUR_23.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/90c7c62f-7bb4-4c06-ad1d-f91bd10567e7/media.mp3",
           "episode": "Plutôt Confinés : JOUR 22",
           "date": "2020-04-06",
           "cleanTitle": "Plutôt_Confinés-JOUR_22",
-          "fileName": "2020-04-06-Plutôt_Confinés-JOUR_22.mp3"
+          "fileName": "2020-04-06-Plutôt_Confinés-JOUR_22.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/1dd8ab56-c014-4291-8074-5d3d18c49c34/media.mp3",
           "episode": "Plutôt Confinés : JOUR 19",
           "date": "2020-04-03",
           "cleanTitle": "Plutôt_Confinés-JOUR_19",
-          "fileName": "2020-04-03-Plutôt_Confinés-JOUR_19.mp3"
+          "fileName": "2020-04-03-Plutôt_Confinés-JOUR_19.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/ce429bb4-c26b-426c-9f30-b59d2ae3b8da/media.mp3",
           "episode": "Plutôt Confinés : JOUR 18",
           "date": "2020-04-02",
           "cleanTitle": "Plutôt_Confinés-JOUR_18",
-          "fileName": "2020-04-02-Plutôt_Confinés-JOUR_18.mp3"
+          "fileName": "2020-04-02-Plutôt_Confinés-JOUR_18.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/1ac448a2-04ec-4c4d-8d83-b979358cfac2/media.mp3",
           "episode": "Plutôt Confinés : JOUR 17",
           "date": "2020-04-01",
           "cleanTitle": "Plutôt_Confinés-JOUR_17",
-          "fileName": "2020-04-01-Plutôt_Confinés-JOUR_17.mp3"
+          "fileName": "2020-04-01-Plutôt_Confinés-JOUR_17.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/f7ade139-51f7-4019-969b-25474ad9ee9c/media.mp3",
           "episode": "Plutôt Confinés : JOUR 16",
           "date": "2020-03-31",
           "cleanTitle": "Plutôt_Confinés-JOUR_16",
-          "fileName": "2020-03-31-Plutôt_Confinés-JOUR_16.mp3"
+          "fileName": "2020-03-31-Plutôt_Confinés-JOUR_16.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/e373f1c8-c6c9-442f-a96d-2283dc91995f/media.mp3",
           "episode": "Plutôt Confinés : JOUR 15",
           "date": "2020-03-30",
           "cleanTitle": "Plutôt_Confinés-JOUR_15",
-          "fileName": "2020-03-30-Plutôt_Confinés-JOUR_15.mp3"
+          "fileName": "2020-03-30-Plutôt_Confinés-JOUR_15.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/7316507b-66cc-4c59-8207-7b5098606313/media.mp3",
           "episode": "Plutôt Confinés : JOUR 12",
           "date": "2020-03-27",
           "cleanTitle": "Plutôt_Confinés-JOUR_12",
-          "fileName": "2020-03-27-Plutôt_Confinés-JOUR_12.mp3"
+          "fileName": "2020-03-27-Plutôt_Confinés-JOUR_12.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/84f194a3-acf8-4500-8640-b4be1f45dd5e/media.mp3",
           "episode": "Plutôt Confinés  : JOUR 11",
           "date": "2020-03-26",
           "cleanTitle": "Plutôt_Confinés_-JOUR_11",
-          "fileName": "2020-03-26-Plutôt_Confinés_-JOUR_11.mp3"
+          "fileName": "2020-03-26-Plutôt_Confinés_-JOUR_11.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/7fea3135-2db3-4370-abd7-3e7e85cb1d1c/media.mp3",
           "episode": "Plutôt Confinés  : JOUR 10",
           "date": "2020-03-25",
           "cleanTitle": "Plutôt_Confinés_-JOUR_10",
-          "fileName": "2020-03-25-Plutôt_Confinés_-JOUR_10.mp3"
+          "fileName": "2020-03-25-Plutôt_Confinés_-JOUR_10.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/c6e32b64-0691-452a-8e64-9f9d6eb24a73/media.mp3",
           "episode": "Plutôt Confinés  : JOUR 9",
           "date": "2020-03-24",
           "cleanTitle": "Plutôt_Confinés_-JOUR_9",
-          "fileName": "2020-03-24-Plutôt_Confinés_-JOUR_9.mp3"
+          "fileName": "2020-03-24-Plutôt_Confinés_-JOUR_9.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/69199d9c-4343-4ba9-94d4-539568e40fbe/media.mp3",
           "episode": "Plutôt Confinés : JOUR 8",
           "date": "2020-03-23",
           "cleanTitle": "Plutôt_Confinés-JOUR_8",
-          "fileName": "2020-03-23-Plutôt_Confinés-JOUR_8.mp3"
+          "fileName": "2020-03-23-Plutôt_Confinés-JOUR_8.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/ff8965cb-138a-4a5e-81e1-40ee2e02d42f/media.mp3",
           "episode": "Plutôt Confinés : JOUR 5",
           "date": "2020-03-20",
           "cleanTitle": "Plutôt_Confinés-JOUR_5",
-          "fileName": "2020-03-20-Plutôt_Confinés-JOUR_5.mp3"
+          "fileName": "2020-03-20-Plutôt_Confinés-JOUR_5.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/f84c0c2e-2458-4077-990a-b9c64ddc25fb/media.mp3",
           "episode": "Plutôt Confinés : JOUR 4",
           "date": "2020-03-19",
           "cleanTitle": "Plutôt_Confinés-JOUR_4",
-          "fileName": "2020-03-19-Plutôt_Confinés-JOUR_4.mp3"
+          "fileName": "2020-03-19-Plutôt_Confinés-JOUR_4.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/37a98b22-7564-4e35-90c6-909a1ce549d4/media.mp3",
           "episode": "Plutôt Confinés : JOUR 3",
           "date": "2020-03-18",
           "cleanTitle": "Plutôt_Confinés-JOUR_3",
-          "fileName": "2020-03-18-Plutôt_Confinés-JOUR_3.mp3"
+          "fileName": "2020-03-18-Plutôt_Confinés-JOUR_3.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/4113579d-f900-43f3-87e9-936e256af6a4/media.mp3",
           "episode": "Plutôt Confinés : JOUR 2",
           "date": "2020-03-17",
           "cleanTitle": "Plutôt_Confinés-JOUR_2",
-          "fileName": "2020-03-17-Plutôt_Confinés-JOUR_2.mp3"
+          "fileName": "2020-03-17-Plutôt_Confinés-JOUR_2.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/9cba91af-163e-47e3-a77d-1c3b0ff10b9d/media.mp3",
           "episode": "Plutôt Confinés : JOUR 1",
           "date": "2020-03-16",
           "cleanTitle": "Plutôt_Confinés-JOUR_1",
-          "fileName": "2020-03-16-Plutôt_Confinés-JOUR_1.mp3"
+          "fileName": "2020-03-16-Plutôt_Confinés-JOUR_1.mp3",
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
         }
       ]
     },
@@ -983,28 +1020,28 @@
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/a378d45d1a244e78b35e8f6d281d8997/media.mp3",
-          "episode": "#8 Citius, Altius, Eugénie Bastius",
+          "episode": "S1E08 Citius, Altius, Eugénie Bastius",
           "date": "2018-09-30",
           "cleanTitle": "S1E08_Citius_Altius_Eugénie_Bastius",
           "fileName": "2018-09-30-#8_Citius_Altius_Eugénie_Bastius.mp3"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/e869275796874e33819484a81c7c97fd/media.mp3",
-          "episode": "#7 Jouissance chrétienne aux étrennes et plus si affinités",
+          "episode": "S1E07 Jouissance chrétienne aux étrennes et plus si affinités",
           "date": "2018-08-29",
           "cleanTitle": "S1E07_Jouissance_chrétienne_aux_étrennes_et_plus_si_affinités",
           "fileName": "2018-08-29-#7_Jouissance_chrétienne_aux_étrennes_et_plus_si_affinités.mp3"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/0d6f488bbfd94b58906f35a3f6408651/media.mp3",
-          "episode": "#6 Sexy and caustique, summer edition",
+          "episode": "S1E06 Sexy and caustique, summer edition",
           "date": "2018-08-08",
           "cleanTitle": "S1E06_Sexy_and_caustique_summer_edition",
           "fileName": "2018-08-08-#6_Sexy_and_caustique_summer_edition.mp3"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/474bf732e2414f09bbcf842f632bab55/media.mp3",
-          "episode": "#5 Puceau de la bouche ? Affirmatif !",
+          "episode": "S1E05 Puceau de la bouche ? Affirmatif !",
           "date": "2018-07-22",
           "cleanTitle": "#5_Puceau_de_la_bouche___Affirmatif__",
           "fileName": "2018-07-22-#5_Puceau_de_la_bouche___Affirmatif__.mp3"
