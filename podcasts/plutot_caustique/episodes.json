@@ -20,6 +20,17 @@
       "link": "https://www.deezer.com/fr/show/59996"
     }
   ],
+  "references": [
+    {
+      "name": "François Cluzet",
+      "description": ""
+    },
+    {
+      "name": "Christophe Siébert",
+      "description": "L'auteur gore, avec des histoires détaillées de tueurs, originaire de la région de Clermont-Ferrand, pourrait être Christophe Siébert. Bien qu'il soit né à Millau, il est un écrivain français reconnu pour ses romans érotiques, gores et noirs, souvent qualifiés d’« underground » ou d’« alternative », mêlant horreur, érotisme et violence gore\n\n.\n\nIl est notamment l’auteur de Nuit noire, qui raconte la genèse et les fantasmes d’un tueur en série avec beaucoup de détails, ainsi que Paranoïa, un polar nerveux et violent. Son œuvre est marquée par un réalisme critique et une écriture très sombre, ce qui correspond bien à la description d’un récit gore centré sur un tueur\n\n.\n\nChristophe Siébert est aussi connu pour ses lectures publiques de ses textes, parfois dans des contextes mêlant musique et performance, ce qui pourrait correspondre à la diffusion dans des podcasts ou lectures caustiques que vous mentionnez\n.",
+      "link": "https://fr.wikipedia.org/wiki/Christophe_Si%C3%A9bert"
+    }
+  ],
   "Saisons": [
     {
       "name": "Saison 5",
@@ -102,7 +113,7 @@
           "date": "2024-02-22",
           "cleanTitle": "S5E05-Plutôt_Cul_le_retour",
           "fileName": "2024-02-22-S5E05-Plutôt_Cul_le_retour.mp3",
-          "labels": "régularité exemplaire, source fiables, franco de port"
+          "labels": "régularité exemplaire, source fiables, franco de port, Plutôt Cul"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/70549710-c99b-4722-8eda-e2ee70d7e499/media.mp3",
@@ -724,7 +735,7 @@
           "date": "2020-07-01",
           "cleanTitle": "Passion_Cluzet_En_Solitaire",
           "fileName": "2020-07-01-Passion_Cluzet_En_Solitaire.mp3",
-          "labels": "ciné, régularité exemplaire, source fiables, franco de port"
+          "labels": "ciné, régularité exemplaire, source fiables, franco de port, Cluzet"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/ffdc6af4-e5f6-40de-89db-e915695fc8fa/media.mp3",
@@ -732,7 +743,7 @@
           "date": "2020-03-01",
           "cleanTitle": "Passion_Cluzet_Nous_Finirons_Ensemble",
           "fileName": "2020-03-01-Passion_Cluzet_Nous_Finirons_Ensemble.mp3",
-          "labels": "ciné, régularité exemplaire, source fiables, franco de port"
+          "labels": "ciné, régularité exemplaire, source fiables, franco de port, Cluzet"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/7c182e4e367345e5a5eca83d1435affa/media.mp3",
@@ -740,7 +751,7 @@
           "date": "2019-01-06",
           "cleanTitle": "#Passion_Cluzet_11.6",
           "fileName": "2019-01-06-#Passion_Cluzet_11.6.mp3",
-          "labels": "ciné, régularité exemplaire, source fiables, franco de port"
+          "labels": "ciné, régularité exemplaire, source fiables, franco de port, Cluzet"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/42d36f3a61d443959109805444a42f01/media.mp3",
@@ -748,7 +759,7 @@
           "date": "2018-10-25",
           "cleanTitle": "Passion_Cluzet_L_École_Buissonnière",
           "fileName": "2018-10-25-Passion_Cluzet_L_École_Buissonnière.mp3",
-          "labels": "ciné, régularité exemplaire, source fiables, franco de port"
+          "labels": "ciné, régularité exemplaire, source fiables, franco de port, Cluzet"
         }
       ]
     },
@@ -769,7 +780,7 @@
           "date": "2020-06-10",
           "cleanTitle": "Plutôt_Cul-épisode_1",
           "fileName": "2020-06-10-Plutôt_Cul-épisode_1.mp3",
-          "labels": "confinement, régularité exemplaire, source fiables, franco de port"
+          "labels": "confinement, régularité exemplaire, source fiables, franco de port, Plutôt Cul"
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/66eb2575bbcf745f11ae1097/e/e27d0485-ae33-4323-a9ad-d632e1c2078c/media.mp3",
