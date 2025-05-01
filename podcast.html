@@ -17,13 +17,11 @@
             <div class="episode-details" id="episode-details">
                 <div class="season-episode-selectors">
                     <div class="selector-container">
-                        <label for="season-dropdown">Season:</label>
                         <select id="season-dropdown" class="selector-dropdown">
                             <option value="">Select a season</option>
                         </select>
                     </div>
                     <div class="selector-container">
-                        <label for="episodes-dropdown">Episode:</label>
                         <select id="episodes-dropdown" class="selector-dropdown">
                             <option value="">Select an episode</option>
                         </select>
@@ -39,9 +37,10 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            // Get podcast ID from URL
+            // Get podcast ID and episode from URL
             const urlParams = new URLSearchParams(window.location.search);
             const podcastId = urlParams.get('id') || 'plutot_caustique'; // Default to plutot_caustique if no ID provided
+            const requestedEpisode = urlParams.get('episode'); // Get specific episode if provided
 
             // Set podcast title
             const podcastTitle = document.getElementById('podcast-title');
@@ -54,7 +53,47 @@
                     // Setup season dropdown
                     setupSeasonDropdown(data.Saisons);
 
-                    // Setup initial episode dropdown with first season's episodes and display first episode
+                    // Check if a specific episode was requested
+                    if (requestedEpisode) {
+                        // Find the requested episode in all seasons
+                        let foundEpisode = null;
+                        let seasonIndex = 0;
+
+                        for (let i = 0; i < data.Saisons.length; i++) {
+                            const season = data.Saisons[i];
+                            const episode = season.episodes.find(ep => ep.cleanTitle === requestedEpisode);
+
+                            if (episode) {
+                                foundEpisode = episode;
+                                seasonIndex = i;
+                                break;
+                            }
+                        }
+
+                        if (foundEpisode) {
+                            // Set the season dropdown to the correct season
+                            const seasonDropdown = document.getElementById('season-dropdown');
+                            seasonDropdown.value = seasonIndex;
+
+                            // Setup episode dropdown for the selected season
+                            const episodes = data.Saisons[seasonIndex].episodes;
+                            setupEpisodeDropdown(episodes);
+
+                            // Find the index of the episode in the dropdown
+                            const episodeIndex = episodes.findIndex(ep => ep.cleanTitle === requestedEpisode);
+
+                            // Set the episode dropdown to the correct episode
+                            const episodeDropdown = document.getElementById('episodes-dropdown');
+                            episodeDropdown.value = episodeIndex;
+
+                            // Display the episode details
+                            displayEpisodeDetails(foundEpisode);
+                            return;
+                        }
+                    }
+
+                    // If no specific episode was requested or the requested episode wasn't found,
+                    // setup initial episode dropdown with first season's episodes and display first episode
                     if (data.Saisons && data.Saisons.length > 0) {
                         const firstSeasonEpisodes = data.Saisons[0].episodes;
                         setupEpisodeDropdown(firstSeasonEpisodes);
@@ -176,7 +215,15 @@
                 episode.labels.split(',').forEach(label => {
                     const labelSpan = document.createElement('span');
                     labelSpan.className = 'label';
-                    labelSpan.textContent = label.trim();
+                    const trimmedLabel = label.trim();
+                    labelSpan.textContent = trimmedLabel;
+
+                    // Make the label clickable
+                    labelSpan.style.cursor = 'pointer';
+                    labelSpan.addEventListener('click', function() {
+                        window.location.href = `label.html?label=${encodeURIComponent(trimmedLabel)}`;
+                    });
+
                     labelsList.appendChild(labelSpan);
                 });
 

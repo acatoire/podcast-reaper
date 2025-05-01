@@ -1,6 +1,10 @@
 {
   "name": "Plutôt Caustique ",
   "description": "Podcast de conversation de Clément et Urbain basé sur 3 piliers : des sources fiables, une régularité exemplaire et une attitude franco de port. Hébergé par Acast.",
+  "authors": "Clément et Urbain",
+  "link1": "https://podcasts.apple.com/fr/podcast/plut%C3%B4t-caustique/id1384316631",
+  "link2": "https://feeds.acast.com/public/shows/plutot-caustique",
+  "link3": "https://open.spotify.com/show/3Lxbi2pKd0lJTlFUHyjFJV",
   "Saisons": [
     {
       "name": "Saison 5",

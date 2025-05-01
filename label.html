@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Episodes by Label</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="back-link">← Back to Podcasts</a>
+        <h1 id="label-title">Episodes by Label</h1>
+    </header>
+
+    <main>
+        <div class="episodes-by-label">
+            <div id="episodes-list" class="episodes-list">
+                <p>Loading episodes...</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get label from URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const label = urlParams.get('label');
+
+            if (!label) {
+                document.getElementById('episodes-list').innerHTML = '<p>No label specified. Please select a label from an episode.</p>';
+                return;
+            }
+
+            // Update the page title with the label
+            document.getElementById('label-title').textContent = `Episodes with label: ${label}`;
+
+            // Fetch podcast data
+            fetch('podcasts/plutot_caustique/episodes.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Find all episodes with the specified label
+                    const matchingEpisodes = [];
+                    
+                    data.Saisons.forEach(season => {
+                        season.episodes.forEach(episode => {
+                            if (episode.labels && episode.labels.split(',').map(l => l.trim()).includes(label)) {
+                                // Add season name to the episode for display
+                                episode.seasonName = season.name;
+                                matchingEpisodes.push(episode);
+                            }
+                        });
+                    });
+
+                    // Sort episodes by date (newest first)
+                    matchingEpisodes.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+                    // Display the matching episodes
+                    displayEpisodes(matchingEpisodes, label);
+                })
+                .catch(error => {
+                    console.error('Error loading podcast data:', error);
+                    document.getElementById('episodes-list').innerHTML = '<p>Error loading podcast data. Please try again later.</p>';
+                });
+        });
+
+        function displayEpisodes(episodes, label) {
+            const episodesListElement = document.getElementById('episodes-list');
+            
+            if (episodes.length === 0) {
+                episodesListElement.innerHTML = `<p>No episodes found with the label "${label}".</p>`;
+                return;
+            }
+
+            // Clear the loading message
+            episodesListElement.innerHTML = '';
+
+            // Create a heading
+            const heading = document.createElement('h2');
+            heading.textContent = `Found ${episodes.length} episode${episodes.length !== 1 ? 's' : ''} with label "${label}"`;
+            episodesListElement.appendChild(heading);
+
+            // Create the episodes list
+            episodes.forEach(episode => {
+                const episodeItem = document.createElement('div');
+                episodeItem.className = 'episode-item';
+                
+                const episodeTitle = document.createElement('div');
+                episodeTitle.className = 'episode-title';
+                episodeTitle.textContent = episode.episode;
+                
+                const episodeInfo = document.createElement('div');
+                episodeInfo.className = 'episode-info';
+                episodeInfo.innerHTML = `
+                    <span class="episode-season">${episode.seasonName}</span> | 
+                    <span class="episode-date">${formatDate(episode.date)}</span>
+                `;
+                
+                episodeItem.appendChild(episodeTitle);
+                episodeItem.appendChild(episodeInfo);
+                
+                // Add click event to navigate to the podcast page with this episode
+                episodeItem.addEventListener('click', function() {
+                    window.location.href = `podcast.html?id=plutot_caustique&episode=${episode.cleanTitle}`;
+                });
+                
+                episodesListElement.appendChild(episodeItem);
+            });
+        }
+
+        function formatDate(dateString) {
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            return new Date(dateString).toLocaleDateString(undefined, options);
+        }
+    </script>
+</body>
+</html>

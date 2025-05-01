@@ -205,9 +205,10 @@ h1 {
 
 .labels-list {
     display: flex;
-    flex-wrap: wrap;
     gap: 8px;
     margin-top: 8px;
+    overflow-x: auto;
+    white-space: nowrap;
 }
 
 .label {
@@ -218,6 +219,33 @@ h1 {
     border-radius: 15px;
     font-size: 0.9rem;
     border: 1px solid #d0e0f7;
+}
+
+/* Label page styles */
+.episodes-by-label {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.episodes-by-label .episodes-list {
+    flex: none;
+    width: 100%;
+}
+
+.episodes-by-label h2 {
+    margin-bottom: 20px;
+    color: #4a6fa5;
+}
+
+.episode-info {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 5px;
+}
+
+.episode-season {
+    font-weight: bold;
+    color: #4a6fa5;
 }
 
 /* Responsive styles */
@@ -237,6 +265,10 @@ h1 {
     .episodes-list {
         display: none;
         max-height: none;
+    }
+
+    .episodes-by-label .episodes-list {
+        display: block;
     }
 
     .episodes-list.show {
