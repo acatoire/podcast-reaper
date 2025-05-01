@@ -236,6 +236,130 @@
             audioPlayer.controls = true;
             audioPlayer.src = episode.url;
             contentContainer.appendChild(audioPlayer);
+
+            // Try to fetch and display the TSV file content
+            if (episode.date) {
+                const dateStr = episode.date; // Format: YYYY-MM-DD
+
+                // Create a container for the TSV content
+                const tsvContainer = document.createElement('div');
+                tsvContainer.className = 'tsv-container';
+
+                // Add a loading message
+                tsvContainer.innerHTML = '<p>Loading transcript...</p>';
+                contentContainer.appendChild(tsvContainer);
+
+                // Function to fetch TSV content
+                const fetchTsvContent = (path) => {
+                    return fetch(path)
+                        .then(response => {
+                            if (!response.ok) {
+                                throw new Error('TSV file not found at ' + path);
+                            }
+                            return response.text();
+                        });
+                };
+
+                // Try different possible folder patterns
+                // 1. Date + cleanTitle (most likely pattern based on observed folder structure)
+                const pattern1 = `${dateStr}-${episode.cleanTitle}`;
+                // 2. Date + fileName without extension
+                const fileNameWithoutExt = episode.fileName ? episode.fileName.replace(/\.mp3$/, '') : '';
+                const pattern2 = fileNameWithoutExt ? `${fileNameWithoutExt}` : '';
+                // 3. Just the date (simplest case)
+                const pattern3 = dateStr;
+
+                // Create an array of paths to try
+                const pathsToTry = [
+                    `podcasts/plutot_caustique/turbo/${pattern1}/${dateStr}.tsv`,
+                    `podcasts/plutot_caustique/turbo/${pattern2}/${dateStr}.tsv`,
+                    `podcasts/plutot_caustique/turbo/${pattern3}/${dateStr}.tsv`
+                ].filter(path => path.includes('//') === false); // Filter out invalid paths
+
+                // Try each path in sequence until one works
+                let currentPathIndex = 0;
+
+                const tryNextPath = () => {
+                    if (currentPathIndex >= pathsToTry.length) {
+                        throw new Error('Could not find TSV file in any of the expected locations');
+                    }
+
+                    const currentPath = pathsToTry[currentPathIndex];
+                    currentPathIndex++;
+
+                    return fetchTsvContent(currentPath)
+                        .catch(error => {
+                            console.warn(`Attempt ${currentPathIndex} failed:`, error);
+                            return tryNextPath(); // Try the next path
+                        });
+                };
+
+                // Start trying paths
+                tryNextPath()
+                    .then(tsvContent => {
+                        // Parse the TSV content
+                        const lines = tsvContent.split('\n');
+                        const tsvData = lines.map(line => line.split('\t'));
+
+                        // Create a table to display the TSV content
+                        const table = document.createElement('table');
+                        table.className = 'tsv-table';
+
+                        // Add header row
+                        const headerRow = document.createElement('tr');
+                        if (tsvData[0] && tsvData[0].length >= 3) {
+                            const startHeader = document.createElement('th');
+                            startHeader.textContent = tsvData[0][0];
+                            headerRow.appendChild(startHeader);
+
+                            const endHeader = document.createElement('th');
+                            endHeader.textContent = tsvData[0][1];
+                            headerRow.appendChild(endHeader);
+
+                            const textHeader = document.createElement('th');
+                            textHeader.textContent = tsvData[0][2];
+                            headerRow.appendChild(textHeader);
+                        }
+                        table.appendChild(headerRow);
+
+                        // Add data rows (skip header row)
+                        for (let i = 1; i < tsvData.length; i++) {
+                            if (tsvData[i].length >= 3) {
+                                const row = document.createElement('tr');
+
+                                const startCell = document.createElement('td');
+                                startCell.textContent = formatTime(tsvData[i][0]);
+                                row.appendChild(startCell);
+
+                                const endCell = document.createElement('td');
+                                endCell.textContent = formatTime(tsvData[i][1]);
+                                row.appendChild(endCell);
+
+                                const textCell = document.createElement('td');
+                                textCell.textContent = tsvData[i][2];
+                                row.appendChild(textCell);
+
+                                table.appendChild(row);
+                            }
+                        }
+
+                        // Clear the loading message and add the table
+                        tsvContainer.innerHTML = '<h3>Transcript</h3>';
+                        tsvContainer.appendChild(table);
+                    })
+                    .catch(error => {
+                        console.error('Error loading TSV file:', error);
+                        tsvContainer.innerHTML = '<p>Transcript not available for this episode.</p>';
+                    });
+            }
+        }
+
+        // Helper function to format time from milliseconds to MM:SS
+        function formatTime(milliseconds) {
+            const totalSeconds = Math.floor(milliseconds / 1000);
+            const minutes = Math.floor(totalSeconds / 60);
+            const seconds = totalSeconds % 60;
+            return `${minutes}:${seconds.toString().padStart(2, '0')}`;
         }
 
         function formatDate(dateString) {
