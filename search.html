@@ -9,7 +9,7 @@
 <body>
     <header>
         <a href="javascript:history.back()" class="back-link">← Back</a>
-        <h1 id="search-title">Search Results</h1>
+        <!-- h1 id="search-title" is now replaced by the search-summary section -->
     </header>
 
     <main>
@@ -32,8 +32,7 @@
                 return;
             }
 
-            // Update the page title with the search query
-            document.getElementById('search-title').textContent = `Search Results for: "${query}"`;
+            // The search title is now displayed in the summary section
 
             // Fetch podcast data
             fetch(`podcasts/${podcastId}/episodes.json`)
@@ -164,21 +163,39 @@
             // Clear the loading message
             resultsContainer.innerHTML = '';
 
-            // Create a heading and global toggle button
-            const headingContainer = document.createElement('div');
-            headingContainer.className = 'results-heading';
+            // Calculate total occurrences
+            const totalOccurrences = results.reduce((sum, result) => sum + result.occurrences, 0);
 
-            const heading = document.createElement('h2');
-            heading.textContent = `Found matches in ${results.length} episode${results.length !== 1 ? 's' : ''}`;
+            // Create a summary section
+            const summarySection = document.createElement('div');
+            summarySection.className = 'search-summary';
 
+            summarySection.innerHTML = `
+                <h2>Search Results for</h2>
+                <h2>"${query}"</h2>
+
+                <div class="search-stats">
+                    <p>Found</p>
+                    <p class="stat-number">${totalOccurrences} Times</p>
+                    <p>In</p>
+                    <p class="stat-number">${results.length} episode${results.length !== 1 ? 's' : ''}</p>
+                </div>
+            `;
+
+            // Create toggle all button
             const toggleAllButton = document.createElement('button');
             toggleAllButton.className = 'toggle-all-button';
             toggleAllButton.textContent = 'Expand All';
             toggleAllButton.addEventListener('click', toggleAllMatches);
 
-            headingContainer.appendChild(heading);
-            headingContainer.appendChild(toggleAllButton);
-            resultsContainer.appendChild(headingContainer);
+            summarySection.appendChild(toggleAllButton);
+            resultsContainer.appendChild(summarySection);
+
+            // Add a heading for the episode list
+            const episodesHeading = document.createElement('h3');
+            episodesHeading.className = 'episodes-heading';
+            episodesHeading.textContent = 'Episodes';
+            resultsContainer.appendChild(episodesHeading);
 
             // Sort results by number of occurrences (most matches first)
             results.sort((a, b) => b.occurrences - a.occurrences);

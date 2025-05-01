@@ -243,6 +243,50 @@ h1 {
     padding: 20px;
 }
 
+.search-summary {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.search-summary h2 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+/* .search-query class is no longer used as the query is now part of the h2 */
+
+.search-stats {
+    margin: 20px 0;
+}
+
+.search-stats p {
+    margin: 5px 0;
+}
+
+.stat-number {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4a6fa5;
+}
+
+.search-summary .toggle-all-button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+.episodes-heading {
+    font-size: 1.3rem;
+    color: #4a6fa5;
+    margin: 20px 0;
+    padding-top: 10px;
+}
+
 .results-heading {
     display: flex;
     justify-content: space-between;
@@ -576,5 +620,39 @@ h1 {
 
     .match-text {
         display: block;
+    }
+
+    /* Responsive styles for search summary */
+    .search-summary {
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+
+    .search-summary h2 {
+        font-size: 1.8rem;
+        margin-bottom: 15px;
+    }
+
+    /* .search-query class is no longer used as the query is now part of the h2 */
+
+    .search-stats {
+        margin: 15px 0;
+    }
+
+    .stat-number {
+        font-size: 1.3rem;
+    }
+
+    .search-summary .toggle-all-button {
+        margin-top: 10px;
+        padding: 8px 15px;
+        font-size: 0.9rem;
+        width: 100%;
+    }
+
+    .episodes-heading {
+        font-size: 1.1rem;
+        margin: 15px 0;
+        padding-top: 5px;
     }
 }
