@@ -1,0 +1,1272 @@
+1
+00:00:00,000 --> 00:00:07,000
+Allez, zémerdé !
+
+2
+00:00:07,000 --> 00:00:18,000
+Alors, qu'est-ce qui se passe ?
+
+3
+00:00:19,340 --> 00:00:20,460
+Eh bien, je crois que c'est bon.
+
+4
+00:00:22,420 --> 00:00:23,000
+Ah !
+
+5
+00:00:23,000 --> 00:00:25,380
+Allô ?
+
+6
+00:00:25,380 --> 00:00:28,000
+Ah, vous entendez pas ?
+
+7
+00:00:28,000 --> 00:00:29,500
+Vous m'entendez pas ?
+
+8
+00:00:29,500 --> 00:00:34,380
+Non, toujours pas ?
+
+9
+00:00:34,380 --> 00:00:35,760
+Si, si, ça va, ça va.
+
+10
+00:00:36,700 --> 00:00:38,180
+C'est peut-être votre voix, finalement.
+
+11
+00:00:38,980 --> 00:00:41,380
+Dis donc, la technique, en ce moment, c'est pas ça.
+
+12
+00:00:41,480 --> 00:00:44,280
+On m'a dit qu'il y avait 15 secondes de silence sur le dernier épisode.
+
+13
+00:00:45,060 --> 00:00:46,500
+Avant ou après ?
+
+14
+00:00:46,500 --> 00:00:47,040
+Je sais pas.
+
+15
+00:00:47,240 --> 00:00:50,540
+J'ai dit que je m'en foutais et qu'on ne ferait rien pour réparer ce problème.
+
+16
+00:00:50,920 --> 00:00:51,500
+Ouais, ouais, c'est sûr.
+
+17
+00:00:51,580 --> 00:00:54,500
+Mais 15 secondes de silence qui restent à la fin, peut-être ?
+
+18
+00:00:55,040 --> 00:00:57,560
+Si c'est ça, c'est pas très très grave, mais...
+
+19
+00:00:57,560 --> 00:00:58,740
+Ça peut pas vraiment être au milieu.
+
+20
+00:00:58,740 --> 00:01:00,800
+Et en même temps, on s'en branle, franchement.
+
+21
+00:01:00,960 --> 00:01:01,380
+C'est ça.
+
+22
+00:01:01,600 --> 00:01:03,620
+Qui réécoute, de toute façon, les épisodes ?
+
+23
+00:01:03,620 --> 00:01:05,000
+Mais qui écoute ?
+
+24
+00:01:05,000 --> 00:01:06,740
+Qui écoute, tout court ?
+
+25
+00:01:07,360 --> 00:01:10,600
+C'est vrai que c'est la première des questions à se poser.
+
+26
+00:01:11,200 --> 00:01:12,740
+Bah ouais, déjà, déjà...
+
+27
+00:01:13,340 --> 00:01:13,680
+Oh là là !
+
+28
+00:01:13,680 --> 00:01:15,700
+Vous avez une petite voix, vous, aujourd'hui ?
+
+29
+00:01:15,700 --> 00:01:16,880
+Moi, je suis à bout, je suis à bout.
+
+30
+00:01:17,300 --> 00:01:18,520
+Bah alors ?
+
+31
+00:01:18,520 --> 00:01:19,500
+Non, mais j'ai fait du...
+
+32
+00:01:19,500 --> 00:01:23,480
+J'ai voulu apprendre le montage et c'est l'Everest de ma vie, quoi.
+
+33
+00:01:24,400 --> 00:01:26,260
+Oh non, le montage vidéo ?
+
+34
+00:01:26,260 --> 00:01:26,520
+Ouais.
+
+35
+00:01:27,140 --> 00:01:28,440
+Oh non, faut pas faire ça, mon vieux.
+
+36
+00:01:28,840 --> 00:01:32,700
+Ah ouais, déjà, le montage audio, c'était compliqué, puis j'y suis jamais vraiment arrivé, mais là...
+
+37
+00:01:33,280 --> 00:01:40,000
+Non, mais attendez, audio, vous avez quand même quelques skills, mais vous fréquentez quand même au quotidien des monteurs ?
+
+38
+00:01:40,000 --> 00:01:41,500
+Vous savez bien comment ça rend ?
+
+39
+00:01:41,500 --> 00:01:42,680
+Bah qui sont des...
+
+40
+00:01:42,680 --> 00:01:48,260
+Oui, oui, je les vois, bah justement, j'allais dire qu'ils sont des cons, qui n'ont pas été foutus de mêlée, et comme d'hab, j'ai dû tout faire tout seul.
+
+41
+00:01:49,300 --> 00:01:51,680
+Et alors, qu'est-ce que, du coup, vous avez réussi votre projet ?
+
+42
+00:01:51,680 --> 00:01:52,940
+Qu'est-ce que...
+
+43
+00:01:52,940 --> 00:01:59,500
+Bah ça devait être simplement monter quelque chose sur un téléphone, et puis c'est devenu un logiciel, et puis c'est devenu...
+
+44
+00:01:59,500 --> 00:02:03,160
+J'ai voulu faire une vidéo test, et puis ça fait trois heures que je suis dessus, voilà.
+
+45
+00:02:03,340 --> 00:02:05,360
+Bon, au moins j'ai travaillé cet après-m', bon, voilà.
+
+46
+00:02:05,360 --> 00:02:11,900
+C'est sûr qu'avoir des petites skills de montage dans votre domaine, ça aiderait, quoi.
+
+47
+00:02:12,100 --> 00:02:14,740
+Ah ouais, bah ouais, mais ça m'a vidé, quoi.
+
+48
+00:02:15,000 --> 00:02:17,900
+J'ai mal à l'œil droit, il n'y a rien qui voit, quoi.
+
+49
+00:02:19,980 --> 00:02:24,980
+Et peut-être une pause, dans ces cas-là, un peu de sport ?
+
+50
+00:02:24,980 --> 00:02:26,700
+Ouais, ouais, mais justement, j'ai pas réussi en fait.
+
+51
+00:02:26,780 --> 00:02:29,460
+Manger, manger, manger de la glace, manger des trucs un peu...
+
+52
+00:02:29,460 --> 00:02:32,840
+Non, bah ouais, bah là j'ai pris un petit verre de vin pour la fin de journée.
+
+53
+00:02:32,840 --> 00:02:38,000
+Mais c'est mon problème, c'est que quand j'arrive pas à faire marcher un truc, je deviens obsessionnel, voilà, ça me ronge.
+
+54
+00:02:38,140 --> 00:02:40,760
+Je comprends, je comprends, c'est une histoire d'honneur, quoi.
+
+55
+00:02:41,020 --> 00:02:44,060
+C'est ça, c'est vraiment tout est dans l'honneur, quoi.
+
+56
+00:02:44,580 --> 00:02:47,420
+C'est pour ça vraiment qu'il faut pas se lancer dans des défis comme ça.
+
+57
+00:02:47,880 --> 00:02:51,520
+Oui, non, mais je sais pas pourquoi, je sais pas pourquoi.
+
+58
+00:02:51,800 --> 00:02:54,840
+Quel intérêt, de toute façon, à tous crever d'un virus de merde ?
+
+59
+00:02:54,840 --> 00:03:02,900
+Ah oui, ça c'est plutôt les dernières news, ça reviendra tous les ans, et a priori ça crèvera pas trop trop l'été.
+
+60
+00:03:03,120 --> 00:03:04,860
+Moi c'est ce que j'ai retenu de ma revue de presse.
+
+61
+00:03:04,960 --> 00:03:06,840
+Ah bon ? Qu'est-ce que vous avez entendu ?
+
+62
+00:03:07,580 --> 00:03:09,840
+Non, bah qu'on se dirigeait quand même...
+
+63
+00:03:10,920 --> 00:03:14,540
+Il y a de fortes chances pour qu'on se dirige quand même sur quelque chose qui revient comme la grippe.
+
+64
+00:03:14,540 --> 00:03:19,060
+Attends, mais c'est contradictoire votre truc.
+
+65
+00:03:19,220 --> 00:03:21,860
+Soit ça revient comme la grippe, mais du coup c'est de la merde en été.
+
+66
+00:03:22,000 --> 00:03:23,260
+Qui revient fort, qui revient fort.
+
+67
+00:03:23,460 --> 00:03:26,300
+Parce qu'en gros, il disait, pour le tuer, il faudrait 56 degrés.
+
+68
+00:03:27,540 --> 00:03:27,820
+Ah oui.
+
+69
+00:03:27,880 --> 00:03:33,520
+Donc qu'en gros, ça pourrait baisser un peu au beau jour, mais pas autant que prévu.
+
+70
+00:03:33,540 --> 00:03:36,940
+Ah, le réchauffement climatique, malheureusement, ne va pas aussi vite que prévu.
+
+71
+00:03:37,580 --> 00:03:38,580
+Pas fait son taf.
+
+72
+00:03:38,580 --> 00:03:44,120
+C'est pour ça que je vous enjoins tous à reprendre un SUV dès le 11 mai.
+
+73
+00:03:44,120 --> 00:03:44,640
+Bien sûr.
+
+74
+00:03:44,840 --> 00:03:47,520
+Faire tourner devant chez vous, on fait tourner devant chez vous.
+
+75
+00:03:47,540 --> 00:03:49,480
+On roule tous en hummer plutôt caustique.
+
+76
+00:03:49,600 --> 00:03:50,460
+On va lancer notre...
+
+77
+00:03:50,460 --> 00:03:54,420
+Le radiateur, monté à fond, même l'été, c'est d'être ouvert.
+
+78
+00:03:54,580 --> 00:03:58,260
+Parce qu'on s'était dit, oui, on va faire des mugs, mais c'est pas très plutôt caustique.
+
+79
+00:03:58,400 --> 00:04:01,080
+Des hummers, ce serait plus...
+
+80
+00:04:01,080 --> 00:04:02,500
+Ah, c'est un peu les deux qui nous restaient.
+
+81
+00:04:02,580 --> 00:04:04,120
+On hésitait entre hummer ou mug.
+
+82
+00:04:04,460 --> 00:04:04,800
+Oui, oui.
+
+83
+00:04:04,800 --> 00:04:07,740
+Et puis en plus, on a peu d'auditeurs, mais c'est des gens blindés.
+
+84
+00:04:07,860 --> 00:04:11,820
+Je veux dire, tout le monde est prêt à mettre 350 000 euros dans un hummer plutôt caustique, je pense.
+
+85
+00:04:12,740 --> 00:04:13,560
+Oui, ben attendez.
+
+86
+00:04:13,560 --> 00:04:14,280
+Et il y a quand même...
+
+87
+00:04:14,280 --> 00:04:15,260
+On ne vend pas de la merde.
+
+88
+00:04:15,360 --> 00:04:20,080
+C'est-à-dire qu'il y aurait quand même préchargé dans la voiture l'intégralité des épisodes.
+
+89
+00:04:20,920 --> 00:04:22,040
+Ça me paraît évident.
+
+90
+00:04:22,100 --> 00:04:22,880
+Ça me paraît à la base.
+
+91
+00:04:23,020 --> 00:04:26,500
+On a installé un François Cluzet sur ta banquette.
+
+92
+00:04:27,200 --> 00:04:27,560
+Alors là...
+
+93
+00:04:28,280 --> 00:04:29,920
+Le klaxon, c'est François Cluzet.
+
+94
+00:04:31,000 --> 00:04:31,480
+François Cluzet.
+
+95
+00:04:31,480 --> 00:04:32,340
+Merde, merde.
+
+96
+00:04:32,420 --> 00:04:33,420
+Il y a plusieurs, ta merde.
+
+97
+00:04:33,460 --> 00:04:34,460
+Mais qu'est-ce que tu fais ?
+
+98
+00:04:34,460 --> 00:04:35,920
+Putain, bouge ton caisse.
+
+99
+00:04:35,920 --> 00:04:41,300
+Et oui, oui, tu peux...
+
+100
+00:04:41,300 --> 00:04:42,640
+Tu as aussi une bande sonore...
+
+101
+00:04:43,840 --> 00:04:47,640
+Enfin, tu peux être en odorama dans le sanctuaire d'Antéros.
+
+102
+00:04:47,640 --> 00:04:55,640
+En fait, on a agrafé des steaks hachés sur l'intégralité de chaque voiture.
+
+103
+00:04:55,820 --> 00:04:56,180
+C'est ça.
+
+104
+00:04:56,180 --> 00:04:59,540
+Et puis, ça permet une sorte de petite Antéros.
+
+105
+00:04:59,880 --> 00:05:00,380
+Oui, oui, voilà.
+
+106
+00:05:00,460 --> 00:05:02,200
+Bien sûr, on a fait ça sombrement.
+
+107
+00:05:02,400 --> 00:05:03,760
+On ne connaît pas exactement la recette.
+
+108
+00:05:03,920 --> 00:05:06,260
+Un peu de merde, un peu de sperme, un peu de viande hachée.
+
+109
+00:05:06,440 --> 00:05:07,760
+Bon, on n'est pas...
+
+110
+00:05:07,760 --> 00:05:08,580
+C'est de l'artisanat.
+
+111
+00:05:08,800 --> 00:05:10,980
+On n'est pas dans le secret d'Antéros.
+
+112
+00:05:11,240 --> 00:05:11,760
+Ah non, non, non.
+
+113
+00:05:11,820 --> 00:05:13,080
+On ne peut pas se permettre de...
+
+114
+00:05:13,080 --> 00:05:17,140
+Voilà, c'est juste qu'au cas où vous avez besoin d'un petit Sancturos, un petit Sancturitos, quoi.
+
+115
+00:05:17,760 --> 00:05:18,040
+Bon, non.
+
+116
+00:05:18,380 --> 00:05:19,460
+C'est de la dépanne.
+
+117
+00:05:19,700 --> 00:05:21,120
+C'est un sanctuaire de dépanne.
+
+118
+00:05:21,120 --> 00:05:21,860
+Je te vois bien.
+
+119
+00:05:21,860 --> 00:05:26,380
+à voir Christophe Siebert à la maison quelques jours.
+
+120
+00:05:26,640 --> 00:05:27,560
+Bon, je t'ai fait un sanctuaire.
+
+121
+00:05:27,880 --> 00:05:28,860
+Je fais comme j'ai pu.
+
+122
+00:05:29,540 --> 00:05:30,820
+Écoute, je t'ai mis un peu de sperme.
+
+123
+00:05:31,900 --> 00:05:34,140
+Je t'ai mis le clic-clac au milieu du sanctuaire.
+
+124
+00:05:34,480 --> 00:05:34,740
+Voilà.
+
+125
+00:05:35,560 --> 00:05:36,340
+Tu me dis, hein.
+
+126
+00:05:36,820 --> 00:05:40,360
+Écoute, j'ai chié sur tes serviettes pour que tu sois à la maison.
+
+127
+00:05:40,680 --> 00:05:42,300
+Tu me dis, si je peux faire quoi que ce soit.
+
+128
+00:05:42,460 --> 00:05:44,620
+Il y a un peu de lait maternel de maman.
+
+129
+00:05:45,660 --> 00:05:48,960
+Même le voisin s'est mis un peu de cerumen.
+
+130
+00:05:48,960 --> 00:05:50,300
+Enfin, si ça ne te va pas, tu me dis.
+
+131
+00:05:50,300 --> 00:05:53,480
+Le matin, tu es plutôt thé, café, bol de pu.
+
+132
+00:05:53,660 --> 00:05:55,260
+Qu'est-ce que tu me dis ?
+
+133
+00:05:55,260 --> 00:05:55,960
+Il y a tout ce qu'il faut.
+
+134
+00:05:56,080 --> 00:05:57,200
+J'ai du pu, j'ai de la chiasse.
+
+135
+00:05:57,260 --> 00:05:57,900
+J'ai acheté plein de trucs.
+
+136
+00:05:58,000 --> 00:05:59,520
+De toute façon, ça servira quand tu partiras.
+
+137
+00:06:00,080 --> 00:06:00,640
+Donc...
+
+138
+00:06:00,640 --> 00:06:04,120
+Non, non, mais ça ira.
+
+139
+00:06:04,160 --> 00:06:04,940
+Je ne veux pas le savoir.
+
+140
+00:06:05,060 --> 00:06:06,220
+S'il y a des restes, tu les emportes.
+
+141
+00:06:06,540 --> 00:06:08,620
+Je ne resterai pas avec une mezzanine de foutre.
+
+142
+00:06:08,740 --> 00:06:09,380
+Tu prends ce qu'il faut.
+
+143
+00:06:09,460 --> 00:06:09,720
+Ah non.
+
+144
+00:06:10,320 --> 00:06:11,600
+Vraiment, tu emportes tout, Christophe.
+
+145
+00:06:11,620 --> 00:06:12,860
+Non, non, mais ça fait une semaine.
+
+146
+00:06:12,860 --> 00:06:13,560
+Je ne veux pas de restes.
+
+147
+00:06:13,560 --> 00:06:18,740
+Non, non, ça fait une semaine qu'avec Nadège, on boit du foutre.
+
+148
+00:06:18,740 --> 00:06:19,960
+Là, c'est très bon, c'est excellent.
+
+149
+00:06:20,260 --> 00:06:22,780
+Mais à un moment, tu le prends, tu le gardes.
+
+150
+00:06:24,780 --> 00:06:27,920
+Tu imagines les cadeaux qu'il a kiffés quand il arrive chez des invités.
+
+151
+00:06:28,440 --> 00:06:30,160
+Putain, d'ailleurs, ça fait trop longtemps.
+
+152
+00:06:30,440 --> 00:06:32,820
+Allez, je sors mon e-book.
+
+153
+00:06:32,940 --> 00:06:33,400
+On va s'en lire.
+
+154
+00:06:33,720 --> 00:06:34,420
+Allez, j'en ai marre.
+
+155
+00:06:36,960 --> 00:06:37,500
+Ça suffit.
+
+156
+00:06:37,840 --> 00:06:38,740
+Ça va te faire du bien.
+
+157
+00:06:38,860 --> 00:06:40,220
+Mais oui, voilà, c'est ça le truc.
+
+158
+00:06:40,220 --> 00:06:42,720
+J'avais besoin d'un peu d'Antéros dans ma vie.
+
+159
+00:06:43,900 --> 00:06:46,420
+Alors, previously dans Antéros.
+
+160
+00:06:46,460 --> 00:06:47,280
+Ça faisait longtemps.
+
+161
+00:06:47,280 --> 00:06:50,140
+Qu'est-ce qui se passait ?
+
+162
+00:06:50,140 --> 00:06:50,660
+Oh là là.
+
+163
+00:06:51,240 --> 00:06:51,700
+Je ne sais pas.
+
+164
+00:06:51,720 --> 00:06:55,720
+Dans mon souvenir, on était sur quelque chose où ça n'allait pas trop.
+
+165
+00:06:55,900 --> 00:06:56,900
+Oui, on avait abandonné.
+
+166
+00:06:58,060 --> 00:07:00,560
+Non, mais lui, lui n'allait pas bien, notre narrateur.
+
+167
+00:07:01,280 --> 00:07:04,640
+Tu sais, c'était beaucoup de rêves, beaucoup de fantasmes, mais il ne tuait plus.
+
+168
+00:07:04,840 --> 00:07:05,960
+Il n'était pas au top.
+
+169
+00:07:06,380 --> 00:07:07,520
+Oui, il n'était pas très bien.
+
+170
+00:07:09,660 --> 00:07:10,980
+Bon, vas-y, j'essaye de deviner la suite.
+
+171
+00:07:10,980 --> 00:07:11,780
+C'est une jeu de préférence.
+
+172
+00:07:11,780 --> 00:07:14,300
+Oh là là, j'avais deux...
+
+173
+00:07:14,300 --> 00:07:17,540
+Je n'étais pas au même endroit sur mon Kindle que sur mon...
+
+174
+00:07:17,540 --> 00:07:18,800
+Vas-y, lance-toi, on s'en fout.
+
+175
+00:07:18,980 --> 00:07:19,080
+Allez.
+
+176
+00:07:19,700 --> 00:07:20,360
+Allez, allez, allez.
+
+177
+00:07:21,600 --> 00:07:23,500
+Oh, j'ai vu le mot fistule, ça doit être bon.
+
+178
+00:07:25,680 --> 00:07:27,280
+Je sais déjà le mot d'après, vas-y.
+
+179
+00:07:28,180 --> 00:07:30,560
+Alors là, je pense que...
+
+180
+00:07:30,560 --> 00:07:31,960
+Bon, j'ai sauté pas mal de chapitres.
+
+181
+00:07:31,960 --> 00:07:36,440
+Je crois qu'il fait le compte de cinq personnes qu'il aurait buté.
+
+182
+00:07:36,520 --> 00:07:37,220
+On sera au quatrième.
+
+183
+00:07:37,480 --> 00:07:37,960
+Bon, allez.
+
+184
+00:07:38,000 --> 00:07:38,240
+D'accord.
+
+185
+00:07:38,660 --> 00:07:41,440
+Le quatrième, c'était Nedzak, la défaite.
+
+186
+00:07:41,640 --> 00:07:43,840
+Encore une vieille femme, une clocharde qui se camait.
+
+187
+00:07:44,380 --> 00:07:45,960
+Elle se shootait avec un mélange de...
+
+188
+00:07:47,600 --> 00:07:48,960
+De...
+
+189
+00:07:48,960 --> 00:07:49,960
+De...
+
+190
+00:07:49,960 --> 00:07:50,400
+Crac.
+
+191
+00:07:51,020 --> 00:07:51,960
+Sperme et de...
+
+192
+00:07:55,520 --> 00:07:56,720
+Bah là, du coup, je suis perdu.
+
+193
+00:07:57,260 --> 00:07:57,700
+Ah bah oui.
+
+194
+00:07:57,700 --> 00:07:58,120
+De pisse.
+
+195
+00:07:59,960 --> 00:08:00,560
+De pisse.
+
+196
+00:08:00,840 --> 00:08:01,160
+De pisse.
+
+197
+00:08:01,960 --> 00:08:04,100
+Oh non.
+
+198
+00:08:05,180 --> 00:08:08,480
+Que Malcout me prélevait avec sa langue et lui injectait ensuite.
+
+199
+00:08:08,640 --> 00:08:08,860
+D'accord.
+
+200
+00:08:09,400 --> 00:08:15,360
+Quelquefois, Nedzak usait directement de ma queue ou de mes artères qu'elle arrachait comme des tuyaux et se plantait...
+
+201
+00:08:15,360 --> 00:08:16,080
+Ah, d'accord.
+
+202
+00:08:16,180 --> 00:08:19,100
+Attends, mais c'est des démons ou des petits personnages de son...
+
+203
+00:08:19,100 --> 00:08:20,020
+Je pense, je pense.
+
+204
+00:08:20,140 --> 00:08:21,640
+Le fantasme, c'est pas une vraie clocharde.
+
+205
+00:08:21,800 --> 00:08:22,560
+Non, ok, d'accord, vas-y.
+
+206
+00:08:22,820 --> 00:08:24,360
+De seringue dans ses pores dilatés.
+
+207
+00:08:24,800 --> 00:08:29,420
+Nedzak jouissait de voir les êtres sans défense souffrir et jouissait de voir humilier les faibles.
+
+208
+00:08:29,420 --> 00:08:32,500
+Elle était aux côtés de Yezod pour m'apprendre la torture.
+
+209
+00:08:33,000 --> 00:08:34,280
+Ah, il s'est fait des amis, hein.
+
+210
+00:08:35,800 --> 00:08:36,880
+C'est un club.
+
+211
+00:08:36,880 --> 00:08:40,300
+C'est Yezod.
+
+212
+00:08:40,300 --> 00:08:41,040
+C'est Yezod et Nedzak.
+
+213
+00:08:41,540 --> 00:08:44,720
+Il s'injecte des spermes.
+
+214
+00:08:45,680 --> 00:08:49,060
+C'est un club med, mais c'est pas des magalows, c'est des sautures.
+
+215
+00:08:49,760 --> 00:08:52,780
+Le cinquième, c'était Tiferet, la laideur.
+
+216
+00:08:53,120 --> 00:08:59,240
+Il prenait l'apparence d'un fœtus avorté pour raison médicale et présentant des signes évidents de trisomie.
+
+217
+00:08:59,240 --> 00:09:01,820
+Il ne bougeait.
+
+218
+00:09:02,320 --> 00:09:06,700
+Le détail avorté pour raison médicale.
+
+219
+00:09:07,040 --> 00:09:12,500
+Et présentant des signes évidents, ça me paraît évident, d'autres trisomées.
+
+220
+00:09:12,880 --> 00:09:15,240
+Il ne bougeait ni ne parlait.
+
+221
+00:09:15,620 --> 00:09:19,240
+Il restait là et ses pensées informes se mélangeaient aux miennes.
+
+222
+00:09:19,980 --> 00:09:23,380
+Il n'était ni mort ni vivant, mais dans une constante agonie,
+
+223
+00:09:23,380 --> 00:09:28,700
+baignée d'un fluide poisseux et clair qui ressemblait à du liquide céphalo-rachidien.
+
+224
+00:09:29,140 --> 00:09:30,100
+Rachidien, oui.
+
+225
+00:09:31,000 --> 00:09:34,100
+Toujours par souci de précision médicale.
+
+226
+00:09:35,760 --> 00:09:38,640
+Tiferet, c'est des noms de démons, donc c'est Tiferet.
+
+227
+00:09:38,700 --> 00:09:39,600
+On dirait.
+
+228
+00:09:40,540 --> 00:09:43,740
+Tiferet était le maître des lieux effrayants, de la répulsion et des phobies.
+
+229
+00:09:44,140 --> 00:09:46,380
+À travers ses pensées, j'ai pu construire mon sanctuaire.
+
+230
+00:09:46,700 --> 00:09:47,560
+Je ne l'ai jamais touché.
+
+231
+00:09:48,020 --> 00:09:48,900
+Jamais, j'allais prendre.
+
+232
+00:09:49,540 --> 00:09:50,840
+Alors là, jamais.
+
+233
+00:09:50,840 --> 00:09:54,560
+Je ne plongeais pas mes yeux dans les siens.
+
+234
+00:09:54,760 --> 00:09:58,120
+Il haïssait les animaux et les insectes.
+
+235
+00:09:58,320 --> 00:10:00,440
+Et il haïssait aussi mes victimes.
+
+236
+00:10:01,600 --> 00:10:01,800
+Ok.
+
+237
+00:10:02,640 --> 00:10:04,840
+Bon, alors là, c'est un peu, je trouve, un petit peu...
+
+238
+00:10:05,800 --> 00:10:07,120
+Vas-y, avance un peu, si tu veux.
+
+239
+00:10:07,320 --> 00:10:08,440
+Non, je préférais sur des vrais gens.
+
+240
+00:10:08,920 --> 00:10:10,080
+Je zappe un peu.
+
+241
+00:10:11,960 --> 00:10:12,520
+Je zappe un peu.
+
+242
+00:10:12,540 --> 00:10:14,720
+De toute façon, on a saisi la substance du chapitre.
+
+243
+00:10:14,880 --> 00:10:15,060
+Voilà.
+
+244
+00:10:16,380 --> 00:10:17,660
+On est quelques chapitres plus tard.
+
+245
+00:10:17,660 --> 00:10:20,040
+L'ancienne maison de ma mère est devenue mon sanctuaire.
+
+246
+00:10:20,040 --> 00:10:21,200
+Ah, il y a un sanctuaire géant.
+
+247
+00:10:21,620 --> 00:10:24,000
+J'avais 23 ans lorsque j'y suis revenu.
+
+248
+00:10:24,180 --> 00:10:25,080
+C'est-à-dire qu'il est encore jeune.
+
+249
+00:10:25,640 --> 00:10:27,700
+J'ai essayé d'autres lieux, mais aucun ne me convenait.
+
+250
+00:10:27,800 --> 00:10:29,720
+Mes pensées et mes rêves me ramenaient toujours à cet endroit.
+
+251
+00:10:29,880 --> 00:10:31,460
+Quand j'y suis retourné, tout était à l'abandon.
+
+252
+00:10:31,900 --> 00:10:34,100
+Des squatteurs s'en étaient à parer et il a fallu que je les vire.
+
+253
+00:10:34,540 --> 00:10:36,880
+Des artistes, trois types et de nanas, un peu hippies.
+
+254
+00:10:37,260 --> 00:10:38,320
+Des jeunes, des petits morveux.
+
+255
+00:10:38,800 --> 00:10:41,280
+Sûrement des étudiants dans le genre de ceux qui me méprisaient au temps du collège.
+
+256
+00:10:41,920 --> 00:10:43,020
+En même temps, tu violais tout le monde.
+
+257
+00:10:43,020 --> 00:10:47,280
+Ah, je ne peux pas être dans l'équipe de foot ?
+
+258
+00:10:47,280 --> 00:10:48,060
+Je vais tous les violer.
+
+259
+00:10:48,200 --> 00:10:48,540
+D'accord.
+
+260
+00:10:49,240 --> 00:10:50,580
+Ok, sanctuaire.
+
+261
+00:10:50,880 --> 00:10:51,040
+Bon.
+
+262
+00:10:51,880 --> 00:10:54,100
+J'ai fracturé le crâne d'un des mecs et j'ai violé les filles,
+
+263
+00:10:54,180 --> 00:10:57,160
+chacune leur tour en prenant mon temps devant les trois autres qui n'osaient rien faire.
+
+264
+00:10:57,760 --> 00:10:59,020
+Un des mecs, pisser le...
+
+265
+00:10:59,920 --> 00:11:00,280
+Sans.
+
+266
+00:11:00,720 --> 00:11:02,020
+Par le...
+
+267
+00:11:02,780 --> 00:11:02,980
+Q.
+
+268
+00:11:03,460 --> 00:11:03,700
+Front.
+
+269
+00:11:04,140 --> 00:11:04,460
+Bien joué.
+
+270
+00:11:04,460 --> 00:11:06,460
+J'aurais pu tous les...
+
+271
+00:11:07,600 --> 00:11:08,360
+Buter.
+
+272
+00:11:08,660 --> 00:11:08,960
+Tuer.
+
+273
+00:11:09,300 --> 00:11:12,460
+Mais je les ai laissés partir parce que ça n'était rien de plus que des...
+
+274
+00:11:12,980 --> 00:11:13,340
+Clodo.
+
+275
+00:11:13,800 --> 00:11:14,200
+Merde.
+
+276
+00:11:14,380 --> 00:11:15,700
+Déchets, déchets, des merdes.
+
+277
+00:11:15,860 --> 00:11:16,340
+Des merdes.
+
+278
+00:11:16,900 --> 00:11:18,800
+Et que je voulais les traiter comme tels.
+
+279
+00:11:19,260 --> 00:11:20,540
+J'ai fait le tour de la maison.
+
+280
+00:11:20,900 --> 00:11:21,940
+Pas grand chose n'avait changé.
+
+281
+00:11:22,300 --> 00:11:23,540
+Les meubles étaient en mauvais état.
+
+282
+00:11:23,800 --> 00:11:25,220
+Il y avait un lecteur DVD en plus.
+
+283
+00:11:25,720 --> 00:11:26,440
+Sympa les hippies.
+
+284
+00:11:26,960 --> 00:11:29,140
+C'est à partir de cette époque que je me suis mis à regarder des films.
+
+285
+00:11:29,780 --> 00:11:32,360
+Quand j'en cambriolais, il y avait systématiquement des films de cul.
+
+286
+00:11:32,700 --> 00:11:33,840
+J'en piquais toujours quelques-uns.
+
+287
+00:11:33,840 --> 00:11:36,200
+Mes préférés, c'était ceux que les gens filmaient eux-mêmes.
+
+288
+00:11:36,760 --> 00:11:37,840
+Le mec en train de...
+
+289
+00:11:39,840 --> 00:11:41,320
+Baiser.
+
+290
+00:11:41,640 --> 00:11:42,400
+Troncher, ça.
+
+291
+00:11:44,720 --> 00:11:45,080
+Euh...
+
+292
+00:11:45,080 --> 00:11:47,360
+J'ai peur de dire femme.
+
+293
+00:11:47,880 --> 00:11:48,600
+Non, c'est pas femme.
+
+294
+00:11:48,780 --> 00:11:49,720
+C'est un synonyme...
+
+295
+00:11:49,720 --> 00:11:51,760
+C'est un synonyme très...
+
+296
+00:11:51,760 --> 00:11:52,440
+Sa pute.
+
+297
+00:11:53,160 --> 00:11:53,640
+Pire.
+
+298
+00:11:54,860 --> 00:11:55,940
+Sa truie.
+
+299
+00:11:56,600 --> 00:11:56,960
+Non.
+
+300
+00:11:57,520 --> 00:11:57,940
+En as.
+
+301
+00:11:57,960 --> 00:11:58,520
+Sa salope.
+
+302
+00:11:59,100 --> 00:11:59,280
+Ah.
+
+303
+00:11:59,580 --> 00:12:00,660
+Sa chienne.
+
+304
+00:12:01,260 --> 00:12:01,940
+Non, en as.
+
+305
+00:12:01,940 --> 00:12:04,020
+Ah, je croyais en race.
+
+306
+00:12:04,580 --> 00:12:05,180
+Sa connasse.
+
+307
+00:12:05,660 --> 00:12:06,260
+Non, l'autre.
+
+308
+00:12:06,860 --> 00:12:07,520
+Sa pétasse.
+
+309
+00:12:08,000 --> 00:12:08,680
+Non, l'autre.
+
+310
+00:12:09,200 --> 00:12:09,960
+Sa poufiasse.
+
+311
+00:12:10,060 --> 00:12:10,320
+Oh là là.
+
+312
+00:12:10,360 --> 00:12:11,160
+Sa poufiasse.
+
+313
+00:12:11,500 --> 00:12:13,360
+C'était déjà bien bandant en soi.
+
+314
+00:12:13,880 --> 00:12:19,560
+Mais en plus, imaginer leur panique et leur angoisse, les imaginer se demander qui pouvait
+
+315
+00:12:19,560 --> 00:12:22,860
+se branler sur leurs images cochonnes privées, j'adorais.
+
+316
+00:12:22,860 --> 00:12:25,400
+Au fil de temps, je me suis constitué une belle collection.
+
+317
+00:12:26,220 --> 00:12:27,420
+Toutes les pièces avaient leurs histoires.
+
+318
+00:12:28,100 --> 00:12:29,120
+Ma chambre, la chambre de ma...
+
