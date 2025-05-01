@@ -270,20 +270,9 @@
                         });
                 };
 
-                // Try different possible folder patterns
-                // 1. Date + cleanTitle (most likely pattern based on observed folder structure)
-                const pattern1 = `${dateStr}-${episode.cleanTitle}`;
-                // 2. Date + fileName without extension
-                const fileNameWithoutExt = episode.fileName ? episode.fileName.replace(/\.mp3$/, '') : '';
-                const pattern2 = fileNameWithoutExt ? `${fileNameWithoutExt}` : '';
-                // 3. Just the date (simplest case)
-                const pattern3 = dateStr;
-
                 // Create an array of paths to try
                 const pathsToTry = [
-                    `podcasts/plutot_caustique/turbo/${pattern1}/${dateStr}.tsv`,
-                    `podcasts/plutot_caustique/turbo/${pattern2}/${dateStr}.tsv`,
-                    `podcasts/plutot_caustique/turbo/${pattern3}/${dateStr}.tsv`
+                    `podcasts/plutot_caustique/turbo/${dateStr}/${dateStr}.tsv`
                 ].filter(path => path.includes('//') === false); // Filter out invalid paths
 
                 // Try each path in sequence until one works
