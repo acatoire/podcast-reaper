@@ -149,20 +149,45 @@
         function displayEpisodeDetails(episode) {
             const contentContainer = document.querySelector('.episode-content');
 
+            // Clear the content container
+            contentContainer.innerHTML = '';
+
             const title = document.createElement('h2');
             title.textContent = episode.episode;
+            contentContainer.appendChild(title);
 
             const date = document.createElement('p');
             date.innerHTML = `<strong>Release Date:</strong> ${formatDate(episode.date)}`;
+            contentContainer.appendChild(date);
+
+            // Add labels if they exist
+            if (episode.labels) {
+                const labelsContainer = document.createElement('div');
+                labelsContainer.className = 'labels-container';
+
+                const labelsTitle = document.createElement('p');
+                labelsTitle.innerHTML = '<strong>Labels:</strong>';
+                labelsContainer.appendChild(labelsTitle);
+
+                const labelsList = document.createElement('div');
+                labelsList.className = 'labels-list';
+
+                // Split the labels string by commas and create a span for each label
+                episode.labels.split(',').forEach(label => {
+                    const labelSpan = document.createElement('span');
+                    labelSpan.className = 'label';
+                    labelSpan.textContent = label.trim();
+                    labelsList.appendChild(labelSpan);
+                });
+
+                labelsContainer.appendChild(labelsList);
+                contentContainer.appendChild(labelsContainer);
+            }
 
             const audioPlayer = document.createElement('audio');
             audioPlayer.className = 'audio-player';
             audioPlayer.controls = true;
             audioPlayer.src = episode.url;
-
-            contentContainer.innerHTML = '';
-            contentContainer.appendChild(title);
-            contentContainer.appendChild(date);
             contentContainer.appendChild(audioPlayer);
         }
 

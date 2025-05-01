@@ -198,6 +198,28 @@ h1 {
     padding-top: 10px;
 }
 
+/* Labels styles */
+.labels-container {
+    margin: 15px 0;
+}
+
+.labels-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.label {
+    display: inline-block;
+    background-color: #e6f0ff;
+    color: #4a6fa5;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 0.9rem;
+    border: 1px solid #d0e0f7;
+}
+
 /* Responsive styles */
 @media (max-width: 768px) {
     .podcast-list {
@@ -236,5 +258,14 @@ h1 {
 
     .selector-container {
         width: 100%;
+    }
+
+    .labels-list {
+        gap: 5px;
+    }
+
+    .label {
+        font-size: 0.8rem;
+        padding: 4px 8px;
     }
 }
