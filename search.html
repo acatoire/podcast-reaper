@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="javascript:history.back()" class="back-link">← Back</a>
+        <h1 id="search-title">Search Results</h1>
+    </header>
+
+    <main>
+        <div class="search-results">
+            <div id="results-container" class="results-container">
+                <p>Searching transcripts...</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get search query and podcast ID from URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const query = urlParams.get('query');
+            const podcastId = urlParams.get('podcast') || 'plutot_caustique'; // Default to plutot_caustique if no ID provided
+
+            if (!query) {
+                document.getElementById('results-container').innerHTML = '<p>No search query specified. Please enter a search term.</p>';
+                return;
+            }
+
+            // Update the page title with the search query
+            document.getElementById('search-title').textContent = `Search Results for: "${query}"`;
+
+            // Fetch podcast data
+            fetch(`podcasts/${podcastId}/episodes.json`)
+                .then(response => response.json())
+                .then(data => {
+                    // Get all episodes from all seasons
+                    const allEpisodes = [];
+
+                    data.Saisons.forEach(season => {
+                        season.episodes.forEach(episode => {
+                            // Add season name to the episode for display
+                            episode.seasonName = season.name;
+                            allEpisodes.push(episode);
+                        });
+                    });
+
+                    // Search in all episodes
+                    searchInEpisodes(allEpisodes, query, podcastId);
+                })
+                .catch(error => {
+                    console.error('Error loading podcast data:', error);
+                    document.getElementById('results-container').innerHTML = '<p>Error loading podcast data. Please try again later.</p>';
+                });
+        });
+
+        function searchInEpisodes(episodes, query, podcastId) {
+            const resultsContainer = document.getElementById('results-container');
+            resultsContainer.innerHTML = '<p>Searching in transcripts...</p>';
+
+            // Case-insensitive search
+            const searchRegex = new RegExp(query, 'i');
+            const searchResults = [];
+            let completedSearches = 0;
+
+            // Function to fetch TSV content
+            const fetchTsvContent = (path) => {
+                return fetch(path)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('TSV file not found at ' + path);
+                        }
+                        return response.text();
+                    });
+            };
+
+            // Function to try different possible folder patterns
+            const tryFetchTsv = (episode) => {
+                const dateStr = episode.date; // Format: YYYY-MM-DD
+
+                // Create an array of paths to try
+                const pathsToTry = [
+                    `podcasts/${podcastId}/turbo/${dateStr}/${dateStr}.tsv`
+                ].filter(path => path.includes('//') === false); // Filter out invalid paths
+
+                // Try each path in sequence until one works
+                let currentPathIndex = 0;
+
+                const tryNextPath = () => {
+                    if (currentPathIndex >= pathsToTry.length) {
+                        throw new Error('Could not find TSV file in any of the expected locations');
+                    }
+
+                    const currentPath = pathsToTry[currentPathIndex];
+                    currentPathIndex++;
+
+                    return fetchTsvContent(currentPath)
+                        .catch(error => {
+                            console.warn(`Attempt ${currentPathIndex} failed:`, error);
+                            return tryNextPath(); // Try the next path
+                        });
+                };
+
+                // Start trying paths
+                return tryNextPath();
+            };
+
+            // Process each episode
+            episodes.forEach(episode => {
+                tryFetchTsv(episode)
+                    .then(tsvContent => {
+                        // Parse the TSV content
+                        const lines = tsvContent.split('\n');
+                        const tsvData = lines.map(line => line.split('\t'));
+
+                        // Search for matches in the text column (index 2)
+                        const matches = [];
+                        for (let i = 1; i < tsvData.length; i++) {
+                            if (tsvData[i].length >= 3 && searchRegex.test(tsvData[i][2])) {
+                                matches.push({
+                                    start: tsvData[i][0],
+                                    end: tsvData[i][1],
+                                    text: tsvData[i][2]
+                                });
+                            }
+                        }
+
+                        // If there are matches, add to search results
+                        if (matches.length > 0) {
+                            searchResults.push({
+                                episode: episode,
+                                matches: matches,
+                                occurrences: matches.length
+                            });
+                        }
+                    })
+                    .catch(error => {
+                        console.warn(`Error searching in episode ${episode.episode}:`, error);
+                    })
+                    .finally(() => {
+                        completedSearches++;
+
+                        // When all searches are complete, display the results
+                        if (completedSearches === episodes.length) {
+                            displaySearchResults(searchResults, query, podcastId);
+                        }
+                    });
+            });
+        }
+
+        function displaySearchResults(results, query, podcastId) {
+            const resultsContainer = document.getElementById('results-container');
+
+            if (results.length === 0) {
+                resultsContainer.innerHTML = `<p>No matches found for "${query}".</p>`;
+                return;
+            }
+
+            // Clear the loading message
+            resultsContainer.innerHTML = '';
+
+            // Create a heading and global toggle button
+            const headingContainer = document.createElement('div');
+            headingContainer.className = 'results-heading';
+
+            const heading = document.createElement('h2');
+            heading.textContent = `Found matches in ${results.length} episode${results.length !== 1 ? 's' : ''}`;
+
+            const toggleAllButton = document.createElement('button');
+            toggleAllButton.className = 'toggle-all-button';
+            toggleAllButton.textContent = 'Expand All';
+            toggleAllButton.addEventListener('click', toggleAllMatches);
+
+            headingContainer.appendChild(heading);
+            headingContainer.appendChild(toggleAllButton);
+            resultsContainer.appendChild(headingContainer);
+
+            // Sort results by number of occurrences (most matches first)
+            results.sort((a, b) => b.occurrences - a.occurrences);
+
+            // Create the results list
+            results.forEach(result => {
+                const resultItem = document.createElement('div');
+                resultItem.className = 'search-result-item';
+
+                const episodeHeader = document.createElement('div');
+                episodeHeader.className = 'episode-header';
+
+                const episodeTitleContainer = document.createElement('div');
+                episodeTitleContainer.className = 'episode-title-container';
+
+                const toggleButton = document.createElement('button');
+                toggleButton.className = 'toggle-button';
+                toggleButton.textContent = 'Show';
+                toggleButton.addEventListener('click', function() {
+                    toggleMatches(this, matchesList);
+                });
+
+                const episodeTitle = document.createElement('div');
+                episodeTitle.className = 'episode-title';
+                episodeTitle.innerHTML = `<a href="podcast.html?id=${podcastId}&episode=${result.episode.cleanTitle}">${result.episode.episode}</a>`;
+
+                episodeTitleContainer.appendChild(toggleButton);
+                episodeTitleContainer.appendChild(episodeTitle);
+
+                const occurrencesCount = document.createElement('div');
+                occurrencesCount.className = 'occurrences-count';
+                occurrencesCount.textContent = `${result.occurrences} occurrence${result.occurrences !== 1 ? 's' : ''}`;
+
+                episodeHeader.appendChild(episodeTitleContainer);
+                episodeHeader.appendChild(occurrencesCount);
+
+                const episodeInfo = document.createElement('div');
+                episodeInfo.className = 'episode-info';
+                episodeInfo.innerHTML = `
+                    <span class="episode-season">${result.episode.seasonName}</span> | 
+                    <span class="episode-date">${formatDate(result.episode.date)}</span>
+                `;
+
+                const matchesList = document.createElement('div');
+                matchesList.className = 'matches-list collapsed';
+
+                // Add each matching line
+                result.matches.forEach(match => {
+                    const matchItem = document.createElement('div');
+                    matchItem.className = 'match-item';
+
+                    // Highlight the matching text
+                    const highlightedText = match.text.replace(
+                        new RegExp(query, 'gi'),
+                        match => `<span class="highlight">${match}</span>`
+                    );
+
+                    matchItem.innerHTML = `
+                        <span class="match-time">${formatTime(match.start)} - ${formatTime(match.end)}</span>
+                        <span class="match-text">${highlightedText}</span>
+                    `;
+
+                    matchesList.appendChild(matchItem);
+                });
+
+                resultItem.appendChild(episodeHeader);
+                resultItem.appendChild(episodeInfo);
+                resultItem.appendChild(matchesList);
+
+                resultsContainer.appendChild(resultItem);
+            });
+        }
+
+        // Helper function to format time from milliseconds to MM:SS
+        function formatTime(milliseconds) {
+            const totalSeconds = Math.floor(milliseconds / 1000);
+            const minutes = Math.floor(totalSeconds / 60);
+            const seconds = totalSeconds % 60;
+            return `${minutes}:${seconds.toString().padStart(2, '0')}`;
+        }
+
+        function formatDate(dateString) {
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            return new Date(dateString).toLocaleDateString(undefined, options);
+        }
+
+        // Toggle matches for a single episode
+        function toggleMatches(button, matchesList) {
+            if (matchesList.classList.contains('collapsed')) {
+                // Expand
+                matchesList.classList.remove('collapsed');
+                button.textContent = 'Hide';
+            } else {
+                // Collapse
+                matchesList.classList.add('collapsed');
+                button.textContent = 'Show';
+            }
+        }
+
+        // Toggle all matches
+        function toggleAllMatches() {
+            const button = document.querySelector('.toggle-all-button');
+            const allMatchesLists = document.querySelectorAll('.matches-list');
+            const allToggleButtons = document.querySelectorAll('.toggle-button');
+
+            // Check if we should expand or collapse
+            const shouldExpand = button.textContent === 'Expand All';
+
+            if (shouldExpand) {
+                // Expand all
+                allMatchesLists.forEach(list => list.classList.remove('collapsed'));
+                allToggleButtons.forEach(btn => btn.textContent = 'Hide');
+                button.textContent = 'Collapse All';
+            } else {
+                // Collapse all
+                allMatchesLists.forEach(list => list.classList.add('collapsed'));
+                allToggleButtons.forEach(btn => btn.textContent = 'Show');
+                button.textContent = 'Expand All';
+            }
+        }
+    </script>
+</body>
+</html>

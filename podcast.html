@@ -26,6 +26,13 @@
                             <option value="">Select an episode</option>
                         </select>
                     </div>
+                    <div class="search-container">
+                        <form id="search-form" action="search.html" method="get">
+                            <input type="hidden" name="podcast" id="podcast-id-input">
+                            <input type="text" name="query" id="search-input" placeholder="Search in transcripts..." required>
+                            <button type="submit" class="search-button">Search</button>
+                        </form>
+                    </div>
                 </div>
                 <div class="episode-content">
                     <h2>Select a season and episode to view details</h2>
@@ -45,6 +52,9 @@
             // Set podcast title
             const podcastTitle = document.getElementById('podcast-title');
             podcastTitle.textContent = formatPodcastName(podcastId);
+
+            // Set podcast ID in search form
+            document.getElementById('podcast-id-input').value = podcastId;
 
             // Load podcast data
             fetch(`podcasts/${podcastId}/episodes.json`)
