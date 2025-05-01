@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Podcast Episodes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="back-link">← Back to Podcasts</a>
+        <h1 id="podcast-title">Podcast Episodes</h1>
+    </header>
+
+    <main>
+        <!-- Mobile dropdown menu -->
+        <select class="dropdown-menu" id="episode-dropdown">
+            <option value="">Select an episode</option>
+        </select>
+
+        <div class="podcast-container">
+            <div class="episodes-list" id="episodes-list">
+                <!-- Episodes will be loaded here dynamically -->
+            </div>
+
+            <div class="episode-details" id="episode-details">
+                <h2>Select an episode to view details</h2>
+                <p>Click on an episode from the list to view its details and listen to it.</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get podcast ID from URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const podcastId = urlParams.get('id') || 'plutot_caustique'; // Default to plutot_caustique if no ID provided
+
+            // Set podcast title
+            const podcastTitle = document.getElementById('podcast-title');
+            podcastTitle.textContent = formatPodcastName(podcastId);
+
+            // Load episodes data
+            fetch(`podcasts/${podcastId}/episodes.json`)
+                .then(response => response.json())
+                .then(episodes => {
+                    displayEpisodes(episodes);
+                    setupDropdown(episodes);
+                })
+                .catch(error => {
+                    console.error('Error loading episodes:', error);
+                    document.getElementById('episodes-list').innerHTML = '<p>Error loading episodes. Please try again later.</p>';
+                });
+
+            // Handle dropdown change for mobile
+            document.getElementById('episode-dropdown').addEventListener('change', function() {
+                const episodeIndex = this.value;
+                if (episodeIndex) {
+                    displayEpisodeDetails(JSON.parse(this.options[this.selectedIndex].dataset.episode), podcastId);
+                }
+            });
+        });
+
+        function formatPodcastName(id) {
+            // Convert podcast_id to a readable name (e.g., plutot_caustique -> Plutot Caustique)
+            return id.split('_')
+                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(' ');
+        }
+
+        function displayEpisodes(episodes) {
+            const episodesList = document.getElementById('episodes-list');
+            episodesList.innerHTML = '';
+
+            episodes.forEach((episode, index) => {
+                const episodeItem = document.createElement('div');
+                episodeItem.className = 'episode-item';
+                episodeItem.dataset.index = index;
+
+                const title = document.createElement('div');
+                title.className = 'episode-title';
+                title.textContent = episode.episode;
+
+                const date = document.createElement('div');
+                date.className = 'episode-date';
+                date.textContent = formatDate(episode.date);
+
+                episodeItem.appendChild(title);
+                episodeItem.appendChild(date);
+
+                episodeItem.addEventListener('click', function() {
+                    // Remove active class from all episodes
+                    document.querySelectorAll('.episode-item').forEach(item => {
+                        item.classList.remove('active');
+                    });
+
+                    // Add active class to clicked episode
+                    this.classList.add('active');
+
+                    // Display episode details
+                    const podcastId = new URLSearchParams(window.location.search).get('id') || 'plutot_caustique';
+                    displayEpisodeDetails(episode, podcastId);
+
+                    // Update dropdown selection for mobile
+                    document.getElementById('episode-dropdown').value = index;
+                });
+
+                episodesList.appendChild(episodeItem);
+            });
+
+            // Display the first episode by default
+            if (episodes.length > 0) {
+                const firstEpisode = episodesList.querySelector('.episode-item');
+                firstEpisode.classList.add('active');
+
+                const podcastId = new URLSearchParams(window.location.search).get('id') || 'plutot_caustique';
+                displayEpisodeDetails(episodes[0], podcastId);
+            }
+        }
+
+        function setupDropdown(episodes) {
+            const dropdown = document.getElementById('episode-dropdown');
+            dropdown.innerHTML = '<option value="">Select an episode</option>';
+
+            episodes.forEach((episode, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = episode.episode;
+                option.dataset.episode = JSON.stringify(episode);
+                dropdown.appendChild(option);
+            });
+        }
+
+        function displayEpisodeDetails(episode, podcastId) {
+            const detailsContainer = document.getElementById('episode-details');
+
+            const title = document.createElement('h2');
+            title.textContent = episode.episode;
+
+            const date = document.createElement('p');
+            date.innerHTML = `<strong>Release Date:</strong> ${formatDate(episode.date)}`;
+
+            const audioPlayer = document.createElement('audio');
+            audioPlayer.className = 'audio-player';
+            audioPlayer.controls = true;
+            audioPlayer.src = episode.url;
+
+            detailsContainer.innerHTML = '';
+            detailsContainer.appendChild(title);
+            detailsContainer.appendChild(date);
+            detailsContainer.appendChild(audioPlayer);
+        }
+
+        function formatDate(dateString) {
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            return new Date(dateString).toLocaleDateString(undefined, options);
+        }
+
+        // Toggle episodes list on mobile
+        document.getElementById('episode-dropdown').addEventListener('click', function() {
+            const episodesList = document.getElementById('episodes-list');
+            episodesList.classList.toggle('show');
+        });
+    </script>
+</body>
+</html>
