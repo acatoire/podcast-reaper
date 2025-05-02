@@ -257,14 +257,14 @@
                 contentContainer.appendChild(labelsContainer);
             }
 
+            // Create audio player element
             const audioPlayer = document.createElement('audio');
             audioPlayer.className = 'audio-player';
             audioPlayer.controls = true;
             audioPlayer.src = episode.url;
-            contentContainer.appendChild(audioPlayer);
 
-            // Variable to track auto-scroll state (enabled by default)
-            let autoScrollEnabled = true;
+            // Variable to track auto-scroll state (disabled by default)
+            let autoScrollEnabled = false;
 
             // Add timeupdate event to track playback and highlight current transcript line
             audioPlayer.addEventListener('timeupdate', function() {
@@ -298,6 +298,16 @@
                     // Add active class to the current row
                     activeRow.classList.add('active-line');
 
+                    // Update the current line container with the text from the active row
+                    const currentLineContainer = document.querySelector('.current-line-container');
+                    if (currentLineContainer) {
+                        // Get the text from the third cell (index 2) of the active row
+                        const textCell = activeRow.cells[2];
+                        if (textCell) {
+                            currentLineContainer.innerHTML = `<p>${textCell.textContent}</p>`;
+                        }
+                    }
+
                     // Scroll the active row into view if it's not visible and auto-scroll is enabled
                     if (autoScrollEnabled && !isElementInViewport(activeRow)) {
                         activeRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -315,6 +325,21 @@
 
                 // Add a loading message
                 tsvContainer.innerHTML = '<p>Loading transcript...</p>';
+
+                // Append the audio player first
+                contentContainer.appendChild(audioPlayer);
+
+                // Create a container for the current transcript line
+                const currentLineContainer = document.createElement('div');
+                currentLineContainer.className = 'current-line-container';
+                currentLineContainer.innerHTML = '<p>Current line will appear here when playing...</p>';
+                currentLineContainer.style.padding = '10px';
+                currentLineContainer.style.margin = '10px 0';
+                currentLineContainer.style.backgroundColor = '#e0f7fa';
+                currentLineContainer.style.borderRadius = '5px';
+                contentContainer.appendChild(currentLineContainer);
+
+                // Add the transcript container after the current line container
                 contentContainer.appendChild(tsvContainer);
 
                 // Function to fetch TSV content
