@@ -263,6 +263,23 @@
             audioPlayer.controls = true;
             audioPlayer.src = episode.url;
 
+            // Add event listeners for logging player actions
+            audioPlayer.addEventListener('play', function() {
+                console.log('Player action: PLAY at timestamp', formatTime(this.currentTime * 1000));
+            });
+
+            audioPlayer.addEventListener('pause', function() {
+                console.log('Player action: PAUSE at timestamp', formatTime(this.currentTime * 1000));
+            });
+
+            audioPlayer.addEventListener('seeking', function() {
+                console.log('Player action: SEEK to timestamp', formatTime(this.currentTime * 1000));
+            });
+
+            audioPlayer.addEventListener('ended', function() {
+                console.log('Player action: STOP (ended)');
+            });
+
             // Variable to track auto-scroll state (disabled by default)
             let autoScrollEnabled = false;
 
@@ -300,11 +317,11 @@
 
                     // Update the current line container with the text from the active row
                     const currentLineContainer = document.querySelector('.current-line-container');
-                    if (currentLineContainer) {
+                    if (currentLineContainer && activeRow.cells && activeRow.cells.length > 2) {
                         // Get the text from the third cell (index 2) of the active row
                         const textCell = activeRow.cells[2];
                         if (textCell) {
-                            currentLineContainer.innerHTML = `<p>${textCell.textContent}</p>`;
+                            currentLineContainer.textContent = textCell.textContent;
                         }
                     }
 
@@ -332,7 +349,7 @@
                 // Create a container for the current transcript line
                 const currentLineContainer = document.createElement('div');
                 currentLineContainer.className = 'current-line-container';
-                currentLineContainer.innerHTML = '<p>Current line will appear here when playing...</p>';
+                currentLineContainer.textContent = 'Current line will appear here when playing...';
                 currentLineContainer.style.padding = '10px';
                 currentLineContainer.style.margin = '10px 0';
                 currentLineContainer.style.backgroundColor = '#e0f7fa';
@@ -413,19 +430,52 @@
                                 // Add cursor pointer to indicate it's clickable
                                 row.style.cursor = 'pointer';
                                 // Add click event listener to play audio at this timestamp
-                                row.addEventListener('click', function() {
+                                row.addEventListener('click', function(event) {
+                                    // Prevent default behavior
+                                    event.preventDefault();
+
+                                    // Check if the click originated from the audio player or its controls
+                                    // This prevents the transcript click handler from interfering with pause/play buttons
+                                    if (event.target.closest('.audio-player')) {
+                                        return;
+                                    }
+
                                     const audioPlayer = document.querySelector('.audio-player');
                                     if (audioPlayer) {
-                                        // Convert milliseconds to seconds for the audio player
-                                        audioPlayer.currentTime = parseFloat(this.dataset.startTime) / 1000;
-                                        audioPlayer.play();
+                                        try {
+                                            // Convert milliseconds to seconds for the audio player
+                                            audioPlayer.currentTime = parseFloat(this.dataset.startTime) / 1000;
 
-                                        // Remove active-line class from all rows
-                                        const allRows = document.querySelectorAll('.tsv-table tr');
-                                        allRows.forEach(r => r.classList.remove('active-line'));
+                                            // Use a promise to handle play() which returns a promise
+                                            // Log the attempt to play
+                                            console.log('Player action: Attempting to PLAY from transcript click at timestamp', formatTime(parseFloat(this.dataset.startTime)));
 
-                                        // Add active-line class to the clicked row
-                                        this.classList.add('active-line');
+                                            try {
+                                                const playPromise = audioPlayer.play();
+
+                                                if (playPromise !== undefined) {
+                                                    playPromise.catch(error => {
+                                                        console.error('Error playing audio:', error);
+                                                        // If autoplay is prevented, inform the user
+                                                        if (error.name === 'NotAllowedError') {
+                                                            console.log('Autoplay prevented by browser. User interaction required to play audio.');
+                                                            // You could also display a message to the user here
+                                                        }
+                                                    });
+                                                }
+                                            } catch (error) {
+                                                console.error('Exception when trying to play audio:', error);
+                                            }
+
+                                            // Remove active-line class from all rows
+                                            const allRows = document.querySelectorAll('.tsv-table tr');
+                                            allRows.forEach(r => r.classList.remove('active-line'));
+
+                                            // Add active-line class to the clicked row
+                                            this.classList.add('active-line');
+                                        } catch (error) {
+                                            console.error('Error updating audio player:', error);
+                                        }
                                     }
                                 });
 
