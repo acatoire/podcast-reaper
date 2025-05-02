@@ -201,6 +201,22 @@
             // Clear the content container
             contentContainer.innerHTML = '';
 
+            // Add CSS for transcript table hover effect and active line
+            const style = document.createElement('style');
+            style.textContent = `
+                .tsv-table tr:hover {
+                    background-color: #f5f5f5;
+                }
+                .tsv-table tr {
+                    transition: background-color 0.2s;
+                }
+                .tsv-table tr.active-line {
+                    background-color: #e0f7fa;
+                    font-weight: bold;
+                }
+            `;
+            document.head.appendChild(style);
+
             const title = document.createElement('h2');
             title.textContent = episode.episode;
             contentContainer.appendChild(title);
@@ -246,6 +262,48 @@
             audioPlayer.controls = true;
             audioPlayer.src = episode.url;
             contentContainer.appendChild(audioPlayer);
+
+            // Variable to track auto-scroll state (enabled by default)
+            let autoScrollEnabled = true;
+
+            // Add timeupdate event to track playback and highlight current transcript line
+            audioPlayer.addEventListener('timeupdate', function() {
+                // Current time in milliseconds
+                const currentTimeMs = this.currentTime * 1000;
+
+                // Find the appropriate transcript row based on timestamp
+                const transcriptRows = document.querySelectorAll('.tsv-table tr[data-start-time]');
+                let activeRow = null;
+
+                // Find the row that corresponds to the current playback time
+                for (let i = 0; i < transcriptRows.length; i++) {
+                    const row = transcriptRows[i];
+                    const startTime = parseFloat(row.dataset.startTime);
+
+                    // If this is the last row or the current time is before the next row's start time
+                    if (i === transcriptRows.length - 1 || 
+                        currentTimeMs < parseFloat(transcriptRows[i + 1].dataset.startTime)) {
+                        if (currentTimeMs >= startTime) {
+                            activeRow = row;
+                            break;
+                        }
+                    }
+                }
+
+                // Update the active row highlighting
+                if (activeRow) {
+                    // Remove active class from all rows
+                    transcriptRows.forEach(row => row.classList.remove('active-line'));
+
+                    // Add active class to the current row
+                    activeRow.classList.add('active-line');
+
+                    // Scroll the active row into view if it's not visible and auto-scroll is enabled
+                    if (autoScrollEnabled && !isElementInViewport(activeRow)) {
+                        activeRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }
+                }
+            });
 
             // Try to fetch and display the TSV file content
             if (episode.date) {
@@ -325,6 +383,26 @@
                         for (let i = 1; i < tsvData.length; i++) {
                             if (tsvData[i].length >= 3) {
                                 const row = document.createElement('tr');
+                                // Store the start time in milliseconds as a data attribute
+                                row.dataset.startTime = tsvData[i][0];
+                                // Add cursor pointer to indicate it's clickable
+                                row.style.cursor = 'pointer';
+                                // Add click event listener to play audio at this timestamp
+                                row.addEventListener('click', function() {
+                                    const audioPlayer = document.querySelector('.audio-player');
+                                    if (audioPlayer) {
+                                        // Convert milliseconds to seconds for the audio player
+                                        audioPlayer.currentTime = parseFloat(this.dataset.startTime) / 1000;
+                                        audioPlayer.play();
+
+                                        // Remove active-line class from all rows
+                                        const allRows = document.querySelectorAll('.tsv-table tr');
+                                        allRows.forEach(r => r.classList.remove('active-line'));
+
+                                        // Add active-line class to the clicked row
+                                        this.classList.add('active-line');
+                                    }
+                                });
 
                                 const startCell = document.createElement('td');
                                 startCell.textContent = formatTime(tsvData[i][0]);
@@ -343,7 +421,7 @@
                         }
 
                         // Clear the loading message and add the table
-                        tsvContainer.innerHTML = '<h3>Transcript</h3>';
+                        tsvContainer.innerHTML = '<h3>Transcript</h3><p class="transcript-hint"><small>Click on any line to play from that timestamp</small></p>';
                         tsvContainer.appendChild(table);
                     })
                     .catch(error => {
@@ -364,6 +442,17 @@
         function formatDate(dateString) {
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
             return new Date(dateString).toLocaleDateString(undefined, options);
+        }
+
+        // Helper function to check if an element is visible in the viewport
+        function isElementInViewport(el) {
+            const rect = el.getBoundingClientRect();
+            return (
+                rect.top >= 0 &&
+                rect.left >= 0 &&
+                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+                rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+            );
         }
     </script>
 </body>
