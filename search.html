@@ -5,20 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search Results</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 </head>
 <body>
-    <header>
-        <a href="javascript:history.back()" class="back-link">← Back</a>
-        <!-- h1 id="search-title" is now replaced by the search-summary section -->
-    </header>
+    <div class="fixed-content">
+        <!-- Search title with back button -->
+        <div class="podcast-header">
+            <a href="javascript:history.back()" class="back-button"><i class="fas fa-arrow-left"></i></a>
+            <h1 id="search-title">Search Results</h1>
+        </div>
 
-    <main>
         <div class="search-results">
             <div id="results-container" class="results-container">
                 <p>Searching transcripts...</p>
             </div>
         </div>
-    </main>
+    </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
@@ -188,18 +190,11 @@
             searchFightSection.innerHTML = `
                 <div class="search-fight-form">
                     <input type="text" id="new-search-term" placeholder="Enter another search term">
-                    <button id="search-fight-button">Search Fight</button>
+                    <button id="search-fight-button" class="search-button">Search Fight</button>
                 </div>
             `;
 
-            // Create toggle all button
-            const toggleAllButton = document.createElement('button');
-            toggleAllButton.className = 'toggle-all-button';
-            toggleAllButton.textContent = 'Expand All';
-            toggleAllButton.addEventListener('click', toggleAllMatches);
-
             summarySection.appendChild(searchFightSection);
-            summarySection.appendChild(toggleAllButton);
             resultsContainer.appendChild(summarySection);
 
             // Add event listener for search fight button
@@ -213,11 +208,27 @@
                 }
             });
 
+            // Create a container for the episodes heading and toggle button
+            const episodesHeaderContainer = document.createElement('div');
+            episodesHeaderContainer.className = 'results-heading';
+
             // Add a heading for the episode list
             const episodesHeading = document.createElement('h3');
             episodesHeading.className = 'episodes-heading';
             episodesHeading.textContent = 'Episodes';
-            resultsContainer.appendChild(episodesHeading);
+
+            // Create a smaller toggle all button for the episodes heading
+            const episodesToggleButton = document.createElement('button');
+            episodesToggleButton.className = 'toggle-all-button compact-button';
+            episodesToggleButton.textContent = 'Expand All';
+            episodesToggleButton.addEventListener('click', toggleAllMatches);
+
+            // Add the heading and button to the container
+            episodesHeaderContainer.appendChild(episodesHeading);
+            episodesHeaderContainer.appendChild(episodesToggleButton);
+
+            // Add the container to the results container
+            resultsContainer.appendChild(episodesHeaderContainer);
 
             // Sort results by number of occurrences (most matches first)
             results.sort((a, b) => b.occurrences - a.occurrences);
@@ -319,7 +330,7 @@
 
         // Toggle all matches
         function toggleAllMatches() {
-            const button = document.querySelector('.toggle-all-button');
+            const button = document.querySelector('.toggle-all-button.compact-button');
             const allMatchesLists = document.querySelectorAll('.matches-list');
             const allToggleButtons = document.querySelectorAll('.toggle-button');
 

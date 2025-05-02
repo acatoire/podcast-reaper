@@ -10,7 +10,7 @@ output_folder = "./transcript"  # Base folder for transcripts
 output_format = "all"
 #model_size = input("Choose Whisper model size (1 for 'turbo', 2 for 'large-v3'): ")
 #model_size = "turbo" if model_size == "1" else "large-v3"
-model_size = "large-v3"
+model_size = "turbo"
 language = "fr"
 task = "transcribe"
 

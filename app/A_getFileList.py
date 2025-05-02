@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 import json
 
 # RSS feed URL
-rss_url = "https://feeds.acast.com/public/shows/plutot-caustique"
+rss_url = "https://feeds.acast.com/public/shows/pardon-gpt"
 
 # Retrieve RSS feed data
 response = requests.get(rss_url)
@@ -32,6 +32,7 @@ for item in root.findall("./channel/item"):
                    .replace(' ', '_')
                    .replace('"', ''))
     pub_date = item.find("pubDate").text
+    description = item.find("description").text
     try:
         pub_date_formatted = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%d")
     except ValueError:
@@ -42,6 +43,7 @@ for item in root.findall("./channel/item"):
         mp3_url = enclosure.attrib.get("url")
         episodes.append({"url": mp3_url,
                          "episode": title,
+                         "description": description,
                          "date": pub_date_formatted,
                          "cleanTitle": clean_title,
                          "fileName": f"{pub_date_formatted}-{clean_title}.mp3"

@@ -5,18 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Podcast Episodes</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 </head>
 <body>
-    <header>
-        <a href="index.html" class="back-link">← Back to Podcasts</a>
-        <h1 id="podcast-title">Podcast Episodes</h1>
-    </header>
+    <div class="fixed-content">
+        <!-- Podcast title with back button -->
+        <div class="podcast-header">
+            <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i></a>
+            <h1 id="podcast-title">Podcast Episodes</h1>
+        </div>
 
-    <main>
-        <div class="podcast-container">
-            <div class="episode-details" id="episode-details">
-                <div class="season-episode-selectors">
-                    <div class="selector-container">
+        <!-- Search bar -->
+        <div class="search-bar">
+            <form id="search-form" action="search.html" method="get">
+                <input type="hidden" name="podcast" id="podcast-id-input">
+                <input type="text" name="query" id="search-input" placeholder="Search in transcripts..." required>
+                <button type="submit" class="search-icon-button"><i class="fas fa-search"></i></button>
+            </form>
+        </div>
+
+        <!-- Podcast selection (collapsible) -->
+        <div class="podcast-selection">
+            <div class="selection-header">
+                <h3 id="selection-title">Select Podcast</h3>
+                <button id="toggle-selection" class="toggle-button"><i class="fas fa-chevron-down"></i></button>
+            </div>
+            <div class="selection-content" id="selection-content">
+                <div class="selectors-row">
+                    <div class="selector-container compact">
                         <select id="season-dropdown" class="selector-dropdown">
                             <option value="">Select a season</option>
                         </select>
@@ -26,21 +42,29 @@
                             <option value="">Select an episode</option>
                         </select>
                     </div>
-                    <div class="search-container">
-                        <form id="search-form" action="search.html" method="get">
-                            <input type="hidden" name="podcast" id="podcast-id-input">
-                            <input type="text" name="query" id="search-input" placeholder="Search in transcripts..." required>
-                            <button type="submit" class="search-button">Search</button>
-                        </form>
-                    </div>
-                </div>
-                <div class="episode-content">
-                    <h2>Select a season and episode to view details</h2>
-                    <p>Use the dropdowns above to select a season and episode to view its details and listen to it.</p>
                 </div>
             </div>
         </div>
-    </main>
+
+        <!-- Episode details -->
+        <div class="episode-details-fixed" id="episode-details">
+            <div class="episode-content">
+                <h2>Select a season and episode to view details</h2>
+                <p>Use the selectors above to choose a season and episode.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scrollable transcript area -->
+    <div class="scrollable-content">
+        <div class="transcript-navigation">
+            <button id="scroll-up" class="scroll-button"><i class="fas fa-chevron-up"></i></button>
+            <button id="scroll-down" class="scroll-button"><i class="fas fa-chevron-down"></i></button>
+        </div>
+        <div class="transcript-container" id="transcript-container">
+            <!-- Transcript will be loaded here -->
+        </div>
+    </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
@@ -55,6 +79,26 @@
 
             // Set podcast ID in search form
             document.getElementById('podcast-id-input').value = podcastId;
+
+            // Setup toggle for podcast selection
+            const toggleSelectionBtn = document.getElementById('toggle-selection');
+            const selectionContent = document.getElementById('selection-content');
+
+            toggleSelectionBtn.addEventListener('click', function() {
+                selectionContent.classList.toggle('open');
+                // Change icon based on state
+                const icon = this.querySelector('i');
+                if (selectionContent.classList.contains('open')) {
+                    icon.classList.remove('fa-chevron-down');
+                    icon.classList.add('fa-chevron-up');
+                } else {
+                    icon.classList.remove('fa-chevron-up');
+                    icon.classList.add('fa-chevron-down');
+                }
+            });
+
+            // Initially open the selection content
+            selectionContent.classList.add('open');
 
             // Load podcast data
             fetch(`podcasts/${podcastId}/episodes.json`)
@@ -196,10 +240,16 @@
         }
 
         function displayEpisodeDetails(episode) {
-            const contentContainer = document.querySelector('.episode-content');
+            const detailsContainer = document.querySelector('.episode-details-fixed .episode-content');
+            const transcriptContainer = document.getElementById('transcript-container');
+            const selectionTitle = document.getElementById('selection-title');
 
-            // Clear the content container
-            contentContainer.innerHTML = '';
+            // Update selection title with episode title
+            selectionTitle.textContent = episode.episode;
+
+            // Clear the containers
+            detailsContainer.innerHTML = '';
+            transcriptContainer.innerHTML = '';
 
             // Add CSS for transcript table hover effect and active line
             const style = document.createElement('style');
@@ -217,22 +267,44 @@
             `;
             document.head.appendChild(style);
 
-            const title = document.createElement('h2');
-            title.textContent = episode.episode;
-            contentContainer.appendChild(title);
+            // Create a player container div to hold the player and date
+            const playerContainer = document.createElement('div');
+            playerContainer.className = 'player-container';
+            playerContainer.style.display = 'flex';
+            playerContainer.style.alignItems = 'center';
+            playerContainer.style.justifyContent = 'space-between';
+            detailsContainer.appendChild(playerContainer);
 
+            // Create audio player element
+            const audioPlayer = document.createElement('audio');
+            audioPlayer.className = 'audio-player';
+            audioPlayer.controls = true;
+            audioPlayer.src = episode.url;
+            audioPlayer.style.flex = '1';
+            playerContainer.appendChild(audioPlayer);
+
+            // Create compact release date and add it to the right of the player
             const date = document.createElement('p');
-            date.innerHTML = `<strong>Release Date:</strong> ${formatDate(episode.date)}`;
-            contentContainer.appendChild(date);
+            date.className = 'compact-date';
+            date.textContent = formatDate(episode.date);
+            date.style.marginLeft = '15px';
+            date.style.whiteSpace = 'nowrap';
+            playerContainer.appendChild(date);
+
+            // Create a container for the current transcript line
+            const currentLineContainer = document.createElement('div');
+            currentLineContainer.className = 'current-line-container';
+            currentLineContainer.textContent = 'Current line will appear here when playing...';
+            currentLineContainer.style.padding = '10px';
+            currentLineContainer.style.margin = '10px 0';
+            currentLineContainer.style.backgroundColor = '#e0f7fa';
+            currentLineContainer.style.borderRadius = '5px';
+            detailsContainer.appendChild(currentLineContainer);
 
             // Add labels if they exist
             if (episode.labels) {
                 const labelsContainer = document.createElement('div');
                 labelsContainer.className = 'labels-container';
-
-                const labelsTitle = document.createElement('p');
-                labelsTitle.innerHTML = '<strong>Labels:</strong>';
-                labelsContainer.appendChild(labelsTitle);
 
                 const labelsList = document.createElement('div');
                 labelsList.className = 'labels-list';
@@ -254,14 +326,17 @@
                 });
 
                 labelsContainer.appendChild(labelsList);
-                contentContainer.appendChild(labelsContainer);
+                detailsContainer.appendChild(labelsContainer);
             }
 
-            // Create audio player element
-            const audioPlayer = document.createElement('audio');
-            audioPlayer.className = 'audio-player';
-            audioPlayer.controls = true;
-            audioPlayer.src = episode.url;
+            // After episode is selected, collapse the selection panel
+            const selectionContent = document.getElementById('selection-content');
+            const toggleSelectionBtn = document.getElementById('toggle-selection');
+            const icon = toggleSelectionBtn.querySelector('i');
+
+            selectionContent.classList.remove('open');
+            icon.classList.remove('fa-chevron-up');
+            icon.classList.add('fa-chevron-down');
 
             // Add event listeners for logging player actions
             audioPlayer.addEventListener('play', function() {
@@ -319,7 +394,7 @@
                     const currentLineContainer = document.querySelector('.current-line-container');
                     if (currentLineContainer && activeRow.cells && activeRow.cells.length > 2) {
                         // Get the text from the third cell (index 2) of the active row
-                        const textCell = activeRow.cells[2];
+                        const textCell = activeRow.cells[3];
                         if (textCell) {
                             currentLineContainer.textContent = textCell.textContent;
                         }
@@ -336,28 +411,8 @@
             if (episode.date) {
                 const dateStr = episode.date; // Format: YYYY-MM-DD
 
-                // Create a container for the TSV content
-                const tsvContainer = document.createElement('div');
-                tsvContainer.className = 'tsv-container';
-
-                // Add a loading message
-                tsvContainer.innerHTML = '<p>Loading transcript...</p>';
-
-                // Append the audio player first
-                contentContainer.appendChild(audioPlayer);
-
-                // Create a container for the current transcript line
-                const currentLineContainer = document.createElement('div');
-                currentLineContainer.className = 'current-line-container';
-                currentLineContainer.textContent = 'Current line will appear here when playing...';
-                currentLineContainer.style.padding = '10px';
-                currentLineContainer.style.margin = '10px 0';
-                currentLineContainer.style.backgroundColor = '#e0f7fa';
-                currentLineContainer.style.borderRadius = '5px';
-                contentContainer.appendChild(currentLineContainer);
-
-                // Add the transcript container after the current line container
-                contentContainer.appendChild(tsvContainer);
+                // Add a loading message to the transcript container
+                transcriptContainer.innerHTML = '<p>Loading transcript...</p>';
 
                 // Function to fetch TSV content
                 const fetchTsvContent = (path) => {
@@ -403,10 +458,16 @@
                         // Create a table to display the TSV content
                         const table = document.createElement('table');
                         table.className = 'tsv-table';
+                        table.id = 'transcript-table';
 
                         // Add header row
                         const headerRow = document.createElement('tr');
                         if (tsvData[0] && tsvData[0].length >= 3) {
+                            // Add line number header
+                            const lineNumberHeader = document.createElement('th');
+                            lineNumberHeader.textContent = "#";
+                            headerRow.appendChild(lineNumberHeader);
+
                             const startHeader = document.createElement('th');
                             startHeader.textContent = tsvData[0][0];
                             headerRow.appendChild(startHeader);
@@ -425,8 +486,10 @@
                         for (let i = 1; i < tsvData.length; i++) {
                             if (tsvData[i].length >= 3) {
                                 const row = document.createElement('tr');
+                                row.id = `transcript-row-${i}`;
                                 // Store the start time in milliseconds as a data attribute
                                 row.dataset.startTime = tsvData[i][0];
+                                row.dataset.rowIndex = i;
                                 // Add cursor pointer to indicate it's clickable
                                 row.style.cursor = 'pointer';
                                 // Add click event listener to play audio at this timestamp
@@ -479,6 +542,11 @@
                                     }
                                 });
 
+                                // Add line number cell
+                                const lineNumberCell = document.createElement('td');
+                                lineNumberCell.textContent = i;
+                                row.appendChild(lineNumberCell);
+
                                 const startCell = document.createElement('td');
                                 startCell.textContent = formatTime(tsvData[i][0]);
                                 row.appendChild(startCell);
@@ -495,13 +563,85 @@
                             }
                         }
 
-                        // Clear the loading message and add the table
-                        tsvContainer.innerHTML = '<h3>Transcript</h3><p class="transcript-hint"><small>Click on any line to play from that timestamp</small></p>';
-                        tsvContainer.appendChild(table);
+                        // Add the transcript to the transcript container
+                        transcriptContainer.innerHTML = '<h3>Transcript</h3><p class="transcript-hint"><small>Click on any line to play from that timestamp</small></p>';
+                        transcriptContainer.appendChild(table);
+
+                        // Setup scroll buttons
+                        const scrollUpBtn = document.getElementById('scroll-up');
+                        const scrollDownBtn = document.getElementById('scroll-down');
+
+                        // Variable to track the last scrolled position
+                        let lastScrolledIndex = null;
+
+                        // Add click event listeners that work for consecutive clicks
+                        scrollUpBtn.addEventListener('click', function() {
+                            console.log('Player action: SCROLL UP button clicked');
+                            // Use requestAnimationFrame to ensure the DOM is updated before scrolling again
+                            requestAnimationFrame(() => {
+                                scrollTranscript(-10);
+                            });
+                        });
+
+                        scrollDownBtn.addEventListener('click', function() {
+                            console.log('Player action: SCROLL DOWN button clicked');
+                            // Use requestAnimationFrame to ensure the DOM is updated before scrolling again
+                            requestAnimationFrame(() => {
+                                scrollTranscript(10);
+                            });
+                        });
+
+                        // Function to scroll transcript by a number of rows
+                        function scrollTranscript(rowCount) {
+                            const table = document.getElementById('transcript-table');
+                            if (!table) return;
+
+                            // Get all rows with line numbers
+                            const rows = Array.from(table.querySelectorAll('tr[id^="transcript-row-"]'));
+                            if (rows.length === 0) return;
+
+                            // Find the most visible row (the one with the largest visible area)
+                            let mostVisibleRowIndex = 0;
+                            let maxVisibleArea = 0;
+
+                            // If we have a last scrolled index and it's valid, use it as a starting point
+                            if (lastScrolledIndex !== null && lastScrolledIndex >= 0 && lastScrolledIndex < rows.length) {
+                                mostVisibleRowIndex = lastScrolledIndex;
+                            } else {
+                                // Otherwise find the most visible row
+                                for (let i = 0; i < rows.length; i++) {
+                                    const row = rows[i];
+                                    const rect = row.getBoundingClientRect();
+
+                                    // Calculate how much of the row is visible in the viewport
+                                    const visibleTop = Math.max(0, rect.top);
+                                    const visibleBottom = Math.min(window.innerHeight, rect.bottom);
+
+                                    if (visibleBottom > visibleTop) {
+                                        const visibleArea = visibleBottom - visibleTop;
+                                        if (visibleArea > maxVisibleArea) {
+                                            maxVisibleArea = visibleArea;
+                                            mostVisibleRowIndex = i;
+                                        }
+                                    }
+                                }
+                            }
+
+                            // Calculate target row index (array index, not row number)
+                            const targetIndex = Math.max(0, Math.min(rows.length - 1, mostVisibleRowIndex + rowCount));
+
+                            // Update the last scrolled index
+                            lastScrolledIndex = targetIndex;
+
+                            // Scroll to the target row
+                            if (targetIndex >= 0 && targetIndex < rows.length) {
+                                rows[targetIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
+                            }
+                        }
                     })
                     .catch(error => {
                         console.error('Error loading TSV file:', error);
-                        tsvContainer.innerHTML = '<p>Transcript not available for this episode.</p>';
+                        transcriptContainer.innerHTML = '<p>Transcript not available for this episode.</p>';
                     });
             }
         }
@@ -529,6 +669,34 @@
                 rect.right <= (window.innerWidth || document.documentElement.clientWidth)
             );
         }
+
+        // Add spacebar keyboard shortcut to toggle play/pause
+        document.addEventListener('keydown', function(event) {
+            // Check if the key pressed is the spacebar (key code 32)
+            if (event.keyCode === 32 || event.key === ' ') {
+                // Prevent default spacebar action (scrolling the page)
+                event.preventDefault();
+
+                // Don't trigger if user is typing in an input field or textarea
+                if (event.target.tagName === 'INPUT' || event.target.tagName === 'TEXTAREA') {
+                    return;
+                }
+
+                // Find the audio player
+                const audioPlayer = document.querySelector('.audio-player');
+
+                // If audio player exists, toggle play/pause
+                if (audioPlayer) {
+                    if (audioPlayer.paused) {
+                        console.log('Player action: PLAY (spacebar) at timestamp', formatTime(audioPlayer.currentTime * 1000));
+                        audioPlayer.play();
+                    } else {
+                        console.log('Player action: PAUSE (spacebar) at timestamp', formatTime(audioPlayer.currentTime * 1000));
+                        audioPlayer.pause();
+                    }
+                }
+            }
+        });
     </script>
 </body>
 </html>
