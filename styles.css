@@ -89,6 +89,7 @@ h1 {
     object-fit: cover;
 }
 
+
 .podcast-info {
     padding: 20px;
 }
@@ -101,6 +102,35 @@ h1 {
 .podcast-info p {
     color: #666;
     margin-bottom: 15px;
+}
+
+.podcast-platforms {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+    justify-content: center;
+}
+
+.podcast-platforms a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+    color: #4a6fa5;
+    text-decoration: none;
+    transition: background-color 0.2s, transform 0.2s;
+}
+
+.podcast-platforms a:hover {
+    background-color: #e0e0e0;
+    transform: scale(1.1);
+}
+
+.podcast-platforms i {
+    font-size: 1.2rem;
 }
 
 .btn {
@@ -266,6 +296,40 @@ h1 {
     border: 1px solid #ddd;
     border-radius: 20px;
     font-size: 0.9rem;
+}
+
+/* Search fight form styles */
+.search-fight-form {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: nowrap;
+    margin: 20px 0;
+    justify-content: center;
+}
+
+.search-fight-form input {
+    flex: 1;
+    min-width: 100px;
+    max-width: 200px;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    font-size: 0.9rem;
+}
+
+.search-fight-form button {
+    background-color: #4a6fa5;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.search-fight-form button:hover {
+    background-color: #3a5a80;
 }
 
 .search-button {
@@ -474,6 +538,8 @@ h1 {
     font-size: 0.8rem;
     padding: 5px 10px;
     margin-left: 10px;
+    min-width: 100px;
+    width: auto;
 }
 
 .search-result-item {
@@ -694,6 +760,19 @@ h1 {
         grid-template-columns: 1fr;
     }
 
+    .podcast-platforms {
+        gap: 10px;
+    }
+
+    .podcast-platforms a {
+        width: 35px;
+        height: 35px;
+    }
+
+    .podcast-platforms i {
+        font-size: 1rem;
+    }
+
     .podcast-container {
         flex-direction: column;
     }
@@ -788,7 +867,24 @@ h1 {
     }
 
     .search-button {
-        width: 100%;
+        width: auto;
+    }
+
+    /* Responsive styles for search fight form */
+    .search-fight-form {
+        flex-direction: row;
+        gap: 5px;
+        align-items: center;
+    }
+
+    .search-fight-form input {
+        min-width: 0;
+        max-width: none;
+        width: calc(100% - 50px);
+    }
+
+    .search-fight-form button {
+        width: auto;
     }
 
     /* Responsive styles for search results */
@@ -800,6 +896,11 @@ h1 {
 
     .toggle-all-button {
         width: 100%;
+    }
+
+    .toggle-all-button.compact-button {
+        width: auto;
+        min-width: 100px;
     }
 
     .episode-header {
@@ -857,6 +958,11 @@ h1 {
         padding: 8px 15px;
         font-size: 0.9rem;
         width: 100%;
+    }
+
+    .search-summary .toggle-all-button.compact-button {
+        width: auto;
+        min-width: 100px;
     }
 
     .episodes-heading {

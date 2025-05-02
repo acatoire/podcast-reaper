@@ -1,5 +1,5 @@
 # Define the target directory
-$targetFolder = "./turbo"
+$targetFolder = "../podcasts/pardon_gpt/turbo"
 
 # Get all subfolders in the target directory
 Get-ChildItem -Path $targetFolder -Directory | ForEach-Object {

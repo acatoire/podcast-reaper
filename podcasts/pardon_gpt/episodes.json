@@ -1,7 +1,7 @@
 {
   "name": "Pardon GPT",
-  "description": "",
-  "authors": "",
+  "description": "Si une IA comme ChatGPT lançait son podcast iel demanderait évidemment à Pierre Lapin et Rémi Boyes de lui trouver les meilleur.e.s invité.e.s !",
+  "authors": "Pierre Lapin, Rémi Boyes, Léo",
   "listen": [
     {
       "name": "apple",
@@ -13,11 +13,11 @@
     },
     {
       "name": "spotify",
-      "link": "https://open.spotify.com/show/3Lxbi2pKd0lJTlFUHyjFJV"
+      "link": "https://open.spotify.com/show/15oSRGTL6iuzxZCuGZm12i"
     },
     {
       "name": "deezer",
-      "link": "https://www.deezer.com/fr/show/59996"
+      "link": "https://podcasts.apple.com/fr/podcast/pardon-gpt/id1687086031"
     }
   ],
   "references": [

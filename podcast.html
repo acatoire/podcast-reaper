@@ -141,7 +141,7 @@
                             episodeDropdown.value = episodeIndex;
 
                             // Display the episode details
-                            displayEpisodeDetails(foundEpisode);
+                            displayEpisodeDetails(foundEpisode, podcastId);
                             return;
                         }
                     }
@@ -156,7 +156,7 @@
                         if (firstSeasonEpisodes.length > 0) {
                             const episodeDropdown = document.getElementById('episodes-dropdown');
                             episodeDropdown.value = 0;
-                            displayEpisodeDetails(firstSeasonEpisodes[0]);
+                            displayEpisodeDetails(firstSeasonEpisodes[0], podcastId);
                         }
                     }
                 })
@@ -180,7 +180,7 @@
                             if (episodes.length > 0) {
                                 const episodeDropdown = document.getElementById('episodes-dropdown');
                                 episodeDropdown.value = 0;
-                                displayEpisodeDetails(episodes[0]);
+                                displayEpisodeDetails(episodes[0], podcastId);
                             } else {
                                 // If no episodes, reset episode content
                                 document.querySelector('.episode-content').innerHTML = '<h2>No episodes available</h2><p>This season has no episodes available.</p>';
@@ -197,7 +197,7 @@
                 const episodeIndex = this.value;
                 if (episodeIndex !== '') {
                     const episode = JSON.parse(this.options[this.selectedIndex].dataset.episode);
-                    displayEpisodeDetails(episode);
+                    displayEpisodeDetails(episode, podcastId);
                 }
             });
         });
@@ -239,7 +239,7 @@
             });
         }
 
-        function displayEpisodeDetails(episode) {
+        function displayEpisodeDetails(episode, id) {
             const detailsContainer = document.querySelector('.episode-details-fixed .episode-content');
             const transcriptContainer = document.getElementById('transcript-container');
             const selectionTitle = document.getElementById('selection-title');
@@ -427,7 +427,7 @@
 
                 // Create an array of paths to try
                 const pathsToTry = [
-                    `podcasts/plutot_caustique/turbo/${dateStr}/${dateStr}.tsv`
+                    `podcasts/${id}/turbo/${dateStr}/${dateStr}.tsv`
                 ].filter(path => path.includes('//') === false); // Filter out invalid paths
 
                 // Try each path in sequence until one works

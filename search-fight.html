@@ -118,6 +118,15 @@
             fill: #45a049;
         }
 
+        .total-episodes-bar {
+            fill: #FF9800;
+            transition: fill 0.3s;
+        }
+
+        .total-episodes-bar:hover {
+            fill: #F57C00;
+        }
+
         .axis text {
             font-size: 12px;
         }
@@ -210,7 +219,8 @@
                     // Wait for all searches to complete
                     Promise.all(searchPromises)
                         .then(results => {
-                            displayComparisonResults(results, searchTerms, podcastId);
+                            // Pass the total number of episodes to the display function
+                            displayComparisonResults(results, searchTerms, podcastId, allEpisodes.length);
                         })
                         .catch(error => {
                             console.error('Error searching terms:', error);
@@ -347,7 +357,7 @@
             });
         }
 
-        function displayComparisonResults(results, searchTerms, podcastId) {
+        function displayComparisonResults(results, searchTerms, podcastId, totalEpisodes) {
             const resultsContainer = document.getElementById('results-container');
 
             if (results.length === 0) {
@@ -418,10 +428,10 @@
             resultsContainer.appendChild(tableContainer);
 
             // Create the bar chart
-            createBarChart(results);
+            createBarChart(results, totalEpisodes);
         }
 
-        function createBarChart(results) {
+        function createBarChart(results, totalEpisodes) {
             // Clear any existing charts
             d3.select('#chart-container').html('');
             d3.select('#episodes-chart-container').html('');
@@ -519,10 +529,10 @@
                 .text(d => d.totalOccurrences);
 
             // Create second chart for episode numbers
-            createEpisodesChart(results);
+            createEpisodesChart(results, totalEpisodes);
         }
 
-        function createEpisodesChart(results) {
+        function createEpisodesChart(results, totalEpisodes) {
             // Check if we're on a mobile device
             const isMobile = window.innerWidth <= 768;
 
@@ -550,14 +560,24 @@
                 .style('font-weight', 'bold')
                 .text('Episodes Comparison');
 
+            // Create a modified data array that includes the total episodes
+            const modifiedData = [...results];
+
+            // Add total episodes to the data
+            modifiedData.push({
+                term: 'Total Episodes',
+                uniqueEpisodes: totalEpisodes,
+                isTotal: true
+            });
+
             // Create scales
             const x = d3.scaleBand()
-                .domain(results.map(d => d.term))
+                .domain(modifiedData.map(d => d.term))
                 .range([0, width])
                 .padding(0.3);
 
             const y = d3.scaleLinear()
-                .domain([0, d3.max(results, d => d.uniqueEpisodes) * 1.1]) // Add 10% padding
+                .domain([0, d3.max(modifiedData, d => d.uniqueEpisodes) * 1.1]) // Add 10% padding
                 .range([height, 0]);
 
             // Add X axis
@@ -591,29 +611,39 @@
                 .text('Search Terms');
 
             // Add bars
-            svg.selectAll('.episode-bar')
-                .data(results)
+            svg.selectAll('.bar')
+                .data(modifiedData)
                 .enter()
                 .append('rect')
-                .attr('class', 'episode-bar')
+                .attr('class', d => d.isTotal ? 'total-episodes-bar' : 'episode-bar')
                 .attr('x', d => x(d.term))
                 .attr('width', x.bandwidth())
                 .attr('y', d => y(d.uniqueEpisodes))
                 .attr('height', d => height - y(d.uniqueEpisodes))
                 .on('click', function(event, d) {
-                    window.location.href = `search.html?podcast=${podcastId}&query=${encodeURIComponent(d.term)}`;
+                    if (!d.isTotal) {
+                        window.location.href = `search.html?podcast=${podcastId}&query=${encodeURIComponent(d.term)}`;
+                    }
                 });
 
             // Add labels on top of bars
             svg.selectAll('.label')
-                .data(results)
+                .data(modifiedData)
                 .enter()
                 .append('text')
                 .attr('class', 'label')
                 .attr('x', d => x(d.term) + x.bandwidth() / 2)
                 .attr('y', d => y(d.uniqueEpisodes) - 5)
                 .attr('text-anchor', 'middle')
-                .text(d => d.uniqueEpisodes);
+                .text(d => {
+                    if (d.isTotal) {
+                        return d.uniqueEpisodes;
+                    } else {
+                        // Calculate percentage
+                        const percentage = Math.round((d.uniqueEpisodes / totalEpisodes) * 100);
+                        return `${d.uniqueEpisodes} (${percentage}%)`;
+                    }
+                });
         }
     </script>
 </body>
