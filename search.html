@@ -182,14 +182,36 @@
                 </div>
             `;
 
+            // Create search fight section
+            const searchFightSection = document.createElement('div');
+            searchFightSection.className = 'search-fight-section';
+            searchFightSection.innerHTML = `
+                <div class="search-fight-form">
+                    <input type="text" id="new-search-term" placeholder="Enter another search term">
+                    <button id="search-fight-button">Search Fight</button>
+                </div>
+            `;
+
             // Create toggle all button
             const toggleAllButton = document.createElement('button');
             toggleAllButton.className = 'toggle-all-button';
             toggleAllButton.textContent = 'Expand All';
             toggleAllButton.addEventListener('click', toggleAllMatches);
 
+            summarySection.appendChild(searchFightSection);
             summarySection.appendChild(toggleAllButton);
             resultsContainer.appendChild(summarySection);
+
+            // Add event listener for search fight button
+            document.getElementById('search-fight-button').addEventListener('click', function() {
+                const newSearchTerm = document.getElementById('new-search-term').value.trim();
+                if (newSearchTerm) {
+                    // Navigate to search-fight page with both search terms
+                    window.location.href = `search-fight.html?podcast=${podcastId}&terms=${encodeURIComponent(query)},${encodeURIComponent(newSearchTerm)}`;
+                } else {
+                    alert('Please enter a search term to compare.');
+                }
+            });
 
             // Add a heading for the episode list
             const episodesHeading = document.createElement('h3');
