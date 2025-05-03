@@ -27,8 +27,8 @@
         <!-- Podcast selection (collapsible) -->
         <div class="podcast-selection">
             <div class="selection-header">
-                <h3 id="selection-title">Select Podcast</h3>
                 <button id="toggle-selection" class="toggle-button"><i class="fas fa-chevron-down"></i></button>
+                <h3 id="selection-title">Select Podcast</h3>
             </div>
             <div class="selection-content" id="selection-content">
                 <div class="selectors-row">
@@ -82,12 +82,14 @@
 
             // Setup toggle for podcast selection
             const toggleSelectionBtn = document.getElementById('toggle-selection');
+            const selectionHeader = document.querySelector('.selection-header');
             const selectionContent = document.getElementById('selection-content');
 
-            toggleSelectionBtn.addEventListener('click', function() {
+            // Function to toggle the selection content
+            function toggleSelection() {
                 selectionContent.classList.toggle('open');
                 // Change icon based on state
-                const icon = this.querySelector('i');
+                const icon = toggleSelectionBtn.querySelector('i');
                 if (selectionContent.classList.contains('open')) {
                     icon.classList.remove('fa-chevron-down');
                     icon.classList.add('fa-chevron-up');
@@ -95,7 +97,16 @@
                     icon.classList.remove('fa-chevron-up');
                     icon.classList.add('fa-chevron-down');
                 }
+            }
+
+            // Add click event to the button
+            toggleSelectionBtn.addEventListener('click', function(e) {
+                e.stopPropagation(); // Prevent event from bubbling to the header
+                toggleSelection();
             });
+
+            // Add click event to the entire header
+            selectionHeader.addEventListener('click', toggleSelection);
 
             // Initially open the selection content
             selectionContent.classList.add('open');
@@ -247,6 +258,23 @@
             // Update selection title with episode title
             selectionTitle.textContent = episode.episode;
 
+            // Add date to selection header
+            const selectionHeader = document.querySelector('.selection-header');
+
+            // Check if date already exists in the header
+            let dateElement = selectionHeader.querySelector('.compact-date');
+            if (!dateElement) {
+                // Create compact release date and add it to the selection header
+                dateElement = document.createElement('p');
+                dateElement.className = 'compact-date';
+                dateElement.style.margin = '0';
+                dateElement.style.whiteSpace = 'nowrap';
+                selectionHeader.appendChild(dateElement);
+            }
+
+            // Update date text
+            dateElement.textContent = formatDate(episode.date);
+
             // Clear the containers
             detailsContainer.innerHTML = '';
             transcriptContainer.innerHTML = '';
@@ -267,7 +295,7 @@
             `;
             document.head.appendChild(style);
 
-            // Create a player container div to hold the player and date
+            // Create a player container div to hold the player
             const playerContainer = document.createElement('div');
             playerContainer.className = 'player-container';
             playerContainer.style.display = 'flex';
@@ -282,14 +310,6 @@
             audioPlayer.src = episode.url;
             audioPlayer.style.flex = '1';
             playerContainer.appendChild(audioPlayer);
-
-            // Create compact release date and add it to the right of the player
-            const date = document.createElement('p');
-            date.className = 'compact-date';
-            date.textContent = formatDate(episode.date);
-            date.style.marginLeft = '15px';
-            date.style.whiteSpace = 'nowrap';
-            playerContainer.appendChild(date);
 
             // Create a container for the current transcript line
             const currentLineContainer = document.createElement('div');

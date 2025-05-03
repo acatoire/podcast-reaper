@@ -262,16 +262,12 @@
                 episodeTitleContainer.appendChild(toggleButton);
                 episodeTitleContainer.appendChild(episodeTitle);
 
-                const occurrencesCount = document.createElement('div');
-                occurrencesCount.className = 'occurrences-count';
-                occurrencesCount.textContent = `${result.occurrences} occurrence${result.occurrences !== 1 ? 's' : ''}`;
-
                 episodeHeader.appendChild(episodeTitleContainer);
-                episodeHeader.appendChild(occurrencesCount);
 
                 const episodeInfo = document.createElement('div');
                 episodeInfo.className = 'episode-info';
                 episodeInfo.innerHTML = `
+                    <span class="occurrences-count">${result.occurrences} occurrence${result.occurrences !== 1 ? 's' : ''}</span> | 
                     <span class="episode-season">${result.episode.seasonName}</span> | 
                     <span class="episode-date">${formatDate(result.episode.date)}</span>
                 `;
