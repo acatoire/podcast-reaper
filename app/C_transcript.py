@@ -21,7 +21,7 @@ max_threads = os.cpu_count()
 
 # Load the Whisper model
 print(f"Loading Whisper model: {model_size}")
-model = whisper.load_model(model_size) # TODO load in parallel with user input
+model = whisper.load_model(model_size)
 
 # List all MP3 files in the input folder
 mp3_files = [filename for filename in os.listdir(input_folder) if filename.endswith(".mp3")]
@@ -30,13 +30,14 @@ mp3_files = [filename for filename in os.listdir(input_folder) if filename.endsw
 print("MP3 files found:")
 for index, filename in enumerate(mp3_files, start=1):
     print(f"{time.strftime('%H:%M:%S')} - {index/len(mp3_files)*100:.2f}% - {index}/{len(mp3_files)}: {filename}")
+    dateName = filename[0:10]
     file_path = os.path.join(input_folder, filename)
 
     # Create output directory structure
     base_name = os.path.splitext(filename)[0]
-    output_dir = os.path.join(output_folder, model_size, base_name)
-    transcript_path = os.path.join(output_dir, "transcript.txt")
-    info_path = os.path.join(output_dir, "info.txt")
+    output_dir = os.path.join(output_folder, model_size, dateName)
+    transcript_path = os.path.join(output_dir, f"{dateName}-transcript.txt")
+    info_path = os.path.join(output_dir, f"{dateName}-info.txt")
 
     if os.path.exists(transcript_path):
         print(f"Transcript already exists for {filename}, skipping.")
