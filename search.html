@@ -14,6 +14,8 @@
             <a href="javascript:history.back()" class="back-button"><i class="fas fa-arrow-left"></i></a>
             <h1 id="search-title">Search Results</h1>
         </div>
+        <!-- Placeholder for search summary -->
+        <div id="search-summary-container"></div>
     </div>
 
     <div class="scrollable-content">
@@ -158,9 +160,11 @@
 
         function displaySearchResults(results, query, podcastId) {
             const resultsContainer = document.getElementById('results-container');
+            const searchSummaryContainer = document.getElementById('search-summary-container');
 
             if (results.length === 0) {
                 resultsContainer.innerHTML = `<p>No matches found for "${query}".</p>`;
+                searchSummaryContainer.innerHTML = '';
                 return;
             }
 
@@ -177,8 +181,10 @@
             summarySection.innerHTML = `
                 <h2>"${query}"</h2>
                 <div class="search-stats">
-                    <p class="stat-number">${totalOccurrences} Times</p>
-                    <p class="stat-number">${results.length} episode${results.length !== 1 ? 's' : ''}</p>
+                    <p class="stat-number">
+                        ${totalOccurrences} Times
+                        ${results.length} episode${results.length !== 1 ? 's' : ''}
+                        </p>
                 </div>
             `;
 
@@ -193,7 +199,7 @@
             `;
 
             summarySection.appendChild(searchFightSection);
-            resultsContainer.appendChild(summarySection);
+            searchSummaryContainer.appendChild(summarySection);
 
             // Add event listener for search fight button
             document.getElementById('search-fight-button').addEventListener('click', function() {

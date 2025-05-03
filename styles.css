@@ -30,7 +30,6 @@ h1 {
     top: 0;
     background-color: #fff;
     z-index: 100;
-    padding: 15px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
@@ -38,7 +37,7 @@ h1 {
 .podcast-header {
     display: flex;
     align-items: center;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .back-button {
@@ -87,6 +86,22 @@ h1 {
     width: 100%;
     height: 200px;
     object-fit: cover;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.podcast-card a:hover img {
+    transform: scale(1.03);
+}
+
+.podcast-title-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.podcast-title-link:hover h2 {
+    color: #3a5a80;
+    text-decoration: underline;
 }
 
 
@@ -304,7 +319,6 @@ h1 {
     gap: 10px;
     align-items: center;
     flex-wrap: nowrap;
-    margin: 20px 0;
     justify-content: center;
 }
 
@@ -471,27 +485,21 @@ h1 {
 
 .search-summary {
     text-align: center;
-    margin-bottom: 20px;
-    padding: 20px;
     background-color: white;
-    border: 1px solid #ddd;
-    border-radius: 8px;
 }
 
 .search-summary h2 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #2c3e50;
-    margin-bottom: 10px;
 }
 
-/* .search-query class is no longer used as the query is now part of the h2 */
-
 .search-stats {
-    margin: 20px 0;
+    margin:
+            0 0;
 }
 
 .search-stats p {
-    margin: 5px 0;
+    margin: 0 0;
 }
 
 .stat-number {
@@ -501,8 +509,6 @@ h1 {
 }
 
 .search-summary .toggle-all-button {
-    margin-top: 15px;
-    padding: 10px 20px;
     font-size: 1rem;
 }
 
@@ -525,7 +531,7 @@ h1 {
     color: white;
     border: none;
     border-radius: 4px;
-    padding: 8px 15px;
+    padding: 8px 5px;
     cursor: pointer;
     font-weight: bold;
 }
@@ -590,7 +596,7 @@ h1 {
 }
 
 .matches-list {
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 .matches-list.collapsed {
@@ -699,7 +705,7 @@ h1 {
 }
 
 .tsv-container h3 {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     color: #4a6fa5;
 }
 
@@ -934,19 +940,18 @@ h1 {
 
     /* Responsive styles for search summary */
     .search-summary {
-        padding: 15px;
-        margin-bottom: 15px;
+        padding: 10px;
+        margin: 5px 0;
     }
 
     .search-summary h2 {
         font-size: 1.8rem;
-        margin-bottom: 15px;
     }
 
     /* .search-query class is no longer used as the query is now part of the h2 */
 
     .search-stats {
-        margin: 15px 0;
+        margin: 5px 0;
     }
 
     .stat-number {
@@ -955,7 +960,7 @@ h1 {
 
     .search-summary .toggle-all-button {
         margin-top: 10px;
-        padding: 8px 15px;
+        padding: 8px 5px;
         font-size: 0.9rem;
         width: 100%;
     }
@@ -967,7 +972,7 @@ h1 {
 
     .episodes-heading {
         font-size: 1.1rem;
-        margin: 15px 0;
+        margin: 5px 0;
         padding-top: 5px;
     }
 }
