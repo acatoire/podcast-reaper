@@ -6,6 +6,24 @@
     <title>Podcast Reaper</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+        .podcast-stats {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #eee;
+            font-size: 0.9rem;
+            color: #666;
+        }
+        .podcast-stats span {
+            display: flex;
+            align-items: center;
+        }
+        .podcast-stats i {
+            margin-right: 5px;
+        }
+    </style>
 </head>
 <body>
     <div class="fixed-content">
@@ -18,7 +36,7 @@
     <div class="scrollable-content">
         <main>
             <div class="podcast-list">
-                <div class="podcast-card">
+                <div class="podcast-card" data-podcast-id="plutot_caustique">
                     <a href="podcast.html?id=plutot_caustique">
                         <img src="./podcasts/plutot_caustique/logo.png" alt="Plutot Caustique">
                     </a>
@@ -33,9 +51,13 @@
                             <a href="https://open.spotify.com/show/3Lxbi2pKd0lJTlFUHyjFJV" target="_blank" title="Listen on Spotify"><i class="fa-brands fa-spotify"></i></a>
                             <a href="https://www.deezer.com/fr/show/59996" target="_blank" title="Listen on Deezer"><i class="fa-brands fa-deezer"></i></a>
                         </div>
+                        <div class="podcast-stats">
+                            <span><i class="fas fa-podcast"></i> <span class="episode-count">Loading...</span></span>
+                            <span><i class="fas fa-clock"></i> <span class="total-time">Loading...</span></span>
+                        </div>
                     </div>
                 </div>
-                <div class="podcast-card">
+                <div class="podcast-card" data-podcast-id="pardon_gpt">
                     <a href="podcast.html?id=pardon_gpt">
                         <img src="./podcasts/pardon_gpt/logo.jpeg" alt="Pardon GPT">
                     </a>
@@ -50,11 +72,135 @@
                             <a href="https://open.spotify.com/show/15oSRGTL6iuzxZCuGZm12i" target="_blank" title="Listen on Spotify"><i class="fa-brands fa-spotify"></i></a>
                             <a href="https://www.deezer.com/fr/show/3850777" target="_blank" title="Listen on Deezer"><i class="fa-brands fa-deezer"></i></a>
                         </div>
+                        <div class="podcast-stats">
+                            <span><i class="fas fa-podcast"></i> <span class="episode-count">Loading...</span></span>
+                            <span><i class="fas fa-clock"></i> <span class="total-time">Loading...</span></span>
+                        </div>
                     </div>
                 </div>
                 <!-- More podcast cards can be added here as they become available -->
             </div>
         </main>
     </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get all podcast cards
+            const podcastCards = document.querySelectorAll('.podcast-card');
+
+            // Process each podcast card
+            podcastCards.forEach(card => {
+                const podcastId = card.getAttribute('data-podcast-id');
+                const episodeCountElement = card.querySelector('.episode-count');
+                const totalTimeElement = card.querySelector('.total-time');
+
+                // Fetch podcast data
+                fetch(`podcasts/${podcastId}/episodes.json`)
+                    .then(response => response.json())
+                    .then(data => {
+                        // Count total episodes
+                        let totalEpisodes = 0;
+                        const episodeDates = [];
+
+                        data.Saisons.forEach(season => {
+                            // Handle nested arrays in episodes (like in pardon_gpt)
+                            if (Array.isArray(season.episodes) && season.episodes.length > 0) {
+                                if (Array.isArray(season.episodes[0])) {
+                                    // Handle nested array structure
+                                    season.episodes.forEach(episodeGroup => {
+                                        episodeGroup.forEach(episode => {
+                                            totalEpisodes++;
+                                            episodeDates.push(episode.date);
+                                        });
+                                    });
+                                } else {
+                                    // Handle flat array structure
+                                    totalEpisodes += season.episodes.length;
+                                    season.episodes.forEach(episode => {
+                                        episodeDates.push(episode.date);
+                                    });
+                                }
+                            }
+                        });
+
+                        // Update episode count
+                        episodeCountElement.textContent = `${totalEpisodes} ep`;
+
+                        // Calculate total time from TSV files
+                        calculateTotalTime(podcastId, episodeDates, totalTimeElement);
+                    })
+                    .catch(error => {
+                        console.error(`Error loading podcast data for ${podcastId}:`, error);
+                        episodeCountElement.textContent = 'Error loading';
+                        totalTimeElement.textContent = 'Error loading';
+                    });
+            });
+        });
+
+        function calculateTotalTime(podcastId, episodeDates, totalTimeElement) {
+            let totalTimeMs = 0;
+            let processedCount = 0;
+
+            // Process each episode
+            episodeDates.forEach(date => {
+                // Fetch TSV file
+                fetch(`podcasts/${podcastId}/turbo/${date}/${date}.tsv`)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('TSV file not found');
+                        }
+                        return response.text();
+                    })
+                    .then(tsvContent => {
+                        // Parse TSV content
+                        const lines = tsvContent.split('\n');
+
+                        // Get the last line with content
+                        let lastLine = null;
+                        for (let i = lines.length - 1; i >= 0; i--) {
+                            if (lines[i].trim() !== '') {
+                                lastLine = lines[i];
+                                break;
+                            }
+                        }
+
+                        if (lastLine) {
+                            // Extract end time from the last line
+                            const parts = lastLine.split('\t');
+                            if (parts.length >= 2) {
+                                const endTime = parseInt(parts[1]);
+                                if (!isNaN(endTime)) {
+                                    totalTimeMs += endTime;
+                                }
+                            }
+                        }
+                    })
+                    .catch(error => {
+                        console.warn(`Error loading TSV for ${date}:`, error);
+                    })
+                    .finally(() => {
+                        processedCount++;
+
+                        // When all episodes are processed, update the total time display
+                        if (processedCount === episodeDates.length) {
+                            // Convert milliseconds to day, hours and minutes
+                            const totalDays = Math.floor(totalTimeMs / (1000 * 60 * 60 * 24));
+                            const remainingMs = totalTimeMs % (1000 * 60 * 60 * 24);
+                            const totalHours = Math.floor(remainingMs / (1000 * 60 * 60));
+                            const totalMinutes = Math.floor((remainingMs % (1000 * 60 * 60)) / (1000 * 60));
+
+                            totalTimeElement.textContent = `${totalDays}d ${totalHours}h ${totalMinutes}m`;
+                        }
+                    });
+            });
+        }
+
+        // Helper function to format time
+        function formatTime(milliseconds) {
+            const hours = Math.floor(milliseconds / (1000 * 60 * 60));
+            const minutes = Math.floor((milliseconds % (1000 * 60 * 60)) / (1000 * 60));
+            return `${hours}h ${minutes}m`;
+        }
+    </script>
 </body>
 </html>
