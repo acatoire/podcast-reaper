@@ -97,7 +97,6 @@
             height: 400px;
             margin-top: 30px;
             width: 100%;
-            overflow-x: auto;
         }
 
         .bar {
@@ -162,16 +161,18 @@
             <h1 id="search-fight-title">Search Fight</h1>
         </div>
 
+        <div class="search-fight-header">
+            <p>Compare search results across different terms</p>
+        </div>
+
+        <div class="search-fight-form">
+            <input type="text" id="new-search-term" placeholder="Enter another search term">
+            <button id="add-term-button">Add Term</button>
+        </div>
+    </div>
+
+    <div class="scrollable-content">
         <div class="search-fight-container">
-            <div class="search-fight-header">
-                <p>Compare search results across different terms</p>
-            </div>
-
-            <div class="search-fight-form">
-                <input type="text" id="new-search-term" placeholder="Enter another search term">
-                <button id="add-term-button">Add Term</button>
-            </div>
-
             <div id="results-container">
                 <p>Loading comparison data...</p>
             </div>
@@ -480,20 +481,7 @@
                 .selectAll('text')
                 .style('text-anchor', 'middle');
 
-            // Add Y axis only if not on mobile
-            if (!isMobile) {
-                svg.append('g')
-                    .call(d3.axisLeft(y));
-
-                // Add Y axis label
-                svg.append('text')
-                    .attr('class', 'axis-label')
-                    .attr('transform', 'rotate(-90)')
-                    .attr('x', -height / 2)
-                    .attr('y', -margin.left + 15)
-                    .style('text-anchor', 'middle')
-                    .text('Number of Occurrences');
-            }
+            // Y axis legends removed as per requirements
 
             // Add X axis label
             svg.append('text')
@@ -587,20 +575,7 @@
                 .selectAll('text')
                 .style('text-anchor', 'middle');
 
-            // Add Y axis only if not on mobile
-            if (!isMobile) {
-                svg.append('g')
-                    .call(d3.axisLeft(y));
-
-                // Add Y axis label
-                svg.append('text')
-                    .attr('class', 'axis-label')
-                    .attr('transform', 'rotate(-90)')
-                    .attr('x', -height / 2)
-                    .attr('y', -margin.left + 15)
-                    .style('text-anchor', 'middle')
-                    .text('Number of Episodes');
-            }
+            // Y axis legends removed as per requirements
 
             // Add X axis label
             svg.append('text')

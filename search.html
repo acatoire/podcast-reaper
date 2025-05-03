@@ -14,7 +14,9 @@
             <a href="javascript:history.back()" class="back-button"><i class="fas fa-arrow-left"></i></a>
             <h1 id="search-title">Search Results</h1>
         </div>
+    </div>
 
+    <div class="scrollable-content">
         <div class="search-results">
             <div id="results-container" class="results-container">
                 <p>Searching transcripts...</p>
@@ -173,13 +175,9 @@
             summarySection.className = 'search-summary';
 
             summarySection.innerHTML = `
-                <h2>Search Results for</h2>
                 <h2>"${query}"</h2>
-
                 <div class="search-stats">
-                    <p>Found</p>
                     <p class="stat-number">${totalOccurrences} Times</p>
-                    <p>In</p>
                     <p class="stat-number">${results.length} episode${results.length !== 1 ? 's' : ''}</p>
                 </div>
             `;
