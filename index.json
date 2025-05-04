@@ -1,0 +1,49 @@
+{
+  "podcasts": [
+    {
+      "id": "plutot_caustique",
+      "name": "Plutot Caustique",
+      "image": "./podcasts/plutot_caustique/logo.png",
+      "platforms": {
+        "apple": "https://podcasts.apple.com/fr/podcast/plut%C3%B4t-caustique/id1384316631",
+        "acast": "https://feeds.acast.com/public/shows/plutot-caustique",
+        "spotify": "https://open.spotify.com/show/3Lxbi2pKd0lJTlFUHyjFJV",
+        "deezer": "https://www.deezer.com/fr/show/59996"
+      }
+    },
+    {
+      "id": "pardon_gpt",
+      "name": "Pardon GPT",
+      "image": "./podcasts/pardon_gpt/logo.jpeg",
+      "platforms": {
+        "apple": "https://podcasts.apple.com/fr/podcast/pardon-gpt/id1687086031",
+        "acast": "https://feeds.acast.com/public/shows/pardon-gpt",
+        "spotify": "https://open.spotify.com/show/15oSRGTL6iuzxZCuGZm12i",
+        "deezer": "https://www.deezer.com/fr/show/3850777"
+      }
+    },
+    {
+      "id": "podkassos",
+      "name": "Podkassos",
+      "image": "./podcasts/podkassos/logo.jpeg",
+      "platforms": {
+        "apple": "https://podcasts.apple.com/fr/podcast/podkassos/id1714420932",
+        "acast": "https://feeds.acast.com/public/shows/podkassos",
+        "spotify": "https://open.spotify.com/show/5oEwhzXKUAWcHklOWWbVmS",
+        "deezer": "https://www.deezer.com/fr/show/1000396911"
+      }
+    },
+    {
+      "id": "fucked_up_movies",
+      "name": "F*cked Up Movies",
+      "image": "./podcasts/fucked_up_movies/logo.jpeg",
+      "platforms": {
+        "apple": "https://podcasts.apple.com/fr/podcast/f-d-up-movies/id1559710522",
+        "acast": null,
+        "spotify": "https://open.spotify.com/show/44jJgQZjzsttdWTCI4GJcc",
+        "deezer": "https://www.deezer.com/fr/show/2333762",
+        "ausha": "https://podcast.ausha.co/fucked-up-movies"
+      }
+    }
+  ]
+}

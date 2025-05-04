@@ -1,0 +1,9908 @@
+1
+00:00:00,000 --> 00:00:01,580
+WASH !
+
+2
+00:00:01,580 --> 00:00:07,100
+Ça, c'est Fred qui découvre qu'il peut payer hyper facilement son lavage avec l'application WASH de Total Energy.
+
+3
+00:00:08,460 --> 00:00:09,100
+WASH !
+
+4
+00:00:09,100 --> 00:00:15,360
+Et ça, c'est Fred qui découvre qu'en rechargeant son compte sur son appli WASH, il peut gagner jusqu'à 25 euros de bonus lavage.
+
+5
+00:00:15,800 --> 00:00:20,720
+Découvrez tous les avantages et achetez facilement votre lavage grâce à l'application WASH de Total Energy.
+
+6
+00:00:22,600 --> 00:00:24,460
+Et ça, c'est le jingle Total Energy.
+
+7
+00:00:24,780 --> 00:00:25,720
+Offre sous mise à condition.
+
+8
+00:00:25,920 --> 00:00:28,420
+Plus d'informations sur wash-totalenergie.fr.
+
+9
+00:00:28,420 --> 00:00:30,020
+L'énergie est notre avenir, économisons-la.
+
+10
+00:00:32,660 --> 00:00:36,860
+Bon, les gars, c'est bon, ça y est, c'est rayé, c'est le moment pub, ça y est, on a percé.
+
+11
+00:00:37,140 --> 00:00:39,000
+T'es enfin compris dans une salle de plus de 12 ?
+
+12
+00:00:39,000 --> 00:00:41,300
+Ferme-la. Non, j'ai trouvé un sponsor.
+
+13
+00:00:41,720 --> 00:00:44,000
+Mais qu'est-ce que c'est ? Une marque de bière, un shampoing ?
+
+14
+00:00:44,000 --> 00:00:46,620
+Non, bien vu, mais non, NordVPN, les gars.
+
+15
+00:00:46,960 --> 00:00:49,260
+Oh, NordVPN, le VPN le plus connu d'Internet !
+
+16
+00:00:49,260 --> 00:00:52,340
+Ah, voilà, je savais que Franjo, tu serais parfait pour les pubs, tu es fait pour ça.
+
+17
+00:00:52,680 --> 00:00:55,660
+Mais Urbain, enfin, à quoi ça peut bien servir un VPN ?
+
+18
+00:00:55,660 --> 00:01:00,340
+Excellente question, Pierre. Un VPN permet de chiffrer toute son activité en ligne et donc de renforcer sa confidentialité.
+
+19
+00:01:00,460 --> 00:01:04,860
+Et aussi de faire croire à son ordinateur qu'on n'est pas à l'endroit où on est en changeant d'adresse IP et donc d'emplacement virtuel.
+
+20
+00:01:05,200 --> 00:01:07,080
+Comme quand je dis à ma meuf que je travaille alors qu'en fait, je suis au bar.
+
+21
+00:01:07,280 --> 00:01:11,420
+Donc on peut contourner les géorestrictions et mater des films pas dispo en France sur les catalogues de streaming.
+
+22
+00:01:11,680 --> 00:01:13,320
+Mais exactement, Franjo.
+
+23
+00:01:13,480 --> 00:01:15,860
+Et toi, Pierre, pourquoi utilises-tu le VPN ?
+
+24
+00:01:15,860 --> 00:01:18,120
+Ouais, moi, les pubs, je vous laisse faire, les gars. Vous le faites très bien sans moi.
+
+25
+00:01:18,120 --> 00:01:19,340
+Franchement, t'as déjà été pas mal.
+
+26
+00:01:19,420 --> 00:01:25,040
+Avec le code promo PODKASSOS, P-O-D-K-S-S-O, PODKASSOS, quoi, en passant directement par le lien en description.
+
+27
+00:01:25,580 --> 00:01:29,600
+Vous avez 4 mois à offert pour un abonnement de 2 ans et vous pouvez résulier au bout de 30 jours si vous n'êtes pas satisfait.
+
+28
+00:01:29,740 --> 00:01:30,760
+Mais c'est super, ça !
+
+29
+00:01:30,760 --> 00:01:31,600
+Ouais, carrément.
+
+30
+00:01:31,760 --> 00:01:33,360
+Non, mais fais plus d'entrains, fais la voix de pub.
+
+31
+00:01:33,720 --> 00:01:35,440
+Ah oui, trop bien, la vie !
+
+32
+00:01:35,440 --> 00:01:36,120
+Voilà !
+
+33
+00:01:36,720 --> 00:01:37,920
+Bon, voilà, vous avez tous les renseignements.
+
+34
+00:01:38,060 --> 00:01:41,120
+Merci NordVPN de nous sponsoriser. Maintenant, on est des vrais gars d'Internet.
+
+35
+00:01:41,260 --> 00:01:42,820
+Allez, arrête. Même dans les pubs, tu parles trop.
+
+36
+00:01:42,820 --> 00:01:45,140
+C'est vrai que je parlais un peu beaucoup, mais j'aime bien.
+
+37
+00:01:46,880 --> 00:01:49,660
+Bonjour à tous et bienvenue sur PODKASSOS. J'espère que vous allez bien.
+
+38
+00:01:49,760 --> 00:01:50,260
+C'est mon préf.
+
+39
+00:01:50,500 --> 00:01:51,320
+C'est ton préféré ?
+
+40
+00:01:51,320 --> 00:01:55,800
+J'espère que vous allez bien, avec un petit ton de con, mais sinon c'était super.
+
+41
+00:01:56,040 --> 00:01:59,740
+Il a fait un regard à nous, un regard séducteur.
+
+42
+00:02:00,560 --> 00:02:01,720
+Non, mais pour avoir l'approbation.
+
+43
+00:02:02,620 --> 00:02:05,260
+Oui, franchement, j'ai trouvé pas mal jusqu'à la fin.
+
+44
+00:02:05,640 --> 00:02:07,080
+Mais de toute façon, là, t'es en franque, j'ai envie de baiser.
+
+45
+00:02:07,200 --> 00:02:08,700
+Ça fait 2 épisodes, t'es en franque, j'ai envie de baiser.
+
+46
+00:02:08,900 --> 00:02:10,300
+Arrête, arrête, arrête, ça j'en ai brûlé.
+
+47
+00:02:10,300 --> 00:02:12,260
+On a tout lâché niveau fringues, on fait n'importe quoi.
+
+48
+00:02:12,440 --> 00:02:13,780
+Toi, là, t'es, Franjo, envie de baiser.
+
+49
+00:02:13,900 --> 00:02:15,140
+C'est l'été, ça doit faire ça.
+
+50
+00:02:15,220 --> 00:02:16,040
+Tu caresses un peu le micro.
+
+51
+00:02:16,060 --> 00:02:17,480
+Tu baisses qu'un mois par an, ça doit être celui-là.
+
+52
+00:02:18,800 --> 00:02:19,800
+Et puis un spécial.
+
+53
+00:02:20,220 --> 00:02:24,140
+Déjà, c'est comme d'habitude, Franjo, Pierre Thévenoux et Urbain.
+
+54
+00:02:24,480 --> 00:02:26,180
+Et on a un invité spécial.
+
+55
+00:02:26,400 --> 00:02:27,840
+Je vous demande d'applaudir, s'il vous plaît.
+
+56
+00:02:28,220 --> 00:02:28,620
+Ilias.
+
+57
+00:02:29,200 --> 00:02:29,700
+Salut tout le monde.
+
+58
+00:02:30,780 --> 00:02:32,660
+Ilias, avec tout le respect, je viens de te rencontrer.
+
+59
+00:02:33,080 --> 00:02:35,540
+Mais spécial, c'est le gars qui est en vacances avec nous.
+
+60
+00:02:35,920 --> 00:02:36,920
+Il n'y a rien de spécial.
+
+61
+00:02:37,880 --> 00:02:38,400
+T'as tabus.
+
+62
+00:02:38,400 --> 00:02:41,080
+J'allais faire un deux minutes deux.
+
+63
+00:02:42,280 --> 00:02:46,840
+C'est les gens genre, vous vous demandez sûrement où vous avez déjà vu ce visage qui vous paraît familier.
+
+64
+00:02:47,740 --> 00:02:48,680
+Eh ben nulle part.
+
+65
+00:02:48,900 --> 00:02:50,520
+Parce que c'est un putain d'inconnu.
+
+66
+00:02:51,740 --> 00:02:53,020
+Non, vous l'avez vu dans les vidéos de Franjo.
+
+67
+00:02:53,580 --> 00:02:54,140
+Non, non.
+
+68
+00:02:54,280 --> 00:02:56,820
+Alors, Ilias, pour le présenter rapidement.
+
+69
+00:02:57,620 --> 00:02:58,380
+Vas-y, présente-toi.
+
+70
+00:02:58,440 --> 00:02:58,920
+Je me présente.
+
+71
+00:02:59,140 --> 00:02:59,700
+Salut tout le monde.
+
+72
+00:02:59,880 --> 00:03:00,680
+Moi, c'est Ilias, du coup.
+
+73
+00:03:01,220 --> 00:03:02,400
+Comment on me connaît ?
+
+74
+00:03:02,400 --> 00:03:03,060
+Pourquoi je suis là ?
+
+75
+00:03:03,060 --> 00:03:03,740
+T'es spécial ?
+
+76
+00:03:03,740 --> 00:03:04,740
+Pourquoi je suis spécial ?
+
+77
+00:03:04,740 --> 00:03:07,160
+Je suis là aujourd'hui parce que je suis végétarien depuis 2020.
+
+78
+00:03:07,880 --> 00:03:09,620
+C'est ça ma petite touche charme.
+
+79
+00:03:09,800 --> 00:03:12,020
+Mais vous m'avez peut-être vu avant dans certaines vidéos de Franjo.
+
+80
+00:03:12,180 --> 00:03:13,320
+Le crevard 1, le crevard 2.
+
+81
+00:03:13,320 --> 00:03:14,340
+Le crevard 1, le crevard 4.
+
+82
+00:03:14,340 --> 00:03:15,540
+Ah, pardon.
+
+83
+00:03:15,540 --> 00:03:18,000
+Le déconfinement, le reconfinement, le redéconfinement.
+
+84
+00:03:18,300 --> 00:03:19,240
+On est sur un acteur.
+
+85
+00:03:19,240 --> 00:03:19,740
+On est sur un acteur.
+
+86
+00:03:20,780 --> 00:03:22,540
+Attends, mais je suis un vrai connard.
+
+87
+00:03:22,660 --> 00:03:23,960
+Parce que le crevard 2, je suis dedans.
+
+88
+00:03:24,440 --> 00:03:24,960
+En plus, t'es dedans.
+
+89
+00:03:25,000 --> 00:03:25,860
+Mais il y a un moyen, mec.
+
+90
+00:03:26,100 --> 00:03:27,980
+Mais c'est possible qu'on n'ait pas fait les mêmes scènes.
+
+91
+00:03:28,040 --> 00:03:30,040
+La scène de la Switch, tu ne l'as pas faite ?
+
+92
+00:03:30,040 --> 00:03:30,200
+Si.
+
+93
+00:03:30,920 --> 00:03:32,140
+Si, si, vous êtes dans la même vidéo.
+
+94
+00:03:32,280 --> 00:03:33,400
+Après, Urban et Connit.
+
+95
+00:03:34,400 --> 00:03:35,120
+C'était toi.
+
+96
+00:03:35,200 --> 00:03:36,040
+Urban et un connard.
+
+97
+00:03:36,080 --> 00:03:37,320
+Arnaque sur le bon coin 1.
+
+98
+00:03:37,380 --> 00:03:37,780
+Ah oui, oui.
+
+99
+00:03:37,920 --> 00:03:38,840
+Il y a Ilias et Urban dans la même vidéo.
+
+100
+00:03:38,840 --> 00:03:40,720
+Ah oui, mais on n'a pas fait les scènes en même temps.
+
+101
+00:03:40,980 --> 00:03:41,680
+Je ne suis pas fou.
+
+102
+00:03:41,800 --> 00:03:42,500
+Je suis un connard.
+
+103
+00:03:42,500 --> 00:03:44,920
+Mais j'ai quand même quelqu'un que j'ai déjà vu.
+
+104
+00:03:45,340 --> 00:03:46,380
+Justement parce que je suis un connard.
+
+105
+00:03:46,460 --> 00:03:46,980
+Je suis là, tiens, lui.
+
+106
+00:03:47,340 --> 00:03:47,760
+Je ne l'aime pas.
+
+107
+00:03:48,480 --> 00:03:49,180
+Je m'en rappelle.
+
+108
+00:03:50,120 --> 00:03:51,160
+C'était un gros budget.
+
+109
+00:03:51,320 --> 00:03:53,080
+Alors, tu es végétarien depuis 3 ans, c'est ça ?
+
+110
+00:03:53,080 --> 00:03:53,380
+C'est ça.
+
+111
+00:03:53,920 --> 00:03:54,720
+Oui, exactement.
+
+112
+00:03:55,380 --> 00:03:56,900
+Depuis 2020, un peu plus.
+
+113
+00:03:57,260 --> 00:03:58,280
+Mais j'ai commencé la viande.
+
+114
+00:03:58,280 --> 00:03:59,940
+En gros, j'ai arrêté la viande d'abord pendant un an.
+
+115
+00:04:00,200 --> 00:04:01,580
+Puis après, j'ai arrêté le poisson.
+
+116
+00:04:01,700 --> 00:04:03,480
+Mais tu es au courant que, pardon, encore une fois.
+
+117
+00:04:03,860 --> 00:04:05,780
+Mais ce n'est même pas vegan.
+
+118
+00:04:05,780 --> 00:04:06,640
+Et ça fait 3 ans.
+
+119
+00:04:06,760 --> 00:04:08,040
+Ce n'est pas non plus dingo.
+
+120
+00:04:09,100 --> 00:04:10,700
+On n'a pas vu les mecs.
+
+121
+00:04:11,420 --> 00:04:12,380
+On n'avait que ça.
+
+122
+00:04:12,580 --> 00:04:13,020
+On a invité.
+
+123
+00:04:13,500 --> 00:04:14,040
+Non, non, d'accord.
+
+124
+00:04:14,200 --> 00:04:15,380
+Mais je veux dire, c'est un humain.
+
+125
+00:04:15,480 --> 00:04:16,700
+Il a fait d'autres choses dans sa vie.
+
+126
+00:04:17,020 --> 00:04:18,960
+Ce n'est pas assez pour te définir, gros.
+
+127
+00:04:19,340 --> 00:04:20,560
+Ce n'est pas assez pour définir.
+
+128
+00:04:20,600 --> 00:04:21,760
+Mais c'est quand même un bon témoignage.
+
+129
+00:04:21,940 --> 00:04:22,520
+Comme putain.
+
+130
+00:04:22,600 --> 00:04:24,700
+Là, il doit y avoir des vegans qui pleurent de rire.
+
+131
+00:04:25,220 --> 00:04:26,420
+Déjà, on n'a pas dit vegan.
+
+132
+00:04:26,820 --> 00:04:27,580
+On a dit végétarien.
+
+133
+00:04:27,600 --> 00:04:28,280
+Oui, c'est ce que je dis.
+
+134
+00:04:28,500 --> 00:04:29,520
+Donc, c'est quand même.
+
+135
+00:04:29,880 --> 00:04:31,140
+Moi, je trouve que c'est un bon exemple.
+
+136
+00:04:31,260 --> 00:04:31,700
+C'est déjà bien.
+
+137
+00:04:31,700 --> 00:04:35,080
+C'est un truc accessible, pas je suis vegan depuis 15 pieds.
+
+138
+00:04:35,220 --> 00:04:36,120
+C'est trop loin.
+
+139
+00:04:36,400 --> 00:04:39,660
+Là, c'est un gars à peu près classique.
+
+140
+00:04:39,900 --> 00:04:40,940
+Ok, d'accord.
+
+141
+00:04:41,460 --> 00:04:41,840
+Et il le tient.
+
+142
+00:04:42,020 --> 00:04:43,060
+Ce n'est pas assez mon choix.
+
+143
+00:04:43,220 --> 00:04:43,960
+Je suis végétarien.
+
+144
+00:04:44,400 --> 00:04:45,860
+Ce n'est pas assez pour un c'est mon choix.
+
+145
+00:04:46,480 --> 00:04:48,640
+Mais c'est bien parce que c'est accessible.
+
+146
+00:04:49,160 --> 00:04:50,720
+Et du coup, ça nous amène à la première question
+
+147
+00:04:50,720 --> 00:04:53,480
+à laquelle on a tout de suite pensé avec Davidson.
+
+148
+00:04:53,960 --> 00:04:56,700
+Comment fait-on pour être gros et végétarien ?
+
+149
+00:04:58,200 --> 00:05:00,560
+Alors, déjà, une chronophobie.
+
+150
+00:05:00,560 --> 00:05:03,020
+Est-ce qu'il faut me décrire pour les gens qui sont en fait cas sur Spotify ?
+
+151
+00:05:03,020 --> 00:05:04,140
+Arrête, il n'a pas de quoi.
+
+152
+00:05:04,320 --> 00:05:05,160
+Il n'est pas gros gros.
+
+153
+00:05:05,160 --> 00:05:06,200
+Il faut groter les bourrelets pour les gens.
+
+154
+00:05:06,420 --> 00:05:08,460
+Je t'ai vu te mettre en maillot tout à l'heure.
+
+155
+00:05:08,620 --> 00:05:09,480
+Tu as un peu de bide.
+
+156
+00:05:10,600 --> 00:05:11,520
+Il y a un peu de cul.
+
+157
+00:05:11,820 --> 00:05:12,340
+Tu es gros, quoi.
+
+158
+00:05:13,620 --> 00:05:15,380
+Tu plisses un peu.
+
+159
+00:05:15,460 --> 00:05:16,180
+Il y a un côté charpé.
+
+160
+00:05:17,160 --> 00:05:18,600
+Mais tu n'es pas gros du tout.
+
+161
+00:05:19,060 --> 00:05:19,340
+Pas gros.
+
+162
+00:05:20,040 --> 00:05:20,800
+Sur quoi, alors ?
+
+163
+00:05:20,800 --> 00:05:21,620
+La question plutôt est,
+
+164
+00:05:21,800 --> 00:05:23,960
+est-ce que tu as pris des kilos depuis ces trois ans ?
+
+165
+00:05:23,960 --> 00:05:24,740
+Oui, j'en ai pris.
+
+166
+00:05:24,940 --> 00:05:27,100
+Mais c'est aussi parce que je suis devenu végétarien pendant le Covid.
+
+167
+00:05:27,300 --> 00:05:28,020
+Donc, on bouge moins.
+
+168
+00:05:28,300 --> 00:05:28,940
+On sort moins.
+
+169
+00:05:28,940 --> 00:05:30,940
+Et que les pépitos, c'est végétarien.
+
+170
+00:05:31,040 --> 00:05:33,140
+Et que les pépitos, c'est un peu ça.
+
+171
+00:05:33,140 --> 00:05:35,480
+C'est ça que depuis, ça fait longtemps qu'on est confinés.
+
+172
+00:05:35,660 --> 00:05:37,380
+Et que du coup, compliqué, quoi.
+
+173
+00:05:37,540 --> 00:05:38,260
+C'est quoi ?
+
+174
+00:05:38,260 --> 00:05:39,520
+Il n'y a vraiment aucune excuse.
+
+175
+00:05:39,800 --> 00:05:40,800
+Et là, tu as vraiment aucune excuse.
+
+176
+00:05:41,380 --> 00:05:43,640
+Que des tirs grossophobes, on peut poser une vraie question.
+
+177
+00:05:43,880 --> 00:05:45,400
+D'abord, tu fais un tir grossophobes.
+
+178
+00:05:45,520 --> 00:05:46,700
+Et ensuite, tu peux poser ta question.
+
+179
+00:05:46,860 --> 00:05:48,440
+Non, moi, j'arrête la grossophobie.
+
+180
+00:05:49,020 --> 00:05:52,500
+En gros, parce que petit scoop, pas très intéressant.
+
+181
+00:05:52,620 --> 00:05:53,840
+J'ai fait un an et demi végétarien.
+
+182
+00:05:53,920 --> 00:05:54,460
+Et après, j'ai craqué.
+
+183
+00:05:55,240 --> 00:05:56,920
+Je n'ai pas craqué, mais j'ai dit à quoi bon.
+
+184
+00:05:56,920 --> 00:05:57,800
+J'ai eu un petit à quoi bon.
+
+185
+00:05:57,940 --> 00:05:58,820
+Peut-être que je vais me remotiver.
+
+186
+00:05:59,060 --> 00:06:00,140
+Il a mangé une vache.
+
+187
+00:06:00,540 --> 00:06:01,700
+Qu'est-ce qui s'est passé, toi ?
+
+188
+00:06:01,700 --> 00:06:03,140
+Pour venir vers le végétarien.
+
+189
+00:06:04,660 --> 00:06:05,820
+Il y a eu plusieurs choses.
+
+190
+00:06:06,620 --> 00:06:08,340
+C'était un mélange un peu d'écologie.
+
+191
+00:06:08,500 --> 00:06:10,740
+C'est tout ce qu'on voit un peu sur la télé, sur les réseaux.
+
+192
+00:06:11,080 --> 00:06:12,200
+Et un petit peu de bien-être animal.
+
+193
+00:06:12,340 --> 00:06:14,040
+En mode, ouais, ça me dégoûte un peu tout ça.
+
+194
+00:06:14,200 --> 00:06:15,400
+J'ai pas envie de continuer.
+
+195
+00:06:15,400 --> 00:06:17,580
+Quand même, les animaux, pourquoi on les tue ?
+
+196
+00:06:17,580 --> 00:06:18,300
+Ouais, c'est un peu ça.
+
+197
+00:06:18,440 --> 00:06:20,420
+C'est quand même une question qui se tient en soi.
+
+198
+00:06:20,700 --> 00:06:21,360
+Ouais, carrément.
+
+199
+00:06:21,360 --> 00:06:25,940
+Et puis en fait, il suffit d'un reportage L214 ou un truc comme ça d'association.
+
+200
+00:06:26,280 --> 00:06:27,000
+Et puis après, ça te dégoûte.
+
+201
+00:06:27,200 --> 00:06:28,060
+Eux, ils sont chauds.
+
+202
+00:06:28,080 --> 00:06:29,560
+Et c'est pour ça qu'il ne faut pas les regarder, ces trucs-là.
+
+203
+00:06:29,700 --> 00:06:30,180
+Ben, peut-être.
+
+204
+00:06:30,660 --> 00:06:32,360
+Moi, j'ai un vrai problème parce que...
+
+205
+00:06:33,440 --> 00:06:34,640
+Ça me fait rien.
+
+206
+00:06:35,180 --> 00:06:36,060
+Ça me fait rien.
+
+207
+00:06:36,360 --> 00:06:37,300
+Tu les regardes, ça te fait ?
+
+208
+00:06:37,300 --> 00:06:37,720
+Je te juge.
+
+209
+00:06:37,720 --> 00:06:38,800
+Alors, c'est que tu es un psychopathe.
+
+210
+00:06:39,060 --> 00:06:39,480
+Mais c'est ça.
+
+211
+00:06:39,580 --> 00:06:41,240
+C'est pour ça que je trouve que c'est trop abusé.
+
+212
+00:06:41,700 --> 00:06:42,780
+T'es vraiment un psychopathe.
+
+213
+00:06:43,000 --> 00:06:45,100
+C'est ça qui me rend...
+
+214
+00:06:45,100 --> 00:06:45,700
+Les petits poulets.
+
+215
+00:06:46,080 --> 00:06:47,040
+Non, mais je suis mal.
+
+216
+00:06:47,240 --> 00:06:48,300
+Je suis mal que ça...
+
+217
+00:06:48,300 --> 00:06:48,620
+Je suis là.
+
+218
+00:06:49,860 --> 00:06:51,260
+Ah si, c'est pas des humains, quoi.
+
+219
+00:06:51,920 --> 00:06:53,780
+J'essaye, mais ça me fait rien.
+
+220
+00:06:54,180 --> 00:06:59,500
+En vrai, genre, si t'as des animaux chez toi et tout machin, une vache qui est adorable et tout,
+
+221
+00:06:59,620 --> 00:07:01,920
+après, tu peux plus manger un steak.
+
+222
+00:07:01,920 --> 00:07:06,840
+Mais moi, je finis toujours par mon brouiller parce que du coup, du coup, pour exactement les mêmes raisons,
+
+223
+00:07:06,840 --> 00:07:08,280
+ma meuf est devenue...
+
+224
+00:07:08,280 --> 00:07:09,400
+En fait, vegan, je ne comprenais pas.
+
+225
+00:07:10,000 --> 00:07:10,460
+Et un jour, elle m'a dit...
+
+226
+00:07:10,460 --> 00:07:14,860
+Déjà, désolé de te couper, j'aimerais bien qu'on fasse le distinguo entre vegan et végétarien.
+
+227
+00:07:14,860 --> 00:07:15,720
+Ah bah, je vais te le dire, justement.
+
+228
+00:07:15,760 --> 00:07:16,780
+Parce que moi, j'y connais rien.
+
+229
+00:07:16,820 --> 00:07:18,400
+Mais arrête de prendre les gens pour détecter.
+
+230
+00:07:19,220 --> 00:07:21,120
+C'est rien d'origine animale, vegan.
+
+231
+00:07:21,780 --> 00:07:22,780
+Non, mais je ne savais pas.
+
+232
+00:07:22,880 --> 00:07:23,520
+Je ne savais pas que c'est...
+
+233
+00:07:23,520 --> 00:07:24,660
+Mais qu'est-ce que tu racontes ?
+
+234
+00:07:24,660 --> 00:07:27,960
+Je te jure, je ne sais pas ce que c'est.
+
+235
+00:07:28,320 --> 00:07:31,720
+La diff, c'est que juste les végétariens ne mangent pas de viande, pas de poisson.
+
+236
+00:07:31,740 --> 00:07:32,160
+Oui, c'est ça.
+
+237
+00:07:32,160 --> 00:07:37,940
+Et que les vegans, ils disent que, et ils ont absolument raison, que s'ils sont pour le bien-être animal,
+
+238
+00:07:38,500 --> 00:07:44,020
+ne serait-ce que faire des œufs ou du lait, c'est déjà massacrer les animaux.
+
+239
+00:07:44,020 --> 00:07:44,540
+Attends, tu n'as pas bien expliqué.
+
+240
+00:07:44,980 --> 00:07:45,940
+Je te mets un cas d'école.
+
+241
+00:07:47,080 --> 00:07:47,800
+Manger des abeilles aussi.
+
+242
+00:07:47,820 --> 00:07:48,600
+Manger des escargots.
+
+243
+00:07:49,380 --> 00:07:50,100
+Le miel aussi.
+
+244
+00:07:50,460 --> 00:07:51,820
+Non, non, mais attends, le miel, ce n'est pas un animal encore.
+
+245
+00:07:51,820 --> 00:07:52,660
+Manger des escargots ?
+
+246
+00:07:52,660 --> 00:07:53,300
+Escargot.
+
+247
+00:07:53,720 --> 00:07:55,040
+Tu dis pas de viande, pas de poisson.
+
+248
+00:07:55,560 --> 00:07:56,220
+Est-ce que...
+
+249
+00:07:56,220 --> 00:07:56,520
+Bah oui.
+
+250
+00:07:56,840 --> 00:07:57,500
+Pas de viande, pas de poisson.
+
+251
+00:07:57,520 --> 00:07:58,440
+Tu veux rendre service à une huître ?
+
+252
+00:07:58,440 --> 00:07:58,940
+Si t'es v...
+
+253
+00:07:58,940 --> 00:07:59,700
+Moufla, mon pote.
+
+254
+00:08:00,040 --> 00:08:00,640
+Ferme ta gueule.
+
+255
+00:08:00,640 --> 00:08:01,880
+Déjà, c'est mon meilleur sketch.
+
+256
+00:08:01,980 --> 00:08:02,700
+Ah ouais, c'est une bonne blague.
+
+257
+00:08:02,840 --> 00:08:03,580
+T'es végétarien.
+
+258
+00:08:04,000 --> 00:08:04,960
+Par contre, on se remet le requin.
+
+259
+00:08:07,220 --> 00:08:07,700
+T'es végétarien.
+
+260
+00:08:07,700 --> 00:08:08,640
+Allez voir le sketch de l'écologie.
+
+261
+00:08:08,640 --> 00:08:11,120
+T'as mais fermez vos vieilles gueules avec vos vieilles blagues, là.
+
+262
+00:08:12,060 --> 00:08:13,020
+T'es végétarien.
+
+263
+00:08:13,340 --> 00:08:14,060
+T'es végétarien.
+
+264
+00:08:14,860 --> 00:08:16,760
+Est-ce que tu peux manger un escargot ?
+
+265
+00:08:16,760 --> 00:08:17,480
+Un escargot ?
+
+266
+00:08:17,480 --> 00:08:18,200
+Je te dirais que non.
+
+267
+00:08:18,620 --> 00:08:19,360
+Franchement, non.
+
+268
+00:08:19,380 --> 00:08:22,160
+Donc si tu ne manges pas tout ce qui est être vivant.
+
+269
+00:08:22,180 --> 00:08:22,740
+Carrément, oui.
+
+270
+00:08:22,820 --> 00:08:23,100
+Grave.
+
+271
+00:08:23,160 --> 00:08:23,480
+Tu manges...
+
+272
+00:08:23,480 --> 00:08:25,340
+Moi, j'avais une vanne sur le végétarisme que je disais.
+
+273
+00:08:25,340 --> 00:08:29,200
+Quand t'es végétarien, t'es pas végane, mais ça fait un deal avec les animaux.
+
+274
+00:08:29,500 --> 00:08:32,240
+C'est écoute, je ne te bute pas, mais tu me donnes tout ce que t'as, quoi.
+
+275
+00:08:32,360 --> 00:08:33,160
+Et un peu de ça, quoi.
+
+276
+00:08:33,340 --> 00:08:35,040
+Tu manges tout ce qu'ils produisent, mais tu ne les butes pas.
+
+277
+00:08:35,160 --> 00:08:36,940
+Donc, végane, ça compte aussi.
+
+278
+00:08:37,120 --> 00:08:38,080
+Donc, le cuir, évidemment.
+
+279
+00:08:38,200 --> 00:08:39,720
+C'est tout ce qui exploite l'animal.
+
+280
+00:08:40,140 --> 00:08:44,800
+Et c'est pour ça que moi, les gens, souvent, quand ils sont végétariens et pas véganes,
+
+281
+00:08:44,880 --> 00:08:45,860
+je leur demande pourquoi.
+
+282
+00:08:46,000 --> 00:08:46,700
+Tu dis que ce n'est pas logique.
+
+283
+00:08:46,700 --> 00:08:50,240
+Parce que, pour moi, si tu vas au bout de la démarche, si c'est pour les sauvegarder...
+
+284
+00:08:50,240 --> 00:08:51,860
+Après, tu peux me dire ce que j'entendrai le mieux.
+
+285
+00:08:53,340 --> 00:08:55,620
+Je fais déjà de mon mieux, mais c'est trop relou.
+
+286
+00:08:56,080 --> 00:08:59,220
+Et donc, j'estime que, bon, tant pis pour les œufs et le lait.
+
+287
+00:08:59,700 --> 00:09:01,440
+Au moins, ça fait chier que les poules et les vaches, quoi.
+
+288
+00:09:01,680 --> 00:09:02,580
+Le reste, je les...
+
+289
+00:09:02,580 --> 00:09:04,540
+Maintenant, tu peux dire végétarien, c'est...
+
+290
+00:09:04,540 --> 00:09:05,520
+Moi, je suis végétarien.
+
+291
+00:09:05,720 --> 00:09:08,360
+Chez moi, par contre, je suis végétalien ou végane, tu vois.
+
+292
+00:09:08,360 --> 00:09:08,580
+Voilà.
+
+293
+00:09:08,920 --> 00:09:09,660
+Ah, c'est végétalien.
+
+294
+00:09:09,880 --> 00:09:10,260
+Végétalien, c'est pareil.
+
+295
+00:09:10,360 --> 00:09:11,080
+Il faut peut-être définir.
+
+296
+00:09:11,080 --> 00:09:12,700
+Végétalien et végane, c'est la même chose, plus ou moins ?
+
+297
+00:09:12,700 --> 00:09:15,340
+Non, je crois pas, parce que je crois que végane, c'est vraiment l'état d'esprit,
+
+298
+00:09:15,420 --> 00:09:16,940
+comme tu disais, le cuir, la laine, tout ça.
+
+299
+00:09:17,060 --> 00:09:18,900
+Alors que végétalien, c'est vraiment ce que tu manges, quoi.
+
+300
+00:09:19,360 --> 00:09:21,500
+Pour le coup, le cuir et la laine, autant y aller aussi,
+
+301
+00:09:21,580 --> 00:09:23,000
+parce que ça, c'est pas le truc le plus dur, quand même.
+
+302
+00:09:23,280 --> 00:09:23,980
+Ouais, ouais, il y en a...
+
+303
+00:09:23,980 --> 00:09:27,480
+Genre, tu manges du tofu, mais avec une bonne veste en cuir.
+
+304
+00:09:28,560 --> 00:09:29,960
+C'est ça, des bonnes senties.
+
+305
+00:09:29,960 --> 00:09:32,660
+J'adore manger du tofu pas bon sur mon bon canapé en cuir.
+
+306
+00:09:32,920 --> 00:09:33,200
+Bien.
+
+307
+00:09:33,540 --> 00:09:34,600
+Attention, le tofu, c'est bon.
+
+308
+00:09:34,660 --> 00:09:35,640
+Ça dépend comment tu le cuisines.
+
+309
+00:09:41,080 --> 00:09:42,960
+C'est très bon, mais...
+
+310
+00:09:42,960 --> 00:09:44,860
+Mais si tu le manges nature, comme ça, le tofu,
+
+311
+00:09:44,980 --> 00:09:45,600
+ouais, c'est dégueulasse.
+
+312
+00:09:45,720 --> 00:09:47,820
+Faut pas le croquer comme ça, faut le cuisiner, faut l'assaisonner.
+
+313
+00:09:48,000 --> 00:09:50,540
+Donc c'est tout végétalien, c'est ce que tu manges ?
+
+314
+00:09:50,540 --> 00:09:51,880
+Ouais, ça, chez moi, je suis comme ça.
+
+315
+00:09:52,080 --> 00:09:54,420
+Quand je suis dehors en restaurant, par contre, je prends je pique.
+
+316
+00:09:54,420 --> 00:09:55,920
+Et t'as le droit de manger du cuir ?
+
+317
+00:09:55,920 --> 00:09:56,760
+J'ai le droit de...
+
+318
+00:09:56,760 --> 00:09:59,920
+Putain, ma question...
+
+319
+00:09:59,920 --> 00:10:01,520
+Regarde Pierre, il va pas rigoler.
+
+320
+00:10:01,720 --> 00:10:02,840
+Il rigole jamais aux blagues.
+
+321
+00:10:04,280 --> 00:10:05,860
+Non, t'as dit un bon truc sur le tofu.
+
+322
+00:10:06,500 --> 00:10:08,160
+Petit argument pour les végétariens,
+
+323
+00:10:08,260 --> 00:10:09,140
+c'est vrai que les gens, ils disent,
+
+324
+00:10:09,140 --> 00:10:11,720
+oui, le tofu, c'est dégueulasse.
+
+325
+00:10:11,780 --> 00:10:13,180
+Et comme tu dis, s'il est assaisonné, c'est bon.
+
+326
+00:10:13,480 --> 00:10:15,200
+Ce qui est aussi un peu le cas de la viande, mon gars.
+
+327
+00:10:15,280 --> 00:10:16,480
+Tu manges de la viande pure,
+
+328
+00:10:16,780 --> 00:10:18,160
+c'est pas non plus délicieux.
+
+329
+00:10:18,340 --> 00:10:19,360
+C'est pas exactement, parce qu'en fait,
+
+330
+00:10:19,420 --> 00:10:22,060
+la viande, quand même, c'est souvent, en soi, parfois bon.
+
+331
+00:10:22,520 --> 00:10:24,400
+Alors que le tofu, en soi...
+
+332
+00:10:24,400 --> 00:10:25,620
+Ouais, mais en vrai, la viande...
+
+333
+00:10:25,620 --> 00:10:26,920
+Moi, je suis un des...
+
+334
+00:10:26,920 --> 00:10:29,700
+C'est vrai que moi, ça se voit que j'aime vraiment ça,
+
+335
+00:10:29,780 --> 00:10:30,920
+parce que je dis, c'est pas bon,
+
+336
+00:10:30,980 --> 00:10:33,420
+mais genre du poulet sans rien de sel, rien du tout,
+
+337
+00:10:33,460 --> 00:10:34,060
+j'aime bien, déjà.
+
+338
+00:10:34,260 --> 00:10:35,220
+Oui, mais ça dépend lesquels.
+
+339
+00:10:35,380 --> 00:10:36,800
+Mais tu prends...
+
+340
+00:10:36,800 --> 00:10:37,800
+Mais c'est quand même rare, quoi.
+
+341
+00:10:37,980 --> 00:10:39,740
+Normalement, il faut quand même un peu de sel, un peu de sauce.
+
+342
+00:10:39,760 --> 00:10:40,240
+Ouais, bien sûr.
+
+343
+00:10:40,740 --> 00:10:42,680
+Mais alors qu'un tofu, tu le prends, tu le chauffes ou tu le manges,
+
+344
+00:10:42,820 --> 00:10:43,660
+c'est imbectable.
+
+345
+00:10:43,840 --> 00:10:44,460
+Ouais, c'est pas...
+
+346
+00:10:44,460 --> 00:10:45,920
+Il faut que ce soit très bien cuisiné, quand même.
+
+347
+00:10:45,920 --> 00:10:47,300
+Oui, mais franchement, pour le coup,
+
+348
+00:10:47,420 --> 00:10:48,940
+les escargots aussi, pour revenir à ça.
+
+349
+00:10:49,080 --> 00:10:50,080
+Personne ne mange les escargots,
+
+350
+00:10:50,180 --> 00:10:51,180
+les gens bien like, quoi.
+
+351
+00:10:51,200 --> 00:10:53,360
+Mais là, tu faisais la comparaison avec la viande et le tofu.
+
+352
+00:10:53,360 --> 00:10:54,560
+Le coq et tout, il y a des trucs qui se mangent.
+
+353
+00:10:54,640 --> 00:10:55,860
+En vrai, c'est pas bon du tout,
+
+354
+00:10:55,940 --> 00:10:57,380
+si tu le prends sans sauce et tout.
+
+355
+00:10:57,600 --> 00:10:58,440
+Le pigeonneau.
+
+356
+00:10:58,800 --> 00:10:59,580
+Le pigeon, peut-être.
+
+357
+00:10:59,580 --> 00:11:00,540
+Là, on revient de Chine.
+
+358
+00:11:01,440 --> 00:11:02,980
+Putain, ils mangent des trucs, je savais pas.
+
+359
+00:11:03,660 --> 00:11:05,220
+De la glotte de canard.
+
+360
+00:11:05,480 --> 00:11:06,100
+Ils vendent ça comme ça.
+
+361
+00:11:06,100 --> 00:11:07,260
+Ouais, des vagins de canard aussi.
+
+362
+00:11:07,400 --> 00:11:07,920
+Ouais, c'est terrible.
+
+363
+00:11:08,380 --> 00:11:08,680
+C'est vrai.
+
+364
+00:11:09,780 --> 00:11:10,500
+C'est terrible.
+
+365
+00:11:10,880 --> 00:11:12,300
+Je vous ai dit que j'ai bouffé du chien, je vous l'avais dit.
+
+366
+00:11:12,480 --> 00:11:13,100
+Je vous l'avais dit, je crois.
+
+367
+00:11:13,440 --> 00:11:14,180
+C'est vrai ?
+
+368
+00:11:14,180 --> 00:11:15,620
+Putain, je me disais, on le voyait plus depuis tout à l'heure.
+
+369
+00:11:17,020 --> 00:11:17,300
+Croquette.
+
+370
+00:11:18,360 --> 00:11:20,020
+Est-ce que la viande te manque ?
+
+371
+00:11:20,020 --> 00:11:22,000
+Le goût peut me manquer,
+
+372
+00:11:22,120 --> 00:11:23,440
+mais on a beaucoup de substituts, en fait,
+
+373
+00:11:23,500 --> 00:11:24,760
+de trucs vegan, de viandes vegan,
+
+374
+00:11:24,900 --> 00:11:25,660
+qui sont super bonnes.
+
+375
+00:11:25,660 --> 00:11:27,040
+Il y a plein de marques qui sont très très bonnes.
+
+376
+00:11:27,500 --> 00:11:29,160
+Et en fait, du coup, ça manque pas tant que ça,
+
+377
+00:11:29,220 --> 00:11:30,200
+parce qu'on a des substituts, quoi.
+
+378
+00:11:30,600 --> 00:11:31,600
+Et même les trucs un peu trash,
+
+379
+00:11:31,660 --> 00:11:32,740
+genre un burger, on peut l'avoir,
+
+380
+00:11:33,220 --> 00:11:34,540
+des nuggets, on peut les avoir en vegan.
+
+381
+00:11:34,720 --> 00:11:35,440
+Du coup, ça te manque pas.
+
+382
+00:11:35,820 --> 00:11:37,140
+Le poisson, il n'y a pas de substituts.
+
+383
+00:11:37,240 --> 00:11:38,520
+Du coup, ça manque un peu plus, le poisson.
+
+384
+00:11:38,860 --> 00:11:40,600
+Il y a du faux saumon, chelou,
+
+385
+00:11:40,840 --> 00:11:41,560
+c'est un peu dégueulasse.
+
+386
+00:11:41,600 --> 00:11:43,780
+Il y en a, mais c'est pas encore à jour, quoi.
+
+387
+00:11:43,920 --> 00:11:44,560
+C'est pas encore assez.
+
+388
+00:11:44,600 --> 00:11:45,600
+Et socialement ?
+
+389
+00:11:45,600 --> 00:11:46,420
+Ils travaillent bien, je crois.
+
+390
+00:11:47,620 --> 00:11:48,060
+Socialement ?
+
+391
+00:11:48,060 --> 00:11:49,240
+C'est-à-dire, là, je sais pas,
+
+392
+00:11:49,240 --> 00:11:50,700
+tu pars en week-end avec des potes,
+
+393
+00:11:50,780 --> 00:11:51,960
+tu pars, t'es en soirée,
+
+394
+00:11:52,140 --> 00:11:53,460
+t'es machin, comment tu fais ?
+
+395
+00:11:53,460 --> 00:11:54,000
+Barbecue, quoi.
+
+396
+00:11:54,160 --> 00:11:54,780
+Tu manges pas.
+
+397
+00:11:55,140 --> 00:11:55,800
+Maintenant, j'ai l'impression,
+
+398
+00:11:56,120 --> 00:11:58,840
+les gens, ils sont plus casse-couille comme avant.
+
+399
+00:11:58,920 --> 00:11:59,860
+Non, végétarien, ça va.
+
+400
+00:12:00,120 --> 00:12:01,300
+Écoute, tu manges pas ce virus.
+
+401
+00:12:01,320 --> 00:12:01,680
+Ça dépend.
+
+402
+00:12:01,800 --> 00:12:02,540
+Mais tu sais pourquoi ?
+
+403
+00:12:02,540 --> 00:12:03,400
+Ça dépend quel milieu.
+
+404
+00:12:03,540 --> 00:12:04,780
+Mais tu sais ce qui t'a sauvé ?
+
+405
+00:12:04,780 --> 00:12:05,640
+C'est les vegans, mon gars.
+
+406
+00:12:05,780 --> 00:12:06,980
+C'est comme Zemmour avec Le Pen.
+
+407
+00:12:07,060 --> 00:12:08,340
+Quand t'as quelqu'un qui est dix fois pire,
+
+408
+00:12:08,920 --> 00:12:09,800
+et ben, tu te diras,
+
+409
+00:12:09,960 --> 00:12:10,900
+végétarien, ça va,
+
+410
+00:12:10,980 --> 00:12:12,500
+vu qu'il y en a des casse-couille,
+
+411
+00:12:12,500 --> 00:12:13,940
+qui sont plus casse-couille.
+
+412
+00:12:14,320 --> 00:12:15,840
+Donc, quand on a un pire,
+
+413
+00:12:16,940 --> 00:12:18,020
+t'es le moins pire.
+
+414
+00:12:18,300 --> 00:12:18,780
+Ouais, c'est vrai.
+
+415
+00:12:18,940 --> 00:12:20,740
+T'es un peu le Jordan du végétarien.
+
+416
+00:12:22,080 --> 00:12:23,660
+T'essaies un peu de te présenter.
+
+417
+00:12:23,880 --> 00:12:24,460
+Moi, ça va.
+
+418
+00:12:24,840 --> 00:12:26,180
+Regardez eux, c'est des vrais ouf.
+
+419
+00:12:26,420 --> 00:12:27,260
+Moi, je suis 30 000.
+
+420
+00:12:27,260 --> 00:12:28,240
+Je suis un peu gros, quand même.
+
+421
+00:12:28,800 --> 00:12:29,440
+Ouais, grave.
+
+422
+00:12:29,800 --> 00:12:32,260
+T'as dédiabolisé le végétarien.
+
+423
+00:12:32,380 --> 00:12:32,900
+Non, mais c'est vrai.
+
+424
+00:12:33,100 --> 00:12:33,900
+Si je peux intervenir,
+
+425
+00:12:34,020 --> 00:12:34,700
+ça ne fait que parler.
+
+426
+00:12:35,020 --> 00:12:36,260
+Moi, vous dites que je rigole pas.
+
+427
+00:12:36,660 --> 00:12:37,280
+Lui, il fait pire.
+
+428
+00:12:37,480 --> 00:12:38,420
+Il rigole pas à vos blagues,
+
+429
+00:12:38,520 --> 00:12:39,280
+il rigole à les siennes.
+
+430
+00:12:39,720 --> 00:12:40,760
+Il rigole aux siennes.
+
+431
+00:12:40,760 --> 00:12:41,320
+Peut-être, on n'est pas drôle.
+
+432
+00:12:41,320 --> 00:12:41,660
+Non, non, non.
+
+433
+00:12:41,780 --> 00:12:43,340
+Il fait sa blague,
+
+434
+00:12:43,420 --> 00:12:44,080
+il voit que vous rigolez,
+
+435
+00:12:44,160 --> 00:12:44,520
+il dit...
+
+436
+00:12:44,520 --> 00:12:45,420
+C'est vrai que j'étais quand même bien marrant.
+
+437
+00:12:46,700 --> 00:12:47,560
+Regardez les replays.
+
+438
+00:12:47,880 --> 00:12:48,740
+Regardez les replays.
+
+439
+00:12:49,040 --> 00:12:49,780
+Après, on m'accusera.
+
+440
+00:12:49,800 --> 00:12:51,240
+Regardez qui a rigolé à la blague du cuir.
+
+441
+00:12:51,380 --> 00:12:52,260
+J'ai rigolé à la blague du cuir.
+
+442
+00:12:52,260 --> 00:12:53,360
+C'est vrai que t'as rigolé à la blague du cuir.
+
+443
+00:12:53,500 --> 00:12:54,180
+Alors que Pierre,
+
+444
+00:12:54,280 --> 00:12:55,020
+il avait le seum un peu.
+
+445
+00:12:55,380 --> 00:12:56,900
+Pierre, il aime pas qu'on fasse des bonnes vagues.
+
+446
+00:12:57,080 --> 00:12:57,460
+Il fait...
+
+447
+00:12:57,460 --> 00:12:58,740
+Je cherche un jeu de mots,
+
+448
+00:12:58,800 --> 00:12:59,420
+je veux mettre mon chapeau.
+
+449
+00:12:59,440 --> 00:13:00,600
+J'entends pas tes blagues,
+
+450
+00:13:00,740 --> 00:13:01,280
+parce qu'il parle.
+
+451
+00:13:01,280 --> 00:13:02,400
+C'est couvert.
+
+452
+00:13:02,640 --> 00:13:03,700
+En fait, quand tu te mets à l'extrême
+
+453
+00:13:03,700 --> 00:13:05,100
+et qu'il y a Urbain entre toi et le reste du monde,
+
+454
+00:13:05,620 --> 00:13:07,580
+c'est comme un bruit permanent de clim
+
+455
+00:13:07,580 --> 00:13:08,520
+qui tourne.
+
+456
+00:13:10,840 --> 00:13:11,880
+Je rigole à ta blague de merde.
+
+457
+00:13:11,880 --> 00:13:12,960
+En même temps, il dit la vérité.
+
+458
+00:13:13,380 --> 00:13:14,320
+C'est quoi la vérité ?
+
+459
+00:13:14,320 --> 00:13:16,760
+C'est le répandeur de vérité, Urbain.
+
+460
+00:13:16,800 --> 00:13:17,860
+Urbain, c'est bien connu.
+
+461
+00:13:18,340 --> 00:13:19,200
+Ah oui, c'est vrai que c'est...
+
+462
+00:13:19,200 --> 00:13:20,620
+J'ai oublié que c'était le pseudo d'Urbain.
+
+463
+00:13:21,360 --> 00:13:22,540
+C'est quoi le truc le plus chelou
+
+464
+00:13:22,540 --> 00:13:23,440
+qui est mangé en tant que vegan,
+
+465
+00:13:23,600 --> 00:13:24,860
+d'un végétarien ?
+
+466
+00:13:24,860 --> 00:13:27,160
+Chelou, il y a des algues un peu,
+
+467
+00:13:27,160 --> 00:13:29,460
+qui sont connues pour avoir plein de protéines.
+
+468
+00:13:30,540 --> 00:13:31,760
+Le goût est quand même un peu bizarre.
+
+469
+00:13:31,780 --> 00:13:32,340
+Balance les tips.
+
+470
+00:13:32,580 --> 00:13:33,960
+C'est quoi le nom ?
+
+471
+00:13:33,960 --> 00:13:36,000
+Bravo, je ne sais pas.
+
+472
+00:13:36,340 --> 00:13:37,180
+Il y en a plusieurs.
+
+473
+00:13:37,280 --> 00:13:37,960
+Il y a la spiruline
+
+474
+00:13:37,960 --> 00:13:39,020
+qui a un goût un peu particulier.
+
+475
+00:13:39,460 --> 00:13:41,360
+Tu en mets souvent juste un petit peu
+
+476
+00:13:41,360 --> 00:13:42,820
+parce que c'est un goût un peu fort,
+
+477
+00:13:42,880 --> 00:13:43,680
+mais c'est rempli de protéines.
+
+478
+00:13:43,800 --> 00:13:44,220
+C'est très bien
+
+479
+00:13:44,220 --> 00:13:45,340
+si jamais tu veux te faire des checkers,
+
+480
+00:13:45,460 --> 00:13:46,300
+choper ta protéine.
+
+481
+00:13:46,380 --> 00:13:46,940
+C'est un truc vert.
+
+482
+00:13:47,560 --> 00:13:49,100
+Il y en a beaucoup dans les shakes
+
+483
+00:13:49,100 --> 00:13:49,880
+parce que c'est très bon.
+
+484
+00:13:50,160 --> 00:13:52,440
+C'est un truc de café parisien un peu...
+
+485
+00:13:52,440 --> 00:13:54,500
+Oui, là on y vient peut-être aussi.
+
+486
+00:13:54,980 --> 00:13:55,680
+C'est vrai que sur Paris,
+
+487
+00:13:55,680 --> 00:13:56,780
+c'est facile d'être végétarien
+
+488
+00:13:56,780 --> 00:13:57,980
+parce qu'il y a plein d'options
+
+489
+00:13:57,980 --> 00:13:59,500
+dans les grandes villes au global.
+
+490
+00:13:59,660 --> 00:14:00,640
+Mais quand tu sors des grandes villes,
+
+491
+00:14:00,720 --> 00:14:01,260
+c'est plus compliqué.
+
+492
+00:14:01,780 --> 00:14:02,220
+C'est chaud.
+
+493
+00:14:02,660 --> 00:14:03,860
+Sur Bannière de Bigorre,
+
+494
+00:14:03,960 --> 00:14:04,500
+est-ce que tu crois
+
+495
+00:14:04,500 --> 00:14:05,640
+qu'être végét...
+
+496
+00:14:05,640 --> 00:14:06,400
+Non, c'est pas là qu'on est.
+
+497
+00:14:06,640 --> 00:14:07,260
+Je sais où qu'on est.
+
+498
+00:14:07,400 --> 00:14:08,880
+C'est pas le monde.
+
+499
+00:14:09,040 --> 00:14:09,640
+Mais le Blas,
+
+500
+00:14:09,720 --> 00:14:10,500
+Bannière de Bigorre,
+
+501
+00:14:10,560 --> 00:14:11,280
+est tellement drôle.
+
+502
+00:14:11,540 --> 00:14:13,200
+Tu sens que ça sent pas du tout
+
+503
+00:14:13,200 --> 00:14:13,760
+le végétarien.
+
+504
+00:14:14,380 --> 00:14:15,460
+On est à la Benocéan.
+
+505
+00:14:15,600 --> 00:14:16,380
+Il n'y a rien en commun.
+
+506
+00:14:16,500 --> 00:14:17,180
+Il n'y a même pas une lettre.
+
+507
+00:14:17,920 --> 00:14:19,100
+Non, mais c'est les zones
+
+508
+00:14:19,100 --> 00:14:19,740
+dans le sud.
+
+509
+00:14:19,740 --> 00:14:20,600
+Ah, pardon.
+
+510
+00:14:21,360 --> 00:14:22,360
+Ouais, enfin, je me comprends.
+
+511
+00:14:22,460 --> 00:14:22,940
+Ouais, d'accord.
+
+512
+00:14:23,260 --> 00:14:24,280
+La Côte d'Azur.
+
+513
+00:14:24,400 --> 00:14:25,120
+C'est pas le 11ème.
+
+514
+00:14:26,160 --> 00:14:26,820
+Faudrait que je trouve
+
+515
+00:14:26,820 --> 00:14:27,500
+un petit Blas
+
+516
+00:14:27,500 --> 00:14:28,300
+pour ce que je suis, moi.
+
+517
+00:14:28,460 --> 00:14:28,860
+Parce que genre,
+
+518
+00:14:28,980 --> 00:14:29,420
+il y a...
+
+519
+00:14:29,420 --> 00:14:29,740
+Flegal.
+
+520
+00:14:31,020 --> 00:14:31,300
+Végétarien.
+
+521
+00:14:32,160 --> 00:14:32,440
+Flexitarien,
+
+522
+00:14:32,500 --> 00:14:33,380
+c'est encore un autre level.
+
+523
+00:14:33,500 --> 00:14:35,060
+Moi, je suis juste...
+
+524
+00:14:35,060 --> 00:14:35,660
+Il y a des viandes
+
+525
+00:14:35,660 --> 00:14:36,220
+que je bouffe plus.
+
+526
+00:14:36,480 --> 00:14:37,500
+Genre, je bouffe plus de canards.
+
+527
+00:14:38,140 --> 00:14:38,600
+Canards ?
+
+528
+00:14:38,600 --> 00:14:39,380
+Ouais, je les aime trop.
+
+529
+00:14:39,520 --> 00:14:40,080
+C'est pas ce truc
+
+530
+00:14:40,080 --> 00:14:40,760
+qu'on bouffe le plus.
+
+531
+00:14:40,980 --> 00:14:41,940
+C'est bien, c'est cool.
+
+532
+00:14:41,960 --> 00:14:43,640
+En plus, c'est pas de plus compliqué.
+
+533
+00:14:43,640 --> 00:14:44,440
+Pas de grand-chose, quoi.
+
+534
+00:14:44,440 --> 00:14:47,000
+Moi, j'ai arrêté l'autruche.
+
+535
+00:14:47,440 --> 00:14:49,360
+J'ai arrêté kangourou.
+
+536
+00:14:50,180 --> 00:14:51,100
+Et toi, tu fais des choses
+
+537
+00:14:51,100 --> 00:14:51,580
+pour la planète.
+
+538
+00:14:52,940 --> 00:14:54,300
+T'as arrêté le jet privé aussi,
+
+539
+00:14:54,380 --> 00:14:54,460
+je crois.
+
+540
+00:14:54,460 --> 00:14:55,060
+Non, mais je dis pas
+
+541
+00:14:55,060 --> 00:14:55,700
+que c'est pour la planète.
+
+542
+00:14:56,120 --> 00:14:57,560
+L'écologie, j'y crois pas.
+
+543
+00:14:57,680 --> 00:14:58,280
+Je m'en bats les couilles.
+
+544
+00:14:58,860 --> 00:15:00,540
+Mais c'est juste,
+
+545
+00:15:00,600 --> 00:15:01,160
+j'aime bien les canards.
+
+546
+00:15:01,460 --> 00:15:02,260
+J'arrive plus à les bouffer.
+
+547
+00:15:02,720 --> 00:15:03,100
+Mais les poulets,
+
+548
+00:15:03,160 --> 00:15:03,660
+tu t'en bats les couilles.
+
+549
+00:15:04,080 --> 00:15:04,760
+Par contre, moi,
+
+550
+00:15:04,840 --> 00:15:06,680
+les poulets, mon gars,
+
+551
+00:15:06,840 --> 00:15:07,440
+je suis plus clair.
+
+552
+00:15:07,900 --> 00:15:09,240
+Je les défonce tous.
+
+553
+00:15:09,240 --> 00:15:09,700
+C'est joli.
+
+554
+00:15:09,980 --> 00:15:11,560
+95% de la viande
+
+555
+00:15:11,560 --> 00:15:12,260
+que j'ingère,
+
+556
+00:15:12,560 --> 00:15:13,100
+c'est des poulets.
+
+557
+00:15:13,100 --> 00:15:15,100
+Pour le goût, je comprends.
+
+558
+00:15:15,220 --> 00:15:16,100
+Je peux pas inciter les gens
+
+559
+00:15:16,100 --> 00:15:16,940
+à venir voir mon spectacle,
+
+560
+00:15:17,060 --> 00:15:17,540
+mais quand même, venez.
+
+561
+00:15:18,180 --> 00:15:20,100
+Je parle beaucoup du racisme
+
+562
+00:15:20,100 --> 00:15:21,960
+qu'on a en matière d'animaux.
+
+563
+00:15:22,740 --> 00:15:24,220
+Genre, on est très discriminatoire
+
+564
+00:15:24,220 --> 00:15:24,980
+en fonction de tes beaux,
+
+565
+00:15:25,040 --> 00:15:25,420
+t'es pas bon.
+
+566
+00:15:25,780 --> 00:15:26,800
+Tu peux mettre un homard
+
+567
+00:15:26,800 --> 00:15:27,960
+et tu les bouillantes.
+
+568
+00:15:28,360 --> 00:15:29,560
+Alors que si tu mets un chat,
+
+569
+00:15:29,740 --> 00:15:30,440
+tu fais pas Top Chef.
+
+570
+00:15:31,400 --> 00:15:33,340
+Tu vois pourquoi je rigole pas ?
+
+571
+00:15:33,340 --> 00:15:33,800
+Parce que moi,
+
+572
+00:15:33,880 --> 00:15:34,380
+quand je la fais,
+
+573
+00:15:35,120 --> 00:15:36,100
+je mets un peu plus de...
+
+574
+00:15:36,660 --> 00:15:37,940
+Je pensais que c'était une info.
+
+575
+00:15:38,280 --> 00:15:39,300
+Pardon, je pensais
+
+576
+00:15:39,300 --> 00:15:40,340
+que c'était juste un flash info.
+
+577
+00:15:40,540 --> 00:15:41,540
+C'est la blague de Pierre Thébou.
+
+578
+00:15:41,760 --> 00:15:42,100
+C'est pour ça.
+
+579
+00:15:42,100 --> 00:15:43,220
+Je pensais que ça venait
+
+580
+00:15:43,220 --> 00:15:43,920
+d'une étude, pardon.
+
+581
+00:15:44,060 --> 00:15:44,740
+Tu vois, j'allais te dire,
+
+582
+00:15:44,820 --> 00:15:45,420
+là, j'ai pas rigolé.
+
+583
+00:15:45,540 --> 00:15:47,180
+Tu viens de chier
+
+584
+00:15:47,180 --> 00:15:48,000
+sur la joconde.
+
+585
+00:15:48,560 --> 00:15:49,820
+Regarde ce que tu viens de...
+
+586
+00:15:49,820 --> 00:15:50,980
+C'est le mec qui on peut plus.
+
+587
+00:15:52,020 --> 00:15:52,540
+Il craque.
+
+588
+00:15:54,100 --> 00:15:55,760
+Le lapin, c'est mignon.
+
+589
+00:15:55,760 --> 00:15:57,120
+Le lapin, c'est mignon.
+
+590
+00:15:57,280 --> 00:15:58,240
+T'as vu, je l'ai calmé,
+
+591
+00:15:58,300 --> 00:15:58,660
+je suis désolé.
+
+592
+00:15:58,760 --> 00:15:59,360
+Maintenant, il est vexé.
+
+593
+00:15:59,740 --> 00:16:00,520
+On est obligé de le faire
+
+594
+00:16:00,520 --> 00:16:01,020
+une fois par an.
+
+595
+00:16:01,500 --> 00:16:02,060
+En tout cas,
+
+596
+00:16:02,120 --> 00:16:03,900
+moi, j'étais plutôt réfractaire
+
+597
+00:16:03,900 --> 00:16:06,060
+à tout ce qui était végétarien.
+
+598
+00:16:06,060 --> 00:16:07,700
+Et j'ai eu deux, trois surprises,
+
+599
+00:16:07,820 --> 00:16:09,060
+notamment parce qu'on traîne
+
+600
+00:16:09,060 --> 00:16:09,600
+pas mal ensemble.
+
+601
+00:16:09,840 --> 00:16:10,840
+On a été en Chine
+
+602
+00:16:10,840 --> 00:16:13,500
+et on a eu un restaurant végétarien
+
+603
+00:16:13,500 --> 00:16:15,060
+de fou avec...
+
+604
+00:16:15,060 --> 00:16:16,140
+Dedans, il y avait quoi ?
+
+605
+00:16:16,140 --> 00:16:16,360
+Tu m'as dit ?
+
+606
+00:16:16,360 --> 00:16:17,440
+Du pangolin, ouais, c'est ça.
+
+607
+00:16:17,440 --> 00:16:18,060
+Du pangolin, ouais.
+
+608
+00:16:18,100 --> 00:16:18,920
+C'était super fou.
+
+609
+00:16:19,180 --> 00:16:19,860
+C'est légal.
+
+610
+00:16:20,060 --> 00:16:21,100
+On ne le croirait pas comme ça.
+
+611
+00:16:21,320 --> 00:16:21,760
+Ah bah attends.
+
+612
+00:16:21,980 --> 00:16:22,400
+Attends, attends, attends.
+
+613
+00:16:22,400 --> 00:16:24,680
+Est-ce que vous aviez préparé
+
+614
+00:16:24,680 --> 00:16:26,400
+une van raciste à deux ?
+
+615
+00:16:26,400 --> 00:16:27,200
+Non, pas du tout.
+
+616
+00:16:27,220 --> 00:16:28,060
+Ça me semble un truc préparé
+
+617
+00:16:28,060 --> 00:16:28,960
+de duo.
+
+618
+00:16:29,340 --> 00:16:30,140
+Genre, je te lance,
+
+619
+00:16:30,400 --> 00:16:31,380
+tu lances la chute raciste.
+
+620
+00:16:31,400 --> 00:16:31,960
+Non, on n'en est pas
+
+621
+00:16:31,960 --> 00:16:32,600
+à ce point là.
+
+622
+00:16:32,920 --> 00:16:34,280
+On dirait, on aurait dit.
+
+623
+00:16:34,500 --> 00:16:36,200
+On aurait dit vachement.
+
+624
+00:16:36,500 --> 00:16:36,960
+Il est là.
+
+625
+00:16:37,340 --> 00:16:38,140
+Je l'avais noté là
+
+626
+00:16:38,140 --> 00:16:38,820
+pour les dix autres.
+
+627
+00:16:39,780 --> 00:16:40,340
+Ah mais c'est ça
+
+628
+00:16:40,340 --> 00:16:41,340
+que je vous ai vu répéter.
+
+629
+00:16:42,340 --> 00:16:43,800
+C'était comme des cons là.
+
+630
+00:16:44,060 --> 00:16:45,040
+Chevalier la spaleste.
+
+631
+00:16:46,060 --> 00:16:47,220
+Il y a Franjo qui le bouffait.
+
+632
+00:16:47,360 --> 00:16:48,260
+Putain, dis mieux pangolin,
+
+633
+00:16:48,340 --> 00:16:48,820
+t'y crois pas.
+
+634
+00:16:51,240 --> 00:16:51,980
+Non, désolé.
+
+635
+00:16:51,980 --> 00:16:54,280
+Les bouffes extra-européennes,
+
+636
+00:16:54,340 --> 00:16:54,940
+un peu orientales,
+
+637
+00:16:55,040 --> 00:16:55,360
+c'est pas mal.
+
+638
+00:16:56,080 --> 00:16:56,940
+Indien, c'est vachement bien.
+
+639
+00:16:57,260 --> 00:16:58,200
+Exactement, t'as grave raison.
+
+640
+00:16:58,560 --> 00:17:00,260
+En Inde, c'est vraiment apparemment.
+
+641
+00:17:00,400 --> 00:17:01,300
+Ils ont un gros pourcentage
+
+642
+00:17:01,300 --> 00:17:01,900
+de la population.
+
+643
+00:17:02,200 --> 00:17:03,000
+Mettez-le en commentaire.
+
+644
+00:17:03,060 --> 00:17:03,980
+Le pourcentage, je le connais pas.
+
+645
+00:17:04,460 --> 00:17:04,920
+Ils ont un gros pourcentage.
+
+646
+00:17:04,920 --> 00:17:05,600
+Qui est vraiment très bon.
+
+647
+00:17:05,720 --> 00:17:06,600
+Les gens qui sont végétariens.
+
+648
+00:17:07,100 --> 00:17:08,100
+Qui sont végétariens.
+
+649
+00:17:08,540 --> 00:17:08,920
+Comment ?
+
+650
+00:17:08,920 --> 00:17:09,620
+Eux, c'est les vaches.
+
+651
+00:17:09,860 --> 00:17:10,700
+La vache est sacrée, ouais.
+
+652
+00:17:10,820 --> 00:17:11,420
+La vache, ouais.
+
+653
+00:17:11,580 --> 00:17:12,580
+Mais en fait, il y a plein de végétariens.
+
+654
+00:17:14,220 --> 00:17:14,600
+T'as dit.
+
+655
+00:17:14,620 --> 00:17:15,300
+Ah merde, j'ai pas entendu.
+
+656
+00:17:15,300 --> 00:17:16,000
+On l'avait mieux répété,
+
+657
+00:17:16,140 --> 00:17:16,820
+celle-là de base.
+
+658
+00:17:18,140 --> 00:17:19,220
+Non, mais c'est que je suis vraiment trop bon.
+
+659
+00:17:19,220 --> 00:17:20,200
+Non, mais t'as dit.
+
+660
+00:17:20,220 --> 00:17:21,080
+Les vaches sont sacrées.
+
+661
+00:17:21,200 --> 00:17:22,300
+Je dis, la vache est respectée, mec.
+
+662
+00:17:22,600 --> 00:17:23,120
+Mais bon, c'était.
+
+663
+00:17:23,360 --> 00:17:24,000
+Ah, c'est grossof.
+
+664
+00:17:24,040 --> 00:17:24,800
+Ouais, c'est grossof.
+
+665
+00:17:26,000 --> 00:17:27,120
+Mais parce que, c'est l'autre.
+
+666
+00:17:27,460 --> 00:17:28,520
+Ça marche pas, il est pas gros du tout.
+
+667
+00:17:28,520 --> 00:17:29,900
+Mais je sais, je devrais le faire sur le combat.
+
+668
+00:17:31,220 --> 00:17:32,680
+Est-ce que t'as une petite pensée
+
+669
+00:17:32,680 --> 00:17:33,920
+pour les gens qui sont vraiment
+
+670
+00:17:33,920 --> 00:17:35,080
+en vraie situation de surpoids
+
+671
+00:17:35,080 --> 00:17:36,340
+qu'il a regardé ?
+
+672
+00:17:36,340 --> 00:17:36,760
+Ah ouais, donc.
+
+673
+00:17:36,760 --> 00:17:37,620
+Mais je me sens gros.
+
+674
+00:17:37,940 --> 00:17:38,560
+Je me le sens,
+
+675
+00:17:38,640 --> 00:17:39,200
+donc je le suis.
+
+676
+00:17:40,600 --> 00:17:41,680
+C'est moi qui décide.
+
+677
+00:17:41,680 --> 00:17:42,880
+Je rigole, je rigole.
+
+678
+00:17:43,500 --> 00:17:45,000
+Ouais, je me sens en surpoids quand même.
+
+679
+00:17:45,220 --> 00:17:46,680
+Je suis pas très fit, quoi.
+
+680
+00:17:46,680 --> 00:17:46,940
+Regarde, ça fait deux mois
+
+681
+00:17:46,940 --> 00:17:47,680
+qu'il est végétarien.
+
+682
+00:17:47,780 --> 00:17:48,760
+Il dit qu'il fait partie de la team.
+
+683
+00:17:48,840 --> 00:17:49,420
+Il peut bien être gros.
+
+684
+00:17:49,760 --> 00:17:51,180
+C'est vrai que je suis d'accord avec Urbain.
+
+685
+00:17:51,740 --> 00:17:52,800
+Quand je l'ai lancé dans les trucs
+
+686
+00:17:52,800 --> 00:17:53,320
+un peu techniques,
+
+687
+00:17:53,420 --> 00:17:54,540
+genre alors sur les algues et tout,
+
+688
+00:17:54,640 --> 00:17:55,560
+j'ai vu que c'était un stagiaire.
+
+689
+00:17:56,620 --> 00:17:57,520
+Ouais, je croyais,
+
+690
+00:17:57,600 --> 00:17:58,000
+je suis d'une spiruline.
+
+691
+00:17:58,140 --> 00:17:58,560
+On l'a tous.
+
+692
+00:17:59,040 --> 00:17:59,860
+On l'a tous.
+
+693
+00:18:00,000 --> 00:18:00,380
+Tout le monde l'a.
+
+694
+00:18:00,380 --> 00:18:01,080
+C'est un médoc en plus.
+
+695
+00:18:01,540 --> 00:18:03,640
+C'est vrai, c'est un pharmacien.
+
+696
+00:18:04,300 --> 00:18:05,340
+Sinon, je mange du dolipine.
+
+697
+00:18:05,340 --> 00:18:07,340
+La vraie question,
+
+698
+00:18:07,660 --> 00:18:08,600
+en trois ans,
+
+699
+00:18:09,500 --> 00:18:10,940
+on ne ment pas dans ce podcast.
+
+700
+00:18:11,040 --> 00:18:11,420
+On ne ment pas.
+
+701
+00:18:11,500 --> 00:18:12,840
+Combien de fois t'as craqué ?
+
+702
+00:18:12,840 --> 00:18:13,800
+J'ai jamais craqué, mec.
+
+703
+00:18:13,900 --> 00:18:15,140
+En tout cas, jamais de mon plein gré.
+
+704
+00:18:15,580 --> 00:18:16,140
+Ça m'est déjà arrivé
+
+705
+00:18:16,140 --> 00:18:16,880
+de manger un truc.
+
+706
+00:18:17,260 --> 00:18:18,080
+Ouais, de manger un truc,
+
+707
+00:18:18,160 --> 00:18:18,300
+tu vois,
+
+708
+00:18:18,340 --> 00:18:19,200
+et pas savoir un neem
+
+709
+00:18:19,200 --> 00:18:20,260
+et putain, il y a du poulet
+
+710
+00:18:20,260 --> 00:18:21,020
+et genre de le recracher.
+
+711
+00:18:21,320 --> 00:18:22,000
+Putain, le code de beuf,
+
+712
+00:18:22,040 --> 00:18:22,640
+je me suis fait nickel.
+
+713
+00:18:22,640 --> 00:18:24,120
+Ah, la code de beuf, putain, c'est dur.
+
+714
+00:18:24,140 --> 00:18:25,920
+Est-ce qu'on n'a pas un spécialiste
+
+715
+00:18:25,920 --> 00:18:27,320
+des neems ici ?
+
+716
+00:18:27,320 --> 00:18:28,780
+Ah !
+
+717
+00:18:28,780 --> 00:18:29,600
+C'est vrai ?
+
+718
+00:18:29,600 --> 00:18:31,320
+Allez, c'est my name.
+
+719
+00:18:31,500 --> 00:18:32,580
+On s'envoie le sketch de France.
+
+720
+00:18:32,580 --> 00:18:34,360
+C'est ça qui a lancé une carrière.
+
+721
+00:18:34,780 --> 00:18:35,720
+Ça fait l'Olympia, ça.
+
+722
+00:18:36,760 --> 00:18:38,200
+Le pays est foutu.
+
+723
+00:18:38,840 --> 00:18:39,700
+C'est my name, c'est my name.
+
+724
+00:18:39,840 --> 00:18:40,900
+C'était mon banger.
+
+725
+00:18:40,920 --> 00:18:41,560
+Je pense franchement
+
+726
+00:18:41,560 --> 00:18:43,260
+qu'il y a une petite part
+
+727
+00:18:43,260 --> 00:18:44,140
+de Jordan au pouvoir
+
+728
+00:18:44,140 --> 00:18:45,240
+qui est de ta faute.
+
+729
+00:18:45,800 --> 00:18:46,700
+C'est possible que
+
+730
+00:18:46,700 --> 00:18:48,040
+j'ai participé grandement
+
+731
+00:18:48,040 --> 00:18:49,180
+à la Pantégrin.
+
+732
+00:18:49,180 --> 00:18:50,200
+Ça, c'est un bon vrai débat.
+
+733
+00:18:50,780 --> 00:18:51,140
+Désolé.
+
+734
+00:18:51,640 --> 00:18:52,820
+Je peux partir si vous voulez.
+
+735
+00:18:53,160 --> 00:18:54,180
+Non, non, tu peux rester,
+
+736
+00:18:54,320 --> 00:18:55,180
+mais ça, c'est un vrai débat.
+
+737
+00:18:55,860 --> 00:18:56,420
+À votre avis,
+
+738
+00:18:56,840 --> 00:18:57,460
+grâce à Franjo,
+
+739
+00:18:57,560 --> 00:18:58,260
+Jordan, il a gagné
+
+740
+00:18:58,260 --> 00:18:59,220
+combien de percentage ?
+
+741
+00:18:59,220 --> 00:19:01,520
+C'est quand même...
+
+742
+00:19:01,520 --> 00:19:02,820
+Je pense que je lui ai fait
+
+743
+00:19:02,820 --> 00:19:03,740
+gagner 2-3%.
+
+744
+00:19:03,740 --> 00:19:05,480
+Tu l'auras ton ministère.
+
+745
+00:19:05,480 --> 00:19:06,500
+Tu as des questions
+
+746
+00:19:06,500 --> 00:19:07,140
+ou je peux poser
+
+747
+00:19:07,140 --> 00:19:08,320
+2-3 questions sérieuses ?
+
+748
+00:19:08,320 --> 00:19:09,040
+Tu peux poser des questions.
+
+749
+00:19:09,160 --> 00:19:09,400
+Bien sûr.
+
+750
+00:19:09,660 --> 00:19:11,140
+Il y a beaucoup de gens
+
+751
+00:19:11,140 --> 00:19:12,740
+cons, je pense,
+
+752
+00:19:12,880 --> 00:19:13,080
+cons,
+
+753
+00:19:13,180 --> 00:19:13,560
+mais peut-être
+
+754
+00:19:13,560 --> 00:19:14,420
+ce n'est pas objectif
+
+755
+00:19:14,420 --> 00:19:15,000
+ce que je dis,
+
+756
+00:19:15,480 --> 00:19:15,940
+qui croient
+
+757
+00:19:15,940 --> 00:19:16,560
+« Ah ouais,
+
+758
+00:19:16,680 --> 00:19:17,560
+mais tu es végétarien,
+
+759
+00:19:17,640 --> 00:19:19,300
+tu dois te sentir plus faible. »
+
+760
+00:19:19,300 --> 00:19:20,400
+Ah ouais, c'est vrai.
+
+761
+00:19:20,640 --> 00:19:21,740
+On me pose souvent la question.
+
+762
+00:19:22,100 --> 00:19:22,840
+Je pense que ce n'est pas con.
+
+763
+00:19:22,960 --> 00:19:24,140
+C'est juste qu'on a grandi
+
+764
+00:19:24,140 --> 00:19:24,860
+en disant que la viande
+
+765
+00:19:24,860 --> 00:19:25,560
+ça donne de l'énergie,
+
+766
+00:19:25,700 --> 00:19:26,360
+ça donne de la force
+
+767
+00:19:26,360 --> 00:19:26,660
+et tout,
+
+768
+00:19:26,960 --> 00:19:27,800
+genre dans tous nos repas.
+
+769
+00:19:28,040 --> 00:19:28,440
+Et moi aussi,
+
+770
+00:19:31,520 --> 00:19:32,300
+c'est dès le plus jeune âge.
+
+771
+00:19:32,360 --> 00:19:32,600
+Il y a comme
+
+772
+00:19:32,600 --> 00:19:33,040
+c'est vegan.
+
+773
+00:19:35,280 --> 00:19:35,980
+Et en fait,
+
+774
+00:19:36,080 --> 00:19:36,180
+non,
+
+775
+00:19:36,280 --> 00:19:37,120
+c'est même plutôt l'inverse.
+
+776
+00:19:37,300 --> 00:19:37,540
+En tout cas,
+
+777
+00:19:37,600 --> 00:19:37,980
+au tout début,
+
+778
+00:19:38,060 --> 00:19:38,820
+quand j'ai commencé
+
+779
+00:19:38,820 --> 00:19:39,460
+à être végétarien,
+
+780
+00:19:39,520 --> 00:19:40,060
+arrêter la viande,
+
+781
+00:19:40,160 --> 00:19:40,360
+tu vois,
+
+782
+00:19:40,480 --> 00:19:41,720
+je sentais que je respirais mieux,
+
+783
+00:19:41,860 --> 00:19:42,640
+j'avais plus d'endurance,
+
+784
+00:19:43,000 --> 00:19:43,900
+je pouvais courir plus longtemps.
+
+785
+00:19:44,100 --> 00:19:44,220
+Avant,
+
+786
+00:19:44,300 --> 00:19:44,740
+au bout de 30 minutes,
+
+787
+00:19:44,800 --> 00:19:45,280
+j'étais claqué,
+
+788
+00:19:45,360 --> 00:19:45,420
+là,
+
+789
+00:19:45,440 --> 00:19:46,300
+je pouvais aller beaucoup plus vite,
+
+790
+00:19:46,420 --> 00:19:46,500
+tu vois,
+
+791
+00:19:46,560 --> 00:19:47,040
+beaucoup plus loin,
+
+792
+00:19:47,100 --> 00:19:47,260
+pardon.
+
+793
+00:19:47,820 --> 00:19:49,060
+Et globalement,
+
+794
+00:19:49,100 --> 00:19:50,180
+je n'ai pas eu de perte de force,
+
+795
+00:19:50,420 --> 00:19:51,100
+de perte...
+
+796
+00:19:51,100 --> 00:19:52,660
+C'est vraiment chiant
+
+797
+00:19:52,660 --> 00:19:53,500
+à digérer la viande,
+
+798
+00:19:53,500 --> 00:19:54,520
+que ça prend une énergie de loup
+
+799
+00:19:54,520 --> 00:19:55,040
+et que justement,
+
+800
+00:19:55,180 --> 00:19:55,960
+c'est ça qui nous crève
+
+801
+00:19:55,960 --> 00:19:56,380
+après les repas.
+
+802
+00:19:56,720 --> 00:19:57,560
+Surtout la viande rouge.
+
+803
+00:19:57,720 --> 00:19:58,380
+La viande blanche,
+
+804
+00:19:58,560 --> 00:19:58,940
+ça va,
+
+805
+00:19:59,100 --> 00:19:59,780
+mais la viande rouge,
+
+806
+00:19:59,860 --> 00:19:59,980
+ouais,
+
+807
+00:20:00,080 --> 00:20:01,020
+c'est vraiment pas très bon.
+
+808
+00:20:01,040 --> 00:20:01,620
+La viande rouge,
+
+809
+00:20:01,780 --> 00:20:02,900
+c'est peut-être très psychologique.
+
+810
+00:20:03,100 --> 00:20:04,060
+J'en mange pour le coup
+
+811
+00:20:04,060 --> 00:20:04,900
+vraiment plus
+
+812
+00:20:04,900 --> 00:20:05,660
+depuis des années,
+
+813
+00:20:05,740 --> 00:20:05,960
+des années,
+
+814
+00:20:06,120 --> 00:20:08,780
+mais une fois par an,
+
+815
+00:20:08,920 --> 00:20:09,320
+j'y retourne,
+
+816
+00:20:09,420 --> 00:20:09,500
+tu vois,
+
+817
+00:20:09,580 --> 00:20:10,000
+comme ça,
+
+818
+00:20:10,120 --> 00:20:10,760
+il y a un buffet.
+
+819
+00:20:11,380 --> 00:20:11,980
+Et à chaque fois,
+
+820
+00:20:12,040 --> 00:20:12,380
+je le sens.
+
+821
+00:20:12,480 --> 00:20:12,840
+J'ai l'impression
+
+822
+00:20:12,840 --> 00:20:13,600
+que pendant deux heures,
+
+823
+00:20:13,680 --> 00:20:13,880
+je suis cas.
+
+824
+00:20:13,960 --> 00:20:14,780
+C'est peut-être très psychologique.
+
+825
+00:20:15,020 --> 00:20:15,620
+C'est possible.
+
+826
+00:20:15,940 --> 00:20:17,220
+Et même les cheeseburgers et tout ?
+
+827
+00:20:17,220 --> 00:20:18,060
+Parce que c'est viande rouge aussi.
+
+828
+00:20:18,080 --> 00:20:18,280
+Ah non,
+
+829
+00:20:18,320 --> 00:20:18,380
+ça,
+
+830
+00:20:18,440 --> 00:20:18,800
+j'y touche plus.
+
+831
+00:20:19,080 --> 00:20:19,360
+Ah ouais ?
+
+832
+00:20:19,360 --> 00:20:19,520
+Non,
+
+833
+00:20:19,520 --> 00:20:20,100
+c'est fini ça.
+
+834
+00:20:20,120 --> 00:20:20,420
+T'es chaud,
+
+835
+00:20:20,480 --> 00:20:20,600
+mec.
+
+836
+00:20:20,660 --> 00:20:20,740
+Non,
+
+837
+00:20:20,800 --> 00:20:21,140
+pour de vrai.
+
+838
+00:20:21,360 --> 00:20:21,720
+Au fait,
+
+839
+00:20:21,900 --> 00:20:22,480
+déjà pas mal
+
+840
+00:20:22,480 --> 00:20:23,180
+de ne pas avoir craqué
+
+841
+00:20:23,180 --> 00:20:23,680
+en trois ans.
+
+842
+00:20:24,200 --> 00:20:25,300
+Tu gagnes ton petit badge.
+
+843
+00:20:25,880 --> 00:20:27,280
+Mais tu bois pas,
+
+844
+00:20:27,340 --> 00:20:27,880
+on est d'accord ?
+
+845
+00:20:27,880 --> 00:20:28,060
+Non,
+
+846
+00:20:28,140 --> 00:20:28,480
+je bois pas.
+
+847
+00:20:29,180 --> 00:20:30,020
+Parce que je connais
+
+848
+00:20:30,020 --> 00:20:30,820
+beaucoup de végétariens,
+
+849
+00:20:30,940 --> 00:20:31,680
+c'est quand ils picole
+
+850
+00:20:31,680 --> 00:20:32,180
+que ça craque.
+
+851
+00:20:32,380 --> 00:20:32,900
+Ah ouais,
+
+852
+00:20:33,000 --> 00:20:33,240
+j'avoue,
+
+853
+00:20:33,320 --> 00:20:33,940
+c'est peut-être intéressant.
+
+854
+00:20:34,080 --> 00:20:34,680
+Le kebab t'appelle
+
+855
+00:20:34,680 --> 00:20:35,560
+quand tu es à 15 grammes.
+
+856
+00:20:35,600 --> 00:20:35,800
+Ouais,
+
+857
+00:20:35,860 --> 00:20:36,940
+peut-être.
+
+858
+00:20:37,240 --> 00:20:38,200
+C'est la zone de confort.
+
+859
+00:20:38,200 --> 00:20:39,340
+peut-être que t'es un peu plus faible,
+
+860
+00:20:39,440 --> 00:20:39,680
+tu craques.
+
+861
+00:20:39,680 --> 00:20:40,020
+Et moi,
+
+862
+00:20:40,120 --> 00:20:41,680
+j'imagine les...
+
+863
+00:20:41,680 --> 00:20:44,840
+J'imagine les végétariens
+
+864
+00:20:44,840 --> 00:20:46,460
+qui craquent bourré
+
+865
+00:20:46,460 --> 00:20:48,260
+comme la scène dans le Paris
+
+866
+00:20:48,260 --> 00:20:49,240
+quand ils vont bouffer.
+
+867
+00:20:49,420 --> 00:20:49,760
+Tu sais,
+
+868
+00:20:49,980 --> 00:20:51,420
+il n'y a que moi
+
+869
+00:20:51,420 --> 00:20:51,880
+qui ai vu le Paris.
+
+870
+00:20:52,260 --> 00:20:52,580
+Moi,
+
+871
+00:20:52,580 --> 00:20:52,860
+je l'ai vu,
+
+872
+00:20:53,020 --> 00:20:53,880
+mais c'est vrai que
+
+873
+00:20:53,880 --> 00:20:54,800
+Franjo marquait un point
+
+874
+00:20:54,800 --> 00:20:55,780
+sur le tas des références
+
+875
+00:20:55,780 --> 00:20:56,340
+vraiment techniques.
+
+876
+00:20:57,140 --> 00:20:57,500
+Là,
+
+877
+00:20:57,580 --> 00:20:58,580
+on arrive en 98.
+
+878
+00:20:58,920 --> 00:21:00,060
+Il est en 97,
+
+879
+00:21:00,220 --> 00:21:00,540
+c'est vrai,
+
+880
+00:21:00,620 --> 00:21:00,780
+le Paris.
+
+881
+00:21:00,880 --> 00:21:01,200
+Mais bon,
+
+882
+00:21:01,440 --> 00:21:02,000
+Didier aussi,
+
+883
+00:21:02,340 --> 00:21:03,320
+il y a des films...
+
+884
+00:21:03,320 --> 00:21:04,060
+On est sur un film
+
+885
+00:21:04,060 --> 00:21:04,720
+qui a 25 ans.
+
+886
+00:21:04,980 --> 00:21:05,500
+Bah oui,
+
+887
+00:21:05,780 --> 00:21:06,780
+c'est un classique.
+
+888
+00:21:06,780 --> 00:21:09,420
+Tu l'as pas vu ?
+
+889
+00:21:09,420 --> 00:21:10,140
+Ils arrêtent de cloper
+
+890
+00:21:10,140 --> 00:21:10,900
+donc ils deviennent gros.
+
+891
+00:21:11,060 --> 00:21:11,180
+Oui,
+
+892
+00:21:11,260 --> 00:21:11,440
+j'ai vu.
+
+893
+00:21:11,580 --> 00:21:11,980
+Et du coup,
+
+894
+00:21:12,040 --> 00:21:12,940
+ils sont dans une cure
+
+895
+00:21:12,940 --> 00:21:13,560
+d'amaigrissement
+
+896
+00:21:13,560 --> 00:21:13,980
+et à un moment,
+
+897
+00:21:14,080 --> 00:21:14,840
+ils pètent un câble,
+
+898
+00:21:14,920 --> 00:21:15,640
+ils vont dans la cuisine
+
+899
+00:21:15,640 --> 00:21:17,080
+et ils font n'importe quoi
+
+900
+00:21:17,080 --> 00:21:17,780
+pendant 10 minutes.
+
+901
+00:21:18,380 --> 00:21:18,660
+Moi,
+
+902
+00:21:18,720 --> 00:21:19,320
+je les vois comme ça,
+
+903
+00:21:19,380 --> 00:21:20,400
+les végétariens qui craquent,
+
+904
+00:21:20,520 --> 00:21:21,220
+ils lâchent tout.
+
+905
+00:21:21,960 --> 00:21:23,300
+Il y en a qui craquent
+
+906
+00:21:23,300 --> 00:21:24,380
+vraiment sur des trucs à la con,
+
+907
+00:21:24,640 --> 00:21:25,900
+genre des nuggets de McDo
+
+908
+00:21:25,900 --> 00:21:27,200
+parce que ça leur rappelle leur enfance.
+
+909
+00:21:27,300 --> 00:21:27,400
+Du coup,
+
+910
+00:21:27,440 --> 00:21:28,020
+ils craquent sur ça.
+
+911
+00:21:28,400 --> 00:21:29,260
+Ce qu'ils ne peuvent pas avoir.
+
+912
+00:21:29,280 --> 00:21:29,680
+Ils auraient plus craqué
+
+913
+00:21:29,680 --> 00:21:30,780
+sur les takoyakis au Japon.
+
+914
+00:21:31,040 --> 00:21:31,260
+Ouais,
+
+915
+00:21:31,340 --> 00:21:31,760
+c'est ça,
+
+916
+00:21:31,760 --> 00:21:32,160
+exactement.
+
+917
+00:21:32,640 --> 00:21:32,920
+Mais tu vois,
+
+918
+00:21:32,980 --> 00:21:33,340
+c'est ce qu'on disait
+
+919
+00:21:33,340 --> 00:21:33,980
+sur le poisson,
+
+920
+00:21:34,160 --> 00:21:34,600
+le poulpe,
+
+921
+00:21:34,680 --> 00:21:35,240
+tout ça en fait.
+
+922
+00:21:35,420 --> 00:21:36,860
+Il n'y a pas trop d'alternatives
+
+923
+00:21:36,860 --> 00:21:37,700
+au Japon.
+
+924
+00:21:37,960 --> 00:21:38,460
+C'était chaud.
+
+925
+00:21:38,620 --> 00:21:38,980
+Par exemple,
+
+926
+00:21:39,060 --> 00:21:39,360
+au Japon,
+
+927
+00:21:39,480 --> 00:21:40,260
+qui est grosse culture
+
+928
+00:21:40,260 --> 00:21:40,740
+de la bouffe
+
+929
+00:21:40,740 --> 00:21:41,380
+avec du poisson
+
+930
+00:21:41,380 --> 00:21:41,980
+et tout machin,
+
+931
+00:21:42,380 --> 00:21:43,900
+tu peux facilement te dire
+
+932
+00:21:43,900 --> 00:21:44,200
+vas-y,
+
+933
+00:21:44,260 --> 00:21:44,520
+tu sais quoi,
+
+934
+00:21:44,620 --> 00:21:44,660
+là,
+
+935
+00:21:44,720 --> 00:21:45,880
+je fais pendant une semaine.
+
+936
+00:21:45,900 --> 00:21:45,960
+Tu as l'impression
+
+937
+00:21:45,960 --> 00:21:46,780
+que tu rates quelque chose.
+
+938
+00:21:47,000 --> 00:21:47,360
+En vrai,
+
+939
+00:21:47,400 --> 00:21:47,800
+ça fait chier
+
+940
+00:21:47,800 --> 00:21:48,500
+quand tu es en vacances
+
+941
+00:21:48,500 --> 00:21:49,680
+mais ça va.
+
+942
+00:21:50,000 --> 00:21:50,360
+Désolé.
+
+943
+00:21:50,540 --> 00:21:50,740
+Parce que moi,
+
+944
+00:21:50,800 --> 00:21:51,180
+j'avais fait,
+
+945
+00:21:51,580 --> 00:21:53,580
+je suivais dans les trucs végétariens
+
+946
+00:21:53,580 --> 00:21:54,500
+et je goûte le takoyaki
+
+947
+00:21:54,500 --> 00:21:55,620
+et c'est pas ouf,
+
+948
+00:21:55,720 --> 00:21:55,840
+tu vois.
+
+949
+00:21:56,060 --> 00:21:56,240
+Je dis,
+
+950
+00:21:56,300 --> 00:21:56,980
+tranquille et tout.
+
+951
+00:21:57,060 --> 00:21:57,440
+Je suis allé prendre
+
+952
+00:21:57,440 --> 00:21:58,140
+un vrai takoyaki
+
+953
+00:21:58,140 --> 00:21:59,260
+et j'ai pété un câble.
+
+954
+00:21:59,580 --> 00:21:59,780
+Parfois,
+
+955
+00:21:59,820 --> 00:22:00,740
+il y a des vraies différences.
+
+956
+00:22:02,240 --> 00:22:02,560
+Après,
+
+957
+00:22:02,800 --> 00:22:04,300
+j'ai fait un restaurant végétarien
+
+958
+00:22:04,300 --> 00:22:06,140
+une semaine après en Chine
+
+959
+00:22:06,140 --> 00:22:07,220
+et c'était incroyable.
+
+960
+00:22:07,340 --> 00:22:08,080
+C'était meilleur que la viande.
+
+961
+00:22:08,580 --> 00:22:08,680
+Donc,
+
+962
+00:22:09,040 --> 00:22:09,780
+tout dépend
+
+963
+00:22:09,780 --> 00:22:10,780
+de comment c'est cuisiné.
+
+964
+00:22:10,840 --> 00:22:11,220
+Je pense que tu peux
+
+965
+00:22:11,220 --> 00:22:12,080
+très bien manger végétarien.
+
+966
+00:22:12,100 --> 00:22:12,460
+C'est une question d'habitude.
+
+967
+00:22:13,140 --> 00:22:13,920
+C'est une bonne question.
+
+968
+00:22:14,100 --> 00:22:14,400
+Du coup,
+
+969
+00:22:14,480 --> 00:22:15,160
+pour être bon,
+
+970
+00:22:15,340 --> 00:22:16,540
+est-ce que tu t'es mis
+
+971
+00:22:16,540 --> 00:22:18,240
+à bien cuisiner ?
+
+972
+00:22:18,240 --> 00:22:18,860
+Pourquoi pas justement
+
+973
+00:22:18,860 --> 00:22:20,400
+pas être dans l'alternative
+
+974
+00:22:20,400 --> 00:22:21,660
+de je dois commander ?
+
+975
+00:22:21,660 --> 00:22:22,340
+C'est relou ?
+
+976
+00:22:22,340 --> 00:22:23,380
+Je dois aller aux courses ?
+
+977
+00:22:23,380 --> 00:22:23,840
+C'est vrai que c'est
+
+978
+00:22:23,840 --> 00:22:24,720
+un des premiers obstacles.
+
+979
+00:22:24,940 --> 00:22:25,580
+C'est que du coup,
+
+980
+00:22:25,660 --> 00:22:26,440
+toutes tes recettes d'avant,
+
+981
+00:22:26,560 --> 00:22:27,280
+tu ne peux plus trop
+
+982
+00:22:27,280 --> 00:22:27,760
+les utiliser
+
+983
+00:22:27,760 --> 00:22:28,200
+parce que souvent,
+
+984
+00:22:28,260 --> 00:22:28,980
+il y a de la viande dedans
+
+985
+00:22:28,980 --> 00:22:29,500
+ou du thon
+
+986
+00:22:29,500 --> 00:22:30,680
+ou des trucs un peu comme ça.
+
+987
+00:22:31,020 --> 00:22:31,120
+Moi,
+
+988
+00:22:31,160 --> 00:22:32,360
+je ne suis pas du tout cuisinier.
+
+989
+00:22:32,440 --> 00:22:32,640
+J'avoue,
+
+990
+00:22:32,760 --> 00:22:33,580
+je ne cuisine pas du tout.
+
+991
+00:22:33,760 --> 00:22:34,400
+C'est ma copine
+
+992
+00:22:34,400 --> 00:22:35,340
+qui cuisine à chaque fois.
+
+993
+00:22:35,600 --> 00:22:35,940
+Elle,
+
+994
+00:22:36,020 --> 00:22:36,880
+elle cuisine très très bien
+
+995
+00:22:36,880 --> 00:22:37,440
+et du coup,
+
+996
+00:22:37,520 --> 00:22:38,280
+ça favorise aussi.
+
+997
+00:22:38,280 --> 00:22:39,220
+C'est beaucoup plus simple
+
+998
+00:22:39,220 --> 00:22:40,000
+quand tu as quelqu'un
+
+999
+00:22:40,000 --> 00:22:40,780
+qui sait très bien cuisiner.
+
+1000
+00:22:41,700 --> 00:22:42,060
+Elle connaît
+
+1001
+00:22:42,060 --> 00:22:42,800
+toutes les recettes végées
+
+1002
+00:22:42,800 --> 00:22:43,120
+et en vrai,
+
+1003
+00:22:43,120 --> 00:22:43,960
+ça aide énormément.
+
+1004
+00:22:45,240 --> 00:22:45,800
+C'est ça,
+
+1005
+00:22:45,860 --> 00:22:46,600
+il faut une copine.
+
+1006
+00:22:46,740 --> 00:22:47,560
+Si vous voulez être végétarien,
+
+1007
+00:22:47,680 --> 00:22:48,280
+prenez une copine.
+
+1008
+00:22:49,440 --> 00:22:49,800
+Végétarien,
+
+1009
+00:22:49,900 --> 00:22:51,260
+mais conservateur quand même.
+
+1010
+00:22:52,160 --> 00:22:52,860
+C'est beau,
+
+1011
+00:22:52,860 --> 00:22:53,400
+c'est beau.
+
+1012
+00:22:53,400 --> 00:22:53,680
+C'est la copine
+
+1013
+00:22:53,680 --> 00:22:54,840
+qui cuisine à chaque fois.
+
+1014
+00:22:54,960 --> 00:22:55,220
+C'est beau.
+
+1015
+00:22:55,220 --> 00:22:56,420
+On n'est pas trop déconstruit.
+
+1016
+00:22:58,560 --> 00:22:59,400
+Les bâtards,
+
+1017
+00:22:59,500 --> 00:23:01,180
+les bâtards.
+
+1018
+00:23:02,480 --> 00:23:02,680
+Non,
+
+1019
+00:23:02,840 --> 00:23:03,900
+mais elle aime ça.
+
+1020
+00:23:05,120 --> 00:23:05,740
+Elle aime ça,
+
+1021
+00:23:05,800 --> 00:23:06,860
+elle ne peut pas sortir
+
+1022
+00:23:06,860 --> 00:23:07,340
+de la quête.
+
+1023
+00:23:07,340 --> 00:23:08,620
+Elle adore les jeux vidéo.
+
+1024
+00:23:09,020 --> 00:23:09,680
+Le ménage,
+
+1025
+00:23:09,740 --> 00:23:10,440
+elle adore ça aussi.
+
+1026
+00:23:10,680 --> 00:23:11,320
+C'est pas ce qu'elle aime.
+
+1027
+00:23:12,020 --> 00:23:12,820
+C'est sa passion.
+
+1028
+00:23:13,780 --> 00:23:14,280
+Il y a les gens
+
+1029
+00:23:14,280 --> 00:23:15,440
+qui vont avoir vu Davidson
+
+1030
+00:23:15,440 --> 00:23:16,500
+passer avec une mini boîte
+
+1031
+00:23:16,500 --> 00:23:17,160
+de Coco Pops
+
+1032
+00:23:17,160 --> 00:23:18,960
+et repartir comme si
+
+1033
+00:23:18,960 --> 00:23:19,780
+il n'a même pas fait croquer.
+
+1034
+00:23:20,060 --> 00:23:21,660
+C'est végétarien le Coco Pops.
+
+1035
+00:23:22,820 --> 00:23:23,980
+C'est peut-être pas végan.
+
+1036
+00:23:24,200 --> 00:23:25,760
+C'est quoi la situation
+
+1037
+00:23:25,760 --> 00:23:27,120
+dans laquelle
+
+1038
+00:23:27,120 --> 00:23:28,340
+toi,
+
+1039
+00:23:28,440 --> 00:23:29,200
+tu t'autoriserais
+
+1040
+00:23:29,200 --> 00:23:30,420
+à changer ton régime
+
+1041
+00:23:30,420 --> 00:23:30,700
+et du coup
+
+1042
+00:23:30,700 --> 00:23:32,500
+à redevenir ?
+
+1043
+00:23:32,500 --> 00:23:35,260
+Genre flexitarien ?
+
+1044
+00:23:35,260 --> 00:23:35,800
+Par exemple,
+
+1045
+00:23:35,900 --> 00:23:36,180
+c'est quoi ?
+
+1046
+00:23:36,180 --> 00:23:36,520
+Tu dirais
+
+1047
+00:23:36,520 --> 00:23:36,720
+bon,
+
+1048
+00:23:36,780 --> 00:23:36,980
+là,
+
+1049
+00:23:37,080 --> 00:23:37,320
+vas-y,
+
+1050
+00:23:37,360 --> 00:23:37,580
+tu sais quoi,
+
+1051
+00:23:37,640 --> 00:23:38,080
+c'est plus rien.
+
+1052
+00:23:38,840 --> 00:23:39,660
+Les raisons de santé,
+
+1053
+00:23:39,760 --> 00:23:40,340
+je pense qu'il y en a beaucoup
+
+1054
+00:23:40,340 --> 00:23:41,160
+qui arrêtent à cause de ça.
+
+1055
+00:23:41,360 --> 00:23:42,100
+S'ils ont des carences
+
+1056
+00:23:42,100 --> 00:23:43,140
+et tout ça.
+
+1057
+00:23:44,260 --> 00:23:44,980
+Mais pour le moment,
+
+1058
+00:23:45,080 --> 00:23:45,780
+ce n'est pas du tout le cas.
+
+1059
+00:23:45,880 --> 00:23:46,000
+Oui,
+
+1060
+00:23:46,060 --> 00:23:46,920
+j'ai déjà fait des prises de sang.
+
+1061
+00:23:47,060 --> 00:23:47,620
+On t'essaie d'en faire
+
+1062
+00:23:47,620 --> 00:23:48,040
+assez souvent.
+
+1063
+00:23:48,180 --> 00:23:48,940
+Mais si tu es végétarien,
+
+1064
+00:23:49,040 --> 00:23:49,280
+c'est bon.
+
+1065
+00:23:49,740 --> 00:23:49,880
+Oui.
+
+1066
+00:23:50,020 --> 00:23:50,700
+C'est si tu es végan
+
+1067
+00:23:50,700 --> 00:23:51,380
+que c'est un peu chaud.
+
+1068
+00:23:52,180 --> 00:23:53,760
+Il y a la B12,
+
+1069
+00:23:53,820 --> 00:23:54,680
+la vitamine B12
+
+1070
+00:23:54,680 --> 00:23:57,060
+qui est fortement conseillé
+
+1071
+00:23:57,060 --> 00:23:57,500
+de toute manière,
+
+1072
+00:23:57,580 --> 00:23:58,380
+même si tu es végétarien
+
+1073
+00:23:58,380 --> 00:23:58,940
+parce que tu en trouves
+
+1074
+00:23:58,940 --> 00:23:59,800
+surtout dans les animaux
+
+1075
+00:23:59,800 --> 00:24:01,080
+parce que les animaux,
+
+1076
+00:24:01,180 --> 00:24:02,020
+on leur donne eux-mêmes ça
+
+1077
+00:24:02,020 --> 00:24:02,560
+en cachet.
+
+1078
+00:24:02,580 --> 00:24:03,140
+Même si tu en bouffes
+
+1079
+00:24:03,140 --> 00:24:03,740
+dans les animaux.
+
+1080
+00:24:03,860 --> 00:24:04,020
+En fait,
+
+1081
+00:24:04,180 --> 00:24:04,440
+en plus,
+
+1082
+00:24:04,540 --> 00:24:05,420
+c'est souvent la bouffe
+
+1083
+00:24:05,420 --> 00:24:06,340
+que bouffent les animaux
+
+1084
+00:24:06,340 --> 00:24:06,840
+et c'est pour ça
+
+1085
+00:24:06,840 --> 00:24:07,660
+que quand on les bouffne,
+
+1086
+00:24:07,820 --> 00:24:09,980
+on a un truc comme la vitamine D,
+
+1087
+00:24:10,020 --> 00:24:10,680
+on devrait tous en prendre.
+
+1088
+00:24:11,240 --> 00:24:11,520
+Exactement,
+
+1089
+00:24:11,600 --> 00:24:11,840
+c'est ça.
+
+1090
+00:24:12,120 --> 00:24:12,420
+Exactement.
+
+1091
+00:24:12,520 --> 00:24:13,800
+Tu prends de la vitamine D ?
+
+1092
+00:24:13,800 --> 00:24:13,940
+Non,
+
+1093
+00:24:14,000 --> 00:24:14,340
+je n'en prends pas,
+
+1094
+00:24:14,380 --> 00:24:14,720
+mais je devrais.
+
+1095
+00:24:17,040 --> 00:24:18,280
+Quoi ?
+
+1096
+00:24:18,280 --> 00:24:18,740
+Parce que toi,
+
+1097
+00:24:18,780 --> 00:24:19,560
+t'en prends, toi ?
+
+1098
+00:24:19,560 --> 00:24:20,020
+Ça m'est arrivé.
+
+1099
+00:24:24,680 --> 00:24:25,860
+une meuf vegan
+
+1100
+00:24:25,860 --> 00:24:26,340
+qui fait chier
+
+1101
+00:24:26,340 --> 00:24:27,100
+avec ses petites pilules.
+
+1102
+00:24:27,440 --> 00:24:27,640
+C'est vrai,
+
+1103
+00:24:27,640 --> 00:24:28,100
+c'est vrai.
+
+1104
+00:24:28,880 --> 00:24:29,340
+Non, c'est vrai.
+
+1105
+00:24:29,460 --> 00:24:30,220
+Donc, il y a juste ça.
+
+1106
+00:24:30,340 --> 00:24:30,660
+Donc, en vrai,
+
+1107
+00:24:30,740 --> 00:24:31,240
+la santé,
+
+1108
+00:24:31,440 --> 00:24:31,800
+le goût,
+
+1109
+00:24:31,920 --> 00:24:32,040
+non,
+
+1110
+00:24:32,160 --> 00:24:32,600
+comme je te disais,
+
+1111
+00:24:32,680 --> 00:24:33,180
+parce que la viande,
+
+1112
+00:24:33,280 --> 00:24:33,400
+ça va,
+
+1113
+00:24:33,440 --> 00:24:34,900
+je trouve des alternatives.
+
+1114
+00:24:35,140 --> 00:24:35,440
+Et puis,
+
+1115
+00:24:35,460 --> 00:24:36,260
+ça va aller de mieux en mieux.
+
+1116
+00:24:36,520 --> 00:24:36,980
+C'est vrai que moi,
+
+1117
+00:24:37,040 --> 00:24:37,640
+j'ai vu la diff
+
+1118
+00:24:37,640 --> 00:24:39,080
+entre 5-10 ans.
+
+1119
+00:24:39,320 --> 00:24:40,180
+Ce serait que maintenant,
+
+1120
+00:24:40,320 --> 00:24:41,100
+dans les magasins,
+
+1121
+00:24:41,180 --> 00:24:41,720
+il y a des options.
+
+1122
+00:24:42,080 --> 00:24:42,200
+Oui,
+
+1123
+00:24:42,720 --> 00:24:43,140
+carrément,
+
+1124
+00:24:43,840 --> 00:24:44,680
+au supermarché et tout.
+
+1125
+00:24:45,040 --> 00:24:45,360
+Machin,
+
+1126
+00:24:45,560 --> 00:24:46,460
+on s'en fout,
+
+1127
+00:24:46,520 --> 00:24:46,980
+c'est pas de la pub,
+
+1128
+00:24:47,060 --> 00:24:48,300
+mais machin beyond mythes.
+
+1129
+00:24:48,300 --> 00:24:49,500
+C'est quoi ça ?
+
+1130
+00:24:49,500 --> 00:24:50,020
+C'est beyond mythes.
+
+1131
+00:24:50,280 --> 00:24:51,620
+C'est de la fausse viande
+
+1132
+00:24:51,620 --> 00:24:52,460
+ou c'est la viande
+
+1133
+00:24:52,460 --> 00:24:53,260
+créée en labo ?
+
+1134
+00:24:53,260 --> 00:24:54,100
+Il y a des trucs maintenant
+
+1135
+00:24:54,100 --> 00:24:54,720
+de viande,
+
+1136
+00:24:54,920 --> 00:24:56,100
+de vraie viande,
+
+1137
+00:24:56,200 --> 00:24:57,720
+qui poussent en labo.
+
+1138
+00:24:57,900 --> 00:24:58,880
+Ça, c'est pas encore beyond mythes,
+
+1139
+00:24:59,000 --> 00:24:59,740
+mais c'est prévu.
+
+1140
+00:25:00,020 --> 00:25:00,500
+Beyond mythes,
+
+1141
+00:25:00,560 --> 00:25:00,700
+en gros,
+
+1142
+00:25:00,760 --> 00:25:01,440
+c'est juste une recette
+
+1143
+00:25:01,440 --> 00:25:01,880
+qu'ils ont fait,
+
+1144
+00:25:01,980 --> 00:25:04,000
+mais c'est pas que en labo.
+
+1145
+00:25:04,020 --> 00:25:04,820
+Je crois qu'il fait le sang.
+
+1146
+00:25:04,940 --> 00:25:05,340
+Parce qu'en plus,
+
+1147
+00:25:05,440 --> 00:25:06,400
+ils ont poussé le truc
+
+1148
+00:25:06,400 --> 00:25:07,320
+pour que ça se fasse
+
+1149
+00:25:07,320 --> 00:25:08,260
+un peu sanguinolant,
+
+1150
+00:25:08,320 --> 00:25:08,760
+ce qui est quand même
+
+1151
+00:25:08,760 --> 00:25:09,360
+un peu bizarre.
+
+1152
+00:25:09,400 --> 00:25:09,760
+Et c'est ça,
+
+1153
+00:25:09,860 --> 00:25:09,960
+en fait,
+
+1154
+00:25:10,280 --> 00:25:11,460
+c'est exactement beyond mythes.
+
+1155
+00:25:11,460 --> 00:25:13,340
+t'es content de manger ça
+
+1156
+00:25:13,340 --> 00:25:13,840
+parce que ça te rappelle
+
+1157
+00:25:13,840 --> 00:25:14,400
+vraiment la viande
+
+1158
+00:25:14,400 --> 00:25:15,120
+parce qu'il y a genre le sang.
+
+1159
+00:25:15,200 --> 00:25:15,800
+Quand tu le fais cuire,
+
+1160
+00:25:15,880 --> 00:25:16,820
+ça dégouille un peu de partout.
+
+1161
+00:25:17,300 --> 00:25:18,440
+Et au niveau de la texture,
+
+1162
+00:25:18,560 --> 00:25:19,040
+ça ressemble vraiment
+
+1163
+00:25:19,040 --> 00:25:19,460
+à de la viande.
+
+1164
+00:25:19,700 --> 00:25:20,160
+Mais c'est un mélange
+
+1165
+00:25:20,160 --> 00:25:20,800
+de plein de trucs, je crois.
+
+1166
+00:25:20,900 --> 00:25:21,460
+Et c'est super bon.
+
+1167
+00:25:21,960 --> 00:25:22,500
+C'est super bon.
+
+1168
+00:25:22,560 --> 00:25:23,220
+Il y a deux, trois encore
+
+1169
+00:25:23,220 --> 00:25:23,720
+aux autres marques
+
+1170
+00:25:23,720 --> 00:25:24,480
+qui sont encore présentes.
+
+1171
+00:25:24,480 --> 00:25:24,940
+C'est quoi la marque
+
+1172
+00:25:24,940 --> 00:25:27,060
+pour laquelle je bosse ta copine ?
+
+1173
+00:25:27,060 --> 00:25:28,220
+Elle travaille pour une boîte
+
+1174
+00:25:28,220 --> 00:25:28,980
+qui s'appelle Oumiami.
+
+1175
+00:25:29,520 --> 00:25:30,140
+Et en gros,
+
+1176
+00:25:30,500 --> 00:25:31,040
+c'est du poulet,
+
+1177
+00:25:31,140 --> 00:25:32,400
+des filets de poulet végan.
+
+1178
+00:25:32,780 --> 00:25:33,820
+Et c'est super bon.
+
+1179
+00:25:33,880 --> 00:25:34,380
+Ça ressemble vraiment
+
+1180
+00:25:34,380 --> 00:25:36,540
+avec la texture,
+
+1181
+00:25:36,760 --> 00:25:37,280
+tout ce que tu veux.
+
+1182
+00:25:37,460 --> 00:25:38,140
+En fait, il y a beaucoup
+
+1183
+00:25:38,140 --> 00:25:38,600
+de débats.
+
+1184
+00:25:38,700 --> 00:25:39,520
+J'ai vu Laura Calu
+
+1185
+00:25:39,520 --> 00:25:40,140
+faire des sketchs
+
+1186
+00:25:40,140 --> 00:25:40,920
+dessus à beaucoup de gens.
+
+1187
+00:25:40,980 --> 00:25:41,480
+Les végétariens,
+
+1188
+00:25:41,520 --> 00:25:42,260
+ils en ont trop marre
+
+1189
+00:25:42,260 --> 00:25:43,140
+qu'on leur amène toujours
+
+1190
+00:25:43,140 --> 00:25:43,580
+en « Ah ben,
+
+1191
+00:25:43,640 --> 00:25:44,380
+si tu n'aimes pas la viande,
+
+1192
+00:25:44,500 --> 00:25:45,340
+pourquoi tu manges des produits
+
+1193
+00:25:45,340 --> 00:25:46,520
+qui rappellent la viande ? »
+
+1194
+00:25:46,520 --> 00:25:47,520
+Et elle a fait tout un truc
+
+1195
+00:25:47,520 --> 00:25:48,760
+pour dire « Parce que voilà,
+
+1196
+00:25:48,920 --> 00:25:49,480
+c'est compliqué,
+
+1197
+00:25:49,820 --> 00:25:50,760
+j'ai grandi comme ça. »
+
+1198
+00:25:50,760 --> 00:25:51,400
+Et puis « Ta mère,
+
+1199
+00:25:51,480 --> 00:25:52,000
+je ne sais pas pourquoi,
+
+1200
+00:25:52,060 --> 00:25:52,880
+les gens, ça les fait trop chier,
+
+1201
+00:25:52,940 --> 00:25:53,140
+ils sont là
+
+1202
+00:25:53,140 --> 00:25:53,920
+« Et pourquoi ça s'appelle
+
+1203
+00:25:53,920 --> 00:25:54,680
+steak végan ?
+
+1204
+00:25:54,680 --> 00:25:55,600
+Ça les énerve trop ! »
+
+1205
+00:25:55,600 --> 00:25:56,600
+En disant « Ben, ça va ! »
+
+1206
+00:25:56,600 --> 00:25:57,580
+Je ne comprends pas non plus
+
+1207
+00:25:57,580 --> 00:25:58,380
+cet argument-là
+
+1208
+00:25:58,380 --> 00:25:58,880
+parce qu'en vrai,
+
+1209
+00:25:59,180 --> 00:26:00,380
+genre « Ok, c'est bon la viande,
+
+1210
+00:26:00,480 --> 00:26:00,940
+ce n'est pas parce que
+
+1211
+00:26:00,940 --> 00:26:01,960
+tu n'as pas envie de tuer l'animal
+
+1212
+00:26:01,960 --> 00:26:02,720
+que tu n'es pas d'accord
+
+1213
+00:26:02,720 --> 00:26:03,820
+que la viande est bonne. »
+
+1214
+00:26:03,820 --> 00:26:04,480
+Ça ne dégoûte pas.
+
+1215
+00:26:04,620 --> 00:26:04,900
+Heureusement,
+
+1216
+00:26:05,200 --> 00:26:06,160
+sinon imagine juste
+
+1217
+00:26:06,160 --> 00:26:07,000
+qu'on bute des animaux
+
+1218
+00:26:07,000 --> 00:26:07,740
+comme des gros porcs
+
+1219
+00:26:07,740 --> 00:26:08,800
+alors que c'est des gosses.
+
+1220
+00:26:09,480 --> 00:26:10,640
+C'est évident que tout le monde
+
+1221
+00:26:10,640 --> 00:26:11,260
+sait que c'est bon,
+
+1222
+00:26:11,400 --> 00:26:12,140
+sinon on serait vraiment
+
+1223
+00:26:12,140 --> 00:26:13,580
+les plus gros barbares du monde.
+
+1224
+00:26:14,100 --> 00:26:14,700
+Exactement, c'est ça.
+
+1225
+00:26:14,780 --> 00:26:15,300
+C'est peut-être même
+
+1226
+00:26:15,300 --> 00:26:16,160
+la seule raison pour laquelle
+
+1227
+00:26:16,160 --> 00:26:16,440
+on les tue.
+
+1228
+00:26:16,820 --> 00:26:17,500
+Tuer des animaux
+
+1229
+00:26:17,500 --> 00:26:18,680
+juste pour les tuer ?
+
+1230
+00:26:18,680 --> 00:26:19,900
+Alors c'était des humains.
+
+1231
+00:26:20,220 --> 00:26:20,680
+Les bison,
+
+1232
+00:26:20,860 --> 00:26:21,380
+les trucs comme ça,
+
+1233
+00:26:21,440 --> 00:26:22,000
+on les a butés.
+
+1234
+00:26:22,520 --> 00:26:22,800
+Ah oui,
+
+1235
+00:26:22,900 --> 00:26:24,060
+mais c'était pour...
+
+1236
+00:26:24,060 --> 00:26:25,020
+Soit ils étaient dangereux,
+
+1237
+00:26:25,100 --> 00:26:26,100
+soit on voulait leur peau,
+
+1238
+00:26:26,280 --> 00:26:26,900
+soit...
+
+1239
+00:26:26,900 --> 00:26:27,840
+Si tu le fais pour rien,
+
+1240
+00:26:27,980 --> 00:26:28,200
+rien,
+
+1241
+00:26:28,440 --> 00:26:29,020
+t'es un psychopat de ouf.
+
+1242
+00:26:29,020 --> 00:26:29,600
+Faut le bouffer,
+
+1243
+00:26:29,720 --> 00:26:29,840
+ouais,
+
+1244
+00:26:29,860 --> 00:26:30,560
+faut le bouffer quand même.
+
+1245
+00:26:30,760 --> 00:26:31,680
+Je crois qu'ils les ont butés
+
+1246
+00:26:31,680 --> 00:26:32,520
+un peu pour rien, rien.
+
+1247
+00:26:33,800 --> 00:26:34,120
+Petit,
+
+1248
+00:26:34,160 --> 00:26:34,920
+on l'a tous fait un peu,
+
+1249
+00:26:35,000 --> 00:26:35,200
+non ?
+
+1250
+00:26:35,200 --> 00:26:36,660
+Les fourmis et la loup.
+
+1251
+00:26:36,800 --> 00:26:37,120
+Après,
+
+1252
+00:26:37,180 --> 00:26:37,540
+les humains,
+
+1253
+00:26:37,640 --> 00:26:37,740
+nous,
+
+1254
+00:26:37,800 --> 00:26:38,600
+butés pour rien, rien,
+
+1255
+00:26:38,700 --> 00:26:39,920
+on l'a fait avec d'autres humains.
+
+1256
+00:26:39,980 --> 00:26:40,260
+Comment ça,
+
+1257
+00:26:40,280 --> 00:26:40,380
+la loup ?
+
+1258
+00:26:40,380 --> 00:26:41,420
+On peut le faire avec les animaux.
+
+1259
+00:26:41,420 --> 00:26:42,240
+Oui, oui, oui.
+
+1260
+00:26:42,420 --> 00:26:42,640
+Mais non,
+
+1261
+00:26:43,160 --> 00:26:44,540
+on a tous fait petit à une loup,
+
+1262
+00:26:44,580 --> 00:26:46,060
+le soleil et tu vois les fourmis.
+
+1263
+00:26:46,300 --> 00:26:46,780
+T'es un monstre,
+
+1264
+00:26:46,880 --> 00:26:46,980
+mec,
+
+1265
+00:26:47,000 --> 00:26:47,660
+on n'a jamais fait ça.
+
+1266
+00:26:48,320 --> 00:26:48,720
+Moi, j'ai...
+
+1267
+00:26:48,720 --> 00:26:49,060
+Si, si.
+
+1268
+00:26:49,060 --> 00:26:49,920
+On n'a jamais fait ça,
+
+1269
+00:26:49,960 --> 00:26:50,020
+nous.
+
+1270
+00:26:50,760 --> 00:26:52,060
+Qui a déjà fait ça ?
+
+1271
+00:26:52,060 --> 00:26:53,400
+Si, si.
+
+1272
+00:26:53,400 --> 00:26:53,920
+Laissez-le tout seul.
+
+1273
+00:26:54,160 --> 00:26:54,440
+Avec moi,
+
+1274
+00:26:54,480 --> 00:26:55,400
+j'ai fait des trucs de psych...
+
+1275
+00:26:55,400 --> 00:26:55,640
+Mais je crois,
+
+1276
+00:26:55,680 --> 00:26:56,160
+on en a déjà parlé.
+
+1277
+00:26:56,240 --> 00:26:57,620
+Moi, j'ai fait des trucs de psychopathe.
+
+1278
+00:26:57,660 --> 00:26:57,900
+Bah oui.
+
+1279
+00:26:58,140 --> 00:26:59,760
+Moi, j'ai fait du baseball grenouille et tout.
+
+1280
+00:26:59,940 --> 00:27:00,500
+Oh !
+
+1281
+00:27:00,500 --> 00:27:01,020
+C'est terrible.
+
+1282
+00:27:01,480 --> 00:27:02,320
+T'as pris du sursis, c'est ça ?
+
+1283
+00:27:02,320 --> 00:27:07,020
+Je ne suis pas en parler, désolé.
+
+1284
+00:27:07,160 --> 00:27:07,840
+J'entends pas ce qu'il te dit.
+
+1285
+00:27:08,900 --> 00:27:09,680
+Je suis à deux mètres.
+
+1286
+00:27:09,840 --> 00:27:10,040
+Mais attends,
+
+1287
+00:27:10,040 --> 00:27:12,620
+mais explique-moi les règles du baseball grenouille vite fait.
+
+1288
+00:27:12,760 --> 00:27:14,040
+Il y a un receveur quand même.
+
+1289
+00:27:14,220 --> 00:27:14,340
+C'est simple.
+
+1290
+00:27:14,520 --> 00:27:15,360
+T'attrapes des grenouilles.
+
+1291
+00:27:15,440 --> 00:27:15,900
+Non, mais c'est terrible.
+
+1292
+00:27:16,260 --> 00:27:17,260
+T'attrapes des grenouilles,
+
+1293
+00:27:17,360 --> 00:27:17,860
+tu la lances
+
+1294
+00:27:17,860 --> 00:27:19,460
+et il y a un mec qui met un grand coup de baseball dedans.
+
+1295
+00:27:19,600 --> 00:27:20,600
+Un grand coup de batte de baseball.
+
+1296
+00:27:20,980 --> 00:27:21,220
+Alors,
+
+1297
+00:27:21,800 --> 00:27:22,820
+c'était ça ton jeu, Jean ?
+
+1298
+00:27:22,820 --> 00:27:23,960
+Non, mais je l'ai fait.
+
+1299
+00:27:24,060 --> 00:27:26,340
+J'ai souvenir d'avoir joué qu'une fois
+
+1300
+00:27:26,340 --> 00:27:28,180
+dans la maison de campagne d'un pote.
+
+1301
+00:27:28,560 --> 00:27:28,980
+Ça m'a marqué.
+
+1302
+00:27:30,060 --> 00:27:30,720
+Parce qu'après,
+
+1303
+00:27:30,720 --> 00:27:31,660
+il faut trouver les grenouilles.
+
+1304
+00:27:31,820 --> 00:27:32,720
+Il n'y en a pas non plus des masses.
+
+1305
+00:27:32,780 --> 00:27:33,640
+C'est facile à capturer.
+
+1306
+00:27:33,720 --> 00:27:34,360
+Il y avait une rivière.
+
+1307
+00:27:34,440 --> 00:27:35,020
+Je trouve des grenouilles.
+
+1308
+00:27:35,540 --> 00:27:37,180
+C'est trop chou.
+
+1309
+00:27:37,680 --> 00:27:38,460
+C'est trop chou.
+
+1310
+00:27:38,580 --> 00:27:39,580
+On dit ça,
+
+1311
+00:27:40,080 --> 00:27:40,980
+c'est scandaleux,
+
+1312
+00:27:41,100 --> 00:27:43,500
+mais j'ai bouffé des cuisses de grenouilles.
+
+1313
+00:27:43,620 --> 00:27:44,440
+Alors que c'est même pas bon.
+
+1314
+00:27:44,820 --> 00:27:45,320
+Oui, mais là,
+
+1315
+00:27:45,400 --> 00:27:46,700
+c'est juste tuer pour le plaisir.
+
+1316
+00:27:47,360 --> 00:27:48,440
+Oui, c'est con.
+
+1317
+00:27:49,000 --> 00:27:49,820
+Un point pour lui.
+
+1318
+00:27:50,220 --> 00:27:51,620
+C'était plus pour montrer
+
+1319
+00:27:51,620 --> 00:27:53,180
+qu'on était des bonhommes.
+
+1320
+00:27:53,620 --> 00:27:54,660
+C'était un truc de gogol.
+
+1321
+00:27:54,920 --> 00:27:56,040
+On croyait qu'on était des chasseurs.
+
+1322
+00:27:56,180 --> 00:27:56,640
+Vas-y,
+
+1323
+00:27:56,720 --> 00:27:58,640
+mais carrément des patates aux grenouilles aussi.
+
+1324
+00:27:58,640 --> 00:28:00,420
+Tu prends les grenouilles en one-one.
+
+1325
+00:28:00,760 --> 00:28:01,940
+Mais un petit point pour toi
+
+1326
+00:28:01,940 --> 00:28:03,440
+parce que c'est quand même dur à avouer.
+
+1327
+00:28:03,640 --> 00:28:03,920
+C'est vrai.
+
+1328
+00:28:03,920 --> 00:28:04,740
+C'est pas bien ce que tu as fait,
+
+1329
+00:28:04,820 --> 00:28:05,760
+mais tu as dit que tu l'as fait.
+
+1330
+00:28:06,280 --> 00:28:06,440
+Bravo.
+
+1331
+00:28:06,800 --> 00:28:07,620
+Alors que Franjo,
+
+1332
+00:28:07,760 --> 00:28:08,140
+bon, allez,
+
+1333
+00:28:08,260 --> 00:28:09,040
+tu as tapé des chiens
+
+1334
+00:28:09,040 --> 00:28:09,880
+et c'est le moment de le dire.
+
+1335
+00:28:09,920 --> 00:28:10,280
+Non, moi,
+
+1336
+00:28:10,340 --> 00:28:12,420
+j'ai brûlé des fourmis avec la loupe.
+
+1337
+00:28:12,520 --> 00:28:13,360
+Oui, tu nous l'as dit.
+
+1338
+00:28:13,640 --> 00:28:14,700
+Maintenant, dis le vrai truc.
+
+1339
+00:28:15,020 --> 00:28:15,560
+Mais c'est tout.
+
+1340
+00:28:15,560 --> 00:28:16,720
+Et que tu l'as fait avec des humains.
+
+1341
+00:28:18,680 --> 00:28:19,200
+Un jour,
+
+1342
+00:28:19,360 --> 00:28:20,840
+je rentre dans la chambre de mon grand-fère
+
+1343
+00:28:20,840 --> 00:28:22,140
+et brûle une fourmi comme ça.
+
+1344
+00:28:22,460 --> 00:28:24,640
+Il me dit une vraie phrase de psychopathe.
+
+1345
+00:28:24,640 --> 00:28:25,460
+J'en brûle une,
+
+1346
+00:28:26,200 --> 00:28:26,760
+mais que une.
+
+1347
+00:28:26,960 --> 00:28:27,200
+Comme ça,
+
+1348
+00:28:27,260 --> 00:28:27,560
+les autres,
+
+1349
+00:28:27,720 --> 00:28:28,960
+elles voient et savent que je suis un ouf.
+
+1350
+00:28:29,100 --> 00:28:29,300
+Et bon,
+
+1351
+00:28:29,400 --> 00:28:32,060
+c'est vrai que c'est un peu chaud.
+
+1352
+00:28:33,440 --> 00:28:34,560
+Mais en vrai,
+
+1353
+00:28:34,640 --> 00:28:35,760
+je crois que tu me refiles une loupe
+
+1354
+00:28:35,760 --> 00:28:36,420
+et des fourmis,
+
+1355
+00:28:36,600 --> 00:28:37,100
+je peux craquer.
+
+1356
+00:28:37,800 --> 00:28:38,640
+Ah oui ?
+
+1357
+00:28:38,640 --> 00:28:39,740
+Ah oui,
+
+1358
+00:28:39,780 --> 00:28:39,880
+non,
+
+1359
+00:28:39,880 --> 00:28:40,040
+moi,
+
+1360
+00:28:40,100 --> 00:28:40,260
+aujourd'hui,
+
+1361
+00:28:40,320 --> 00:28:41,880
+je suis devenu trop...
+
+1362
+00:28:41,880 --> 00:28:43,480
+Peut-être à cause du baseball grenouille,
+
+1363
+00:28:43,540 --> 00:28:44,880
+je suis encore dans la...
+
+1364
+00:28:44,880 --> 00:28:45,440
+Comment on dit ?
+
+1365
+00:28:45,440 --> 00:28:45,920
+La repentance.
+
+1366
+00:28:46,440 --> 00:28:46,720
+Putain,
+
+1367
+00:28:46,760 --> 00:28:48,180
+mais tu es le méchant dans Toy Story,
+
+1368
+00:28:48,300 --> 00:28:48,440
+quoi.
+
+1369
+00:28:48,680 --> 00:28:49,320
+Il fait ça.
+
+1370
+00:28:49,700 --> 00:28:50,340
+Oui, c'est vrai.
+
+1371
+00:28:50,480 --> 00:28:50,660
+Putain,
+
+1372
+00:28:50,700 --> 00:28:51,300
+il lui fait une marque.
+
+1373
+00:28:51,420 --> 00:28:51,820
+Oui, voilà.
+
+1374
+00:28:52,040 --> 00:28:52,600
+C'est génial.
+
+1375
+00:28:52,600 --> 00:28:53,960
+Mais même Baptiste Tépanette,
+
+1376
+00:28:54,000 --> 00:28:54,700
+il a commencé comme ça,
+
+1377
+00:28:54,760 --> 00:28:54,940
+je pense.
+
+1378
+00:28:55,200 --> 00:28:55,840
+Baptiste Tépanette,
+
+1379
+00:28:55,900 --> 00:28:56,320
+il a commencé comme ça.
+
+1380
+00:28:56,320 --> 00:28:57,420
+Je pense qu'il a fait du feu,
+
+1381
+00:28:57,460 --> 00:28:57,760
+comme ça.
+
+1382
+00:28:58,840 --> 00:28:59,160
+Ah,
+
+1383
+00:28:59,160 --> 00:28:59,400
+c'est...
+
+1384
+00:28:59,400 --> 00:28:59,560
+Ah,
+
+1385
+00:29:00,180 --> 00:29:00,460
+la vidéo.
+
+1386
+00:29:00,460 --> 00:29:00,820
+Tépanette,
+
+1387
+00:29:00,900 --> 00:29:01,840
+celui qui devait porter la flamme.
+
+1388
+00:29:02,220 --> 00:29:02,620
+On leur pique.
+
+1389
+00:29:03,120 --> 00:29:03,780
+Et après,
+
+1390
+00:29:04,000 --> 00:29:05,000
+comme tous les gars connus,
+
+1391
+00:29:05,080 --> 00:29:06,960
+il a eu une affaire d'un arcement sexuel au cul.
+
+1392
+00:29:07,180 --> 00:29:07,420
+Magnifique.
+
+1393
+00:29:07,420 --> 00:29:08,640
+Comme tous les gars connus ?
+
+1394
+00:29:08,640 --> 00:29:09,420
+J'en ai trois devant moi,
+
+1395
+00:29:09,500 --> 00:29:10,080
+alors du coup,
+
+1396
+00:29:10,740 --> 00:29:11,320
+alors du coup,
+
+1397
+00:29:11,400 --> 00:29:11,820
+lequel ?
+
+1398
+00:29:11,820 --> 00:29:12,380
+Qui commence ?
+
+1399
+00:29:12,380 --> 00:29:12,680
+Deux ?
+
+1400
+00:29:12,680 --> 00:29:13,160
+Seulement deux.
+
+1401
+00:29:13,240 --> 00:29:13,660
+Choisit deux.
+
+1402
+00:29:15,280 --> 00:29:15,600
+Enfin,
+
+1403
+00:29:15,780 --> 00:29:15,800
+un.
+
+1404
+00:29:16,060 --> 00:29:16,360
+En vrai,
+
+1405
+00:29:16,460 --> 00:29:16,600
+un.
+
+1406
+00:29:16,940 --> 00:29:17,120
+Moi,
+
+1407
+00:29:17,120 --> 00:29:17,660
+je ne suis pas connu.
+
+1408
+00:29:18,280 --> 00:29:18,620
+Par contre,
+
+1409
+00:29:18,680 --> 00:29:19,080
+j'ai agressé.
+
+1410
+00:29:19,560 --> 00:29:19,720
+Non,
+
+1411
+00:29:19,900 --> 00:29:20,980
+j'étais...
+
+1412
+00:29:20,980 --> 00:29:21,340
+Ah,
+
+1413
+00:29:21,340 --> 00:29:24,700
+il a juste dit bonjour.
+
+1414
+00:29:25,240 --> 00:29:25,480
+Et puis,
+
+1415
+00:29:25,560 --> 00:29:26,400
+on n'a pas rigolé encore une fois.
+
+1416
+00:29:26,500 --> 00:29:26,920
+C'est abusé.
+
+1417
+00:29:26,920 --> 00:29:28,100
+C'est abusé.
+
+1418
+00:29:28,300 --> 00:29:28,980
+J'ai rigolé.
+
+1419
+00:29:29,140 --> 00:29:29,260
+Ah,
+
+1420
+00:29:29,300 --> 00:29:29,520
+Tévan,
+
+1421
+00:29:29,580 --> 00:29:30,120
+à toi ?
+
+1422
+00:29:30,120 --> 00:29:30,480
+Non,
+
+1423
+00:29:30,700 --> 00:29:31,260
+je rigole.
+
+1424
+00:29:32,120 --> 00:29:32,320
+Si,
+
+1425
+00:29:32,440 --> 00:29:32,520
+si,
+
+1426
+00:29:32,580 --> 00:29:33,000
+mais je rigole.
+
+1427
+00:29:33,080 --> 00:29:33,300
+Tout à l'heure,
+
+1428
+00:29:33,360 --> 00:29:34,020
+j'ai rigolé à ta blague.
+
+1429
+00:29:34,380 --> 00:29:35,300
+Laquelle ?
+
+1430
+00:29:35,300 --> 00:29:36,660
+Quand tu as cité sa blague.
+
+1431
+00:29:36,920 --> 00:29:37,040
+Non,
+
+1432
+00:29:37,360 --> 00:29:37,640
+non,
+
+1433
+00:29:37,640 --> 00:29:37,960
+ça,
+
+1434
+00:29:37,960 --> 00:29:38,540
+c'est toi.
+
+1435
+00:29:38,680 --> 00:29:39,860
+Je viens de rigoler à la tienne encore.
+
+1436
+00:29:39,940 --> 00:29:40,160
+T'as vu,
+
+1437
+00:29:40,200 --> 00:29:40,460
+tu l'as vu,
+
+1438
+00:29:40,500 --> 00:29:40,800
+la flague,
+
+1439
+00:29:40,800 --> 00:29:41,800
+comment il a rigolé à la tienne.
+
+1440
+00:29:42,400 --> 00:29:42,520
+Non,
+
+1441
+00:29:42,580 --> 00:29:42,660
+non,
+
+1442
+00:29:42,720 --> 00:29:43,280
+quand tu as dit,
+
+1443
+00:29:43,620 --> 00:29:44,060
+putain,
+
+1444
+00:29:44,160 --> 00:29:44,700
+c'était drôle.
+
+1445
+00:29:46,060 --> 00:29:46,220
+Ah,
+
+1446
+00:29:46,280 --> 00:29:46,880
+mais je suis désolé.
+
+1447
+00:29:46,980 --> 00:29:47,420
+Oui,
+
+1448
+00:29:48,160 --> 00:29:48,340
+non,
+
+1449
+00:29:48,440 --> 00:29:48,720
+pas ça.
+
+1450
+00:29:49,000 --> 00:29:49,100
+Non,
+
+1451
+00:29:49,160 --> 00:29:49,360
+mais en plus,
+
+1452
+00:29:49,420 --> 00:29:49,760
+elle était bien.
+
+1453
+00:29:50,200 --> 00:29:51,700
+Mais j'étais en train d'être vénère,
+
+1454
+00:29:51,780 --> 00:29:53,020
+parce que je n'entendais rien à cause du urbain.
+
+1455
+00:29:53,700 --> 00:29:54,920
+Mais tu en as fait une bien.
+
+1456
+00:29:55,220 --> 00:29:55,740
+Écoute,
+
+1457
+00:29:55,780 --> 00:29:56,440
+je regarderai le replay.
+
+1458
+00:29:56,700 --> 00:29:57,700
+Je t'enverrai un petit message.
+
+1459
+00:29:57,820 --> 00:29:58,520
+C'est pire que tout.
+
+1460
+00:29:58,660 --> 00:30:01,000
+Si tu étais dans une île déserte,
+
+1461
+00:30:01,420 --> 00:30:01,620
+ouais,
+
+1462
+00:30:01,980 --> 00:30:02,220
+genre,
+
+1463
+00:30:02,600 --> 00:30:03,700
+est-ce que tu dirais...
+
+1464
+00:30:03,700 --> 00:30:04,780
+Genre au spectacle du urbain,
+
+1465
+00:30:04,840 --> 00:30:05,080
+par exemple.
+
+1466
+00:30:08,280 --> 00:30:08,680
+Ok,
+
+1467
+00:30:08,680 --> 00:30:09,320
+on rigole tout le temps,
+
+1468
+00:30:09,400 --> 00:30:09,540
+la flague.
+
+1469
+00:30:10,540 --> 00:30:10,860
+Bravo, bravo.
+
+1470
+00:30:11,080 --> 00:30:12,600
+Tu n'as le droit à rigoler à aucune blague pour celle-là.
+
+1471
+00:30:12,600 --> 00:30:12,940
+Par contre,
+
+1472
+00:30:13,020 --> 00:30:13,580
+on donne de la...
+
+1473
+00:30:13,580 --> 00:30:14,580
+Je jette de la viande aux gens.
+
+1474
+00:30:14,760 --> 00:30:15,460
+Il déserte.
+
+1475
+00:30:15,780 --> 00:30:16,280
+Il déserte.
+
+1476
+00:30:16,380 --> 00:30:18,160
+Tu changes ton...
+
+1477
+00:30:18,160 --> 00:30:18,640
+Ouais,
+
+1478
+00:30:18,980 --> 00:30:19,280
+ouais,
+
+1479
+00:30:19,360 --> 00:30:19,480
+toi,
+
+1480
+00:30:19,540 --> 00:30:20,540
+tu prends les calais le plus extrêmes,
+
+1481
+00:30:20,580 --> 00:30:20,800
+en fait.
+
+1482
+00:30:22,940 --> 00:30:25,840
+Tu crèves ou tu bouffes un animal ?
+
+1483
+00:30:25,840 --> 00:30:27,960
+Je bouffe la jambe avant de manger l'animal.
+
+1484
+00:30:28,380 --> 00:30:29,540
+Mais en question de survie,
+
+1485
+00:30:29,600 --> 00:30:31,920
+il y a eu des gens pas normaux psychologiquement
+
+1486
+00:30:31,920 --> 00:30:33,520
+qui ont fait du cannibalisme juste pour survivre.
+
+1487
+00:30:33,520 --> 00:30:33,800
+Ouais,
+
+1488
+00:30:34,160 --> 00:30:34,460
+ouais,
+
+1489
+00:30:34,460 --> 00:30:35,280
+c'est clair.
+
+1490
+00:30:36,000 --> 00:30:36,280
+Genre,
+
+1491
+00:30:36,360 --> 00:30:37,200
+tu craches en avion,
+
+1492
+00:30:37,320 --> 00:30:38,200
+tu es avec un équipage,
+
+1493
+00:30:38,200 --> 00:30:39,980
+tu t'autorises à manger l'équipage.
+
+1494
+00:30:40,480 --> 00:30:40,720
+Bah,
+
+1495
+00:30:41,000 --> 00:30:41,220
+ouais,
+
+1496
+00:30:41,320 --> 00:30:41,460
+ouais,
+
+1497
+00:30:41,460 --> 00:30:41,640
+ouais,
+
+1498
+00:30:41,640 --> 00:30:41,900
+grave.
+
+1499
+00:30:42,840 --> 00:30:43,000
+Après,
+
+1500
+00:30:43,080 --> 00:30:44,540
+je pense qu'ils voudront manger moins avant quand même,
+
+1501
+00:30:44,720 --> 00:30:46,360
+parce que le plus dodu passe en premier.
+
+1502
+00:30:46,700 --> 00:30:47,800
+Le seul truc qui me choque,
+
+1503
+00:30:47,880 --> 00:30:49,260
+c'est si c'est pas bon,
+
+1504
+00:30:49,480 --> 00:30:49,820
+en fait.
+
+1505
+00:30:51,120 --> 00:30:52,280
+Tuer un gars pour le bouffer,
+
+1506
+00:30:52,360 --> 00:30:53,100
+mais s'il est mort,
+
+1507
+00:30:53,700 --> 00:30:54,120
+à un moment,
+
+1508
+00:30:54,440 --> 00:30:55,200
+c'est juste que...
+
+1509
+00:30:55,200 --> 00:30:55,400
+Après,
+
+1510
+00:30:55,440 --> 00:30:55,700
+je te dis,
+
+1511
+00:30:55,760 --> 00:30:55,860
+moi,
+
+1512
+00:30:55,900 --> 00:30:56,520
+quand j'ai bouffé du chien,
+
+1513
+00:30:56,620 --> 00:30:57,200
+c'était ignoble.
+
+1514
+00:30:57,640 --> 00:30:57,680
+Donc,
+
+1515
+00:30:57,740 --> 00:30:58,280
+je pense que l'humain,
+
+1516
+00:30:58,360 --> 00:30:58,700
+c'est horrible.
+
+1517
+00:30:58,840 --> 00:31:00,280
+C'était quelle race de chien ?
+
+1518
+00:31:00,280 --> 00:31:01,140
+C'était un Saint-Bernard.
+
+1519
+00:31:01,740 --> 00:31:01,980
+Oh,
+
+1520
+00:31:02,080 --> 00:31:02,580
+t'es un bâtard,
+
+1521
+00:31:08,200 --> 00:31:09,000
+et je vous l'ai déjà dit.
+
+1522
+00:31:09,260 --> 00:31:09,460
+Non.
+
+1523
+00:31:09,540 --> 00:31:10,000
+Tu l'as pas dit,
+
+1524
+00:31:10,060 --> 00:31:10,460
+le Saint-Bernard,
+
+1525
+00:31:10,560 --> 00:31:10,940
+tu l'as pas dit.
+
+1526
+00:31:10,960 --> 00:31:11,000
+j'étais au Japon,
+
+1527
+00:31:11,200 --> 00:31:11,580
+mon frère,
+
+1528
+00:31:11,660 --> 00:31:13,440
+il m'en est dans un truc de barbecue coréen,
+
+1529
+00:31:13,880 --> 00:31:14,760
+où il y a un petit truc,
+
+1530
+00:31:14,820 --> 00:31:15,540
+si tu dis le truc,
+
+1531
+00:31:15,720 --> 00:31:16,560
+c'est du chien,
+
+1532
+00:31:16,800 --> 00:31:18,100
+et il y avait plein de petites viandes,
+
+1533
+00:31:18,160 --> 00:31:18,580
+et il y a un moment,
+
+1534
+00:31:18,660 --> 00:31:19,640
+j'ai bouffé un truc caoutchouc,
+
+1535
+00:31:19,700 --> 00:31:20,600
+horrible,
+
+1536
+00:31:20,720 --> 00:31:20,880
+j'ai dit,
+
+1537
+00:31:20,920 --> 00:31:21,740
+mais c'est quoi ça ?
+
+1538
+00:31:21,740 --> 00:31:22,440
+Ça a trop fait marrer,
+
+1539
+00:31:22,500 --> 00:31:22,900
+c'était du chien.
+
+1540
+00:31:23,140 --> 00:31:23,420
+Non.
+
+1541
+00:31:23,700 --> 00:31:23,940
+Genre,
+
+1542
+00:31:24,000 --> 00:31:25,880
+c'était légal là-bas ou illégal ?
+
+1543
+00:31:25,880 --> 00:31:26,080
+Bah,
+
+1544
+00:31:26,160 --> 00:31:27,140
+c'est un peu underground,
+
+1545
+00:31:27,300 --> 00:31:28,380
+c'est le restaurant coréen,
+
+1546
+00:31:28,460 --> 00:31:29,420
+où il faut connaître le gars,
+
+1547
+00:31:29,540 --> 00:31:30,360
+qui connaît le gars,
+
+1548
+00:31:30,440 --> 00:31:31,080
+que si tu dis ça,
+
+1549
+00:31:31,120 --> 00:31:31,560
+c'est du chien.
+
+1550
+00:31:31,720 --> 00:31:32,020
+Saint-Bernard,
+
+1551
+00:31:32,100 --> 00:31:32,300
+déjà,
+
+1552
+00:31:32,480 --> 00:31:33,880
+t'as bouffé ton animal totem,
+
+1553
+00:31:34,060 --> 00:31:34,760
+t'es un peu une merde,
+
+1554
+00:31:35,260 --> 00:31:36,820
+et Beethoven,
+
+1555
+00:31:37,040 --> 00:31:38,600
+on est ce qu'on mange,
+
+1556
+00:31:38,700 --> 00:31:38,940
+c'est vrai.
+
+1557
+00:31:39,040 --> 00:31:40,000
+Il a un cubi de vin,
+
+1558
+00:31:40,080 --> 00:31:40,400
+ce louco.
+
+1559
+00:31:40,540 --> 00:31:40,640
+Ah,
+
+1560
+00:31:40,700 --> 00:31:41,340
+puis c'est Beethoven,
+
+1561
+00:31:41,540 --> 00:31:42,560
+c'est le petit chien,
+
+1562
+00:31:42,660 --> 00:31:43,260
+le gros chien mignon.
+
+1563
+00:31:43,280 --> 00:31:43,480
+Après,
+
+1564
+00:31:43,560 --> 00:31:44,000
+tous les chiens,
+
+1565
+00:31:44,100 --> 00:31:44,400
+c'est mignon,
+
+1566
+00:31:44,620 --> 00:31:45,680
+à part le chihuahua,
+
+1567
+00:31:45,780 --> 00:31:47,940
+où je serais ravi dans...
+
+1568
+00:31:47,940 --> 00:31:48,320
+Oh,
+
+1569
+00:31:48,340 --> 00:31:48,680
+il y a des chiens,
+
+1570
+00:31:48,720 --> 00:31:49,240
+ils sont pas mignons.
+
+1571
+00:31:49,660 --> 00:31:49,840
+Non.
+
+1572
+00:31:50,160 --> 00:31:50,360
+Pardon,
+
+1573
+00:31:50,360 --> 00:31:50,720
+désolé,
+
+1574
+00:31:50,800 --> 00:31:51,320
+il y a des chiens moches.
+
+1575
+00:31:51,460 --> 00:31:52,820
+Il y a des merdes au Mexique,
+
+1576
+00:31:52,860 --> 00:31:54,060
+avec trois poils sur la tête,
+
+1577
+00:31:54,200 --> 00:31:54,220
+là,
+
+1578
+00:31:54,300 --> 00:31:55,180
+on dirait un peu des Gremlins.
+
+1579
+00:31:55,300 --> 00:31:55,540
+J'adore.
+
+1580
+00:31:56,080 --> 00:31:56,720
+C'est trop mignon.
+
+1581
+00:31:57,200 --> 00:31:57,800
+Je déteste.
+
+1582
+00:31:58,000 --> 00:31:58,180
+En fait,
+
+1583
+00:31:58,240 --> 00:31:58,860
+quand c'est moche,
+
+1584
+00:31:59,040 --> 00:31:59,960
+parfois c'est un côté mignon,
+
+1585
+00:32:00,060 --> 00:32:00,520
+genre du chant.
+
+1586
+00:32:00,620 --> 00:32:01,760
+T'aimes le chat sans poils,
+
+1587
+00:32:01,840 --> 00:32:02,480
+le sphinx ?
+
+1588
+00:32:02,480 --> 00:32:02,780
+J'adore,
+
+1589
+00:32:02,940 --> 00:32:03,720
+parce que j'en ai vu,
+
+1590
+00:32:03,820 --> 00:32:05,540
+c'est trop marrant.
+
+1591
+00:32:05,740 --> 00:32:05,820
+Ça,
+
+1592
+00:32:05,820 --> 00:32:06,420
+ça explique pas mal
+
+1593
+00:32:06,420 --> 00:32:06,520
+de ces conquêtes.
+
+1594
+00:32:06,520 --> 00:32:06,600
+Ça,
+
+1595
+00:32:06,640 --> 00:32:08,320
+tu trouves ça beau ?
+
+1596
+00:32:08,320 --> 00:32:10,400
+Je crois que j'ai une acquaintance
+
+1597
+00:32:10,400 --> 00:32:11,180
+pour les trucs moches,
+
+1598
+00:32:11,300 --> 00:32:12,480
+un animaux de compagnie.
+
+1599
+00:32:12,600 --> 00:32:13,060
+C'est ça.
+
+1600
+00:32:13,060 --> 00:32:13,740
+J'aime bien.
+
+1601
+00:32:15,580 --> 00:32:15,780
+Non,
+
+1602
+00:32:16,060 --> 00:32:16,460
+mais pour d'aujourd'hui,
+
+1603
+00:32:16,540 --> 00:32:16,680
+genre,
+
+1604
+00:32:16,800 --> 00:32:17,600
+tu aurais un reptile,
+
+1605
+00:32:17,760 --> 00:32:18,720
+tu caresserais un petit...
+
+1606
+00:32:18,720 --> 00:32:19,080
+Non,
+
+1607
+00:32:19,220 --> 00:32:19,640
+un reptile,
+
+1608
+00:32:19,700 --> 00:32:20,540
+j'ai peur qu'il me miaque,
+
+1609
+00:32:20,640 --> 00:32:21,020
+mais un...
+
+1610
+00:32:21,020 --> 00:32:22,080
+T'as dit carlin ?
+
+1611
+00:32:22,080 --> 00:32:22,240
+Ben,
+
+1612
+00:32:22,240 --> 00:32:22,620
+un carlin.
+
+1613
+00:32:23,280 --> 00:32:23,480
+Mais ça,
+
+1614
+00:32:23,540 --> 00:32:24,160
+c'est mignon de fou.
+
+1615
+00:32:24,520 --> 00:32:25,420
+Le chien de Man in Black.
+
+1616
+00:32:25,900 --> 00:32:26,080
+Ouais,
+
+1617
+00:32:26,160 --> 00:32:26,700
+c'est moche quand même.
+
+1618
+00:32:26,900 --> 00:32:27,020
+Non,
+
+1619
+00:32:27,080 --> 00:32:27,560
+mais c'est doux.
+
+1620
+00:32:27,920 --> 00:32:28,080
+Ouais,
+
+1621
+00:32:28,140 --> 00:32:28,340
+c'est doux.
+
+1622
+00:32:28,860 --> 00:32:29,600
+Puis c'est en fin de vie,
+
+1623
+00:32:29,740 --> 00:32:29,860
+surtout,
+
+1624
+00:32:29,920 --> 00:32:30,520
+c'est en permanence
+
+1625
+00:32:30,520 --> 00:32:32,080
+en train de m'appener.
+
+1626
+00:32:32,300 --> 00:32:32,800
+C'est très dur.
+
+1627
+00:32:33,240 --> 00:32:34,860
+Comme toi.
+
+1628
+00:32:36,240 --> 00:32:37,120
+Il n'y avait même plus
+
+1629
+00:32:37,120 --> 00:32:38,360
+la conviction
+
+1630
+00:32:38,360 --> 00:32:38,960
+de ces blagues.
+
+1631
+00:32:38,960 --> 00:32:42,700
+T'es moche !
+
+1632
+00:32:42,700 --> 00:32:42,880
+Non,
+
+1633
+00:32:42,980 --> 00:32:44,320
+jamais !
+
+1634
+00:32:44,320 --> 00:32:44,760
+Alors là,
+
+1635
+00:32:45,540 --> 00:32:46,280
+jamais !
+
+1636
+00:32:46,280 --> 00:32:47,460
+Il n'y avait même plus de blagues.
+
+1637
+00:32:47,780 --> 00:32:48,220
+Il y avait une blague.
+
+1638
+00:32:48,360 --> 00:32:50,100
+T'es moche !
+
+1639
+00:32:50,100 --> 00:32:51,160
+J'aime pas tes cheveux.
+
+1640
+00:32:51,340 --> 00:32:51,460
+Moi,
+
+1641
+00:32:51,540 --> 00:32:52,240
+j'attaque pas le physique.
+
+1642
+00:32:52,580 --> 00:32:53,340
+Mais pas le physique.
+
+1643
+00:32:53,640 --> 00:32:53,780
+Non,
+
+1644
+00:32:53,840 --> 00:32:53,940
+non,
+
+1645
+00:32:53,940 --> 00:32:54,580
+j'attaque pas le physique,
+
+1646
+00:32:54,660 --> 00:32:56,200
+j'attaque la non-condition physique.
+
+1647
+00:32:56,300 --> 00:32:56,700
+C'est autre chose.
+
+1648
+00:32:57,180 --> 00:32:57,720
+C'est autre chose.
+
+1649
+00:32:57,800 --> 00:32:58,320
+Pour me pousser.
+
+1650
+00:32:58,440 --> 00:32:58,880
+En plus,
+
+1651
+00:32:59,020 --> 00:32:59,420
+en off,
+
+1652
+00:32:59,500 --> 00:33:00,480
+il est toujours là au basket.
+
+1653
+00:33:00,700 --> 00:33:01,120
+C'est bien,
+
+1654
+00:33:01,500 --> 00:33:01,880
+t'es mieux.
+
+1655
+00:33:02,080 --> 00:33:02,360
+Ben oui,
+
+1656
+00:33:02,480 --> 00:33:03,380
+mais c'est mieux ça que l'inverse.
+
+1657
+00:33:03,520 --> 00:33:03,780
+Mais oui.
+
+1658
+00:33:04,060 --> 00:33:04,520
+T'es obligé.
+
+1659
+00:33:05,220 --> 00:33:06,500
+Personne est en dualité totale.
+
+1660
+00:33:06,500 --> 00:33:07,860
+Il ne sait plus s'il faut être gentil.
+
+1661
+00:33:08,020 --> 00:33:08,720
+Je ne m'y arrive plus.
+
+1662
+00:33:09,160 --> 00:33:10,560
+Je ne veux pas être au basket.
+
+1663
+00:33:10,760 --> 00:33:11,640
+Je vois un mec qui se noie,
+
+1664
+00:33:11,760 --> 00:33:12,520
+je lui tend la perche.
+
+1665
+00:33:12,580 --> 00:33:13,900
+Je ne veux pas lui enfoncer la tête dedans.
+
+1666
+00:33:14,160 --> 00:33:15,000
+J'essaie de l'aider.
+
+1667
+00:33:15,440 --> 00:33:16,720
+C'est quoi l'impact que ça a eu sur toi
+
+1668
+00:33:16,720 --> 00:33:18,200
+d'être végétarien ?
+
+1669
+00:33:18,200 --> 00:33:21,560
+T'as vu des changements ?
+
+1670
+00:33:21,560 --> 00:33:22,100
+L'endurance,
+
+1671
+00:33:22,200 --> 00:33:22,620
+comme on disait,
+
+1672
+00:33:22,780 --> 00:33:23,460
+c'est vrai que le souffle,
+
+1673
+00:33:23,580 --> 00:33:23,720
+tout ça,
+
+1674
+00:33:23,820 --> 00:33:24,860
+tu respires mieux,
+
+1675
+00:33:25,000 --> 00:33:25,700
+tu dors mieux.
+
+1676
+00:33:26,340 --> 00:33:27,200
+Il paraît qu'on bande mieux.
+
+1677
+00:33:27,600 --> 00:33:28,540
+Il paraît qu'on bande mieux.
+
+1678
+00:33:28,720 --> 00:33:29,460
+Il paraît qu'on bande mieux.
+
+1679
+00:33:29,460 --> 00:33:29,480
+Il paraît qu'on bande mieux.
+
+1680
+00:33:31,040 --> 00:33:32,460
+Il y a une étude sur Netflix
+
+1681
+00:33:32,460 --> 00:33:33,080
+qui dit ça.
+
+1682
+00:33:33,080 --> 00:33:34,700
+Ah, dans Game Changer ?
+
+1683
+00:33:34,700 --> 00:33:35,540
+Oui, c'est ça.
+
+1684
+00:33:35,740 --> 00:33:36,060
+Exactement.
+
+1685
+00:33:36,200 --> 00:33:37,220
+Qui est super bien fait d'ailleurs.
+
+1686
+00:33:37,920 --> 00:33:38,660
+Apparemment, on bande mieux.
+
+1687
+00:33:39,080 --> 00:33:39,540
+Apparemment, on bande mieux.
+
+1688
+00:33:39,540 --> 00:33:41,860
+Et toi, tu en penses quoi ?
+
+1689
+00:33:41,860 --> 00:33:43,180
+A bander avec un arc, c'est ça ?
+
+1690
+00:33:43,180 --> 00:33:43,760
+Tire à l'arc ?
+
+1691
+00:33:43,760 --> 00:33:44,020
+Je ne sais pas,
+
+1692
+00:33:44,100 --> 00:33:44,460
+tire à l'arc.
+
+1693
+00:33:44,860 --> 00:33:45,480
+Alors du coup,
+
+1694
+00:33:45,760 --> 00:33:47,140
+j'ai quoi d'autre côté ?
+
+1695
+00:33:47,140 --> 00:33:48,060
+Dommage qu'on n'a pas de chapeau
+
+1696
+00:33:48,060 --> 00:33:48,900
+parce qu'il y avait le chapeau
+
+1697
+00:33:48,900 --> 00:33:49,320
+du jeu de mots
+
+1698
+00:33:49,320 --> 00:33:50,060
+au dernier épisode.
+
+1699
+00:33:51,120 --> 00:33:51,960
+Il est mouillé maintenant.
+
+1700
+00:33:52,400 --> 00:33:54,160
+C'est un grand fan de jeu.
+
+1701
+00:33:54,160 --> 00:33:54,700
+Grand amateur.
+
+1702
+00:33:55,040 --> 00:33:56,400
+Non, mais ouais,
+
+1703
+00:33:56,440 --> 00:33:57,040
+il y a plein d'effets.
+
+1704
+00:34:00,740 --> 00:34:01,500
+Salut les parents
+
+1705
+00:34:01,500 --> 00:34:03,040
+qui écoutent peut-être le podcast.
+
+1706
+00:34:03,080 --> 00:34:03,820
+Non, non, non.
+
+1707
+00:34:04,200 --> 00:34:05,100
+Eux deux, c'est très bizarre.
+
+1708
+00:34:05,280 --> 00:34:05,780
+C'est-à-dire que eux deux
+
+1709
+00:34:05,780 --> 00:34:06,300
+qui sont ensemble,
+
+1710
+00:34:06,400 --> 00:34:07,400
+ils rigolent tout seuls.
+
+1711
+00:34:07,840 --> 00:34:09,460
+Non, mais rigole, mec.
+
+1712
+00:34:09,460 --> 00:34:10,600
+C'est trop rire.
+
+1713
+00:34:10,760 --> 00:34:11,500
+Il est un peu gêné.
+
+1714
+00:34:11,880 --> 00:34:12,140
+Il est là.
+
+1715
+00:34:12,300 --> 00:34:13,060
+Ouais, non, mais t'inquiète.
+
+1716
+00:34:13,560 --> 00:34:14,160
+Alors, est-ce que tu as
+
+1717
+00:34:14,160 --> 00:34:14,960
+un grand archer ou pas ?
+
+1718
+00:34:14,960 --> 00:34:15,440
+C'est ça, comme ça,
+
+1719
+00:34:15,440 --> 00:34:15,600
+marrant.
+
+1720
+00:34:17,120 --> 00:34:17,740
+Pour moi, tu n'as pas vu
+
+1721
+00:34:17,740 --> 00:34:18,440
+de différence notable.
+
+1722
+00:34:18,560 --> 00:34:18,900
+C'est pas grave.
+
+1723
+00:34:19,000 --> 00:34:20,100
+Si, j'en ai vu plein.
+
+1724
+00:34:20,860 --> 00:34:21,720
+Ouais, j'en ai vu plein.
+
+1725
+00:34:21,840 --> 00:34:22,340
+Après, c'est vrai que,
+
+1726
+00:34:22,340 --> 00:34:24,200
+ouais, au jour le jour,
+
+1727
+00:34:24,280 --> 00:34:25,140
+tu ne vois pas trop, en fait.
+
+1728
+00:34:25,280 --> 00:34:26,220
+C'est plus quand tu fais
+
+1729
+00:34:26,220 --> 00:34:26,920
+genre deux ans après,
+
+1730
+00:34:27,060 --> 00:34:27,640
+oui, tu te rends compte
+
+1731
+00:34:27,640 --> 00:34:28,440
+que tu as plus de souffle,
+
+1732
+00:34:28,520 --> 00:34:29,140
+que tu as moins de soucis
+
+1733
+00:34:29,140 --> 00:34:29,880
+de ci, de ça, quoi.
+
+1734
+00:34:30,100 --> 00:34:30,400
+Ouais, sinon,
+
+1735
+00:34:30,460 --> 00:34:31,380
+il faut baiser vraiment souvent.
+
+1736
+00:34:32,080 --> 00:34:33,500
+Non, mais il n'était même plus là-dessus.
+
+1737
+00:34:35,260 --> 00:34:36,380
+Et il ne peut pas baiser sa meuf,
+
+1738
+00:34:36,440 --> 00:34:36,960
+elle passe son temps
+
+1739
+00:34:36,960 --> 00:34:37,560
+à faire la bouche.
+
+1740
+00:34:37,960 --> 00:34:38,540
+Et le ménage.
+
+1741
+00:34:38,920 --> 00:34:39,660
+Mais putain, c'est sympa.
+
+1742
+00:34:39,660 --> 00:34:40,300
+Non, n'empêche pas l'autre.
+
+1743
+00:34:40,540 --> 00:34:40,600
+Non, j'arrête.
+
+1744
+00:34:40,860 --> 00:34:42,320
+Non, j'arrête, j'arrête, j'arrête.
+
+1745
+00:34:42,320 --> 00:34:43,300
+C'est le souf au marge.
+
+1746
+00:34:43,540 --> 00:34:44,980
+J'arrête, j'arrête, j'arrête.
+
+1747
+00:34:45,680 --> 00:34:45,960
+Pardon.
+
+1748
+00:34:46,960 --> 00:34:47,660
+Oui, donc, du coup,
+
+1749
+00:34:47,800 --> 00:34:49,520
+tu as vu des différences
+
+1750
+00:34:49,520 --> 00:34:51,000
+genre physiques ?
+
+1751
+00:34:51,000 --> 00:34:51,480
+Ouais, c'est ça,
+
+1752
+00:34:51,560 --> 00:34:52,120
+plus comme ça.
+
+1753
+00:34:52,420 --> 00:34:53,460
+Après, mentalement et tout,
+
+1754
+00:34:53,520 --> 00:34:54,620
+je ne sais pas vraiment.
+
+1755
+00:34:54,860 --> 00:34:55,380
+Il y en a qui disent
+
+1756
+00:34:55,380 --> 00:34:56,340
+qu'il y a des études mentalement,
+
+1757
+00:34:56,440 --> 00:34:56,720
+apparemment,
+
+1758
+00:34:56,780 --> 00:34:57,860
+tu en sais mieux réfléchir.
+
+1759
+00:34:57,960 --> 00:34:58,500
+Il y a des trucs comme ça.
+
+1760
+00:34:59,000 --> 00:34:59,900
+Je crois que ce n'est pas mon cas.
+
+1761
+00:35:00,140 --> 00:35:00,940
+J'ai dû rater des repas.
+
+1762
+00:35:01,160 --> 00:35:02,780
+Est-ce que les poules
+
+1763
+00:35:02,780 --> 00:35:03,220
+et les vaches
+
+1764
+00:35:03,220 --> 00:35:04,840
+sont plus sympas avec toi depuis ?
+
+1765
+00:35:04,840 --> 00:35:05,400
+Est-ce que tu sens
+
+1766
+00:35:05,400 --> 00:35:06,420
+quand tu passes devant une ferme
+
+1767
+00:35:06,420 --> 00:35:07,840
+qui a un côté ?
+
+1768
+00:35:07,840 --> 00:35:08,380
+Merci, bro.
+
+1769
+00:35:08,580 --> 00:35:08,980
+Mon gars.
+
+1770
+00:35:09,060 --> 00:35:09,720
+On le sent que tu es un...
+
+1771
+00:35:09,720 --> 00:35:10,540
+Non, pas spécialement.
+
+1772
+00:35:10,620 --> 00:35:11,180
+Mais je n'aime pas trop
+
+1773
+00:35:11,180 --> 00:35:12,080
+les animaux en soi.
+
+1774
+00:35:12,160 --> 00:35:12,880
+Je ne vais pas trop les voir.
+
+1775
+00:35:13,140 --> 00:35:13,600
+C'est moche.
+
+1776
+00:35:13,600 --> 00:35:14,940
+Ouais, c'est bizarre.
+
+1777
+00:35:15,320 --> 00:35:15,940
+Je n'aime pas trop
+
+1778
+00:35:15,940 --> 00:35:16,740
+les voir dans la vraie vie
+
+1779
+00:35:16,740 --> 00:35:17,700
+juste à la télé.
+
+1780
+00:35:17,760 --> 00:35:18,220
+Tu meurs quoi.
+
+1781
+00:35:19,840 --> 00:35:20,920
+Si vous pouvez en bouffer
+
+1782
+00:35:20,920 --> 00:35:21,320
+devant moi,
+
+1783
+00:35:21,380 --> 00:35:21,600
+c'est marrant.
+
+1784
+00:35:21,720 --> 00:35:22,780
+Les animaux domestiques,
+
+1785
+00:35:22,860 --> 00:35:22,960
+tu vois,
+
+1786
+00:35:23,040 --> 00:35:24,100
+je n'aime pas trop les chiens.
+
+1787
+00:35:24,640 --> 00:35:25,100
+Genre les chats,
+
+1788
+00:35:25,180 --> 00:35:25,560
+je suis allergique,
+
+1789
+00:35:25,600 --> 00:35:26,380
+je ne les approche pas trop.
+
+1790
+00:35:26,640 --> 00:35:27,380
+J'avoue, les animaux,
+
+1791
+00:35:27,460 --> 00:35:27,800
+je ne sais pas.
+
+1792
+00:35:28,560 --> 00:35:28,940
+Je ne sais pas trop,
+
+1793
+00:35:29,020 --> 00:35:29,440
+ça ne change pas.
+
+1794
+00:35:30,660 --> 00:35:31,660
+D'ailleurs,
+
+1795
+00:35:31,780 --> 00:35:32,860
+c'est peut-être une critique
+
+1796
+00:35:32,860 --> 00:35:33,600
+que je peux faire
+
+1797
+00:35:33,600 --> 00:35:34,300
+aux omnivores.
+
+1798
+00:35:34,480 --> 00:35:34,820
+C'est qu'il y en a,
+
+1799
+00:35:34,860 --> 00:35:37,300
+ils kiffent les animaux.
+
+1800
+00:35:37,580 --> 00:35:38,140
+Genre ils ont un chat,
+
+1801
+00:35:38,280 --> 00:35:38,660
+ils le kiffent,
+
+1802
+00:35:38,700 --> 00:35:39,160
+c'est leur bébé,
+
+1803
+00:35:39,160 --> 00:35:39,640
+tout ça et tout.
+
+1804
+00:35:40,020 --> 00:35:40,900
+Mais ils bouffent du poulet,
+
+1805
+00:35:41,120 --> 00:35:42,020
+genre ils charcutent le poulet,
+
+1806
+00:35:42,020 --> 00:35:42,920
+le cochon.
+
+1807
+00:35:43,360 --> 00:35:44,000
+Le cochon,
+
+1808
+00:35:44,000 --> 00:35:45,540
+c'est hyper intelligent,
+
+1809
+00:35:45,700 --> 00:35:46,540
+c'est aussi intelligent
+
+1810
+00:35:46,540 --> 00:35:48,420
+qu'un yache.
+
+1811
+00:35:48,840 --> 00:35:49,260
+Bien sûr,
+
+1812
+00:35:49,440 --> 00:35:50,120
+là-dessus,
+
+1813
+00:35:50,300 --> 00:35:51,280
+c'est notre plus grosse contradiction.
+
+1814
+00:35:51,760 --> 00:35:52,640
+Et la plus importante,
+
+1815
+00:35:52,900 --> 00:35:53,920
+c'est qu'on est incapable.
+
+1816
+00:35:54,420 --> 00:35:55,540
+On fait même des blagues
+
+1817
+00:35:55,540 --> 00:35:56,420
+sur les chasseurs,
+
+1818
+00:35:56,500 --> 00:35:57,160
+genre c'est des barbares.
+
+1819
+00:35:57,820 --> 00:35:59,300
+On serait incapable,
+
+1820
+00:35:59,860 --> 00:36:00,380
+d'ailleurs,
+
+1821
+00:36:00,460 --> 00:36:01,560
+je pense que si c'était le cas,
+
+1822
+00:36:01,680 --> 00:36:02,320
+qu'il fallait vraiment
+
+1823
+00:36:02,320 --> 00:36:03,380
+voir l'animal crever,
+
+1824
+00:36:03,520 --> 00:36:04,760
+on a plein qui sont réveillés.
+
+1825
+00:36:04,760 --> 00:36:05,980
+Ça, c'est un argument
+
+1826
+00:36:05,980 --> 00:36:06,500
+qui ne tient pas.
+
+1827
+00:36:06,760 --> 00:36:07,520
+Parce qu'il y a plein de choses
+
+1828
+00:36:07,520 --> 00:36:07,960
+qu'on utilise
+
+1829
+00:36:07,960 --> 00:36:08,980
+qu'on serait incapable de faire.
+
+1830
+00:36:09,320 --> 00:36:09,980
+Tu utilises un micro,
+
+1831
+00:36:10,080 --> 00:36:10,960
+tu serais capable de le faire tout seul.
+
+1832
+00:36:10,960 --> 00:36:11,240
+Non, non, non.
+
+1833
+00:36:11,320 --> 00:36:11,860
+Si tu devais faire
+
+1834
+00:36:11,860 --> 00:36:12,620
+les choses que tu utilises,
+
+1835
+00:36:12,720 --> 00:36:13,380
+tu serais à poil
+
+1836
+00:36:13,380 --> 00:36:14,380
+en train de jouer
+
+1837
+00:36:14,380 --> 00:36:14,520
+avec tes excréments.
+
+1838
+00:36:14,520 --> 00:36:14,540
+Non, non, non.
+
+1839
+00:36:14,540 --> 00:36:16,300
+Je ne te parle pas
+
+1840
+00:36:16,300 --> 00:36:17,280
+incapable de la technique,
+
+1841
+00:36:17,660 --> 00:36:18,940
+je te parle incapable humainement.
+
+1842
+00:36:18,940 --> 00:36:19,660
+Je ne serais pas pour te déplaire.
+
+1843
+00:36:19,680 --> 00:36:20,520
+Genre, ça te ferait mal.
+
+1844
+00:36:20,840 --> 00:36:21,780
+Genre, bien sûr que tu es capable.
+
+1845
+00:36:21,880 --> 00:36:22,100
+Merci.
+
+1846
+00:36:23,800 --> 00:36:25,260
+Mais de toute façon,
+
+1847
+00:36:25,600 --> 00:36:26,480
+il y a plein de choses
+
+1848
+00:36:26,480 --> 00:36:27,640
+dont on n'est pas capable,
+
+1849
+00:36:27,920 --> 00:36:28,500
+dont on se sert.
+
+1850
+00:36:29,220 --> 00:36:30,400
+Non, mais encore une fois,
+
+1851
+00:36:30,420 --> 00:36:30,740
+c'est toute la société.
+
+1852
+00:36:31,120 --> 00:36:32,380
+Ça s'appelle le capitalisme,
+
+1853
+00:36:32,520 --> 00:36:33,540
+Je suis désolé de te la prendre.
+
+1854
+00:36:33,540 --> 00:36:35,020
+Mais ce n'est pas pas capable,
+
+1855
+00:36:35,100 --> 00:36:35,900
+je ne sais pas faire.
+
+1856
+00:36:36,200 --> 00:36:37,460
+Je pourrais avoir un flingue
+
+1857
+00:36:37,460 --> 00:36:37,760
+et shooter.
+
+1858
+00:36:37,900 --> 00:36:38,600
+C'est vrai que j'avoue,
+
+1859
+00:36:38,660 --> 00:36:39,360
+de la chasse, c'est dur.
+
+1860
+00:36:39,760 --> 00:36:40,660
+Mais non, mais quand je te parle
+
+1861
+00:36:40,660 --> 00:36:41,040
+pas capable,
+
+1862
+00:36:41,140 --> 00:36:42,080
+c'est plutôt moralement,
+
+1863
+00:36:42,160 --> 00:36:42,460
+tu es là.
+
+1864
+00:36:42,820 --> 00:36:43,880
+Moi, si tu m'emmènes à la chasse
+
+1865
+00:36:43,880 --> 00:36:44,500
+et que le gars me dit
+
+1866
+00:36:44,500 --> 00:36:45,500
+allez, bute-le, le serre.
+
+1867
+00:36:45,600 --> 00:36:46,000
+Bon, moi, je le fais.
+
+1868
+00:36:46,000 --> 00:36:46,180
+Excuse-moi,
+
+1869
+00:36:46,280 --> 00:36:47,280
+mais on a tous des téléphones,
+
+1870
+00:36:47,400 --> 00:36:48,320
+c'est des enfants qui les font.
+
+1871
+00:36:48,480 --> 00:36:49,320
+Moralement, on n'est pas capable
+
+1872
+00:36:49,320 --> 00:36:49,580
+de le faire.
+
+1873
+00:36:49,600 --> 00:36:50,180
+Ça, on est d'accord.
+
+1874
+00:36:50,400 --> 00:36:50,940
+C'est vrai.
+
+1875
+00:36:51,240 --> 00:36:53,180
+Moi, je ferai une loi
+
+1876
+00:36:53,180 --> 00:36:54,920
+et quand tu auras ton ministère
+
+1877
+00:36:54,920 --> 00:36:55,800
+au gouvernement Bardella,
+
+1878
+00:36:55,900 --> 00:36:56,640
+c'est ça que je veux faire,
+
+1879
+00:36:57,000 --> 00:36:58,760
+je mettrai un QR code
+
+1880
+00:36:58,760 --> 00:37:00,520
+sur tout ce que tu peux acheter
+
+1881
+00:37:00,520 --> 00:37:02,120
+et il y a comment c'est fait.
+
+1882
+00:37:02,300 --> 00:37:03,000
+Au moins, on le saurait.
+
+1883
+00:37:03,300 --> 00:37:04,400
+Tu n'aurais plus la blague
+
+1884
+00:37:04,400 --> 00:37:05,100
+de je ne sais pas.
+
+1885
+00:37:05,360 --> 00:37:06,940
+Le problème, c'est que
+
+1886
+00:37:06,940 --> 00:37:09,700
+pour aller scanner le QR code,
+
+1887
+00:37:09,780 --> 00:37:11,400
+il faut quoi ?
+
+1888
+00:37:11,400 --> 00:37:11,920
+C'est un serpent
+
+1889
+00:37:11,920 --> 00:37:12,680
+qui se mord la queue, mec.
+
+1890
+00:37:12,700 --> 00:37:13,020
+C'est vrai.
+
+1891
+00:37:14,200 --> 00:37:15,240
+Mais ceux qui, donc,
+
+1892
+00:37:15,460 --> 00:37:17,320
+respecteront le truc du QR code
+
+1893
+00:37:17,320 --> 00:37:18,020
+ne pourront pas scanner.
+
+1894
+00:37:18,080 --> 00:37:19,020
+Mais c'est vrai.
+
+1895
+00:37:19,220 --> 00:37:20,720
+Et d'ailleurs, c'était un argument
+
+1896
+00:37:20,720 --> 00:37:22,520
+quand on parlait de
+
+1897
+00:37:22,520 --> 00:37:24,200
+il y a de plus en plus d'options
+
+1898
+00:37:24,200 --> 00:37:25,940
+et moi, c'est là où je respecte
+
+1899
+00:37:25,940 --> 00:37:27,500
+le plus d'options dans les magasins
+
+1900
+00:37:27,500 --> 00:37:28,600
+et c'est là où je respecte
+
+1901
+00:37:28,600 --> 00:37:29,960
+vraiment les végétariens
+
+1902
+00:37:29,960 --> 00:37:31,280
+et le véganisme.
+
+1903
+00:37:31,440 --> 00:37:31,900
+C'est qu'en fait,
+
+1904
+00:37:32,020 --> 00:37:33,140
+ils ont gagné le combat
+
+1905
+00:37:33,140 --> 00:37:34,640
+avec le...
+
+1906
+00:37:34,640 --> 00:37:35,620
+Pour moi, la seule arme
+
+1907
+00:37:35,620 --> 00:37:36,800
+dans la démocratie moderne
+
+1908
+00:37:36,800 --> 00:37:37,680
+capitaliste qu'on a,
+
+1909
+00:37:37,800 --> 00:37:38,340
+ce n'est pas vraiment
+
+1910
+00:37:38,340 --> 00:37:39,100
+le bulletin de vote
+
+1911
+00:37:39,100 --> 00:37:39,860
+même s'il faut voter.
+
+1912
+00:37:40,580 --> 00:37:41,500
+La vraie arme,
+
+1913
+00:37:41,600 --> 00:37:42,360
+c'est la carte bleue.
+
+1914
+00:37:42,660 --> 00:37:43,560
+C'est genre, ils ont dit
+
+1915
+00:37:43,560 --> 00:37:44,940
+on arrête la viande
+
+1916
+00:37:44,940 --> 00:37:46,200
+et du coup, des gens se sont dit
+
+1917
+00:37:46,200 --> 00:37:47,660
+ah, il y a un business à faire
+
+1918
+00:37:47,660 --> 00:37:48,560
+avec la fausse viande
+
+1919
+00:37:48,560 --> 00:37:50,020
+et du coup, en 10 ans,
+
+1920
+00:37:50,100 --> 00:37:50,700
+ça a explosé.
+
+1921
+00:37:51,100 --> 00:37:53,120
+Donc, ça prouve que ça marche
+
+1922
+00:37:53,120 --> 00:37:54,080
+et qu'effectivement,
+
+1923
+00:37:54,460 --> 00:37:55,380
+si les gens avaient quelque chose
+
+1924
+00:37:55,380 --> 00:37:56,260
+à foutre, des petits enfants
+
+1925
+00:37:56,260 --> 00:37:57,660
+qui font des t-shirts Célio,
+
+1926
+00:37:58,060 --> 00:37:58,880
+eh ben, ils arrêteraient
+
+1927
+00:37:58,880 --> 00:37:59,340
+d'en acheter.
+
+1928
+00:38:00,240 --> 00:38:00,800
+Sauf que pour ça,
+
+1929
+00:38:00,820 --> 00:38:01,440
+il faut aller en frépré
+
+1930
+00:38:01,440 --> 00:38:02,300
+prendre des gros vêtements
+
+1931
+00:38:02,300 --> 00:38:03,320
+qui puent de gens morts
+
+1932
+00:38:03,320 --> 00:38:04,800
+et du coup,
+
+1933
+00:38:05,140 --> 00:38:06,100
+on achète des merdes
+
+1934
+00:38:06,100 --> 00:38:06,560
+chez Célio.
+
+1935
+00:38:06,780 --> 00:38:07,940
+Mais c'est un autre débat.
+
+1936
+00:38:08,260 --> 00:38:10,400
+Tu penses que le végan
+
+1937
+00:38:10,400 --> 00:38:12,160
+a eu un impact autour de toi
+
+1938
+00:38:12,160 --> 00:38:13,280
+dans la société ?
+
+1939
+00:38:13,280 --> 00:38:14,040
+Actuellement, tu vois
+
+1940
+00:38:14,040 --> 00:38:15,440
+qu'il y a un changement ?
+
+1941
+00:38:15,440 --> 00:38:17,820
+Dans mon cercle, tu veux dire ?
+
+1942
+00:38:17,820 --> 00:38:18,320
+Peu importe,
+
+1943
+00:38:18,380 --> 00:38:19,000
+cercle proche
+
+1944
+00:38:19,000 --> 00:38:19,860
+ou plutôt plus loin.
+
+1945
+00:38:20,320 --> 00:38:20,900
+Est-ce que tu crois
+
+1946
+00:38:20,900 --> 00:38:22,040
+que c'est un essor
+
+1947
+00:38:22,040 --> 00:38:23,340
+du véganisme ?
+
+1948
+00:38:23,340 --> 00:38:25,120
+Oui, comme on disait,
+
+1949
+00:38:25,200 --> 00:38:26,620
+ça s'est vraiment démocratisé
+
+1950
+00:38:26,620 --> 00:38:27,620
+déjà dans les supermarchés.
+
+1951
+00:38:27,760 --> 00:38:28,500
+Il y a beaucoup d'options.
+
+1952
+00:38:29,000 --> 00:38:29,260
+Effectivement,
+
+1953
+00:38:29,300 --> 00:38:29,900
+les plus grandes marques
+
+1954
+00:38:29,900 --> 00:38:30,140
+maintenant,
+
+1955
+00:38:30,220 --> 00:38:30,980
+elles ont des options végées.
+
+1956
+00:38:31,140 --> 00:38:31,740
+Même ceux qui font
+
+1957
+00:38:31,740 --> 00:38:32,500
+de la viande, historiquement,
+
+1958
+00:38:32,720 --> 00:38:34,140
+il y a des fleuris-michons,
+
+1959
+00:38:34,220 --> 00:38:35,340
+ils font des gammes végétariens.
+
+1960
+00:38:35,340 --> 00:38:36,060
+Oui, un truc au pois chiche.
+
+1961
+00:38:36,260 --> 00:38:36,940
+Un truc au pois chiche,
+
+1962
+00:38:37,020 --> 00:38:38,360
+qui est bon en plus.
+
+1963
+00:38:38,440 --> 00:38:39,260
+Ça pose une autre question.
+
+1964
+00:38:39,480 --> 00:38:40,420
+Là, tu donnes de la thune
+
+1965
+00:38:40,420 --> 00:38:41,060
+à des mecs qui,
+
+1966
+00:38:41,140 --> 00:38:41,720
+de toute façon,
+
+1967
+00:38:42,100 --> 00:38:42,980
+se font plein de thunes
+
+1968
+00:38:42,980 --> 00:38:43,480
+sur la viande.
+
+1969
+00:38:43,880 --> 00:38:45,220
+Donc, c'est pas très...
+
+1970
+00:38:45,220 --> 00:38:45,780
+Exactement.
+
+1971
+00:38:45,900 --> 00:38:47,080
+Après, c'est vrai, effectivement.
+
+1972
+00:38:47,220 --> 00:38:48,560
+Il y en a qui ne prennent pas
+
+1973
+00:38:48,560 --> 00:38:49,040
+ces marques-là,
+
+1974
+00:38:49,100 --> 00:38:49,920
+qui privilégient des trucs
+
+1975
+00:38:49,920 --> 00:38:50,940
+100% végétariens.
+
+1976
+00:38:51,240 --> 00:38:51,840
+Au moins, on a le choix.
+
+1977
+00:38:52,140 --> 00:38:52,980
+Au moins, ça, c'est cool
+
+1978
+00:38:52,980 --> 00:38:54,440
+parce que tu peux en avoir.
+
+1979
+00:38:55,020 --> 00:38:55,960
+Et l'autre truc qu'on voit,
+
+1980
+00:38:56,100 --> 00:38:57,420
+c'est que même les gens
+
+1981
+00:38:57,420 --> 00:38:58,860
+qui ne sont pas végétariens,
+
+1982
+00:38:58,980 --> 00:39:00,060
+ils testent des produits
+
+1983
+00:39:00,060 --> 00:39:00,860
+végétariens souvent.
+
+1984
+00:39:00,860 --> 00:39:01,840
+Ils connaissent les marques,
+
+1985
+00:39:01,940 --> 00:39:02,700
+ils connaissent les gammes,
+
+1986
+00:39:03,180 --> 00:39:03,420
+tout ça.
+
+1987
+00:39:03,480 --> 00:39:04,100
+Ou dans les restaurants,
+
+1988
+00:39:04,160 --> 00:39:05,040
+les restaurants végétariens,
+
+1989
+00:39:05,120 --> 00:39:06,020
+il n'y a pas que des végétariens
+
+1990
+00:39:06,020 --> 00:39:06,260
+dedans.
+
+1991
+00:39:06,340 --> 00:39:07,100
+Il y a des flexitariens
+
+1992
+00:39:07,100 --> 00:39:07,920
+ou des curieux
+
+1993
+00:39:07,920 --> 00:39:08,580
+qui y vont quand même.
+
+1994
+00:39:08,940 --> 00:39:09,880
+Comme le goût est bon,
+
+1995
+00:39:09,940 --> 00:39:10,520
+ça attire des gens.
+
+1996
+00:39:11,140 --> 00:39:11,400
+Oui, oui.
+
+1997
+00:39:11,960 --> 00:39:13,000
+À Paris, il y a un chinois
+
+1998
+00:39:13,000 --> 00:39:14,620
+qui fait de l'imitation
+
+1999
+00:39:14,620 --> 00:39:15,660
+de viande avec des tofu.
+
+2000
+00:39:15,880 --> 00:39:16,720
+Je suis allé deux, trois fois
+
+2001
+00:39:16,720 --> 00:39:18,020
+et c'est vraiment top.
+
+2002
+00:39:18,340 --> 00:39:18,800
+Oui, c'est vrai.
+
+2003
+00:39:18,960 --> 00:39:19,580
+Celui-là, par exemple,
+
+2004
+00:39:19,640 --> 00:39:20,020
+je crois que c'est toi
+
+2005
+00:39:20,020 --> 00:39:20,760
+qui me l'avais fait découvrir.
+
+2006
+00:39:21,260 --> 00:39:22,820
+Un resto 100% végétarien
+
+2007
+00:39:22,820 --> 00:39:23,600
+et c'est toi
+
+2008
+00:39:23,600 --> 00:39:24,340
+qui me l'avais fait découvrir.
+
+2009
+00:39:24,340 --> 00:39:25,140
+C'est le qui est Rubicha ?
+
+2010
+00:39:25,140 --> 00:39:25,700
+Oui, exactement.
+
+2011
+00:39:25,980 --> 00:39:26,120
+Oui.
+
+2012
+00:39:26,540 --> 00:39:27,660
+Pas loin du Panamard Café.
+
+2013
+00:39:27,820 --> 00:39:28,460
+C'est un vietnamien,
+
+2014
+00:39:28,520 --> 00:39:29,300
+mais bon, fais ce que tu veux.
+
+2015
+00:39:30,480 --> 00:39:31,420
+Oui, vietnamien.
+
+2016
+00:39:31,600 --> 00:39:33,000
+Ça va, il fait déjà un effort
+
+2017
+00:39:33,000 --> 00:39:33,600
+pour la planète,
+
+2018
+00:39:33,680 --> 00:39:34,180
+il ne va pas non plus
+
+2019
+00:39:34,180 --> 00:39:35,040
+pas être raciste.
+
+2020
+00:39:35,040 --> 00:39:36,260
+On ne peut pas tout lui demander.
+
+2021
+00:39:36,360 --> 00:39:36,980
+On va tout faire.
+
+2022
+00:39:39,240 --> 00:39:40,080
+Par étape.
+
+2023
+00:39:40,320 --> 00:39:41,600
+Par étape avec Franjo.
+
+2024
+00:39:41,720 --> 00:39:42,200
+Petit à petit.
+
+2025
+00:39:42,680 --> 00:39:43,120
+Et puis même,
+
+2026
+00:39:43,200 --> 00:39:43,700
+ce qu'on disait,
+
+2027
+00:39:43,780 --> 00:39:44,480
+le fait de dire
+
+2028
+00:39:44,480 --> 00:39:45,220
+que tu es végétarien,
+
+2029
+00:39:45,320 --> 00:39:47,160
+maintenant, c'est acquis
+
+2030
+00:39:47,160 --> 00:39:47,720
+pour tout le monde.
+
+2031
+00:39:47,820 --> 00:39:48,360
+Ça ne te dérange pas.
+
+2032
+00:39:48,600 --> 00:39:48,980
+Avant, on se faisait taper.
+
+2033
+00:39:49,220 --> 00:39:49,600
+À Paris.
+
+2034
+00:39:49,700 --> 00:39:50,520
+Avant, on se faisait taper.
+
+2035
+00:39:50,660 --> 00:39:51,080
+À Paris, ça me fait.
+
+2036
+00:39:51,080 --> 00:39:51,960
+À Paris, oui, grave.
+
+2037
+00:39:52,140 --> 00:39:52,440
+Oui, c'est vrai.
+
+2038
+00:39:52,480 --> 00:39:52,660
+On va faire un bannier
+
+2039
+00:39:52,660 --> 00:39:53,220
+hors de bigorre.
+
+2040
+00:39:53,420 --> 00:39:54,180
+Oui, oui.
+
+2041
+00:39:55,120 --> 00:39:55,740
+C'est un cas bizarre.
+
+2042
+00:39:55,740 --> 00:39:55,980
+Regarde,
+
+2043
+00:39:56,120 --> 00:39:57,060
+tu seras interdit
+
+2044
+00:39:57,060 --> 00:39:57,540
+sous Bardella
+
+2045
+00:39:57,540 --> 00:39:58,180
+d'être végétarien.
+
+2046
+00:39:58,860 --> 00:40:01,100
+Il y a 10 ans,
+
+2047
+00:40:01,220 --> 00:40:01,880
+c'était encore mal vu.
+
+2048
+00:40:02,280 --> 00:40:03,060
+C'est encore en mode
+
+2049
+00:40:03,060 --> 00:40:03,960
+« Ah, les relous ».
+
+2050
+00:40:03,960 --> 00:40:04,580
+Oui, oui.
+
+2051
+00:40:04,640 --> 00:40:05,520
+Là, j'ai beaucoup moins
+
+2052
+00:40:05,520 --> 00:40:06,500
+ce commentaire-là.
+
+2053
+00:40:06,640 --> 00:40:07,200
+Même au travail,
+
+2054
+00:40:07,340 --> 00:40:07,900
+avec les collègues,
+
+2055
+00:40:08,040 --> 00:40:08,640
+genre à midi,
+
+2056
+00:40:08,720 --> 00:40:09,460
+les repas de travail.
+
+2057
+00:40:10,420 --> 00:40:11,680
+Les gens souvent savent
+
+2058
+00:40:11,680 --> 00:40:12,380
+que tu es végétarien,
+
+2059
+00:40:12,420 --> 00:40:13,000
+donc ils font attention.
+
+2060
+00:40:13,200 --> 00:40:14,300
+Tu passes moins pour le relou.
+
+2061
+00:40:14,580 --> 00:40:15,120
+Oui, c'est clair.
+
+2062
+00:40:15,600 --> 00:40:17,140
+Comparé à il y a quelques temps.
+
+2063
+00:40:18,580 --> 00:40:20,880
+Sinon, il y a plus en plus d'options.
+
+2064
+00:40:21,000 --> 00:40:21,840
+En quasiment tous les restaurants,
+
+2065
+00:40:21,920 --> 00:40:22,760
+il y a au moins une option végé.
+
+2066
+00:40:23,620 --> 00:40:24,260
+Alors qu'avant,
+
+2067
+00:40:24,340 --> 00:40:25,900
+c'était poisson ou votre cerveau.
+
+2068
+00:40:25,980 --> 00:40:26,780
+L'an dernier,
+
+2069
+00:40:26,900 --> 00:40:27,540
+on faisait du vélo
+
+2070
+00:40:27,540 --> 00:40:28,640
+dès que tu t'éloignes
+
+2071
+00:40:28,640 --> 00:40:30,100
+à 100 bandes de Paris.
+
+2072
+00:40:30,740 --> 00:40:31,460
+Le mec te dit
+
+2073
+00:40:31,460 --> 00:40:33,000
+« Non, il t'amène un végétarien,
+
+2074
+00:40:33,100 --> 00:40:34,660
+il te met du lardon dedans. »
+
+2075
+00:40:34,660 --> 00:40:36,400
+« Oui, ça nous a rêvé ça,
+
+2076
+00:40:36,460 --> 00:40:37,460
+une fois. »
+
+2077
+00:40:37,460 --> 00:40:38,120
+« C'est végétarien,
+
+2078
+00:40:38,200 --> 00:40:39,420
+c'est des lardons. »
+
+2079
+00:40:39,420 --> 00:40:40,920
+« Une fois, ça va arriver
+
+2080
+00:40:40,920 --> 00:40:41,680
+dans une soupe. »
+
+2081
+00:40:41,680 --> 00:40:42,280
+« Surtout que lui,
+
+2082
+00:40:42,460 --> 00:40:42,980
+il est musulman,
+
+2083
+00:40:43,120 --> 00:40:44,100
+c'est de double faute. »
+
+2084
+00:40:44,100 --> 00:40:44,980
+« C'est ça. »
+
+2085
+00:40:44,980 --> 00:40:46,580
+« Mais moins et moins,
+
+2086
+00:40:46,660 --> 00:40:47,340
+ça fait plus. »
+
+2087
+00:40:47,340 --> 00:40:49,460
+« C'est pas de la vraie viande,
+
+2088
+00:40:49,560 --> 00:40:50,520
+c'est en petits bouts. »
+
+2089
+00:40:50,520 --> 00:40:53,560
+« C'est quand même simple. »
+
+2090
+00:40:53,560 --> 00:40:54,340
+« Donc il y a ça. »
+
+2091
+00:40:54,340 --> 00:40:55,140
+« Peut-être qu'on va
+
+2092
+00:40:55,140 --> 00:40:56,540
+motiver des gens
+
+2093
+00:40:56,540 --> 00:40:58,640
+à se lancer dans le végétarien. »
+
+2094
+00:40:58,640 --> 00:40:59,100
+« Tu dirais quoi ? »
+
+2095
+00:40:59,100 --> 00:40:59,600
+« Un mec qui se dit
+
+2096
+00:40:59,600 --> 00:41:00,400
+« Ouais, j'hésite
+
+2097
+00:41:00,400 --> 00:41:01,420
+à être végétarien, là. »
+
+2098
+00:41:01,420 --> 00:41:02,200
+« Tu dirais quoi ? »
+
+2099
+00:41:02,200 --> 00:41:03,280
+« Je lui dirais
+
+2100
+00:41:03,280 --> 00:41:04,080
+de goûter les produits,
+
+2101
+00:41:04,360 --> 00:41:05,120
+tester des recettes
+
+2102
+00:41:05,120 --> 00:41:06,080
+et un peu ce qu'il a l'habitude
+
+2103
+00:41:06,080 --> 00:41:06,740
+de faire avant,
+
+2104
+00:41:06,860 --> 00:41:08,040
+tester de le faire en végétarien
+
+2105
+00:41:08,040 --> 00:41:10,160
+pour voir si ça match
+
+2106
+00:41:10,160 --> 00:41:10,980
+avec ce qu'il avait
+
+2107
+00:41:10,980 --> 00:41:12,020
+comme goût avant et tout. »
+
+2108
+00:41:12,020 --> 00:41:12,600
+« Et puis un petit peu
+
+2109
+00:41:12,600 --> 00:41:13,460
+de L214,
+
+2110
+00:41:13,560 --> 00:41:14,400
+ça peut pas faire de mal. »
+
+2111
+00:41:14,400 --> 00:41:15,920
+« Ouais, c'est vrai. »
+
+2112
+00:41:15,920 --> 00:41:16,600
+« T'as raison. »
+
+2113
+00:41:16,600 --> 00:41:17,500
+« T'as raison, T'as raison. »
+
+2114
+00:41:17,500 --> 00:41:18,860
+« Enfin, je comprends pas que... »
+
+2115
+00:41:18,860 --> 00:41:20,140
+« Enfin, toi, t'es un psychopathe. »
+
+2116
+00:41:20,140 --> 00:41:21,340
+« Si les images L214,
+
+2117
+00:41:21,420 --> 00:41:22,700
+elles t'ont rien fait... »
+
+2118
+00:41:22,700 --> 00:41:23,380
+« Ça me fait pas rien,
+
+2119
+00:41:23,480 --> 00:41:25,060
+mais ça me fait pas comme vous, quoi. »
+
+2120
+00:41:25,060 --> 00:41:25,800
+« C'est vrai. »
+
+2121
+00:41:25,800 --> 00:41:26,400
+« Après, je dirais
+
+2122
+00:41:26,400 --> 00:41:27,820
+que la plupart des végétariens
+
+2123
+00:41:27,820 --> 00:41:29,700
+sont pas activistes pour autant. »
+
+2124
+00:41:29,700 --> 00:41:30,140
+« Tu vois, genre,
+
+2125
+00:41:30,140 --> 00:41:31,040
+tu peux très bien juste, toi,
+
+2126
+00:41:31,420 --> 00:41:32,460
+décider de ne pas manger. »
+
+2127
+00:41:32,460 --> 00:41:32,920
+« Comme tu disais,
+
+2128
+00:41:32,960 --> 00:41:33,620
+ton bulletin de vote,
+
+2129
+00:41:33,700 --> 00:41:34,280
+ton envie à toi,
+
+2130
+00:41:34,340 --> 00:41:35,440
+c'est de pas en consommer. »
+
+2131
+00:41:35,440 --> 00:41:36,460
+« Mais pour autant,
+
+2132
+00:41:36,560 --> 00:41:37,500
+tu fais pas d'activisme
+
+2133
+00:41:37,500 --> 00:41:38,220
+avec les autres gens. »
+
+2134
+00:41:38,220 --> 00:41:38,760
+« Tu t'incites pas
+
+2135
+00:41:38,760 --> 00:41:39,280
+les gens à le devenir. »
+
+2136
+00:41:39,280 --> 00:41:39,300
+« Non, non, je te dis,
+
+2137
+00:41:39,300 --> 00:41:40,560
+c'est le meilleur activiste. »
+
+2138
+00:41:40,560 --> 00:41:42,080
+« C'est le plus loin. »
+
+2139
+00:41:42,080 --> 00:41:42,340
+« Ça veut dire,
+
+2140
+00:41:42,380 --> 00:41:43,560
+c'est presque un boycott. »
+
+2141
+00:41:43,560 --> 00:41:44,700
+« Oui, exactement. »
+
+2142
+00:41:44,700 --> 00:41:45,840
+« Capitaliste, il est con. »
+
+2143
+00:41:45,840 --> 00:41:46,100
+« C'est genre,
+
+2144
+00:41:46,100 --> 00:41:47,280
+il y a de l'argent à faire là-dedans. »
+
+2145
+00:41:47,280 --> 00:41:47,620
+« OK. »
+
+2146
+00:41:47,620 --> 00:41:47,980
+« C'est ça. »
+
+2147
+00:41:47,980 --> 00:41:49,220
+« Il n'a pas de conviction, le gars. »
+
+2148
+00:41:49,220 --> 00:41:49,640
+« Il dit juste,
+
+2149
+00:41:49,740 --> 00:41:50,480
+« Ah bon, vous aimez bien
+
+2150
+00:41:50,480 --> 00:41:51,060
+les trucs végétaires. »
+
+2151
+00:41:51,060 --> 00:41:51,680
+« Bon, on va en faire. »
+
+2152
+00:41:51,680 --> 00:41:53,420
+« Oui, et ça marche plutôt bien
+
+2153
+00:41:53,420 --> 00:41:54,540
+comme ça, effectivement. »
+
+2154
+00:41:54,540 --> 00:41:54,960
+« Mais après, oui,
+
+2155
+00:41:55,000 --> 00:41:55,780
+ils suivent les associations,
+
+2156
+00:41:55,920 --> 00:41:56,500
+L214,
+
+2157
+00:41:56,560 --> 00:41:57,720
+tous ceux qui protègent
+
+2158
+00:41:57,720 --> 00:41:58,680
+les animaux, quoi. »
+
+2159
+00:41:58,680 --> 00:41:59,540
+« Et même les poissons aussi. »
+
+2160
+00:41:59,540 --> 00:42:00,080
+« Parce que les poissons,
+
+2161
+00:42:00,140 --> 00:42:01,100
+on n'en parle pas beaucoup. »
+
+2162
+00:42:01,100 --> 00:42:01,520
+« Mais en vrai,
+
+2163
+00:42:01,940 --> 00:42:03,840
+on leur met la misère aux poissons. »
+
+2164
+00:42:03,840 --> 00:42:04,560
+« Alors que franchement,
+
+2165
+00:42:05,640 --> 00:42:07,760
+on n'en a rien demandé. »
+
+2166
+00:42:07,760 --> 00:42:09,140
+« Le principe même de la pêche
+
+2167
+00:42:09,140 --> 00:42:10,180
+est scandaleux, quoi. »
+
+2168
+00:42:10,180 --> 00:42:10,800
+« Ouais. »
+
+2169
+00:42:10,800 --> 00:42:11,940
+« Pour la planète aussi,
+
+2170
+00:42:12,080 --> 00:42:13,320
+quand tu vois comment ils pêchent
+
+2171
+00:42:13,320 --> 00:42:14,080
+certains produits,
+
+2172
+00:42:14,220 --> 00:42:14,460
+tu te dis,
+
+2173
+00:42:14,520 --> 00:42:15,860
+« Mais ils défoncent tout, là, quand même. »
+
+2174
+00:42:15,860 --> 00:42:16,380
+« Genre les crevettes,
+
+2175
+00:42:16,420 --> 00:42:17,660
+ils raclent le fond de l'eau. »
+
+2176
+00:42:17,660 --> 00:42:18,580
+« Moi, j'ai pas envie d'être relou. »
+
+2177
+00:42:18,580 --> 00:42:19,040
+« Mais en vrai,
+
+2178
+00:42:19,120 --> 00:42:19,640
+il y a plein de trucs
+
+2179
+00:42:19,640 --> 00:42:20,200
+qui sont un petit peu... »
+
+2180
+00:42:20,200 --> 00:42:21,520
+« Il y a un bon reportage. »
+
+2181
+00:42:21,520 --> 00:42:22,700
+« C'est conspiracie. »
+
+2182
+00:42:29,540 --> 00:42:30,360
+« C'est ce que vous mangez ? »
+
+2183
+00:42:30,360 --> 00:42:30,940
+« Un truc sur Netflix
+
+2184
+00:42:30,940 --> 00:42:31,760
+qui est très très bien aussi. »
+
+2185
+00:42:31,760 --> 00:42:32,020
+« Ah ouais,
+
+2186
+00:42:32,140 --> 00:42:33,480
+You are what you eat. »
+
+2187
+00:42:33,480 --> 00:42:34,180
+« Je le regarde. »
+
+2188
+00:42:34,180 --> 00:42:34,560
+« Mais j'ai peur
+
+2189
+00:42:34,560 --> 00:42:36,060
+que ça me convertisse. »
+
+2190
+00:42:36,060 --> 00:42:37,040
+« Ouais, ouais. »
+
+2191
+00:42:37,040 --> 00:42:37,820
+« Mais c'est bien. »
+
+2192
+00:42:37,820 --> 00:42:38,140
+« Mais mec,
+
+2193
+00:42:38,220 --> 00:42:39,700
+c'est pas du tout contraignant aujourd'hui. »
+
+2194
+00:42:39,700 --> 00:42:40,880
+« C'est beaucoup moins contraignant. »
+
+2195
+00:42:40,880 --> 00:42:41,560
+« D'être végétarien ? »
+
+2196
+00:42:41,560 --> 00:42:42,520
+« Ouais. »
+
+2197
+00:42:42,520 --> 00:42:44,740
+« Ben ouais... »
+
+2198
+00:42:44,740 --> 00:42:45,340
+« En tournée,
+
+2199
+00:42:45,400 --> 00:42:46,160
+c'est relou. »
+
+2200
+00:42:46,160 --> 00:42:46,620
+« Pour le sport,
+
+2201
+00:42:46,700 --> 00:42:47,940
+ça t'embêtrait, toi ? »
+
+2202
+00:42:47,940 --> 00:42:48,440
+« Non, non. »
+
+2203
+00:42:48,440 --> 00:42:49,080
+« C'est pour les pasquels
+
+2204
+00:42:49,080 --> 00:42:49,460
+en tournée,
+
+2205
+00:42:49,520 --> 00:42:49,700
+en fait,
+
+2206
+00:42:49,700 --> 00:42:50,940
+t'arrives et t'as pas les options. »
+
+2207
+00:42:50,940 --> 00:42:51,540
+« Non, mais t'aimes bien
+
+2208
+00:42:51,540 --> 00:42:53,560
+les histoires de Biscotto. »
+
+2209
+00:42:53,560 --> 00:42:53,700
+« Après,
+
+2210
+00:42:54,040 --> 00:42:54,800
+Schwarzenegger,
+
+2211
+00:42:54,840 --> 00:42:55,620
+il a essayé de montrer
+
+2212
+00:42:55,620 --> 00:42:56,900
+qu'il est mi-vegan. »
+
+2213
+00:42:56,900 --> 00:42:57,520
+« Exactement. »
+
+2214
+00:42:57,520 --> 00:42:57,960
+« Joko,
+
+2215
+00:42:58,160 --> 00:42:58,960
+il y en a plein. »
+
+2216
+00:42:58,960 --> 00:42:59,140
+« Ouais. »
+
+2217
+00:42:59,140 --> 00:42:59,780
+« T'empêche que les gars
+
+2218
+00:42:59,780 --> 00:43:00,280
+de la muscu,
+
+2219
+00:43:00,360 --> 00:43:00,980
+ils disent « oui, c'est bien,
+
+2220
+00:43:01,040 --> 00:43:01,460
+mais il faut quand même
+
+2221
+00:43:01,460 --> 00:43:03,640
+bouffer 400 kilos de lentilles. »
+
+2222
+00:43:03,640 --> 00:43:04,040
+« Il y en a,
+
+2223
+00:43:04,180 --> 00:43:04,840
+bien sûr. »
+
+2224
+00:43:04,840 --> 00:43:05,480
+« Mais toi,
+
+2225
+00:43:05,560 --> 00:43:06,860
+tu passes toute la journée
+
+2226
+00:43:06,860 --> 00:43:07,920
+devant Netflix. »
+
+2227
+00:43:07,920 --> 00:43:09,460
+« Tu connais vraiment
+
+2228
+00:43:09,460 --> 00:43:11,720
+tous les sujets. »
+
+2229
+00:43:11,720 --> 00:43:12,220
+« Je jure,
+
+2230
+00:43:12,220 --> 00:43:12,820
+je suis impressionné. »
+
+2231
+00:43:12,820 --> 00:43:12,980
+« Ouais,
+
+2232
+00:43:12,980 --> 00:43:14,020
+tu es hyper bien renseigné,
+
+2233
+00:43:14,100 --> 00:43:14,320
+mec. »
+
+2234
+00:43:14,320 --> 00:43:14,880
+« J'allais vous parler
+
+2235
+00:43:14,880 --> 00:43:15,580
+de My Friend
+
+2236
+00:43:15,580 --> 00:43:16,220
+The Octopus
+
+2237
+00:43:16,220 --> 00:43:18,020
+aussi sur Netflix. »
+
+2238
+00:43:18,020 --> 00:43:19,140
+« Ça,
+
+2239
+00:43:19,220 --> 00:43:19,760
+c'est un nom de
+
+2240
+00:43:19,760 --> 00:43:20,180
+bizarre,
+
+2241
+00:43:20,280 --> 00:43:21,160
+je ne vais pas te mentir. »
+
+2242
+00:43:21,160 --> 00:43:21,440
+« Qu'est-ce que
+
+2243
+00:43:21,440 --> 00:43:23,320
+tu n'as pas vu ? »
+
+2244
+00:43:23,320 --> 00:43:23,720
+« Mais par contre,
+
+2245
+00:43:23,800 --> 00:43:24,420
+sur la muscu,
+
+2246
+00:43:25,160 --> 00:43:25,640
+maintenant,
+
+2247
+00:43:25,780 --> 00:43:27,960
+tu as des compétiteurs
+
+2248
+00:43:27,960 --> 00:43:28,680
+de bodybuilding
+
+2249
+00:43:28,680 --> 00:43:29,020
+de haut niveau
+
+2250
+00:43:29,020 --> 00:43:29,600
+qui ne touchent plus
+
+2251
+00:43:29,600 --> 00:43:30,640
+à la viande. »
+
+2252
+00:43:30,640 --> 00:43:31,540
+« Les trucs écologiques,
+
+2253
+00:43:31,580 --> 00:43:31,880
+j'ai appris
+
+2254
+00:43:31,880 --> 00:43:32,720
+il n'y a pas très longtemps
+
+2255
+00:43:32,720 --> 00:43:33,540
+parce que j'étais un peu
+
+2256
+00:43:33,540 --> 00:43:33,980
+un gogole
+
+2257
+00:43:33,980 --> 00:43:35,240
+qui voulait être végétarien
+
+2258
+00:43:35,240 --> 00:43:36,120
+plus pour la planète
+
+2259
+00:43:36,120 --> 00:43:37,320
+et je mangeais
+
+2260
+00:43:37,320 --> 00:43:38,100
+quand même du fromage.
+
+2261
+00:43:38,660 --> 00:43:38,900
+En fait,
+
+2262
+00:43:38,900 --> 00:43:39,780
+ça pollue plus
+
+2263
+00:43:39,780 --> 00:43:40,740
+de bouffer du fromage
+
+2264
+00:43:40,740 --> 00:43:41,100
+en soi
+
+2265
+00:43:41,100 --> 00:43:41,880
+parce que la production
+
+2266
+00:43:41,880 --> 00:43:42,220
+on l'aise vache,
+
+2267
+00:43:42,340 --> 00:43:42,440
+machin,
+
+2268
+00:43:42,520 --> 00:43:43,160
+que de bouffer du poulet
+
+2269
+00:43:43,160 --> 00:43:43,520
+par exemple.
+
+2270
+00:43:44,020 --> 00:43:44,820
+C'est ça qui est ouf.
+
+2271
+00:43:45,640 --> 00:43:46,460
+C'est l'argument
+
+2272
+00:43:46,460 --> 00:43:47,020
+en fait
+
+2273
+00:43:47,020 --> 00:43:48,620
+quand tu es végétarien
+
+2274
+00:43:48,620 --> 00:43:48,940
+vegan,
+
+2275
+00:43:49,420 --> 00:43:51,120
+c'est que c'est bien
+
+2276
+00:43:51,120 --> 00:43:52,440
+d'être mais quand même...
+
+2277
+00:43:52,440 --> 00:43:53,500
+Il faut aller toujours plus...
+
+2278
+00:43:53,500 --> 00:43:54,140
+Végétarien, oui.
+
+2279
+00:43:54,240 --> 00:43:54,560
+Vegan,
+
+2280
+00:43:54,800 --> 00:43:55,940
+tu as peu de chance
+
+2281
+00:43:55,940 --> 00:43:57,280
+dans tous les cas
+
+2282
+00:43:57,280 --> 00:43:58,240
+que ton régime vegan
+
+2283
+00:43:58,240 --> 00:43:58,820
+il pollue plus
+
+2284
+00:43:58,820 --> 00:43:59,500
+qu'un régime
+
+2285
+00:43:59,500 --> 00:44:01,540
+de gars qui mange
+
+2286
+00:44:01,540 --> 00:44:01,860
+de la viande.
+
+2287
+00:44:01,880 --> 00:44:02,980
+Alors que végétarien,
+
+2288
+00:44:03,180 --> 00:44:04,400
+tu peux plus polluer
+
+2289
+00:44:04,400 --> 00:44:05,320
+en étant végétarien
+
+2290
+00:44:05,320 --> 00:44:06,220
+que certains mecs
+
+2291
+00:44:06,220 --> 00:44:06,660
+qui mangent de la viande.
+
+2292
+00:44:06,660 --> 00:44:08,980
+Mais aussi ma meuf,
+
+2293
+00:44:09,100 --> 00:44:09,380
+ma mère.
+
+2294
+00:44:09,540 --> 00:44:10,400
+Ta mère peut-être ?
+
+2295
+00:44:10,400 --> 00:44:11,080
+Oui, les deux.
+
+2296
+00:44:11,140 --> 00:44:11,520
+C'est ce que je veux.
+
+2297
+00:44:11,740 --> 00:44:13,180
+Ça dépend de toute façon.
+
+2298
+00:44:13,880 --> 00:44:14,460
+Mais tu as aussi
+
+2299
+00:44:14,460 --> 00:44:15,160
+des trucs genre
+
+2300
+00:44:15,160 --> 00:44:16,740
+le quinoa de machin
+
+2301
+00:44:16,740 --> 00:44:18,160
+ou le putain d'avocat
+
+2302
+00:44:18,160 --> 00:44:18,800
+il vient de l'autre bout
+
+2303
+00:44:18,800 --> 00:44:19,280
+de la planète.
+
+2304
+00:44:19,520 --> 00:44:20,340
+Ouais, l'avocat,
+
+2305
+00:44:20,800 --> 00:44:22,040
+le café, le chocolat,
+
+2306
+00:44:22,340 --> 00:44:22,980
+il y a plein de trucs en fait.
+
+2307
+00:44:23,000 --> 00:44:23,900
+Il ne faut manger que vraiment
+
+2308
+00:44:23,900 --> 00:44:25,720
+le radis du poitou quoi.
+
+2309
+00:44:26,080 --> 00:44:26,440
+Alors,
+
+2310
+00:44:26,980 --> 00:44:28,920
+on est sur une fin d'épisode
+
+2311
+00:44:28,920 --> 00:44:29,540
+selon Davidson.
+
+2312
+00:44:29,920 --> 00:44:30,760
+Le mot de la fin,
+
+2313
+00:44:31,900 --> 00:44:32,320
+Ilias,
+
+2314
+00:44:32,600 --> 00:44:33,600
+sur végétarien,
+
+2315
+00:44:33,760 --> 00:44:34,580
+si tu as envie
+
+2316
+00:44:34,580 --> 00:44:35,100
+d'être végétarien,
+
+2317
+00:44:35,180 --> 00:44:35,460
+fonce quoi.
+
+2318
+00:44:35,860 --> 00:44:36,260
+Ouais,
+
+2319
+00:44:36,260 --> 00:44:37,660
+carrément testé,
+
+2320
+00:44:37,740 --> 00:44:38,000
+en vrai.
+
+2321
+00:44:38,200 --> 00:44:38,420
+Et puis,
+
+2322
+00:44:38,520 --> 00:44:39,460
+même juste le régime
+
+2323
+00:44:39,460 --> 00:44:40,040
+flexitarien,
+
+2324
+00:44:40,120 --> 00:44:40,600
+il est très cool.
+
+2325
+00:44:40,940 --> 00:44:41,460
+C'est un jeu de mot.
+
+2326
+00:44:41,720 --> 00:44:42,340
+Tu ne l'as pas trouvé.
+
+2327
+00:44:43,520 --> 00:44:44,240
+Végétarien à perdre.
+
+2328
+00:44:45,320 --> 00:44:46,120
+Tente le coup.
+
+2329
+00:44:47,780 --> 00:44:49,080
+Si j'avais la force physique,
+
+2330
+00:44:49,260 --> 00:44:49,280
+je te pousse.
+
+2331
+00:44:49,280 --> 00:44:50,080
+On finira sur un jeu de mot.
+
+2332
+00:44:50,080 --> 00:44:51,240
+Tu peux me pousser.
+
+2333
+00:44:52,260 --> 00:44:52,380
+Putain,
+
+2334
+00:44:52,440 --> 00:44:52,740
+mais attends,
+
+2335
+00:44:52,960 --> 00:44:53,640
+on va faire un jeu
+
+2336
+00:44:53,640 --> 00:44:54,740
+où il y a un travail
+
+2337
+00:44:54,740 --> 00:44:54,980
+dans la piscine.
+
+2338
+00:44:54,980 --> 00:44:55,320
+Non, mais ça,
+
+2339
+00:44:55,860 --> 00:44:57,360
+revenez la semaine prochaine,
+
+2340
+00:44:57,460 --> 00:44:57,920
+il y aura un jeu
+
+2341
+00:44:57,920 --> 00:44:58,840
+forcément où celui
+
+2342
+00:44:58,840 --> 00:45:00,720
+qui va tomber dans la piscine.
+
+2343
+00:45:01,440 --> 00:45:01,960
+Ouais, la semaine prochaine.
+
+2344
+00:45:02,820 --> 00:45:03,680
+Arrête de faire croire,
+
+2345
+00:45:03,800 --> 00:45:04,460
+on est là 4 jours
+
+2346
+00:45:04,460 --> 00:45:05,060
+et les gens le savent.
+
+2347
+00:45:05,060 --> 00:45:05,960
+Oui, mais c'est publié
+
+2348
+00:45:05,960 --> 00:45:06,420
+toutes les semaines.
+
+2349
+00:45:06,820 --> 00:45:07,140
+Donc,
+
+2350
+00:45:07,180 --> 00:45:07,780
+revenez la semaine prochaine.
+
+2351
+00:45:08,620 --> 00:45:09,280
+La semaine prochaine,
+
+2352
+00:45:09,360 --> 00:45:09,840
+c'est l'intervile.
+
+2353
+00:45:10,020 --> 00:45:10,680
+On va faire des jeux
+
+2354
+00:45:10,680 --> 00:45:11,420
+filmés vidéo.
+
+2355
+00:45:11,660 --> 00:45:11,900
+D'ailleurs,
+
+2356
+00:45:12,080 --> 00:45:12,560
+suivez-nous,
+
+2357
+00:45:12,620 --> 00:45:15,060
+pour ceux qui ne le font pas encore
+
+2358
+00:45:15,060 --> 00:45:15,660
+sur les réseaux,
+
+2359
+00:45:15,740 --> 00:45:16,160
+Podcastos,
+
+2360
+00:45:16,240 --> 00:45:16,720
+on a Instagram,
+
+2361
+00:45:16,960 --> 00:45:17,140
+etc.
+
+2362
+00:45:17,900 --> 00:45:18,680
+On joue,
+
+2363
+00:45:18,820 --> 00:45:19,820
+on a un plateau en tournée
+
+2364
+00:45:19,820 --> 00:45:20,340
+parce que là,
+
+2365
+00:45:20,400 --> 00:45:21,140
+on a joué à Biarritz
+
+2366
+00:45:21,140 --> 00:45:21,660
+il y a quelques semaines,
+
+2367
+00:45:21,740 --> 00:45:22,360
+c'était incroyable.
+
+2368
+00:45:23,960 --> 00:45:24,960
+Et on joue en tournée
+
+2369
+00:45:24,960 --> 00:45:25,720
+dans toute la France.
+
+2370
+00:45:26,440 --> 00:45:27,240
+Notamment Lyon,
+
+2371
+00:45:27,500 --> 00:45:27,860
+Bordeaux,
+
+2372
+00:45:28,240 --> 00:45:28,600
+Toulouse,
+
+2373
+00:45:29,100 --> 00:45:29,520
+Lille,
+
+2374
+00:45:29,760 --> 00:45:30,060
+Nantes,
+
+2375
+00:45:30,240 --> 00:45:30,600
+Paris.
+
+2376
+00:45:31,060 --> 00:45:31,580
+On est partout,
+
+2377
+00:45:31,720 --> 00:45:32,340
+on fait le live
+
+2378
+00:45:32,340 --> 00:45:33,300
+de Podcastos
+
+2379
+00:45:33,300 --> 00:45:34,160
+le 15 septembre.
+
+2380
+00:45:34,400 --> 00:45:35,040
+Quand est-ce qu'on fait
+
+2381
+00:45:35,040 --> 00:45:35,940
+Clermont-Ferrand-Melin,
+
+2382
+00:45:36,060 --> 00:45:36,360
+Poitiers,
+
+2383
+00:45:36,440 --> 00:45:39,480
+la vraie ville de Podcastos ?
+
+2384
+00:45:39,480 --> 00:45:40,340
+Clermont,
+
+2385
+00:45:40,400 --> 00:45:40,920
+je ne fous pas les pieds.
+
+2386
+00:45:41,280 --> 00:45:42,540
+Et si on va à Melun,
+
+2387
+00:45:42,700 --> 00:45:43,680
+on peut aller à Clermont ?
+
+2388
+00:45:43,680 --> 00:45:44,340
+Peut-être après,
+
+2389
+00:45:44,400 --> 00:45:44,580
+on verra.
+
+2390
+00:45:45,020 --> 00:45:45,380
+Poitiers,
+
+2391
+00:45:45,500 --> 00:45:45,920
+c'est TGV,
+
+2392
+00:45:45,980 --> 00:45:46,940
+c'est la vraie tournée
+
+2393
+00:45:46,940 --> 00:45:47,540
+de Podcastos,
+
+2394
+00:45:47,640 --> 00:45:48,440
+c'est nos origines.
+
+2395
+00:45:48,740 --> 00:45:48,900
+C'est vrai,
+
+2396
+00:45:48,960 --> 00:45:49,200
+c'est vrai.
+
+2397
+00:45:50,220 --> 00:45:50,540
+Donc,
+
+2398
+00:45:50,620 --> 00:45:51,500
+suivez-nous sur les réseaux.
+
+2399
+00:45:51,840 --> 00:45:52,800
+Merci à tous ceux
+
+2400
+00:45:52,800 --> 00:45:53,320
+aux tipeurs
+
+2401
+00:45:53,320 --> 00:45:54,020
+qui mettent de l'argent.
+
+2402
+00:45:54,320 --> 00:45:54,720
+Tipeee,
+
+2403
+00:45:54,800 --> 00:45:55,060
+merci.
+
+2404
+00:45:55,300 --> 00:45:55,980
+C'est grâce à vous
+
+2405
+00:45:55,980 --> 00:45:56,540
+qu'on peut continuer
+
+2406
+00:45:56,540 --> 00:45:57,400
+ce podcast.
+
+2407
+00:45:57,400 --> 00:45:58,260
+et si vous ne mettez pas
+
+2408
+00:45:58,260 --> 00:45:58,500
+d'argent,
+
+2409
+00:45:58,580 --> 00:45:59,100
+on va arrêter.
+
+2410
+00:45:59,800 --> 00:45:59,960
+Ouais,
+
+2411
+00:46:00,120 --> 00:46:00,420
+et lui,
+
+2412
+00:46:00,520 --> 00:46:01,680
+il bouffe des côtes de bœuf.
+
+2413
+00:46:02,320 --> 00:46:02,640
+Et lui,
+
+2414
+00:46:02,760 --> 00:46:03,300
+il se remet à l'avion.
+
+2415
+00:46:03,320 --> 00:46:03,500
+C'est bon,
+
+2416
+00:46:03,540 --> 00:46:03,820
+on peut le dire,
+
+2417
+00:46:03,900 --> 00:46:04,180
+c'est fini.
+
+2418
+00:46:05,440 --> 00:46:06,120
+On a l'air marre
+
+2419
+00:46:06,120 --> 00:46:06,740
+de faire semblant.
+
+2420
+00:46:06,740 --> 00:46:07,680
+On a l'air marre.
+
+2421
+00:46:07,940 --> 00:46:08,520
+On peut lancer le charme.
+
+2422
+00:46:08,520 --> 00:46:09,100
+Sans l'arbec.
+
+2423
+00:46:10,600 --> 00:46:10,920
+Donc,
+
+2424
+00:46:11,020 --> 00:46:11,360
+suivez-nous,
+
+2425
+00:46:11,460 --> 00:46:12,260
+respectivement,
+
+2426
+00:46:12,380 --> 00:46:12,780
+Urbain,
+
+2427
+00:46:12,900 --> 00:46:13,460
+Pierre Thévenou,
+
+2428
+00:46:13,620 --> 00:46:14,020
+Franjo,
+
+2429
+00:46:14,700 --> 00:46:15,160
+Ilias.
+
+2430
+00:46:16,080 --> 00:46:16,800
+T'as des réseaux ?
+
+2431
+00:46:16,800 --> 00:46:17,540
+Tu peux en suivre tes réseaux
+
+2432
+00:46:17,540 --> 00:46:17,700
+ou pas du tout ?
+
+2433
+00:46:17,700 --> 00:46:18,080
+Pas du tout.
+
+2434
+00:46:18,100 --> 00:46:19,240
+T'es un gars de la vraie vite.
+
+2435
+00:46:19,240 --> 00:46:19,900
+Je crois qu'il a la vraie.
+
+2436
+00:46:20,120 --> 00:46:21,000
+Suivez-moi dans la rue.
+
+2437
+00:46:21,040 --> 00:46:21,960
+T'es comme Franjo,
+
+2438
+00:46:22,100 --> 00:46:22,220
+toi,
+
+2439
+00:46:22,300 --> 00:46:23,040
+t'es sur Insta,
+
+2440
+00:46:23,100 --> 00:46:23,340
+t'es là,
+
+2441
+00:46:23,400 --> 00:46:23,840
+t'es 300.
+
+2442
+00:46:23,840 --> 00:46:24,880
+C'est ça.
+
+2443
+00:46:25,180 --> 00:46:25,540
+Tranquille.
+
+2444
+00:46:25,820 --> 00:46:26,180
+Exactement.
+
+2445
+00:46:26,180 --> 00:46:26,940
+La belle vie.
+
+2446
+00:46:27,060 --> 00:46:28,840
+Pas comme Franjo,
+
+2447
+00:46:28,940 --> 00:46:29,160
+putain,
+
+2448
+00:46:29,240 --> 00:46:29,540
+j'ai loupé.
+
+2449
+00:46:29,580 --> 00:46:30,940
+J'étais sur le site.
+
+2450
+00:46:31,580 --> 00:46:32,260
+Je suis nul,
+
+2451
+00:46:32,340 --> 00:46:32,940
+mais je suis naze.
+
+2452
+00:46:34,320 --> 00:46:34,920
+Suivez-moi,
+
+2453
+00:46:35,340 --> 00:46:35,820
+mon Instagram,
+
+2454
+00:46:36,040 --> 00:46:37,040
+c'est Crackitson.
+
+2455
+00:46:38,420 --> 00:46:38,940
+Crackitson.
+
+2456
+00:46:39,040 --> 00:46:39,840
+Sur Twitch aussi,
+
+2457
+00:46:39,920 --> 00:46:40,700
+je twitch très souvent.
+
+2458
+00:46:41,540 --> 00:46:41,980
+Crackitson,
+
+2459
+00:46:42,040 --> 00:46:42,560
+meilleur blase.
+
+2460
+00:46:42,760 --> 00:46:43,160
+Crackitson,
+
+2461
+00:46:43,280 --> 00:46:44,380
+c'est le nom de Davidson
+
+2462
+00:46:44,380 --> 00:46:46,720
+qui fait ce podcast.
+
+2463
+00:46:47,280 --> 00:46:48,100
+Merci à vous de nous avoir
+
+2464
+00:46:48,100 --> 00:46:48,840
+écouté jusque-là.
+
+2465
+00:46:49,520 --> 00:46:50,400
+Venez nous voir sur scène,
+
+2466
+00:46:50,760 --> 00:46:51,380
+respectivement,
+
+2467
+00:46:51,500 --> 00:46:52,040
+et venez nous voir
+
+2468
+00:46:52,040 --> 00:46:52,720
+Podcastos,
+
+2469
+00:46:52,800 --> 00:46:53,140
+le plateau.
+
+2470
+00:46:53,360 --> 00:46:54,020
+On est en tournée
+
+2471
+00:46:54,020 --> 00:46:54,580
+et à Paris.
+
+2472
+00:46:54,860 --> 00:46:55,440
+Merci à vous
+
+2473
+00:46:55,440 --> 00:46:56,360
+et à la semaine prochaine.
+
+2474
+00:46:56,880 --> 00:46:57,080
+Peace.
+
+2475
+00:46:57,400 --> 00:46:58,340
+Plein d'amour sur vous
+
+2476
+00:46:58,340 --> 00:46:58,960
+et sur Robin.
+
+2477
+00:46:59,440 --> 00:46:59,740
+Peace.
+

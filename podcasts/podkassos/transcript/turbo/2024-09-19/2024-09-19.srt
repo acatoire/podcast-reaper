@@ -1,0 +1,12372 @@
+1
+00:00:00,000 --> 00:00:04,480
+Bon, les gars, c'est bon, ça y est, c'est rayé, c'est le moment pub, ça y est, on a percé.
+
+2
+00:00:04,740 --> 00:00:06,620
+T'es enfin compris dans une salle de plus de 12 ?
+
+3
+00:00:06,620 --> 00:00:08,920
+Ferme-la. Non, j'ai trouvé un sponsor.
+
+4
+00:00:09,340 --> 00:00:11,620
+Mais qu'est-ce que c'est ? Une marque de bière, un shampoing ?
+
+5
+00:00:11,620 --> 00:00:14,240
+Non, bien vu, mais non, NordVPN, les gars.
+
+6
+00:00:14,580 --> 00:00:16,880
+Oh, NordVPN, le VPN le plus connu d'Internet !
+
+7
+00:00:16,880 --> 00:00:19,960
+Ah, voilà, je savais, Franjo, que tu serais parfait pour les pubs, tu es fait pour ça.
+
+8
+00:00:20,280 --> 00:00:23,280
+Mais Urbain, enfin ! À quoi ça peut bien servir, un VPN ?
+
+9
+00:00:23,280 --> 00:00:27,960
+Excellente question, Pierre. Un VPN permet de chiffrer toute son activité en ligne et donc de renforcer sa confidentialité,
+
+10
+00:00:27,960 --> 00:00:32,480
+et aussi de faire croire à son ordinateur qu'on n'est pas à l'endroit où on est en changeant d'adresse IP et donc d'emplacement virtuel.
+
+11
+00:00:32,800 --> 00:00:34,680
+Comme quand je dis à ma meuf que je travaille alors qu'en fait, je suis au bar.
+
+12
+00:00:34,900 --> 00:00:39,020
+Donc on peut contourner les géorestrictions et mater des films pas disponibles en France sur les catalogues de streaming.
+
+13
+00:00:39,280 --> 00:00:43,460
+Mais exactement, Franjo ! Et toi, Pierre, pourquoi utilises-tu le VPN ?
+
+14
+00:00:43,460 --> 00:00:45,720
+Ouais, moi, les pubs, je vous laisse faire, les gars. Vous le faites très bien sans moi.
+
+15
+00:00:45,980 --> 00:00:46,940
+Franchement, t'as déjà été pas mal.
+
+16
+00:00:47,020 --> 00:00:52,640
+Avec le code promo PODKASSOS, P-O-D-K-S-S-O, ouais, PODKASSOS, quoi, en passant directement par le lien en description,
+
+17
+00:00:52,640 --> 00:00:57,260
+vous avez 4 mois offerts pour un abonnement de 2 ans et vous pouvez résulier au bout de 30 jours si vous n'êtes pas satisfait.
+
+18
+00:00:57,380 --> 00:00:58,380
+Mais c'est super, ça !
+
+19
+00:00:58,380 --> 00:00:59,380
+Ouais, carrément !
+
+20
+00:00:59,380 --> 00:01:01,300
+Non, mais fais plus d'entrains, fais la voix de pub !
+
+21
+00:01:01,300 --> 00:01:03,040
+Ah oui, trop bien, la vie !
+
+22
+00:01:03,040 --> 00:01:03,640
+Voilà !
+
+23
+00:01:04,300 --> 00:01:05,540
+Bon, voilà, vous avez tous les renseignements.
+
+24
+00:01:05,660 --> 00:01:08,740
+Merci NordVPN de nous sponsoriser. Maintenant, on est des vrais gars d'Internet.
+
+25
+00:01:08,880 --> 00:01:10,440
+Allez, arrête ! Même dans les pubs, tu parles trop.
+
+26
+00:01:10,600 --> 00:01:12,740
+C'est vrai que je parlais un peu beaucoup, mais j'aime bien.
+
+27
+00:01:12,740 --> 00:01:16,780
+Et bonjour à tous et bienvenue sur PODKASSOS.
+
+28
+00:01:17,200 --> 00:01:21,560
+Quel plaisir de le refaire, ça faisait très longtemps que je n'avais pas fait cette intro ringarde.
+
+29
+00:01:21,760 --> 00:01:22,860
+Je ne sais pas, c'est un peu jazz, là.
+
+30
+00:01:23,040 --> 00:01:25,500
+On est dans un cadre un peu jazz, on dirait que tu l'as dit de manière...
+
+31
+00:01:25,500 --> 00:01:26,240
+Putain, il est avoué.
+
+32
+00:01:26,420 --> 00:01:30,600
+On est très influencés par le cadre, comme tous ceux qui sont sur YouTube et qui peuvent le voir.
+
+33
+00:01:31,100 --> 00:01:35,260
+On est dans ce lieu emblématique du stand-up, le Jamel Comedy Club.
+
+34
+00:01:37,680 --> 00:01:42,380
+Trop bien, parce que je me suis dit qu'il n'est pas si ringard, je suis déçu pour ce début de saison.
+
+35
+00:01:42,380 --> 00:01:43,620
+Là, je me suis regardé.
+
+36
+00:01:44,080 --> 00:01:45,980
+Est-ce que c'est officiellement la saison 2 ?
+
+37
+00:01:45,980 --> 00:01:50,600
+C'est officiellement le premier épisode de la saison 2 et ça s'applaudit.
+
+38
+00:01:51,000 --> 00:01:52,600
+Je vous ai dit que là, mais vas-y, on applaudit.
+
+39
+00:01:52,620 --> 00:01:53,360
+Ça s'applaudit, ça s'applaudit.
+
+40
+00:01:53,380 --> 00:01:54,640
+Non, on ne s'est pas vu depuis quand ?
+
+41
+00:01:54,640 --> 00:01:57,180
+On ne s'est pas vu depuis un bon mois.
+
+42
+00:01:57,520 --> 00:01:58,400
+Biarritz ?
+
+43
+00:01:58,400 --> 00:02:00,760
+Depuis Biarritz, le sud-ouest.
+
+44
+00:02:01,060 --> 00:02:01,820
+Deux mois et mai, plutôt.
+
+45
+00:02:02,220 --> 00:02:07,380
+C'est quoi le niveau de mensonge qu'on a dit aux gens en matière de...
+
+46
+00:02:07,380 --> 00:02:09,620
+On a fait semblant que Biarritz était tourné en août.
+
+47
+00:02:09,620 --> 00:02:11,940
+On a filmé en juillet et là, on est au mois de septembre.
+
+48
+00:02:11,940 --> 00:02:13,500
+Ça fait un bon deux mois.
+
+49
+00:02:13,980 --> 00:02:16,080
+Voilà, pour ceux qui n'ont pas vu les épisodes Summer Edition,
+
+50
+00:02:16,260 --> 00:02:18,800
+on a filmé dans le sud, on s'est donné et on a joué à Biarritz.
+
+51
+00:02:18,980 --> 00:02:21,840
+Ah, et Franjo, cet été, qu'est-ce qu'il a fait ?
+
+52
+00:02:21,840 --> 00:02:24,640
+Un petit bravo à un bon gros trou dans la couche d'ozone ?
+
+53
+00:02:24,640 --> 00:02:24,940
+Pourquoi ?
+
+54
+00:02:24,940 --> 00:02:26,240
+200 000 kilomètres d'avion.
+
+55
+00:02:26,360 --> 00:02:28,420
+Oui, un bon gros trou dans la couche d'ozone.
+
+56
+00:02:28,420 --> 00:02:33,280
+Vous pouvez suivre, le site Bolloré, où on suit son jet, a été tombé,
+
+57
+00:02:33,340 --> 00:02:34,460
+mais on peut voir celui de Franjo.
+
+58
+00:02:34,580 --> 00:02:38,480
+Non, parce que j'ai fait une tournée pacifique, je suis allé jouer en Australie et ensuite à Tahiti.
+
+59
+00:02:38,620 --> 00:02:41,120
+Attends, tu pars un mois en Australie, t'as joué ?
+
+60
+00:02:41,120 --> 00:02:41,860
+J'ai joué en Australie, oui.
+
+61
+00:02:41,940 --> 00:02:42,340
+Ah ouais ?
+
+62
+00:02:42,340 --> 00:02:44,760
+C'est comme ça que tu justifies maintenant, quand tu pars à l'autre bout du monde,
+
+63
+00:02:44,820 --> 00:02:47,800
+tu fais un open mic quelque part et t'as travaillé.
+
+64
+00:02:47,840 --> 00:02:49,140
+Attends, j'ai joué au spectacle ?
+
+65
+00:02:49,140 --> 00:02:49,800
+Combien de fois ?
+
+66
+00:02:49,800 --> 00:02:52,740
+J'ai joué à Perth, Melbourne, Sydney et Brisbane.
+
+67
+00:02:52,740 --> 00:02:53,900
+Pour des Français ?
+
+68
+00:02:53,900 --> 00:02:56,180
+Oui, qui peut-être nous écoutent.
+
+69
+00:02:56,240 --> 00:02:57,780
+Il y en a qui nous écoutent d'ailleurs, qui m'en ont parlé.
+
+70
+00:02:57,960 --> 00:02:58,900
+Hello !
+
+71
+00:02:58,900 --> 00:03:00,740
+Je suis en France.
+
+72
+00:03:01,820 --> 00:03:02,880
+Tu crois que...
+
+73
+00:03:02,880 --> 00:03:04,640
+Attends, t'as joué en portugais, tu peux jouer en anglais.
+
+74
+00:03:04,820 --> 00:03:07,080
+J'ai joué en portugais au Brésil, c'était assez exceptionnel.
+
+75
+00:03:07,760 --> 00:03:09,460
+Donc jamais joué en anglais, par contre j'aimerais bien essayer.
+
+76
+00:03:09,900 --> 00:03:10,960
+C'est un truc que j'aimerais bien faire.
+
+77
+00:03:11,360 --> 00:03:13,680
+Tu fais des one-lines, moi je l'ai fait, ça passe bien.
+
+78
+00:03:13,940 --> 00:03:14,440
+Oui, ça passe bien.
+
+79
+00:03:14,540 --> 00:03:15,560
+Il y a des pays qui sont racistes.
+
+80
+00:03:16,060 --> 00:03:17,580
+Il y a des pays racistes plus que nous.
+
+81
+00:03:17,940 --> 00:03:18,740
+Donc tu peux, hein.
+
+82
+00:03:19,280 --> 00:03:21,740
+Je pense que dans le monde, on est peut-être dans les top pays de gauche, non ?
+
+83
+00:03:21,740 --> 00:03:23,800
+Ah, ça dépend.
+
+84
+00:03:24,100 --> 00:03:25,720
+Sur direct, on est parti sur ces questions.
+
+85
+00:03:26,120 --> 00:03:27,000
+C'est bon, il en a parlé.
+
+86
+00:03:27,140 --> 00:03:28,000
+Non, mais on est quand même pas mal.
+
+87
+00:03:28,640 --> 00:03:29,940
+C'est quand même une excuse.
+
+88
+00:03:30,440 --> 00:03:31,940
+Je sais, tu parles un truc super loin.
+
+89
+00:03:32,060 --> 00:03:33,560
+Attends, c'est lui qui a porté le sujet.
+
+90
+00:03:33,940 --> 00:03:34,920
+Bon alors, l'immigration.
+
+91
+00:03:35,160 --> 00:03:35,800
+C'est lui qu'on a parlé.
+
+92
+00:03:35,940 --> 00:03:36,640
+On va parler de voyage.
+
+93
+00:03:36,760 --> 00:03:37,840
+On n'en parlera pas tout de suite.
+
+94
+00:03:38,280 --> 00:03:40,200
+Est-ce que ton empreinte carbone est dégueulasse cet été ?
+
+95
+00:03:40,200 --> 00:03:43,860
+Mon empreinte carbone est dégueulasse, mais justifié pour faire rire les Français
+
+96
+00:03:43,860 --> 00:03:45,280
+qui sont isolés au bout de l'eau.
+
+97
+00:03:45,280 --> 00:03:45,300
+Tu fermes bien taille.
+
+98
+00:03:46,020 --> 00:03:49,160
+Je pense que j'ai été chargé d'une mission de faire rire le peuple.
+
+99
+00:03:49,180 --> 00:03:49,780
+Oui, bien sûr.
+
+100
+00:03:49,780 --> 00:03:52,180
+Moi, je suis un connard, j'allais dire, je n'ai pas pris l'avion.
+
+101
+00:03:52,300 --> 00:03:54,320
+Je suis allé au Canada et à Mayork en avion.
+
+102
+00:03:54,440 --> 00:03:54,820
+Comme une merde.
+
+103
+00:03:54,920 --> 00:03:55,320
+Ryanair.
+
+104
+00:03:55,440 --> 00:03:56,140
+Plus jamais Ryanair.
+
+105
+00:03:56,300 --> 00:03:58,520
+Ça y est, j'ai passé un cap de richesse.
+
+106
+00:03:58,540 --> 00:03:59,380
+On peut en parler, Beauvais.
+
+107
+00:03:59,400 --> 00:04:01,480
+Je ne le ferai plus jamais.
+
+108
+00:04:02,940 --> 00:04:04,940
+C'est le nouvel an pour moi.
+
+109
+00:04:05,040 --> 00:04:07,100
+À chaque fois, j'y retourne et je me rappelle.
+
+110
+00:04:07,300 --> 00:04:08,500
+Ah oui, le nouvel an, c'est de la merde.
+
+111
+00:04:08,600 --> 00:04:09,760
+Ryanair, ça faisait 10 ans.
+
+112
+00:04:10,420 --> 00:04:11,140
+Ma meuf voulait y aller.
+
+113
+00:04:11,300 --> 00:04:12,880
+C'était le seul truc qui était abordable pour Mayork.
+
+114
+00:04:12,880 --> 00:04:13,340
+J'y vais.
+
+115
+00:04:13,400 --> 00:04:15,180
+Qui t'ont fait payer l'enregistrement.
+
+116
+00:04:15,240 --> 00:04:16,620
+L'enregistrement.
+
+117
+00:04:17,020 --> 00:04:17,880
+C'est fini maintenant.
+
+118
+00:04:17,880 --> 00:04:19,820
+Avant, tu ne payais pas, tu avais quand même un petit bagage.
+
+119
+00:04:19,940 --> 00:04:21,500
+Maintenant, c'est vraiment rien.
+
+120
+00:04:21,740 --> 00:04:23,360
+Donc, j'ai payé 60 balles.
+
+121
+00:04:24,200 --> 00:04:25,600
+Beauvais, c'est 30 balles.
+
+122
+00:04:26,300 --> 00:04:27,040
+J'ai tout à 30.
+
+123
+00:04:27,040 --> 00:04:29,360
+Il y a 40 balles pour mettre ton cul en soute.
+
+124
+00:04:30,100 --> 00:04:30,420
+Terrible.
+
+125
+00:04:32,000 --> 00:04:32,940
+C'est le début.
+
+126
+00:04:33,500 --> 00:04:36,520
+En vrai, alors qu'ils font tout payer,
+
+127
+00:04:36,900 --> 00:04:38,880
+à un moment, j'ai pris le siège au pif
+
+128
+00:04:38,880 --> 00:04:41,080
+et ils m'ont quand même mis dans le truc où tu peux mettre tes jambes.
+
+129
+00:04:41,080 --> 00:04:43,140
+Donc, je pense qu'ils ont quand même calculé le cul
+
+130
+00:04:43,140 --> 00:04:45,180
+en disant, normalement, c'est très cher,
+
+131
+00:04:45,280 --> 00:04:47,080
+mais là, on a besoin qu'il ait de la place.
+
+132
+00:04:47,080 --> 00:04:48,700
+Tu maigris à vue d'œil.
+
+133
+00:04:49,000 --> 00:04:50,020
+T'es in shape en ce moment-là.
+
+134
+00:04:50,040 --> 00:04:52,540
+J'ai pas bu depuis deux jours.
+
+135
+00:04:53,040 --> 00:04:53,560
+Ah, deux jours.
+
+136
+00:04:53,760 --> 00:04:54,000
+D'accord.
+
+137
+00:04:54,840 --> 00:04:56,000
+Non, mais là, t'es un peu...
+
+138
+00:04:56,000 --> 00:04:57,840
+Non, t'es in shape parce que cet été, t'as piqué les camarades.
+
+139
+00:04:58,280 --> 00:04:59,820
+Cet été a été très compliqué
+
+140
+00:04:59,820 --> 00:05:01,260
+et là, ça fait trois semaines.
+
+141
+00:05:01,480 --> 00:05:03,820
+Je veux être à...
+
+142
+00:05:03,820 --> 00:05:05,060
+Allez.
+
+143
+00:05:06,260 --> 00:05:08,120
+84 kilos pour ma première
+
+144
+00:05:08,120 --> 00:05:10,220
+à l'Européen le 26 octobre.
+
+145
+00:05:10,220 --> 00:05:11,280
+J'arriverai à placer.
+
+146
+00:05:11,840 --> 00:05:13,080
+On place la promo.
+
+147
+00:05:13,300 --> 00:05:15,900
+Je la placerai à chaque...
+
+148
+00:05:15,900 --> 00:05:19,440
+OK, alors, en spectacle, Besançon, Aline,
+
+149
+00:05:19,780 --> 00:05:20,500
+venez, c'est les derniers.
+
+150
+00:05:20,940 --> 00:05:22,220
+Moi, je fais 90 kilos
+
+151
+00:05:22,220 --> 00:05:23,320
+toutes les semaines au République.
+
+152
+00:05:24,500 --> 00:05:25,540
+Très bien placé.
+
+153
+00:05:25,840 --> 00:05:26,900
+Non, mais j'en profite
+
+154
+00:05:26,900 --> 00:05:28,680
+parce qu'on n'est quand même pas souvent dans ce lieu-là.
+
+155
+00:05:28,760 --> 00:05:29,720
+On ne va pas filmer souvent là.
+
+156
+00:05:30,120 --> 00:05:31,800
+Et je pense que c'est marrant d'en parler.
+
+157
+00:05:32,300 --> 00:05:33,700
+On est au Jamel Comedy Club.
+
+158
+00:05:34,620 --> 00:05:36,780
+C'est quoi vos souvenirs du Jamel Comedy Club ?
+
+159
+00:05:36,780 --> 00:05:39,320
+Là, le fait qu'il n'y ait pas trop de monde comme ça,
+
+160
+00:05:40,160 --> 00:05:40,860
+ça te rappelle des bids ?
+
+161
+00:05:40,860 --> 00:05:41,300
+Le premier truc que ça me rappelle,
+
+162
+00:05:41,360 --> 00:05:44,000
+ça me rappelle les gros bids que j'ai pris des fois.
+
+163
+00:05:45,100 --> 00:05:46,640
+Moi, ça me rappelle les brunchs.
+
+164
+00:05:46,980 --> 00:05:47,760
+Ah ouais, le brunch !
+
+165
+00:05:47,760 --> 00:05:48,540
+On jouait le dimanche.
+
+166
+00:05:49,500 --> 00:05:50,380
+Attends, il faut expliquer.
+
+167
+00:05:50,520 --> 00:05:50,820
+Vas-y, explique.
+
+168
+00:05:50,840 --> 00:05:51,480
+Alors ouais, j'explique.
+
+169
+00:05:51,720 --> 00:05:52,400
+Là, il y a une scène,
+
+170
+00:05:52,560 --> 00:05:53,620
+c'est le Jamel Comedy Club
+
+171
+00:05:53,620 --> 00:05:55,160
+qu'on voit différemment.
+
+172
+00:05:55,440 --> 00:05:56,600
+Ça paraît beaucoup plus grand
+
+173
+00:05:56,600 --> 00:05:58,260
+avec les caméras à la télé, etc.
+
+174
+00:05:58,420 --> 00:05:59,940
+Donc ça reste quand même grand,
+
+175
+00:06:00,040 --> 00:06:01,060
+mais c'est plus cool.
+
+176
+00:06:01,520 --> 00:06:02,780
+Et derrière la caméra, là-bas,
+
+177
+00:06:02,780 --> 00:06:03,620
+il y avait les brunchs.
+
+178
+00:06:03,700 --> 00:06:04,340
+Et donc le dimanche,
+
+179
+00:06:04,420 --> 00:06:05,540
+les gens arrivaient à 11h30
+
+180
+00:06:05,540 --> 00:06:06,440
+bouffés comme des ânes.
+
+181
+00:06:06,800 --> 00:06:07,660
+Et après, ils se mettaient là
+
+182
+00:06:07,660 --> 00:06:08,240
+et ils bouffaient.
+
+183
+00:06:08,320 --> 00:06:09,020
+Et nous, on faisait des blagues
+
+184
+00:06:09,020 --> 00:06:09,840
+pendant que les gens mangeaient.
+
+185
+00:06:10,280 --> 00:06:12,380
+Et c'était absolument atroce
+
+186
+00:06:12,380 --> 00:06:13,200
+parce que faire rire des gens
+
+187
+00:06:13,200 --> 00:06:13,880
+qui bouffent
+
+188
+00:06:13,880 --> 00:06:15,160
+et qui sont plus concentrés
+
+189
+00:06:15,160 --> 00:06:16,140
+sur les pancakes que toi,
+
+190
+00:06:16,620 --> 00:06:17,280
+c'est quand même compliqué.
+
+191
+00:06:17,460 --> 00:06:18,740
+Mais j'ai des très bons souvenirs
+
+192
+00:06:18,740 --> 00:06:20,640
+de Red One en train de dégommer
+
+193
+00:06:20,640 --> 00:06:21,180
+les pancakes
+
+194
+00:06:21,180 --> 00:06:22,560
+en train de jouer à la Switch le dimanche.
+
+195
+00:06:22,980 --> 00:06:23,600
+Il y avait une ambiance, quoi.
+
+196
+00:06:23,660 --> 00:06:24,060
+Ouais, voilà.
+
+197
+00:06:24,540 --> 00:06:25,320
+Mais genre, si tu venais
+
+198
+00:06:25,320 --> 00:06:26,820
+pour faire du stand-up,
+
+199
+00:06:26,960 --> 00:06:27,780
+c'était pas le bon lieu, quoi.
+
+200
+00:06:27,960 --> 00:06:28,680
+Non, c'était...
+
+201
+00:06:28,680 --> 00:06:30,040
+Là, il fallait faire que de l'impro.
+
+202
+00:06:30,180 --> 00:06:31,320
+C'est très formateur en même temps.
+
+203
+00:06:31,480 --> 00:06:32,960
+Parce que tu dois quand même
+
+204
+00:06:32,960 --> 00:06:34,060
+captiver les gens qui bouffent.
+
+205
+00:06:34,180 --> 00:06:34,980
+Et ça, c'est...
+
+206
+00:06:34,980 --> 00:06:35,780
+Et puis c'est une scène
+
+207
+00:06:35,780 --> 00:06:36,500
+qui est ouf,
+
+208
+00:06:36,580 --> 00:06:37,360
+mais qui est...
+
+209
+00:06:37,360 --> 00:06:37,580
+C'est-à-dire,
+
+210
+00:06:37,640 --> 00:06:38,480
+quand ça cartonne ici,
+
+211
+00:06:38,660 --> 00:06:39,200
+je parle hors
+
+212
+00:06:39,200 --> 00:06:40,280
+dans les vrais plateaux
+
+213
+00:06:40,280 --> 00:06:40,600
+de la trou,
+
+214
+00:06:40,640 --> 00:06:41,040
+du club,
+
+215
+00:06:41,380 --> 00:06:42,200
+ça cartonne vraiment,
+
+216
+00:06:42,340 --> 00:06:42,960
+c'est chambé et tout.
+
+217
+00:06:43,720 --> 00:06:44,700
+Mais quand ça commence
+
+218
+00:06:44,700 --> 00:06:45,260
+à galérer,
+
+219
+00:06:45,600 --> 00:06:46,100
+il n'y a pas de pardon.
+
+220
+00:06:46,300 --> 00:06:46,660
+Ah ouais, ouais.
+
+221
+00:06:46,680 --> 00:06:47,840
+Là, tu entends la clim.
+
+222
+00:06:47,940 --> 00:06:49,120
+Tu t'entends tout.
+
+223
+00:06:49,460 --> 00:06:50,420
+Tu vois, il y a les autres là-haut
+
+224
+00:06:50,420 --> 00:06:51,160
+qui peuvent te regarder
+
+225
+00:06:51,160 --> 00:06:51,960
+par le petit rideau
+
+226
+00:06:51,960 --> 00:06:52,720
+et tu vas te trouver
+
+227
+00:06:52,720 --> 00:06:54,380
+avec la loge et en haut.
+
+228
+00:06:54,780 --> 00:06:56,300
+En fait, tu peux entendre
+
+229
+00:06:56,300 --> 00:06:56,660
+des bides,
+
+230
+00:06:56,760 --> 00:06:57,320
+mais sans le son.
+
+231
+00:06:57,640 --> 00:06:58,500
+Tu sais, t'as pas le son,
+
+232
+00:06:58,740 --> 00:06:59,700
+mais t'es en train de te dire
+
+233
+00:06:59,700 --> 00:07:01,860
+ça va pas du tout là.
+
+234
+00:07:02,320 --> 00:07:03,180
+Mais c'est vrai que...
+
+235
+00:07:03,180 --> 00:07:04,080
+Ouais, le lieu...
+
+236
+00:07:04,080 --> 00:07:04,300
+Tu sais que moi,
+
+237
+00:07:04,340 --> 00:07:04,960
+j'ai des potes encore.
+
+238
+00:07:05,100 --> 00:07:06,800
+Ils savaient même pas
+
+239
+00:07:06,800 --> 00:07:07,840
+que tu pouvais venir
+
+240
+00:07:07,840 --> 00:07:08,500
+toutes les semaines.
+
+241
+00:07:09,420 --> 00:07:09,780
+Ouais, pour eux,
+
+242
+00:07:09,800 --> 00:07:10,440
+c'est un studio télé.
+
+243
+00:07:10,580 --> 00:07:10,820
+C'est une émission.
+
+244
+00:07:10,900 --> 00:07:11,140
+Ouais, voilà.
+
+245
+00:07:11,380 --> 00:07:13,520
+C'est un truc qu'on peut faire
+
+246
+00:07:13,520 --> 00:07:14,160
+toutes les semaines.
+
+247
+00:07:14,660 --> 00:07:15,700
+Il y a plusieurs séances.
+
+248
+00:07:15,840 --> 00:07:15,960
+D'ailleurs,
+
+249
+00:07:16,020 --> 00:07:17,120
+le programmateur qui est avec nous,
+
+250
+00:07:17,500 --> 00:07:18,360
+le directeur artistique
+
+251
+00:07:18,360 --> 00:07:18,720
+qui est là,
+
+252
+00:07:19,140 --> 00:07:20,180
+qui va peut-être nous répondre.
+
+253
+00:07:20,300 --> 00:07:21,160
+On peut venir voir
+
+254
+00:07:21,160 --> 00:07:21,960
+le Jam & Comedy Club
+
+255
+00:07:21,960 --> 00:07:22,640
+toutes les semaines,
+
+256
+00:07:22,740 --> 00:07:23,380
+tous les jours, quasiment.
+
+257
+00:07:24,340 --> 00:07:25,120
+Quasiment tous les jours.
+
+258
+00:07:25,520 --> 00:07:26,700
+C'est enfin un Comedy Club.
+
+259
+00:07:26,960 --> 00:07:27,280
+Parce qu'en fait,
+
+260
+00:07:27,340 --> 00:07:27,760
+pendant longtemps,
+
+261
+00:07:27,840 --> 00:07:28,860
+ça s'est appelé un Comedy Club
+
+262
+00:07:28,860 --> 00:07:30,080
+et c'était plus une salle de spectacle,
+
+263
+00:07:30,300 --> 00:07:30,400
+quoi,
+
+264
+00:07:30,500 --> 00:07:31,320
+parce qu'il n'y avait pas beaucoup,
+
+265
+00:07:31,460 --> 00:07:32,240
+il n'y avait pas de...
+
+266
+00:07:32,240 --> 00:07:33,020
+Il n'y avait qu'un plateau.
+
+267
+00:07:33,940 --> 00:07:34,260
+Apparemment,
+
+268
+00:07:34,340 --> 00:07:35,080
+cette question le gêne.
+
+269
+00:07:38,180 --> 00:07:38,700
+Oui, oui,
+
+270
+00:07:38,780 --> 00:07:39,600
+mais un Comedy Club,
+
+271
+00:07:39,680 --> 00:07:39,960
+normalement,
+
+272
+00:07:40,040 --> 00:07:41,220
+c'est trois plateaux par soir,
+
+273
+00:07:41,320 --> 00:07:41,800
+tous les soirs.
+
+274
+00:07:42,260 --> 00:07:42,940
+Donc là, ça, en fait,
+
+275
+00:07:43,040 --> 00:07:45,020
+moi, j'explique...
+
+276
+00:07:45,020 --> 00:07:45,880
+Ouais, d'accord.
+
+277
+00:07:45,880 --> 00:07:47,980
+C'est pour ça que je n'y étais pas.
+
+278
+00:07:49,560 --> 00:07:50,040
+Ouais, ouais.
+
+279
+00:07:50,040 --> 00:07:50,980
+Et là, c'est devenu, du coup,
+
+280
+00:07:51,040 --> 00:07:51,840
+un Comedy Club
+
+281
+00:07:51,840 --> 00:07:54,080
+avec une séance par jour minimum.
+
+282
+00:07:54,920 --> 00:07:56,280
+Donc, c'est quand même
+
+283
+00:07:56,280 --> 00:07:57,680
+un truc qu'on peut faire facilement.
+
+284
+00:07:58,100 --> 00:07:59,180
+En vrai, c'était dur aussi
+
+285
+00:07:59,180 --> 00:08:00,480
+parce que les gens payaient plus...
+
+286
+00:08:00,480 --> 00:08:00,700
+Maintenant,
+
+287
+00:08:00,800 --> 00:08:01,480
+tous les Comedy Club
+
+288
+00:08:01,480 --> 00:08:02,400
+sont plus ou moins payants.
+
+289
+00:08:02,780 --> 00:08:03,420
+Mais c'était quand même
+
+290
+00:08:03,420 --> 00:08:04,000
+un des trucs
+
+291
+00:08:04,000 --> 00:08:05,080
+où tu payais beaucoup plus cher
+
+292
+00:08:05,080 --> 00:08:05,540
+qu'ailleurs.
+
+293
+00:08:05,780 --> 00:08:06,520
+Et du coup, aussi,
+
+294
+00:08:06,580 --> 00:08:07,300
+le côté mythique
+
+295
+00:08:07,300 --> 00:08:08,400
+et les gens qui venaient beaucoup
+
+296
+00:08:08,400 --> 00:08:09,040
+de...
+
+297
+00:08:09,040 --> 00:08:09,860
+Pas forcément de Paris.
+
+298
+00:08:10,700 --> 00:08:11,040
+Donc...
+
+299
+00:08:11,960 --> 00:08:12,460
+D'un côté,
+
+300
+00:08:12,560 --> 00:08:13,020
+tu avais des gens,
+
+301
+00:08:13,080 --> 00:08:14,040
+je ne sais pas s'ils attendaient...
+
+302
+00:08:14,800 --> 00:08:15,180
+On peut dire
+
+303
+00:08:15,180 --> 00:08:15,760
+qu'ils sont de bon public
+
+304
+00:08:15,760 --> 00:08:16,520
+parce qu'ils ne viennent pas souvent.
+
+305
+00:08:16,600 --> 00:08:16,980
+Et d'un autre côté,
+
+306
+00:08:16,980 --> 00:08:17,460
+sur la...
+
+307
+00:08:17,460 --> 00:08:17,820
+Mais c'est ça.
+
+308
+00:08:18,040 --> 00:08:18,420
+Enfin, tu vois,
+
+309
+00:08:18,640 --> 00:08:20,260
+ça peut être compliqué, quoi,
+
+310
+00:08:20,580 --> 00:08:21,100
+de bider ici
+
+311
+00:08:21,100 --> 00:08:21,860
+parce que, justement,
+
+312
+00:08:21,920 --> 00:08:22,840
+les gens s'attendent à quelque chose.
+
+313
+00:08:22,940 --> 00:08:23,180
+Oui.
+
+314
+00:08:23,540 --> 00:08:24,900
+Moi, je sais que ça mettait la pression
+
+315
+00:08:24,900 --> 00:08:25,480
+parce que tu dis,
+
+316
+00:08:25,560 --> 00:08:26,100
+putain, les gens,
+
+317
+00:08:26,180 --> 00:08:28,180
+ils payent plus de 30 euros
+
+318
+00:08:28,180 --> 00:08:29,160
+parfois pour te voir
+
+319
+00:08:29,160 --> 00:08:30,560
+et donc, tu fais ton meilleur, quoi.
+
+320
+00:08:30,680 --> 00:08:30,860
+Ouais.
+
+321
+00:08:31,040 --> 00:08:32,280
+Là, tu as un peu la pression.
+
+322
+00:08:32,360 --> 00:08:33,160
+Tu dis, je ne vais pas tester
+
+323
+00:08:33,160 --> 00:08:33,640
+sur un mec
+
+324
+00:08:33,640 --> 00:08:34,980
+qui a mis plus de 30 euros, quoi.
+
+325
+00:08:35,060 --> 00:08:35,520
+Alors que maintenant,
+
+326
+00:08:35,600 --> 00:08:36,920
+tu as ton spectacle à 45,
+
+327
+00:08:37,000 --> 00:08:37,680
+tu t'en vas les couilles.
+
+328
+00:08:37,940 --> 00:08:38,560
+Ben, c'est beau.
+
+329
+00:08:39,080 --> 00:08:40,100
+Tu as évolué, finalement.
+
+330
+00:08:40,340 --> 00:08:41,300
+45 avec la Paris.
+
+331
+00:08:41,420 --> 00:08:42,120
+Mais n'importe quoi.
+
+332
+00:08:42,120 --> 00:08:43,000
+Non, non.
+
+333
+00:08:43,640 --> 00:08:44,340
+L'Olympia,
+
+334
+00:08:44,820 --> 00:08:46,240
+tu es obligé de le mettre
+
+335
+00:08:46,240 --> 00:08:46,720
+à 40 euros
+
+336
+00:08:46,720 --> 00:08:49,120
+parce que la salle coûte un bras.
+
+337
+00:08:49,760 --> 00:08:50,440
+Mais sinon, non,
+
+338
+00:08:50,580 --> 00:08:51,060
+mon spectacle,
+
+339
+00:08:51,180 --> 00:08:52,240
+il est à 30, 32 euros, quoi.
+
+340
+00:08:53,120 --> 00:08:54,680
+C'est le prix normal, quoi.
+
+341
+00:08:54,880 --> 00:08:56,700
+Un bras de qui ?
+
+342
+00:08:56,700 --> 00:08:57,300
+Un bras...
+
+343
+00:08:57,300 --> 00:08:57,780
+Waouh.
+
+344
+00:08:57,860 --> 00:08:58,820
+Attends, vas-y, vas-y.
+
+345
+00:08:59,060 --> 00:08:59,880
+Allez, va-y.
+
+346
+00:09:00,120 --> 00:09:00,520
+Allez, go.
+
+347
+00:09:01,120 --> 00:09:01,840
+Ça sent le naufrage.
+
+348
+00:09:02,080 --> 00:09:03,440
+T'en es où de ton...
+
+349
+00:09:03,440 --> 00:09:05,060
+Ça va, l'Olympia ?
+
+350
+00:09:05,060 --> 00:09:05,820
+C'est quand, l'Olympia ?
+
+351
+00:09:05,820 --> 00:09:07,540
+L'Olympia est en avril prochain.
+
+352
+00:09:07,820 --> 00:09:08,080
+Et oui,
+
+353
+00:09:08,220 --> 00:09:09,440
+les places partent
+
+354
+00:09:09,440 --> 00:09:10,180
+anormalement vite.
+
+355
+00:09:10,180 --> 00:09:10,900
+C'est...
+
+356
+00:09:10,900 --> 00:09:11,320
+Voilà.
+
+357
+00:09:11,700 --> 00:09:12,680
+Et ça, c'est vrai qu'en fait,
+
+358
+00:09:12,760 --> 00:09:13,740
+quand tu fais un truc,
+
+359
+00:09:13,840 --> 00:09:15,080
+une date un peu machin...
+
+360
+00:09:15,080 --> 00:09:15,580
+Exceptionnelle.
+
+361
+00:09:15,840 --> 00:09:16,920
+Les gens, ils...
+
+362
+00:09:16,920 --> 00:09:17,860
+Les gens, ils viennent
+
+363
+00:09:17,860 --> 00:09:18,880
+et ça, ça fait vraiment plaisir.
+
+364
+00:09:19,020 --> 00:09:19,480
+Je ne sais pas s'il y en a
+
+365
+00:09:19,480 --> 00:09:20,060
+qui vont regarder
+
+366
+00:09:20,060 --> 00:09:20,820
+et qui vont venir.
+
+367
+00:09:20,900 --> 00:09:21,120
+Merci.
+
+368
+00:09:21,560 --> 00:09:23,240
+Est-ce que tu peux mentir ?
+
+369
+00:09:23,240 --> 00:09:23,700
+Par exemple,
+
+370
+00:09:24,280 --> 00:09:25,180
+tu ne fais pas l'Olympia,
+
+371
+00:09:25,840 --> 00:09:26,460
+mais le même jour,
+
+372
+00:09:26,540 --> 00:09:27,340
+tu fais une autre salle,
+
+373
+00:09:27,440 --> 00:09:28,520
+mais genre une salle,
+
+374
+00:09:29,260 --> 00:09:30,020
+le théâtre municipal
+
+375
+00:09:30,020 --> 00:09:31,000
+de mes couilles
+
+376
+00:09:31,000 --> 00:09:31,960
+de l'autre côté du périph
+
+377
+00:09:31,960 --> 00:09:32,760
+à 500 mètres
+
+378
+00:09:32,760 --> 00:09:34,160
+à 2 km de l'Olympia.
+
+379
+00:09:35,180 --> 00:09:37,280
+Et donc, tu vends
+
+380
+00:09:37,280 --> 00:09:37,880
+à la même horaire,
+
+381
+00:09:37,960 --> 00:09:38,540
+le machin et tout.
+
+382
+00:09:38,540 --> 00:09:39,540
+Du coup, les gens, ils viennent,
+
+383
+00:09:39,660 --> 00:09:40,080
+ils prennent des places,
+
+384
+00:09:40,160 --> 00:09:40,200
+ils disent,
+
+385
+00:09:40,220 --> 00:09:41,840
+oh putain, incroyable, l'Olympia.
+
+386
+00:09:42,160 --> 00:09:43,160
+Et 2 jours avant,
+
+387
+00:09:43,220 --> 00:09:43,680
+tu envoies un mail,
+
+388
+00:09:43,760 --> 00:09:44,060
+genre en fait,
+
+389
+00:09:44,140 --> 00:09:45,080
+pour des réseaux techniques
+
+390
+00:09:45,080 --> 00:09:45,600
+de dégâts.
+
+391
+00:09:46,800 --> 00:09:47,660
+On va au théâtre.
+
+392
+00:09:49,000 --> 00:09:50,080
+C'est jouable, c'est jouable.
+
+393
+00:09:50,220 --> 00:09:51,400
+J'ai pensé, moi...
+
+394
+00:09:51,400 --> 00:09:52,040
+Préparez-vous,
+
+395
+00:09:52,260 --> 00:09:53,100
+ça va tomber en un mail.
+
+396
+00:09:53,360 --> 00:09:54,000
+J'ai pensé à appeler
+
+397
+00:09:54,000 --> 00:09:55,360
+mon spectacle Paul Mirabel
+
+398
+00:09:55,360 --> 00:09:56,860
+parce qu'il a un très bon référentiel.
+
+399
+00:09:58,880 --> 00:10:00,500
+Tu crois que c'est interdit ?
+
+400
+00:10:00,500 --> 00:10:01,600
+Je pense que c'est interdit.
+
+401
+00:10:01,600 --> 00:10:04,720
+Je ne sais pas,
+
+402
+00:10:04,800 --> 00:10:05,460
+c'est à y réfléchir.
+
+403
+00:10:05,800 --> 00:10:06,120
+Je ne sais pas,
+
+404
+00:10:06,220 --> 00:10:06,700
+on peut frôler
+
+405
+00:10:06,700 --> 00:10:07,660
+avec la légalité, mais...
+
+406
+00:10:07,660 --> 00:10:08,320
+Presque complet.
+
+407
+00:10:08,820 --> 00:10:10,120
+C'est un bon nom de spectacle, ça.
+
+408
+00:10:11,400 --> 00:10:12,960
+C'est quoi, toi, ton truc
+
+409
+00:10:12,960 --> 00:10:13,600
+que tu voulais...
+
+410
+00:10:13,600 --> 00:10:14,640
+Ton nom, tu voulais en parler ?
+
+411
+00:10:14,640 --> 00:10:16,200
+Nom de ton prochain spectacle ?
+
+412
+00:10:16,200 --> 00:10:16,740
+Les live coach.
+
+413
+00:10:16,980 --> 00:10:17,320
+Live coach.
+
+414
+00:10:17,340 --> 00:10:17,960
+Tu veux me piquer ?
+
+415
+00:10:17,960 --> 00:10:18,160
+Non.
+
+416
+00:10:18,720 --> 00:10:19,680
+C'est Urbain qui me l'avait
+
+417
+00:10:19,680 --> 00:10:21,200
+suggéré en premier,
+
+418
+00:10:21,320 --> 00:10:21,700
+il y a longtemps.
+
+419
+00:10:21,920 --> 00:10:22,560
+En vrai, c'est très marrant,
+
+420
+00:10:22,620 --> 00:10:23,000
+live coach.
+
+421
+00:10:23,400 --> 00:10:23,920
+C'est dingue.
+
+422
+00:10:24,220 --> 00:10:25,140
+Attends, je t'ai dit
+
+423
+00:10:25,140 --> 00:10:27,000
+un truc que tu as apprécié ?
+
+424
+00:10:27,000 --> 00:10:27,560
+Ouais, tu vois,
+
+425
+00:10:27,640 --> 00:10:28,400
+tu as apprécié plein de choses
+
+426
+00:10:28,400 --> 00:10:28,880
+que tu dis.
+
+427
+00:10:28,940 --> 00:10:29,440
+C'est fou !
+
+428
+00:10:29,440 --> 00:10:30,540
+C'est fou !
+
+429
+00:10:30,540 --> 00:10:31,200
+Mais je ne sens pas aimer
+
+430
+00:10:31,200 --> 00:10:31,840
+la saison 2,
+
+431
+00:10:31,920 --> 00:10:32,460
+mais tout change.
+
+432
+00:10:32,460 --> 00:10:34,880
+La Terre, elle est comment ?
+
+433
+00:10:34,880 --> 00:10:36,300
+La Terre est ovale.
+
+434
+00:10:37,100 --> 00:10:39,560
+C'est déjà un progrès !
+
+435
+00:10:39,560 --> 00:10:40,180
+C'est magnifique.
+
+436
+00:10:40,520 --> 00:10:41,220
+Attends, je ne sais pas trop
+
+437
+00:10:41,220 --> 00:10:41,560
+ce que tu fais.
+
+438
+00:10:41,640 --> 00:10:42,200
+Tu te positionnes
+
+439
+00:10:42,200 --> 00:10:44,200
+genre en victime de...
+
+440
+00:10:44,200 --> 00:10:45,520
+Mec, je reçois même
+
+441
+00:10:45,520 --> 00:10:46,100
+des messages.
+
+442
+00:10:46,320 --> 00:10:47,300
+Ne te laisse plus faire.
+
+443
+00:10:47,640 --> 00:10:48,460
+C'est la première fois
+
+444
+00:10:48,460 --> 00:10:49,380
+de ma vie que je ne suis pas
+
+445
+00:10:49,380 --> 00:10:50,900
+le bolosseur d'un podcast
+
+446
+00:10:50,900 --> 00:10:52,100
+ou de sur scène,
+
+447
+00:10:52,180 --> 00:10:52,920
+mais le bolossé.
+
+448
+00:10:53,380 --> 00:10:54,020
+Je te jure,
+
+449
+00:10:54,100 --> 00:10:54,800
+je reçois des messages.
+
+450
+00:10:55,200 --> 00:10:55,800
+Défends-toi.
+
+451
+00:10:55,980 --> 00:10:56,800
+J'ai des gens qui disent
+
+452
+00:10:56,800 --> 00:10:57,380
+que vous n'êtes pas
+
+453
+00:10:57,380 --> 00:10:58,220
+assez méchant avec Urbain.
+
+454
+00:10:58,860 --> 00:10:59,120
+Ah ouais.
+
+455
+00:11:00,020 --> 00:11:01,040
+C'est sûr que si on a
+
+456
+00:11:01,040 --> 00:11:01,900
+deux teams d'acharnes,
+
+457
+00:11:01,900 --> 00:11:02,140
+ça se trouve,
+
+458
+00:11:02,200 --> 00:11:02,780
+c'est les mêmes gars
+
+459
+00:11:02,780 --> 00:11:04,160
+qui envoient les mêmes messages.
+
+460
+00:11:04,160 --> 00:11:05,560
+On organise des rencontres
+
+461
+00:11:05,560 --> 00:11:06,520
+comme entre hooligans.
+
+462
+00:11:07,480 --> 00:11:08,060
+Je te jure,
+
+463
+00:11:08,120 --> 00:11:09,140
+tu verras le vlog,
+
+464
+00:11:09,360 --> 00:11:11,000
+le montage est édifiant.
+
+465
+00:11:11,180 --> 00:11:11,900
+Tu n'es pas quelqu'un
+
+466
+00:11:11,900 --> 00:11:12,280
+de sympathique.
+
+467
+00:11:12,300 --> 00:11:12,940
+C'est vrai que...
+
+468
+00:11:12,940 --> 00:11:13,700
+C'est sympa que nous.
+
+469
+00:11:13,960 --> 00:11:14,500
+Tu es quand même
+
+470
+00:11:14,500 --> 00:11:16,000
+assez acerbe.
+
+471
+00:11:16,160 --> 00:11:16,820
+Mais moi, j'adore
+
+472
+00:11:16,820 --> 00:11:17,580
+parce que je suis toujours
+
+473
+00:11:17,580 --> 00:11:18,760
+le connard du podcast
+
+474
+00:11:18,760 --> 00:11:19,480
+et là,
+
+475
+00:11:19,760 --> 00:11:20,080
+petit...
+
+476
+00:11:20,080 --> 00:11:20,760
+J'ai quand même
+
+477
+00:11:20,760 --> 00:11:21,160
+un peu de marge.
+
+478
+00:11:21,300 --> 00:11:22,320
+À Biarritz ?
+
+479
+00:11:22,320 --> 00:11:22,820
+À Biarritz ?
+
+480
+00:11:22,820 --> 00:11:23,120
+Non, pourtant,
+
+481
+00:11:23,180 --> 00:11:23,680
+j'ai un bon souvenir.
+
+482
+00:11:23,800 --> 00:11:24,060
+J'étais peut-être
+
+483
+00:11:24,060 --> 00:11:24,680
+de mauvaise humeur.
+
+484
+00:11:24,760 --> 00:11:25,700
+Pourquoi j'étais de mauvaise humeur ?
+
+485
+00:11:25,700 --> 00:11:26,260
+Parce que j'ai mal dormi,
+
+486
+00:11:26,320 --> 00:11:27,200
+parce que j'avais un lit de merde.
+
+487
+00:11:28,980 --> 00:11:29,460
+Peut-être pour ça.
+
+488
+00:11:29,680 --> 00:11:30,400
+C'est pour ça, ouais.
+
+489
+00:11:31,300 --> 00:11:32,960
+C'était le début pour vous,
+
+490
+00:11:33,360 --> 00:11:34,060
+Jam & Comedy Club.
+
+491
+00:11:34,460 --> 00:11:35,480
+Toi, c'était très, très tôt.
+
+492
+00:11:35,700 --> 00:11:35,960
+Ouais, moi,
+
+493
+00:11:35,960 --> 00:11:36,540
+je l'ai fait très vite.
+
+494
+00:11:36,660 --> 00:11:37,060
+En fait, toi,
+
+495
+00:11:37,160 --> 00:11:38,480
+c'était ta première exposition
+
+496
+00:11:38,480 --> 00:11:39,320
+très vite.
+
+497
+00:11:39,520 --> 00:11:39,680
+Ouais.
+
+498
+00:11:40,140 --> 00:11:40,740
+Première télé.
+
+499
+00:11:41,000 --> 00:11:41,420
+Très tôt.
+
+500
+00:11:41,640 --> 00:11:42,380
+Peu de...
+
+501
+00:11:42,380 --> 00:11:42,660
+Le roca.
+
+502
+00:11:43,120 --> 00:11:43,960
+Peu de recul.
+
+503
+00:11:44,620 --> 00:11:45,420
+Peu de recul
+
+504
+00:11:45,420 --> 00:11:46,200
+sur ce qu'on proposait.
+
+505
+00:11:46,300 --> 00:11:46,680
+C'était l'époque
+
+506
+00:11:46,680 --> 00:11:47,280
+où les accents
+
+507
+00:11:47,280 --> 00:11:48,560
+étaient encore à la mode.
+
+508
+00:11:48,700 --> 00:11:49,240
+Moi, j'avais vu
+
+509
+00:11:49,240 --> 00:11:49,720
+Bétail,
+
+510
+00:11:49,800 --> 00:11:50,500
+tu as rigolé.
+
+511
+00:11:50,840 --> 00:11:51,320
+Mais en fait,
+
+512
+00:11:51,320 --> 00:11:52,700
+t'as jamais galéré, toi.
+
+513
+00:11:53,220 --> 00:11:54,200
+T'as jamais trop galéré.
+
+514
+00:11:54,220 --> 00:11:54,640
+Non, ça, c'est tout de suite.
+
+515
+00:11:54,760 --> 00:11:55,600
+T'es tout de suite allé.
+
+516
+00:11:55,780 --> 00:11:57,060
+T'as eu le Jam & Comedy Club passé.
+
+517
+00:11:57,640 --> 00:11:58,080
+Tout...
+
+518
+00:11:59,200 --> 00:12:00,200
+Tout...
+
+519
+00:12:00,200 --> 00:12:01,680
+Moi, j'ai jamais eu de buzz,
+
+520
+00:12:01,800 --> 00:12:03,560
+j'ai jamais eu de descente.
+
+521
+00:12:03,780 --> 00:12:03,980
+Ouais.
+
+522
+00:12:04,180 --> 00:12:05,080
+C'est que...
+
+523
+00:12:05,080 --> 00:12:06,120
+Petit, mais tout le temps.
+
+524
+00:12:06,480 --> 00:12:06,740
+Ouais, ouais.
+
+525
+00:12:06,900 --> 00:12:07,500
+Petit, tout doux.
+
+526
+00:12:07,820 --> 00:12:08,200
+C'est bien.
+
+527
+00:12:08,220 --> 00:12:08,880
+J'ai jamais rien eu qu'à...
+
+528
+00:12:08,880 --> 00:12:09,260
+Ouais, c'est bien.
+
+529
+00:12:09,500 --> 00:12:10,220
+Mais assez rapidement.
+
+530
+00:12:10,400 --> 00:12:11,240
+Du coup, c'est assez cool à vivre.
+
+531
+00:12:11,480 --> 00:12:12,580
+À un moment, ça va redescendre,
+
+532
+00:12:12,620 --> 00:12:13,200
+mais je pense que le moment
+
+533
+00:12:13,200 --> 00:12:13,600
+que ça redescend,
+
+534
+00:12:13,680 --> 00:12:14,100
+c'est plus chiant.
+
+535
+00:12:14,800 --> 00:12:15,280
+Et moi, du coup,
+
+536
+00:12:15,280 --> 00:12:16,140
+ça me fait moins chiant.
+
+537
+00:12:16,220 --> 00:12:16,540
+Tranquille.
+
+538
+00:12:16,780 --> 00:12:17,160
+Et pour toi,
+
+539
+00:12:17,240 --> 00:12:18,440
+ça sera vraiment pas du tout douloureux
+
+540
+00:12:18,440 --> 00:12:19,160
+parce que tu...
+
+541
+00:12:19,160 --> 00:12:20,060
+Bah oui, j'aurais jamais vu.
+
+542
+00:12:20,560 --> 00:12:21,620
+Donc c'est vraiment...
+
+543
+00:12:21,620 --> 00:12:22,100
+Ah, et donc...
+
+544
+00:12:22,100 --> 00:12:23,640
+Tu vois, c'est lui qui s'y met contre toi.
+
+545
+00:12:23,720 --> 00:12:24,140
+Alors que moi,
+
+546
+00:12:24,180 --> 00:12:24,620
+je suis plein d'amour.
+
+547
+00:12:24,980 --> 00:12:25,820
+Vas-y, saison 2,
+
+548
+00:12:25,900 --> 00:12:26,940
+tu fous de l'homme.
+
+549
+00:12:27,000 --> 00:12:27,620
+C'est un running gag
+
+550
+00:12:27,620 --> 00:12:28,460
+qui me sert en plus.
+
+551
+00:12:28,580 --> 00:12:29,160
+Les gens sont là,
+
+552
+00:12:29,240 --> 00:12:30,580
+prennent des places par pitié maintenant.
+
+553
+00:12:31,040 --> 00:12:32,060
+Et alors, ça va, les gars.
+
+554
+00:12:32,300 --> 00:12:33,800
+Mais continuez cette histoire de pitié.
+
+555
+00:12:34,180 --> 00:12:35,280
+Ça me fait plaisir.
+
+556
+00:12:35,340 --> 00:12:35,900
+Ça me fait de l'argent.
+
+557
+00:12:36,380 --> 00:12:37,400
+Mais qu'est-ce que...
+
+558
+00:12:37,400 --> 00:12:37,960
+Ouais, c'est vrai que moi,
+
+559
+00:12:38,000 --> 00:12:38,740
+j'ai commencé ici.
+
+560
+00:12:38,740 --> 00:12:41,060
+Je crois que t'avais même pas un an de scène, quoi.
+
+561
+00:12:41,140 --> 00:12:42,240
+Non, j'avais pas un an de scène.
+
+562
+00:12:42,360 --> 00:12:43,280
+Et j'arrivais, je faisais...
+
+563
+00:12:43,280 --> 00:12:43,840
+Waouh.
+
+564
+00:12:43,880 --> 00:12:45,160
+Y'avait rien calé, quoi.
+
+565
+00:12:45,300 --> 00:12:46,180
+C'est rare, quand même.
+
+566
+00:12:46,360 --> 00:12:48,000
+Les gens qui ont moins d'un an de scène
+
+567
+00:12:48,000 --> 00:12:49,180
+et qui font jamais le Comédie Club,
+
+568
+00:12:49,260 --> 00:12:50,020
+c'est quand même assez rare.
+
+569
+00:12:50,560 --> 00:12:53,400
+C'était une autre époque aussi de...
+
+570
+00:12:53,400 --> 00:12:54,580
+Je sais pas, j'ai dû me faufiler.
+
+571
+00:12:54,780 --> 00:12:55,760
+Je suis arrivé à un bon moment
+
+572
+00:12:55,760 --> 00:12:57,780
+où je correspondais au profil
+
+573
+00:12:57,780 --> 00:12:58,980
+de ce qu'ils voulaient pour la saison.
+
+574
+00:12:59,160 --> 00:12:59,480
+Un blanc.
+
+575
+00:12:59,700 --> 00:13:00,540
+Parce qu'il restait...
+
+576
+00:13:00,540 --> 00:13:01,180
+Non, je sais pas,
+
+577
+00:13:01,300 --> 00:13:02,980
+mais c'était pas Christophe à l'époque.
+
+578
+00:13:03,460 --> 00:13:04,180
+C'était Jean-Michel Joyo.
+
+579
+00:13:04,180 --> 00:13:05,280
+Je peux remercier quand même.
+
+580
+00:13:05,900 --> 00:13:06,840
+Joyo ou Joyo ?
+
+581
+00:13:06,840 --> 00:13:07,340
+Joyo ?
+
+582
+00:13:07,340 --> 00:13:07,680
+Joyo.
+
+583
+00:13:07,780 --> 00:13:08,100
+Joyo.
+
+584
+00:13:08,200 --> 00:13:08,920
+Jean-Michel Joyo.
+
+585
+00:13:09,200 --> 00:13:11,280
+Et du coup, je m'étais retrouvé là-dedans.
+
+586
+00:13:11,520 --> 00:13:13,540
+Et puis, le jour du tournage,
+
+587
+00:13:14,260 --> 00:13:14,740
+c'était genre...
+
+588
+00:13:14,740 --> 00:13:15,880
+J'avais 6-8 mois de stand-up.
+
+589
+00:13:16,460 --> 00:13:18,260
+Il y avait vraiment des...
+
+590
+00:13:18,260 --> 00:13:19,280
+Dans la liste...
+
+591
+00:13:19,280 --> 00:13:19,780
+Je crois que je me rappelle,
+
+592
+00:13:19,860 --> 00:13:21,640
+il y a quelqu'un qui lisait la liste,
+
+593
+00:13:21,720 --> 00:13:22,360
+qui lisait les noms
+
+594
+00:13:22,360 --> 00:13:23,820
+et qui a dit Pierre Thévenou.
+
+595
+00:13:23,940 --> 00:13:25,280
+Et il me dit, c'est qui ?
+
+596
+00:13:25,280 --> 00:13:26,280
+J'ai envie de se raconter.
+
+597
+00:13:27,300 --> 00:13:28,020
+Et c'était Jamel.
+
+598
+00:13:28,160 --> 00:13:29,720
+Je me suis dit que j'étais un technicien du truc
+
+599
+00:13:29,720 --> 00:13:31,500
+parce que personne ne m'avait jamais vu.
+
+600
+00:13:31,500 --> 00:13:32,380
+C'est vrai que Pierre Thévenou,
+
+601
+00:13:32,460 --> 00:13:33,400
+ça fait vraiment le mec...
+
+602
+00:13:33,400 --> 00:13:33,840
+Oui, ça va.
+
+603
+00:13:34,020 --> 00:13:34,700
+Je suis arrivé,
+
+604
+00:13:35,020 --> 00:13:35,500
+à l'époque,
+
+605
+00:13:35,580 --> 00:13:36,500
+je m'habillais déjà en clodo.
+
+606
+00:13:37,560 --> 00:13:39,540
+Et ça s'est pas trop mal passé en plus.
+
+607
+00:13:39,920 --> 00:13:40,100
+Non.
+
+608
+00:13:40,280 --> 00:13:41,160
+Mais ce qui est bien,
+
+609
+00:13:41,260 --> 00:13:41,780
+c'est que moi, en fait,
+
+610
+00:13:42,120 --> 00:13:42,500
+derrière,
+
+611
+00:13:42,740 --> 00:13:43,600
+j'avais pas de spectacle,
+
+612
+00:13:43,700 --> 00:13:44,040
+j'avais rien.
+
+613
+00:13:44,480 --> 00:13:45,400
+Ça m'a...
+
+614
+00:13:45,400 --> 00:13:46,420
+T'as bien les portes
+
+615
+00:13:46,420 --> 00:13:47,660
+pour jouer tranquillement
+
+616
+00:13:47,660 --> 00:13:49,380
+dans tous les autres comédies.
+
+617
+00:13:49,520 --> 00:13:50,340
+Ça t'a mis sur la map.
+
+618
+00:13:50,340 --> 00:13:51,380
+Jouer dans la troupe ici.
+
+619
+00:13:51,820 --> 00:13:52,580
+Parce qu'il faut savoir
+
+620
+00:13:52,580 --> 00:13:54,060
+qu'au début...
+
+621
+00:13:54,060 --> 00:13:55,760
+Je suis un ancien, en fait, de ouf.
+
+622
+00:13:55,960 --> 00:13:56,560
+Ça fait 10 ans.
+
+623
+00:13:56,580 --> 00:13:57,000
+Un ancien.
+
+624
+00:13:57,580 --> 00:13:58,500
+J'ai vu le passage,
+
+625
+00:13:58,500 --> 00:13:59,080
+ça fait 10 ans.
+
+626
+00:13:59,520 --> 00:14:01,220
+Et ce que je m'attendais pas...
+
+627
+00:14:01,220 --> 00:14:02,200
+Comment ça t'as revu ?
+
+628
+00:14:02,200 --> 00:14:03,560
+Putain, mais il est encore...
+
+629
+00:14:03,560 --> 00:14:04,500
+Il est encore...
+
+630
+00:14:04,500 --> 00:14:05,240
+Il est encore...
+
+631
+00:14:05,240 --> 00:14:06,180
+Cherchez Pierre Thévenou,
+
+632
+00:14:06,240 --> 00:14:06,880
+Jamel Comedy Club,
+
+633
+00:14:07,140 --> 00:14:08,060
+et vous allez vous régler.
+
+634
+00:14:08,180 --> 00:14:09,860
+En fait, si t'as un compte My Canal
+
+635
+00:14:09,860 --> 00:14:11,400
+et que tu fais des recherches,
+
+636
+00:14:11,580 --> 00:14:12,420
+tu trouves...
+
+637
+00:14:12,420 --> 00:14:12,900
+Et aussi,
+
+638
+00:14:13,460 --> 00:14:14,660
+j'ai une petite équipe
+
+639
+00:14:14,660 --> 00:14:16,340
+qui a sauvegardé tout ça
+
+640
+00:14:16,340 --> 00:14:17,000
+depuis longtemps.
+
+641
+00:14:17,480 --> 00:14:18,100
+Et même,
+
+642
+00:14:18,160 --> 00:14:18,700
+je vais te dire mieux,
+
+643
+00:14:18,760 --> 00:14:19,380
+la dernière fois...
+
+644
+00:14:19,380 --> 00:14:19,780
+C'est Laurent.
+
+645
+00:14:20,460 --> 00:14:20,800
+Pas que.
+
+646
+00:14:21,440 --> 00:14:21,780
+Mais attends.
+
+647
+00:14:22,040 --> 00:14:22,500
+Mais Laurent...
+
+648
+00:14:23,040 --> 00:14:24,500
+Laurent a aussi...
+
+649
+00:14:24,500 --> 00:14:25,840
+Laurent a des pépites.
+
+650
+00:14:26,400 --> 00:14:27,600
+Parce que Laurent,
+
+651
+00:14:27,600 --> 00:14:29,200
+il a mon premier passage sur scène
+
+652
+00:14:29,200 --> 00:14:29,780
+au Shinchman.
+
+653
+00:14:29,860 --> 00:14:31,220
+Il a des trucs intolérables.
+
+654
+00:14:31,240 --> 00:14:31,720
+Shinchman ?
+
+655
+00:14:31,720 --> 00:14:32,680
+Ah, mais t'es un ancien, toi.
+
+656
+00:14:32,800 --> 00:14:33,420
+Ouais, ouais, bah ouais,
+
+657
+00:14:33,440 --> 00:14:33,720
+je suis...
+
+658
+00:14:33,720 --> 00:14:35,360
+Vous avez gardé
+
+659
+00:14:35,360 --> 00:14:36,420
+votre premier passage sur scène ?
+
+660
+00:14:36,420 --> 00:14:37,080
+Bah, lui, il l'a.
+
+661
+00:14:37,220 --> 00:14:39,260
+Moi, je crois que je l'ai, ouais.
+
+662
+00:14:39,300 --> 00:14:39,980
+Le premier, premier,
+
+663
+00:14:40,060 --> 00:14:40,540
+c'est en anglais,
+
+664
+00:14:40,640 --> 00:14:40,960
+je l'ai pas.
+
+665
+00:14:41,080 --> 00:14:41,860
+Mais le premier en français,
+
+666
+00:14:41,960 --> 00:14:42,080
+je l'ai.
+
+667
+00:14:42,080 --> 00:14:42,520
+Moi, c'est horrible, ouais.
+
+668
+00:14:42,880 --> 00:14:44,220
+J'ai une sorte de ukulélé.
+
+669
+00:14:44,640 --> 00:14:45,280
+Ah, Franjo,
+
+670
+00:14:45,380 --> 00:14:46,520
+c'est vraiment...
+
+671
+00:14:46,520 --> 00:14:48,040
+Très, très difficile, ouais.
+
+672
+00:14:48,140 --> 00:14:49,600
+Et mon pote Salomon...
+
+673
+00:14:50,440 --> 00:14:52,000
+C'est trop bien.
+
+674
+00:14:52,420 --> 00:14:53,720
+C'est trop bien que tu dis...
+
+675
+00:14:53,720 --> 00:14:54,780
+Ouais, ça, je comprends pas.
+
+676
+00:14:54,860 --> 00:14:55,600
+Je fais des one-liners
+
+677
+00:14:55,600 --> 00:14:56,140
+un peu racistes.
+
+678
+00:14:56,300 --> 00:14:56,520
+Il y a eu...
+
+679
+00:14:56,520 --> 00:14:57,180
+Comme...
+
+680
+00:14:57,180 --> 00:14:58,940
+Comme là !
+
+681
+00:14:58,940 --> 00:14:59,640
+Comme là !
+
+682
+00:14:59,640 --> 00:15:00,900
+Ouais, mais j'ai eu une guitare.
+
+683
+00:15:01,320 --> 00:15:01,800
+J'ai eu une guitare.
+
+684
+00:15:02,320 --> 00:15:03,100
+Putain, il avait une van,
+
+685
+00:15:03,180 --> 00:15:03,460
+Franjo,
+
+686
+00:15:03,620 --> 00:15:04,120
+et moi, le pire,
+
+687
+00:15:04,200 --> 00:15:04,740
+c'est que j'ai rigolé
+
+688
+00:15:04,740 --> 00:15:05,500
+et je m'en suis voulu.
+
+689
+00:15:06,000 --> 00:15:07,060
+Il est arrivé avec un énorme
+
+690
+00:15:07,060 --> 00:15:08,220
+étui à guitare sur scène.
+
+691
+00:15:08,380 --> 00:15:08,960
+Il le posait
+
+692
+00:15:08,960 --> 00:15:10,280
+et il l'ouvrait
+
+693
+00:15:10,280 --> 00:15:10,960
+et à l'intérieur,
+
+694
+00:15:11,140 --> 00:15:12,780
+il y avait un tout petit ukulélé.
+
+695
+00:15:13,240 --> 00:15:14,040
+Vraiment de vos...
+
+696
+00:15:14,040 --> 00:15:14,900
+C'est trop marrant la blague.
+
+697
+00:15:15,380 --> 00:15:16,160
+Forcément, il blague.
+
+698
+00:15:16,280 --> 00:15:16,760
+C'est une blague.
+
+699
+00:15:16,760 --> 00:15:17,860
+C'est une blague qui a déjà été faite.
+
+700
+00:15:18,360 --> 00:15:18,920
+Blague de clou.
+
+701
+00:15:18,940 --> 00:15:19,380
+Mais oui, oui,
+
+702
+00:15:19,580 --> 00:15:20,520
+ça a déjà été fait
+
+703
+00:15:20,520 --> 00:15:21,280
+parce que j'ai reçu
+
+704
+00:15:21,280 --> 00:15:22,660
+le message de deux personnes
+
+705
+00:15:22,660 --> 00:15:23,300
+différentes qui m'ont dit
+
+706
+00:15:23,300 --> 00:15:24,500
+tu m'as volé ma blague.
+
+707
+00:15:24,520 --> 00:15:24,860
+Ah oui, non.
+
+708
+00:15:24,880 --> 00:15:25,300
+C'est deux personnes.
+
+709
+00:15:25,340 --> 00:15:26,080
+Oui, mais ça t'en sortait
+
+710
+00:15:26,080 --> 00:15:26,820
+du passé, non ?
+
+711
+00:15:26,820 --> 00:15:27,540
+C'était comme ça, non ?
+
+712
+00:15:27,540 --> 00:15:28,260
+Ben, à l'époque,
+
+713
+00:15:28,360 --> 00:15:28,780
+je l'en recevais.
+
+714
+00:15:29,340 --> 00:15:30,100
+Là, je n'en reçois plus.
+
+715
+00:15:30,220 --> 00:15:30,660
+C'est comme ça
+
+716
+00:15:30,660 --> 00:15:31,640
+qu'ils rencontrent les célébrités.
+
+717
+00:15:31,820 --> 00:15:32,680
+Ah tiens, Artus !
+
+718
+00:15:32,680 --> 00:15:35,260
+Ah tiens, machin !
+
+719
+00:15:35,260 --> 00:15:36,540
+Mais est-ce qu'on a Artus
+
+720
+00:15:36,540 --> 00:15:37,260
+en invité ?
+
+721
+00:15:37,260 --> 00:15:38,020
+Ah ben là, on peut.
+
+722
+00:15:38,180 --> 00:15:38,660
+Non, mais maintenant,
+
+723
+00:15:38,660 --> 00:15:41,080
+tu lui avais demandé
+
+724
+00:15:41,080 --> 00:15:41,640
+avant le film.
+
+725
+00:15:42,280 --> 00:15:42,800
+De quoi ?
+
+726
+00:15:42,800 --> 00:15:43,180
+Tu m'avais dit
+
+727
+00:15:43,180 --> 00:15:43,720
+que tu lui avais demandé
+
+728
+00:15:43,720 --> 00:15:44,160
+parce que maintenant,
+
+729
+00:15:44,280 --> 00:15:45,060
+si on demande après le film...
+
+730
+00:15:45,060 --> 00:15:46,120
+Ah non, je n'ai pas
+
+731
+00:15:46,120 --> 00:15:46,880
+cassé les couilles avec ça.
+
+732
+00:15:47,000 --> 00:15:47,580
+Ben, c'est trop tard.
+
+733
+00:15:47,800 --> 00:15:49,040
+Maintenant, il va croire
+
+734
+00:15:49,040 --> 00:15:49,860
+que c'est à cause du film.
+
+735
+00:15:50,480 --> 00:15:50,780
+C'est vrai.
+
+736
+00:15:51,020 --> 00:15:51,980
+Mais ça fait un moment
+
+737
+00:15:51,980 --> 00:15:53,040
+en même temps que...
+
+738
+00:15:53,040 --> 00:15:53,580
+Oui, il était déjà
+
+739
+00:15:53,580 --> 00:15:54,380
+extrêmement connu.
+
+740
+00:15:54,600 --> 00:15:54,800
+Oui.
+
+741
+00:15:55,180 --> 00:15:55,740
+C'est ouf d'ailleurs
+
+742
+00:15:55,740 --> 00:15:56,300
+quand tu as l'impression
+
+743
+00:15:56,300 --> 00:15:56,920
+qu'un quelqu'un est déjà
+
+744
+00:15:56,920 --> 00:15:57,480
+très connu
+
+745
+00:15:57,480 --> 00:15:58,720
+et il fait un truc de malade
+
+746
+00:15:58,720 --> 00:15:59,820
+et il est encore plus connu.
+
+747
+00:15:59,900 --> 00:16:00,740
+Il y a un autre step.
+
+748
+00:16:01,260 --> 00:16:02,060
+Et même, tu vois,
+
+749
+00:16:03,020 --> 00:16:05,080
+dans les artistes,
+
+750
+00:16:05,120 --> 00:16:05,340
+par exemple,
+
+751
+00:16:05,440 --> 00:16:05,920
+hyper connus
+
+752
+00:16:08,660 --> 00:16:09,980
+ils ont repris des écoutes.
+
+753
+00:16:10,060 --> 00:16:10,320
+Il y a des gens
+
+754
+00:16:10,320 --> 00:16:10,720
+qui se sont dit
+
+755
+00:16:10,720 --> 00:16:12,240
+mais tiens, qui est...
+
+756
+00:16:12,240 --> 00:16:12,720
+Angèle.
+
+757
+00:16:12,980 --> 00:16:13,400
+Ouais, voilà.
+
+758
+00:16:14,040 --> 00:16:14,620
+C'est vrai.
+
+759
+00:16:14,820 --> 00:16:15,460
+Mais Angèle, aussi.
+
+760
+00:16:16,040 --> 00:16:17,180
+Ouais, à la fin.
+
+761
+00:16:17,460 --> 00:16:17,860
+À la sortie.
+
+762
+00:16:17,980 --> 00:16:18,280
+Il y a une ski.
+
+763
+00:16:19,200 --> 00:16:19,940
+Attends, j'ai chanté
+
+764
+00:16:19,940 --> 00:16:20,680
+la chanson de Drive.
+
+765
+00:16:20,680 --> 00:16:23,180
+Il y a une américaine
+
+766
+00:16:23,180 --> 00:16:23,980
+avec une grosse voix
+
+767
+00:16:23,980 --> 00:16:25,400
+et il y a une belge blonde.
+
+768
+00:16:25,520 --> 00:16:26,040
+C'est qui ?
+
+769
+00:16:26,040 --> 00:16:26,340
+Angèle.
+
+770
+00:16:26,460 --> 00:16:27,640
+Angèle, c'est...
+
+771
+00:16:27,640 --> 00:16:28,680
+Non, toi, tu parles
+
+772
+00:16:28,680 --> 00:16:29,560
+de l'anglaise
+
+773
+00:16:29,560 --> 00:16:30,140
+qui était grosse
+
+774
+00:16:30,140 --> 00:16:30,860
+et qui ne l'est plus.
+
+775
+00:16:31,880 --> 00:16:32,160
+Adèle.
+
+776
+00:16:32,700 --> 00:16:33,260
+Adèle, oui.
+
+777
+00:16:33,400 --> 00:16:34,520
+Angèle, c'est la blonde.
+
+778
+00:16:34,920 --> 00:16:35,680
+Enfin, c'est la...
+
+779
+00:16:35,680 --> 00:16:37,380
+Angèle, c'est la belge.
+
+780
+00:16:37,380 --> 00:16:39,020
+Elle était grosse, c'est vrai.
+
+781
+00:16:39,200 --> 00:16:39,600
+Mais attends,
+
+782
+00:16:40,040 --> 00:16:41,680
+elle était de...
+
+783
+00:16:41,680 --> 00:16:43,820
+Elle était d'odue.
+
+784
+00:16:44,460 --> 00:16:45,200
+Mais j'ai...
+
+785
+00:16:45,200 --> 00:16:45,460
+Attends,
+
+786
+00:16:45,660 --> 00:16:46,380
+on me fait des blagues
+
+787
+00:16:46,380 --> 00:16:47,100
+sur mon gros cul tout le temps.
+
+788
+00:16:47,180 --> 00:16:47,600
+Je ne peux pas dire
+
+789
+00:16:47,600 --> 00:16:48,520
+qu'Adèle était grosse.
+
+790
+00:16:48,760 --> 00:16:49,680
+Adèle était grosse.
+
+791
+00:16:49,780 --> 00:16:50,840
+C'était une grosse dame.
+
+792
+00:16:50,960 --> 00:16:51,240
+Elle était grosse.
+
+793
+00:16:51,300 --> 00:16:51,480
+Voilà.
+
+794
+00:16:52,480 --> 00:16:53,240
+J'espère que beaucoup de gens
+
+795
+00:16:53,240 --> 00:16:54,600
+apprécient les grossophobes
+
+796
+00:16:54,600 --> 00:16:55,140
+et nazis.
+
+797
+00:16:55,360 --> 00:16:56,380
+Je ne suis pas grossophobes.
+
+798
+00:16:56,520 --> 00:16:57,400
+Je me masturbe
+
+799
+00:16:57,400 --> 00:16:58,520
+sur des grosses dames régulièrement.
+
+800
+00:16:58,520 --> 00:16:59,160
+Ah, ta gueule.
+
+801
+00:16:59,280 --> 00:16:59,680
+Vas-y, commence.
+
+802
+00:17:00,120 --> 00:17:00,580
+C'est vrai.
+
+803
+00:17:00,620 --> 00:17:01,280
+Alors là, c'est vrai.
+
+804
+00:17:01,580 --> 00:17:02,340
+Bien sûr que c'est vrai.
+
+805
+00:17:02,900 --> 00:17:03,300
+BBW.
+
+806
+00:17:03,620 --> 00:17:03,940
+Exactement.
+
+807
+00:17:05,080 --> 00:17:05,240
+Voilà.
+
+808
+00:17:05,240 --> 00:17:08,700
+C'est quoi ?
+
+809
+00:17:08,700 --> 00:17:11,040
+On parlait du début de ça.
+
+810
+00:17:11,260 --> 00:17:12,560
+C'est quoi les difficultés ?
+
+811
+00:17:12,560 --> 00:17:13,800
+C'est quoi les trucs
+
+812
+00:17:13,800 --> 00:17:15,280
+les plus difficiles
+
+813
+00:17:15,280 --> 00:17:16,460
+quand tu commences ?
+
+814
+00:17:16,460 --> 00:17:16,480
+C'est quoi ?
+
+815
+00:17:16,480 --> 00:17:17,140
+C'est pourquoi
+
+816
+00:17:17,140 --> 00:17:17,820
+il pose des questions
+
+817
+00:17:17,820 --> 00:17:19,200
+comme Marc-Olivier Fogier ?
+
+818
+00:17:19,200 --> 00:17:20,480
+Parce que moi,
+
+819
+00:17:20,560 --> 00:17:20,840
+ça me rappelle.
+
+820
+00:17:21,060 --> 00:17:21,660
+J'ai envie d'en parler.
+
+821
+00:17:21,740 --> 00:17:23,380
+Qu'est-ce qui t'a donné envie ?
+
+822
+00:17:23,380 --> 00:17:23,880
+Qu'est-ce qui t'a donné envie ?
+
+823
+00:17:23,880 --> 00:17:24,580
+C'est Laurent Boyer.
+
+824
+00:17:24,700 --> 00:17:25,640
+Il va aller devant mon lycée.
+
+825
+00:17:25,980 --> 00:17:26,460
+Dans ta vie.
+
+826
+00:17:27,160 --> 00:17:27,740
+Parce que tu parlais,
+
+827
+00:17:27,800 --> 00:17:28,040
+tu disais,
+
+828
+00:17:28,100 --> 00:17:28,920
+moi, ça m'a ouvert les portes.
+
+829
+00:17:28,960 --> 00:17:29,820
+Ça m'a permis de jouer
+
+830
+00:17:29,820 --> 00:17:30,600
+dans les comedy clubs.
+
+831
+00:17:31,260 --> 00:17:31,820
+C'est vrai qu'au début,
+
+832
+00:17:32,000 --> 00:17:33,220
+c'est difficile de jouer.
+
+833
+00:17:33,220 --> 00:17:33,740
+En vrai,
+
+834
+00:17:33,860 --> 00:17:35,100
+nous, on n'a pas galéré.
+
+835
+00:17:36,300 --> 00:17:37,140
+Nous, on n'a pas galéré.
+
+836
+00:17:37,240 --> 00:17:37,820
+Non, moi, j'ai galéré.
+
+837
+00:17:38,040 --> 00:17:38,620
+Toi, t'as essayé
+
+838
+00:17:38,620 --> 00:17:40,820
+d'écrire des messages
+
+839
+00:17:40,820 --> 00:17:41,240
+« s'il te plaît,
+
+840
+00:17:41,320 --> 00:17:42,620
+prends-moi sur ton plateau. »
+
+841
+00:17:42,620 --> 00:17:43,060
+Ah, plein.
+
+842
+00:17:43,500 --> 00:17:43,720
+Mais plein.
+
+843
+00:17:43,820 --> 00:17:44,260
+Mais c'est le haut,
+
+844
+00:17:44,300 --> 00:17:45,160
+t'avais une guitare aussi.
+
+845
+00:17:45,420 --> 00:17:46,560
+Oui, moi, je galérais.
+
+846
+00:17:47,320 --> 00:17:47,920
+Le problème,
+
+847
+00:17:48,080 --> 00:17:49,580
+c'est que quand t'es nul,
+
+848
+00:17:49,960 --> 00:17:51,820
+les gens ne te laissent pas jouer.
+
+849
+00:17:52,280 --> 00:17:52,820
+Parce que j'étais nul.
+
+850
+00:17:53,440 --> 00:17:54,520
+Et du coup,
+
+851
+00:17:54,600 --> 00:17:55,460
+c'est un cercle vicieux.
+
+852
+00:17:55,640 --> 00:17:56,260
+Parce que plus t'es nul,
+
+853
+00:17:56,400 --> 00:17:56,960
+et moins tu joues,
+
+854
+00:17:57,100 --> 00:17:57,980
+et moins t'es bon.
+
+855
+00:17:58,100 --> 00:17:58,780
+C'est le même truc
+
+856
+00:17:58,780 --> 00:17:59,940
+avec les CDI.
+
+857
+00:17:59,940 --> 00:18:00,320
+Tu sais,
+
+858
+00:18:00,440 --> 00:18:01,600
+quand les gens disent
+
+859
+00:18:01,600 --> 00:18:03,840
+« il vous faudrait de l'expérience. »
+
+860
+00:18:03,840 --> 00:18:05,320
+Oui, les gens...
+
+861
+00:18:05,320 --> 00:18:05,900
+Laisse-moi en faire.
+
+862
+00:18:06,100 --> 00:18:07,340
+Ouais, t'as pas ton galéré, mec.
+
+863
+00:18:07,680 --> 00:18:09,120
+Si, si, j'ai même créé un plateau
+
+864
+00:18:09,120 --> 00:18:10,580
+pour pouvoir jouer sur vos plateaux.
+
+865
+00:18:11,080 --> 00:18:11,780
+Tout le monde a fait ça.
+
+866
+00:18:11,960 --> 00:18:13,220
+Après, t'avais 2 millions
+
+867
+00:18:13,220 --> 00:18:14,220
+sur un compte en attendant.
+
+868
+00:18:14,500 --> 00:18:15,280
+Donc, ça se passait bien, quoi.
+
+869
+00:18:15,700 --> 00:18:16,500
+Tu tenais le coup.
+
+870
+00:18:17,060 --> 00:18:17,600
+Tu tenais le coup.
+
+871
+00:18:17,680 --> 00:18:18,320
+Ouais, 2 millions
+
+872
+00:18:18,320 --> 00:18:18,900
+de ce que tu veux.
+
+873
+00:18:19,020 --> 00:18:19,680
+Dans quelle monnaie ?
+
+874
+00:18:19,680 --> 00:18:21,680
+En monnaie Warcraft.
+
+875
+00:18:22,520 --> 00:18:22,760
+Voilà.
+
+876
+00:18:23,500 --> 00:18:24,260
+En plein de monnaies.
+
+877
+00:18:24,980 --> 00:18:26,040
+On continue cette année.
+
+878
+00:18:26,220 --> 00:18:27,120
+Je sais qu'il n'est toujours pas à l'aise
+
+879
+00:18:27,120 --> 00:18:28,040
+avec le vieux qui l'a glosé.
+
+880
+00:18:28,040 --> 00:18:29,120
+En fait, le truc,
+
+881
+00:18:29,220 --> 00:18:30,560
+c'est qu'on a de plus en plus de mal
+
+882
+00:18:30,560 --> 00:18:31,340
+à en demander aux gens
+
+883
+00:18:31,340 --> 00:18:32,540
+s'il y a des gens qui vont exploser.
+
+884
+00:18:33,700 --> 00:18:34,760
+Non, non, j'ai pas d'argent.
+
+885
+00:18:34,880 --> 00:18:35,480
+Oui, oui, d'ailleurs.
+
+886
+00:18:35,800 --> 00:18:36,280
+Merci, d'ailleurs,
+
+887
+00:18:36,340 --> 00:18:37,180
+à tous ceux qui continuent
+
+888
+00:18:37,180 --> 00:18:38,460
+à participer au CDI.
+
+889
+00:18:38,960 --> 00:18:39,820
+Oui, non, il n'a pas d'argent.
+
+890
+00:18:40,000 --> 00:18:40,840
+C'est vrai qu'il faut que j'arrête de dire ça.
+
+891
+00:18:40,840 --> 00:18:41,800
+Mais oui, je n'ai pas trop d'argent.
+
+892
+00:18:42,320 --> 00:18:43,160
+Et c'était des conneries
+
+893
+00:18:43,160 --> 00:18:43,660
+pour la maison.
+
+894
+00:18:44,200 --> 00:18:44,380
+Ouais.
+
+895
+00:18:45,140 --> 00:18:46,760
+Ouais, la maison qui n'existe pas
+
+896
+00:18:46,760 --> 00:18:47,880
+où tu as passé 2 bons mois, c'était ?
+
+897
+00:18:47,880 --> 00:18:49,020
+Et au fait, officiellement,
+
+898
+00:18:49,680 --> 00:18:51,540
+ça y est, ma mère nous la donne.
+
+899
+00:18:51,840 --> 00:18:52,700
+Donc, je ne pourrais plus dire
+
+900
+00:18:52,700 --> 00:18:53,180
+que c'est plus à moi.
+
+901
+00:18:53,180 --> 00:18:54,020
+C'est bientôt à moi.
+
+902
+00:18:54,220 --> 00:18:55,180
+Attends, attends, attends, attends.
+
+903
+00:18:55,300 --> 00:18:55,940
+Donc là, on peut parler.
+
+904
+00:18:56,540 --> 00:18:57,960
+Donc, on rappelle que
+
+905
+00:18:57,960 --> 00:19:00,140
+Urbain aurait,
+
+906
+00:19:01,600 --> 00:19:02,740
+vu qu'on a fallu le dire que c'est vrai,
+
+907
+00:19:03,120 --> 00:19:04,240
+à une maison sur la côte d'Azur,
+
+908
+00:19:04,720 --> 00:19:05,900
+j'aurais un tiers
+
+909
+00:19:05,900 --> 00:19:06,980
+qui est vraiment dans l'eau.
+
+910
+00:19:07,240 --> 00:19:08,200
+C'est-à-dire dans l'eau,
+
+911
+00:19:08,200 --> 00:19:09,040
+dans l'eau.
+
+912
+00:19:09,160 --> 00:19:09,680
+Donc, dans 30 ans,
+
+913
+00:19:09,740 --> 00:19:10,120
+elle n'est plus là.
+
+914
+00:19:10,420 --> 00:19:11,200
+Dans 30 ans, c'est une île.
+
+915
+00:19:11,340 --> 00:19:12,060
+C'est pour ça que je la vends.
+
+916
+00:19:12,580 --> 00:19:13,360
+Dès que je la vends,
+
+917
+00:19:13,460 --> 00:19:13,920
+s'il y a des gens
+
+918
+00:19:13,920 --> 00:19:14,920
+qu'il faut la vendre maintenant,
+
+919
+00:19:15,000 --> 00:19:15,480
+pour quelques milliers.
+
+920
+00:19:15,780 --> 00:19:16,720
+Tu sais que les mecs
+
+921
+00:19:16,720 --> 00:19:17,520
+qui ont voulu vendre
+
+922
+00:19:17,520 --> 00:19:18,020
+celle d'à côté,
+
+923
+00:19:18,220 --> 00:19:19,280
+ils ont dit 10 millions.
+
+924
+00:19:19,920 --> 00:19:20,740
+Et les gens leur ont dit
+
+925
+00:19:20,740 --> 00:19:21,460
+pas du tout.
+
+926
+00:19:21,620 --> 00:19:22,600
+Et là, ils en sont à 2.
+
+927
+00:19:22,980 --> 00:19:24,760
+C'est pas la pire négociation du monde.
+
+928
+00:19:24,960 --> 00:19:26,460
+Ils ont commencé à 10.
+
+929
+00:19:26,660 --> 00:19:27,580
+Attends, mais c'est une maison de ouf,
+
+930
+00:19:27,620 --> 00:19:28,020
+en plus, elle qui est à côté.
+
+931
+00:19:28,020 --> 00:19:28,360
+Oui, oui.
+
+932
+00:19:28,580 --> 00:19:29,960
+Mais ils ont quand même commencé à 10.
+
+933
+00:19:29,960 --> 00:19:30,580
+Attends, ça voudrait dire
+
+934
+00:19:30,580 --> 00:19:31,320
+que ta maison...
+
+935
+00:19:31,320 --> 00:19:31,900
+Mec, c'est sous l'eau.
+
+936
+00:19:32,240 --> 00:19:33,220
+Ça se trouve, ta maison, mon gars,
+
+937
+00:19:33,880 --> 00:19:34,820
+elle vaut moins...
+
+938
+00:19:34,820 --> 00:19:35,260
+Mais de toute façon,
+
+939
+00:19:35,340 --> 00:19:36,160
+elle a une valeur affective.
+
+940
+00:19:36,240 --> 00:19:37,040
+Elle vaudrait 10 milliards
+
+941
+00:19:37,040 --> 00:19:37,740
+que je ne la vendrais pas.
+
+942
+00:19:37,980 --> 00:19:38,400
+C'est faux.
+
+943
+00:19:38,620 --> 00:19:38,980
+C'est faux.
+
+944
+00:19:39,080 --> 00:19:39,820
+Je ne crois pas à la phrase
+
+945
+00:19:39,820 --> 00:19:40,140
+que je viens de dire.
+
+946
+00:19:40,140 --> 00:19:40,540
+Oui, oui.
+
+947
+00:19:40,640 --> 00:19:41,100
+Elle pèderait.
+
+948
+00:19:41,840 --> 00:19:42,400
+Il y a un gars,
+
+949
+00:19:42,480 --> 00:19:43,520
+il vient devant toi,
+
+950
+00:19:43,600 --> 00:19:44,780
+avec une mallette cash.
+
+951
+00:19:45,320 --> 00:19:46,200
+Un million, tu vas prendre.
+
+952
+00:19:46,420 --> 00:19:46,820
+Tu sais,
+
+953
+00:19:47,160 --> 00:19:49,080
+je ne peux pas dire son nom,
+
+954
+00:19:49,620 --> 00:19:51,480
+mais il y a un footballeur célèbre
+
+955
+00:19:51,480 --> 00:19:53,300
+qui était dans le quartier
+
+956
+00:19:53,300 --> 00:19:55,340
+il y a cet été.
+
+957
+00:19:55,680 --> 00:19:56,920
+Et un pote m'a appelé,
+
+958
+00:19:56,960 --> 00:19:57,100
+on me disait,
+
+959
+00:19:57,160 --> 00:19:57,660
+je le connais,
+
+960
+00:19:58,060 --> 00:19:59,420
+il cherche à acheter avec sa femme
+
+961
+00:19:59,420 --> 00:20:00,940
+que ta maison l'a intéressée.
+
+962
+00:20:01,500 --> 00:20:02,140
+Et voilà.
+
+963
+00:20:02,340 --> 00:20:03,560
+Et il se trouve que c'était
+
+964
+00:20:03,560 --> 00:20:04,280
+celle d'à côté.
+
+965
+00:20:04,740 --> 00:20:06,480
+Mais il a acheté, c'est possible.
+
+966
+00:20:06,720 --> 00:20:07,340
+Et bien non, on ne sait pas.
+
+967
+00:20:07,740 --> 00:20:08,580
+Pourquoi on ne peut pas dire son nom,
+
+968
+00:20:08,640 --> 00:20:09,280
+au footballeur célèbre ?
+
+969
+00:20:09,280 --> 00:20:09,920
+Je ne peux pas dire
+
+970
+00:20:09,920 --> 00:20:10,820
+qu'il voulait acheter
+
+971
+00:20:10,820 --> 00:20:11,840
+une maison là,
+
+972
+00:20:11,940 --> 00:20:12,380
+à tel endroit.
+
+973
+00:20:12,480 --> 00:20:13,340
+Déjà, je ne veux pas dire où c'est.
+
+974
+00:20:13,360 --> 00:20:13,620
+On ne sait pas quel endroit.
+
+975
+00:20:13,700 --> 00:20:14,480
+Ce n'est pas un truc de haut.
+
+976
+00:20:14,560 --> 00:20:15,320
+Vas-y, dis qui c'est toi,
+
+977
+00:20:15,360 --> 00:20:15,580
+on s'en fout.
+
+978
+00:20:15,620 --> 00:20:16,320
+Ça en bas les couilles,
+
+979
+00:20:16,380 --> 00:20:17,040
+tu as cru quoi que...
+
+980
+00:20:17,040 --> 00:20:18,200
+Tu dis des horreurs et tout,
+
+981
+00:20:18,240 --> 00:20:19,140
+tu dis des trucs grossophobes
+
+982
+00:20:19,140 --> 00:20:19,760
+et tu ne veux pas dire
+
+983
+00:20:19,760 --> 00:20:20,520
+le nom de Thierry Henry.
+
+984
+00:20:20,680 --> 00:20:21,980
+Eh bien, c'était...
+
+985
+00:20:21,980 --> 00:20:22,980
+Ce n'était pas un footballeur,
+
+986
+00:20:23,100 --> 00:20:23,700
+c'était une chanteuse,
+
+987
+00:20:23,740 --> 00:20:24,760
+c'était Adèle, la grosse dame.
+
+988
+00:20:24,800 --> 00:20:25,260
+Non, vas-y.
+
+989
+00:20:26,400 --> 00:20:28,220
+C'est quoi ce vieux secret ?
+
+990
+00:20:28,220 --> 00:20:29,120
+Tu crois que le gars
+
+991
+00:20:29,120 --> 00:20:29,840
+va te faire un procès,
+
+992
+00:20:29,840 --> 00:20:30,640
+une diffamation ?
+
+993
+00:20:30,640 --> 00:20:31,140
+Non, mais ça ne serait pas.
+
+994
+00:20:31,140 --> 00:20:31,680
+Genre, ce n'est pas vrai,
+
+995
+00:20:31,740 --> 00:20:32,280
+je ne voulais pas acheter
+
+996
+00:20:32,280 --> 00:20:32,820
+une maison à la mère.
+
+997
+00:20:32,820 --> 00:20:33,400
+Non, mais ça ne serait pas
+
+998
+00:20:33,400 --> 00:20:34,000
+de dire...
+
+999
+00:20:34,000 --> 00:20:35,020
+Le mec a dit des trucs
+
+1000
+00:20:35,020 --> 00:20:35,580
+bien plus chauds.
+
+1001
+00:20:35,580 --> 00:20:36,200
+Mais ce n'est pas genre
+
+1002
+00:20:36,200 --> 00:20:36,980
+il est allé à Oustipel.
+
+1003
+00:20:36,980 --> 00:20:37,540
+Tu ne vois pas, non.
+
+1004
+00:20:37,600 --> 00:20:39,780
+Mais ça sert à quoi
+
+1005
+00:20:39,780 --> 00:20:40,980
+de nommer le gars ?
+
+1006
+00:20:40,980 --> 00:20:41,320
+Ça ne sert à rien.
+
+1007
+00:20:41,320 --> 00:20:41,840
+Moi, ça m'intéresse,
+
+1008
+00:20:41,900 --> 00:20:42,580
+j'aime bien les footballeurs.
+
+1009
+00:20:42,660 --> 00:20:43,560
+Si tu es voisin avec un footballeur,
+
+1010
+00:20:43,660 --> 00:20:45,000
+et si il y a son fiscaliste
+
+1011
+00:20:45,000 --> 00:20:45,500
+qui écoute...
+
+1012
+00:20:45,500 --> 00:20:45,920
+Ta famille,
+
+1013
+00:20:46,140 --> 00:20:46,920
+tu leur achètes...
+
+1014
+00:20:46,920 --> 00:20:48,280
+Son fiscaliste ?
+
+1015
+00:20:48,280 --> 00:20:49,520
+Son fiscaliste ?
+
+1016
+00:20:49,520 --> 00:20:49,920
+Ça ne se dit pas.
+
+1017
+00:20:50,220 --> 00:20:50,580
+Fiscaliste ?
+
+1018
+00:20:50,580 --> 00:20:51,200
+Je croyais que tu faisais
+
+1019
+00:20:51,200 --> 00:20:51,980
+un petit indice discret.
+
+1020
+00:20:52,220 --> 00:20:53,160
+Ah, c'est un fils
+
+1021
+00:20:53,160 --> 00:20:53,960
+qui s'appelle Calyx,
+
+1022
+00:20:54,020 --> 00:20:55,080
+mais il faisait des blagues d'Urban.
+
+1023
+00:20:55,760 --> 00:20:56,180
+Ah oui, là,
+
+1024
+00:20:56,240 --> 00:20:57,360
+c'était une très bonne blague.
+
+1025
+00:20:57,840 --> 00:20:58,640
+Donc, on ne saura pas
+
+1026
+00:20:58,640 --> 00:20:59,320
+le footballeur ?
+
+1027
+00:20:59,320 --> 00:20:59,680
+Ben non.
+
+1028
+00:21:00,020 --> 00:21:00,180
+Oui.
+
+1029
+00:21:00,460 --> 00:21:00,680
+De toute façon,
+
+1030
+00:21:00,740 --> 00:21:01,580
+c'est un épisode de rentrée,
+
+1031
+00:21:01,640 --> 00:21:01,940
+il va être chiant.
+
+1032
+00:21:03,220 --> 00:21:03,760
+Non, ben ouais.
+
+1033
+00:21:04,900 --> 00:21:06,040
+Non, ben comme vous voulez,
+
+1034
+00:21:06,100 --> 00:21:06,640
+moi, j'étais en train
+
+1035
+00:21:06,640 --> 00:21:07,180
+de poser des questions.
+
+1036
+00:21:07,200 --> 00:21:07,620
+Vas-y, vas-y.
+
+1037
+00:21:08,280 --> 00:21:08,620
+Non, mais après,
+
+1038
+00:21:08,760 --> 00:21:09,680
+si je pose des questions...
+
+1039
+00:21:09,680 --> 00:21:11,160
+T'as pas galéré, Franjo ?
+
+1040
+00:21:11,160 --> 00:21:11,600
+En vrai, t'as...
+
+1041
+00:21:11,600 --> 00:21:12,980
+Non, mais on parlait
+
+1042
+00:21:12,980 --> 00:21:13,800
+des galères du début.
+
+1043
+00:21:13,960 --> 00:21:15,060
+On n'a pas galéré.
+
+1044
+00:21:20,580 --> 00:21:21,020
+Et pour le coup,
+
+1045
+00:21:21,100 --> 00:21:22,140
+on n'avait aucune thune.
+
+1046
+00:21:22,600 --> 00:21:23,700
+Moi, j'avais Topito.
+
+1047
+00:21:24,140 --> 00:21:24,800
+Toi, t'as réussi
+
+1048
+00:21:24,800 --> 00:21:25,700
+à vite gagner de l'argent.
+
+1049
+00:21:25,800 --> 00:21:26,380
+Et toi, effectivement,
+
+1050
+00:21:26,520 --> 00:21:27,500
+t'avais plein d'argent.
+
+1051
+00:21:27,760 --> 00:21:28,480
+T'étais milliardaire.
+
+1052
+00:21:28,660 --> 00:21:30,160
+Mais toi, t'as pas fait...
+
+1053
+00:21:30,160 --> 00:21:30,920
+Si, t'as fait des chichas.
+
+1054
+00:21:30,940 --> 00:21:31,380
+Pas galéré.
+
+1055
+00:21:31,660 --> 00:21:32,380
+J'ai fait des chichas, ouais.
+
+1056
+00:21:32,780 --> 00:21:34,360
+Moi, ça, c'est une blessure
+
+1057
+00:21:34,360 --> 00:21:35,320
+dans ma carrière de stand-upper
+
+1058
+00:21:35,320 --> 00:21:36,040
+de ne pas l'avoir fait.
+
+1059
+00:21:36,760 --> 00:21:37,340
+S'il vous plaît,
+
+1060
+00:21:37,440 --> 00:21:38,140
+que t'écris à Ahmed.
+
+1061
+00:21:38,400 --> 00:21:39,300
+Mais vous dites ça,
+
+1062
+00:21:39,340 --> 00:21:39,580
+à chaque fois,
+
+1063
+00:21:39,620 --> 00:21:40,680
+je l'aurais demandé plusieurs fois.
+
+1064
+00:21:40,760 --> 00:21:42,040
+Est-ce qu'il en gère une ?
+
+1065
+00:21:42,040 --> 00:21:42,500
+Je crois que c'est vraiment.
+
+1066
+00:21:42,500 --> 00:21:43,520
+C'est pas de me foutre dans la rue
+
+1067
+00:21:43,520 --> 00:21:44,280
+que ça, je t'ai fait.
+
+1068
+00:21:44,280 --> 00:21:44,580
+C'est vraiment comme ça, ouais.
+
+1069
+00:21:46,020 --> 00:21:46,940
+C'est vraiment comme ça, ouais.
+
+1070
+00:21:47,180 --> 00:21:47,760
+Et le pire,
+
+1071
+00:21:47,840 --> 00:21:48,980
+c'est que tu te rendes à Ahmed.
+
+1072
+00:21:49,120 --> 00:21:49,740
+Oui, oui, vraiment.
+
+1073
+00:21:51,600 --> 00:21:52,780
+Mais non,
+
+1074
+00:21:52,840 --> 00:21:53,480
+mais c'est une blessure
+
+1075
+00:21:53,480 --> 00:21:54,320
+parce que tous les trucs
+
+1076
+00:21:54,320 --> 00:21:55,620
+les plus difficiles du stand-up,
+
+1077
+00:21:55,880 --> 00:21:56,540
+je les ai faits.
+
+1078
+00:21:56,600 --> 00:21:57,460
+Les pierres plateaux,
+
+1079
+00:21:57,920 --> 00:21:58,900
+les trucs en plein air et tout.
+
+1080
+00:21:58,960 --> 00:21:59,600
+Le seul truc,
+
+1081
+00:21:59,700 --> 00:22:00,820
+la seule étoile de guerre
+
+1082
+00:22:00,820 --> 00:22:01,520
+que je n'ai pas,
+
+1083
+00:22:01,780 --> 00:22:02,300
+c'est la chicha.
+
+1084
+00:22:03,060 --> 00:22:03,260
+Eh ben,
+
+1085
+00:22:03,640 --> 00:22:04,580
+c'est pas trop tard.
+
+1086
+00:22:04,720 --> 00:22:05,260
+Tu peux t'en faire.
+
+1087
+00:22:05,360 --> 00:22:06,120
+Oui, mais de toute façon,
+
+1088
+00:22:06,200 --> 00:22:06,980
+ça sera pas comme avant.
+
+1089
+00:22:07,120 --> 00:22:07,780
+Tu sais quoi ?
+
+1090
+00:22:07,780 --> 00:22:08,420
+Moi, on m'a dit que les gars,
+
+1091
+00:22:08,440 --> 00:22:09,400
+ils étaient sympas maintenant
+
+1092
+00:22:09,400 --> 00:22:10,040
+qu'ils t'aient compté.
+
+1093
+00:22:10,160 --> 00:22:10,820
+C'est plus comme avant.
+
+1094
+00:22:10,960 --> 00:22:11,480
+Et encore des morts.
+
+1095
+00:22:11,680 --> 00:22:12,140
+Je crois qu'il y en a une
+
+1096
+00:22:12,140 --> 00:22:13,060
+vers le Parc des Princes
+
+1097
+00:22:13,060 --> 00:22:14,340
+là où ça meurt fort.
+
+1098
+00:22:14,540 --> 00:22:14,820
+Ouais, ouais.
+
+1099
+00:22:15,680 --> 00:22:16,080
+Mais moi,
+
+1100
+00:22:16,160 --> 00:22:18,180
+je veux avoir peur pour ma vie.
+
+1101
+00:22:18,640 --> 00:22:19,600
+Je veux pas prendre un bide.
+
+1102
+00:22:20,000 --> 00:22:20,340
+Je veux être...
+
+1103
+00:22:20,340 --> 00:22:21,380
+Ça dépend ce que tu dis en arrivant, quoi.
+
+1104
+00:22:22,260 --> 00:22:23,380
+Mais ça, je pense qu'en fait,
+
+1105
+00:22:23,480 --> 00:22:24,140
+c'est le contraire.
+
+1106
+00:22:24,340 --> 00:22:25,220
+Plus t'es...
+
+1107
+00:22:25,220 --> 00:22:25,480
+Agressif.
+
+1108
+00:22:25,660 --> 00:22:26,620
+Véhément, agressif,
+
+1109
+00:22:26,700 --> 00:22:27,340
+avaner les gars,
+
+1110
+00:22:27,440 --> 00:22:28,480
+plus t'as des chances de t'en sortir.
+
+1111
+00:22:28,760 --> 00:22:30,160
+Parce que c'est un gros concours d'aujourd'hui.
+
+1112
+00:22:30,160 --> 00:22:31,420
+J'ai des bons souvenirs du XS.
+
+1113
+00:22:31,620 --> 00:22:32,440
+Je sais pas si ça existe encore.
+
+1114
+00:22:32,580 --> 00:22:33,120
+Mais frérot,
+
+1115
+00:22:33,200 --> 00:22:33,480
+t'es arrivé,
+
+1116
+00:22:33,560 --> 00:22:34,620
+tu faisais des chansons antisémites.
+
+1117
+00:22:35,400 --> 00:22:35,640
+Ah oui,
+
+1118
+00:22:35,700 --> 00:22:36,200
+ben toi, c'est gagné.
+
+1119
+00:22:36,220 --> 00:22:36,700
+Non, même pas.
+
+1120
+00:22:37,440 --> 00:22:38,320
+Mon pote, c'est l'aujourd'hui.
+
+1121
+00:22:38,760 --> 00:22:40,640
+Non, j'y allais plus en guitare.
+
+1122
+00:22:40,660 --> 00:22:41,320
+Orthune Kippa.
+
+1123
+00:22:41,360 --> 00:22:41,880
+Ah non, non, non.
+
+1124
+00:22:42,660 --> 00:22:43,400
+J'y allais quand même
+
+1125
+00:22:43,400 --> 00:22:44,520
+au bout de 2-3 ans de stand-up.
+
+1126
+00:22:45,000 --> 00:22:45,540
+La musique,
+
+1127
+00:22:45,620 --> 00:22:46,220
+je faisais plus là-bas.
+
+1128
+00:22:46,660 --> 00:22:48,060
+Oui, mais t'étais quand même antisémite.
+
+1129
+00:22:48,680 --> 00:22:49,660
+J'étais quand même antisémite.
+
+1130
+00:22:49,800 --> 00:22:50,100
+Ça va.
+
+1131
+00:22:50,620 --> 00:22:50,980
+Passive.
+
+1132
+00:22:51,840 --> 00:22:52,960
+Non, mais j'avais des bons souvenirs
+
+1133
+00:22:52,960 --> 00:22:53,620
+du XS.
+
+1134
+00:22:53,620 --> 00:22:55,360
+Je sais pas si t'as joué là-bas.
+
+1135
+00:22:55,500 --> 00:22:56,260
+Si, si, j'ai joué.
+
+1136
+00:22:56,360 --> 00:22:56,980
+C'était encore d'ailleurs.
+
+1137
+00:22:57,140 --> 00:22:57,540
+C'était pas,
+
+1138
+00:22:57,620 --> 00:22:58,080
+en vrai, ouais.
+
+1139
+00:22:58,260 --> 00:22:58,560
+Parce que moi,
+
+1140
+00:22:58,600 --> 00:22:59,860
+j'ai pris des gros bids
+
+1141
+00:22:59,860 --> 00:23:01,440
+genre au White Dream et tout
+
+1142
+00:23:01,440 --> 00:23:02,860
+qui était tout sauf un rêve.
+
+1143
+00:23:03,500 --> 00:23:04,500
+Mais l'XS
+
+1144
+00:23:04,500 --> 00:23:05,520
+est tout sauf White aussi.
+
+1145
+00:23:05,740 --> 00:23:05,880
+Ouais, ouais,
+
+1146
+00:23:05,940 --> 00:23:06,500
+c'était cool.
+
+1147
+00:23:07,540 --> 00:23:07,820
+Regarde,
+
+1148
+00:23:07,980 --> 00:23:09,080
+il fait une petite blague raciste
+
+1149
+00:23:09,080 --> 00:23:09,840
+et il rigole tout seul
+
+1150
+00:23:09,840 --> 00:23:10,380
+quand tu as dit
+
+1151
+00:23:10,380 --> 00:23:11,840
+l'audience rigolait.
+
+1152
+00:23:12,100 --> 00:23:12,220
+Voilà,
+
+1153
+00:23:12,480 --> 00:23:12,740
+regarde,
+
+1154
+00:23:12,860 --> 00:23:13,880
+c'est quoi l'audience ?
+
+1155
+00:23:13,880 --> 00:23:14,900
+Des blancs racistes.
+
+1156
+00:23:16,180 --> 00:23:17,180
+On a beaucoup de blancs racistes
+
+1157
+00:23:17,180 --> 00:23:18,160
+dans l'audience.
+
+1158
+00:23:19,840 --> 00:23:20,820
+Si on a récupéré
+
+1159
+00:23:20,820 --> 00:23:21,660
+beaucoup de l'audience
+
+1160
+00:23:21,660 --> 00:23:22,200
+de Fonjo,
+
+1161
+00:23:22,200 --> 00:23:25,160
+tu sais que non,
+
+1162
+00:23:25,320 --> 00:23:26,140
+les gens qui viennent me voir
+
+1163
+00:23:26,140 --> 00:23:26,460
+dans la rue,
+
+1164
+00:23:26,540 --> 00:23:26,760
+il y a de tout.
+
+1165
+00:23:27,480 --> 00:23:28,600
+C'est surtout des bonhommes,
+
+1166
+00:23:28,680 --> 00:23:28,960
+j'ai l'impression.
+
+1167
+00:23:29,020 --> 00:23:29,180
+Moi,
+
+1168
+00:23:29,440 --> 00:23:31,460
+c'est pas ma cible,
+
+1169
+00:23:31,800 --> 00:23:32,460
+ce podcast-là.
+
+1170
+00:23:32,520 --> 00:23:32,660
+Moi,
+
+1171
+00:23:32,740 --> 00:23:33,620
+je suis surpris.
+
+1172
+00:23:33,800 --> 00:23:34,820
+Il y a beaucoup de gens
+
+1173
+00:23:34,820 --> 00:23:36,620
+qui aient plus
+
+1174
+00:23:36,620 --> 00:23:38,140
+gauche
+
+1175
+00:23:38,140 --> 00:23:39,460
+d'un grand bobo parisien
+
+1176
+00:23:39,460 --> 00:23:40,380
+qui écoutent ce podcast.
+
+1177
+00:23:40,600 --> 00:23:40,660
+Alors,
+
+1178
+00:23:40,720 --> 00:23:41,360
+j'étais sûr que non.
+
+1179
+00:23:41,440 --> 00:23:41,660
+Et en fait,
+
+1180
+00:23:41,700 --> 00:23:42,600
+je pense qu'ils aiment bien
+
+1181
+00:23:42,600 --> 00:23:43,840
+qu'on pense pas tous pareil.
+
+1182
+00:23:43,860 --> 00:23:43,960
+Ça,
+
+1183
+00:23:44,000 --> 00:23:44,540
+c'est les miens, ça.
+
+1184
+00:23:44,760 --> 00:23:45,500
+Tu récupères les miens.
+
+1185
+00:23:46,020 --> 00:23:46,540
+Moi aussi.
+
+1186
+00:23:47,100 --> 00:23:48,220
+C'est des nouveaux.
+
+1187
+00:23:48,340 --> 00:23:48,920
+Il y en a plein qui disent
+
+1188
+00:23:48,920 --> 00:23:50,020
+que je connais aucun des trois
+
+1189
+00:23:50,020 --> 00:23:50,580
+et je suis là.
+
+1190
+00:23:50,580 --> 00:23:52,260
+C'est vrai.
+
+1191
+00:23:52,460 --> 00:23:52,900
+Il y en a beaucoup
+
+1192
+00:23:52,900 --> 00:23:53,940
+de vieilles dames aussi.
+
+1193
+00:23:54,060 --> 00:23:54,160
+Ça,
+
+1194
+00:23:54,200 --> 00:23:54,660
+ça me fait plaisir.
+
+1195
+00:23:54,720 --> 00:23:55,580
+On a quelques vieilles dames.
+
+1196
+00:23:56,240 --> 00:23:56,480
+Moi,
+
+1197
+00:23:56,560 --> 00:23:56,960
+je te jure,
+
+1198
+00:23:57,060 --> 00:23:57,320
+beaucoup.
+
+1199
+00:23:58,360 --> 00:23:59,420
+Les trentenaires
+
+1200
+00:23:59,420 --> 00:24:00,800
+qui sont garnis.
+
+1201
+00:24:01,340 --> 00:24:01,740
+Elles aiment bien.
+
+1202
+00:24:03,020 --> 00:24:03,960
+J'ai cru que t'appelais
+
+1203
+00:24:03,960 --> 00:24:05,420
+les vieilles meufs de trente ans.
+
+1204
+00:24:05,740 --> 00:24:07,180
+Il y avait un pauvre passage
+
+1205
+00:24:07,180 --> 00:24:08,700
+sur quand on était gamins,
+
+1206
+00:24:08,780 --> 00:24:09,180
+les milfs,
+
+1207
+00:24:09,520 --> 00:24:11,060
+elles ont l'âge qu'on a.
+
+1208
+00:24:11,540 --> 00:24:11,960
+Ah bah oui,
+
+1209
+00:24:12,020 --> 00:24:12,340
+vous avez dit,
+
+1210
+00:24:12,400 --> 00:24:12,900
+on a des âges.
+
+1211
+00:24:13,040 --> 00:24:13,560
+C'est juste,
+
+1212
+00:24:13,940 --> 00:24:15,220
+ma meuf,
+
+1213
+00:24:15,320 --> 00:24:15,600
+c'est juste,
+
+1214
+00:24:15,900 --> 00:24:17,000
+c'est une milf pour des gens.
+
+1215
+00:24:17,160 --> 00:24:17,580
+Sans enfants.
+
+1216
+00:24:18,160 --> 00:24:18,800
+Alors que c'est juste,
+
+1217
+00:24:19,020 --> 00:24:19,160
+moi,
+
+1218
+00:24:19,220 --> 00:24:19,600
+c'est ma meuf.
+
+1219
+00:24:20,580 --> 00:24:20,960
+C'est ta petite copine.
+
+1220
+00:24:21,240 --> 00:24:22,080
+C'est ta petite copine,
+
+1221
+00:24:22,240 --> 00:24:22,640
+c'est ta...
+
+1222
+00:24:22,640 --> 00:24:23,320
+Vous tenez la main
+
+1223
+00:24:23,320 --> 00:24:23,700
+dans la cour.
+
+1224
+00:24:24,480 --> 00:24:24,800
+Non,
+
+1225
+00:24:24,800 --> 00:24:26,120
+c'est une dame
+
+1226
+00:24:26,120 --> 00:24:27,800
+qui faut...
+
+1227
+00:24:28,640 --> 00:24:29,860
+qu'il fasse des enfants bientôt.
+
+1228
+00:24:29,960 --> 00:24:30,060
+Bah,
+
+1229
+00:24:30,160 --> 00:24:30,460
+c'est maintenant.
+
+1230
+00:24:30,600 --> 00:24:31,260
+On est à l'âge,
+
+1231
+00:24:31,320 --> 00:24:31,860
+37 ans.
+
+1232
+00:24:32,140 --> 00:24:33,260
+Il faut...
+
+1233
+00:24:33,260 --> 00:24:34,040
+Ah mais toi,
+
+1234
+00:24:34,100 --> 00:24:34,880
+t'es encore dans les gamins,
+
+1235
+00:24:34,980 --> 00:24:35,980
+de la pression de faire des gamins.
+
+1236
+00:24:36,480 --> 00:24:37,020
+D'ailleurs,
+
+1237
+00:24:37,400 --> 00:24:38,600
+notre âge,
+
+1238
+00:24:38,880 --> 00:24:39,400
+celle qu'aurait dû être
+
+1239
+00:24:39,400 --> 00:24:39,940
+première ministre,
+
+1240
+00:24:40,080 --> 00:24:40,640
+Lucie Castet,
+
+1241
+00:24:40,720 --> 00:24:41,120
+notre âge,
+
+1242
+00:24:41,160 --> 00:24:41,960
+j'avais pas vu venir ça.
+
+1243
+00:24:42,360 --> 00:24:43,100
+Je voyais les fautes.
+
+1244
+00:24:43,100 --> 00:24:43,480
+Macron,
+
+1245
+00:24:43,620 --> 00:24:44,180
+il avait notre âge,
+
+1246
+00:24:44,240 --> 00:24:44,520
+non ?
+
+1247
+00:24:44,520 --> 00:24:45,100
+Attal,
+
+1248
+00:24:45,160 --> 00:24:45,540
+plus jeune,
+
+1249
+00:24:45,620 --> 00:24:46,080
+ça je savais.
+
+1250
+00:24:46,080 --> 00:24:47,020
+Mais Lucie Castet,
+
+1251
+00:24:47,160 --> 00:24:47,580
+37,
+
+1252
+00:24:47,680 --> 00:24:48,200
+pile mon âge,
+
+1253
+00:24:48,260 --> 00:24:48,720
+87,
+
+1254
+00:24:48,800 --> 00:24:49,360
+j'avais pas vu venir.
+
+1255
+00:24:49,420 --> 00:24:49,720
+T'inquiète,
+
+1256
+00:24:49,800 --> 00:24:50,740
+ils ont mis mon grand-père
+
+1257
+00:24:50,740 --> 00:24:51,520
+là au pouvoir.
+
+1258
+00:24:51,960 --> 00:24:52,680
+Jean-Jacques,
+
+1259
+00:24:52,760 --> 00:24:53,400
+je suis pas chiant à filer.
+
+1260
+00:24:53,720 --> 00:24:54,860
+Elle est mignonne,
+
+1261
+00:24:55,340 --> 00:24:56,180
+Lucie Castet.
+
+1262
+00:24:56,240 --> 00:24:56,740
+Ah mais toi,
+
+1263
+00:24:56,800 --> 00:24:57,660
+t'as forcément un deal
+
+1264
+00:24:57,660 --> 00:24:58,040
+avec...
+
+1265
+00:24:58,040 --> 00:24:59,320
+Elle a une petite meuf de gauche.
+
+1266
+00:24:59,540 --> 00:24:59,740
+Moi,
+
+1267
+00:24:59,960 --> 00:25:01,560
+je vois pas la beauté physique,
+
+1268
+00:25:01,680 --> 00:25:02,100
+je vois...
+
+1269
+00:25:02,100 --> 00:25:03,280
+Les skills politiques.
+
+1270
+00:25:03,780 --> 00:25:04,060
+Bien sûr.
+
+1271
+00:25:04,120 --> 00:25:04,300
+J'ai dit,
+
+1272
+00:25:04,420 --> 00:25:04,740
+mais toi,
+
+1273
+00:25:04,820 --> 00:25:06,280
+t'es obligé de rabaisser la femme,
+
+1274
+00:25:06,660 --> 00:25:07,940
+son image,
+
+1275
+00:25:08,200 --> 00:25:08,840
+le fantôme,
+
+1276
+00:25:08,920 --> 00:25:09,240
+ce que ça dit.
+
+1277
+00:25:09,380 --> 00:25:09,900
+Sans compter que...
+
+1278
+00:25:09,900 --> 00:25:11,140
+Quand il était pas là,
+
+1279
+00:25:11,320 --> 00:25:12,580
+on a déjà fait 20 minutes
+
+1280
+00:25:12,580 --> 00:25:13,500
+sur les meufs de la politique
+
+1281
+00:25:13,500 --> 00:25:14,280
+qu'on vous laisse taper
+
+1282
+00:25:14,280 --> 00:25:14,840
+avec ta salle.
+
+1283
+00:25:15,280 --> 00:25:15,600
+Merci.
+
+1284
+00:25:15,900 --> 00:25:16,840
+Donc on a déjà fait...
+
+1285
+00:25:16,840 --> 00:25:17,680
+Je sais très bien,
+
+1286
+00:25:17,860 --> 00:25:18,800
+je te devine ton top 3.
+
+1287
+00:25:19,060 --> 00:25:19,260
+Vas-y.
+
+1288
+00:25:19,340 --> 00:25:20,460
+Je te devine ton top 3 ?
+
+1289
+00:25:20,460 --> 00:25:20,580
+Ouais.
+
+1290
+00:25:20,880 --> 00:25:21,800
+Marion Maréchal-Le Pen,
+
+1291
+00:25:22,060 --> 00:25:23,180
+Najat Vallaud-Belkacem,
+
+1292
+00:25:24,040 --> 00:25:24,840
+et...
+
+1293
+00:25:24,840 --> 00:25:25,340
+Rachida ?
+
+1294
+00:25:25,340 --> 00:25:25,740
+Je suis d'emple.
+
+1295
+00:25:26,060 --> 00:25:27,060
+Rachida Atti ?
+
+1296
+00:25:27,060 --> 00:25:27,460
+Elle est mignonne,
+
+1297
+00:25:27,540 --> 00:25:27,680
+quand même.
+
+1298
+00:25:29,460 --> 00:25:29,640
+Là,
+
+1299
+00:25:29,640 --> 00:25:30,040
+c'est une guilf.
+
+1300
+00:25:30,080 --> 00:25:30,200
+Là,
+
+1301
+00:25:30,280 --> 00:25:30,600
+c'est dégueulasse.
+
+1302
+00:25:30,600 --> 00:25:31,060
+C'est une guilf.
+
+1303
+00:25:31,160 --> 00:25:31,260
+Là,
+
+1304
+00:25:31,340 --> 00:25:32,660
+on a déjà parlé.
+
+1305
+00:25:32,780 --> 00:25:32,940
+Ouais,
+
+1306
+00:25:33,000 --> 00:25:33,340
+mais viens,
+
+1307
+00:25:33,440 --> 00:25:33,580
+on arrête.
+
+1308
+00:25:33,940 --> 00:25:34,520
+Mais non,
+
+1309
+00:25:34,640 --> 00:25:35,700
+il y avait Clémence Guetté
+
+1310
+00:25:35,700 --> 00:25:35,980
+de temps,
+
+1311
+00:25:35,980 --> 00:25:37,480
+et j'ai eu plein de messages
+
+1312
+00:25:37,480 --> 00:25:38,220
+de Clémence Guetté.
+
+1313
+00:25:38,660 --> 00:25:39,180
+Clémence Guetté,
+
+1314
+00:25:39,240 --> 00:25:39,980
+c'est une fille de LFI,
+
+1315
+00:25:40,140 --> 00:25:40,680
+très jolie.
+
+1316
+00:25:40,860 --> 00:25:41,440
+Je ne connais pas.
+
+1317
+00:25:41,960 --> 00:25:42,100
+Ouais,
+
+1318
+00:25:42,160 --> 00:25:43,780
+il y a des gens
+
+1319
+00:25:43,780 --> 00:25:44,060
+en union.
+
+1320
+00:25:44,320 --> 00:25:44,960
+Vous pensez qu'un jour,
+
+1321
+00:25:45,060 --> 00:25:45,180
+il faudrait...
+
+1322
+00:25:45,180 --> 00:25:45,600
+Et Barnier,
+
+1323
+00:25:45,700 --> 00:25:46,380
+Michel Barnier,
+
+1324
+00:25:46,520 --> 00:25:47,020
+c'est la politique.
+
+1325
+00:25:47,380 --> 00:25:48,140
+J'ai fait des podcasts
+
+1326
+00:25:48,140 --> 00:25:49,180
+une fois avec un politique
+
+1327
+00:25:49,180 --> 00:25:49,560
+en face,
+
+1328
+00:25:49,740 --> 00:25:50,080
+et en fait,
+
+1329
+00:25:50,500 --> 00:25:51,280
+quel que soit son bord
+
+1330
+00:25:51,280 --> 00:25:51,540
+ou quoi,
+
+1331
+00:25:51,620 --> 00:25:52,440
+tu ne peux pas tenir.
+
+1332
+00:25:52,660 --> 00:25:55,280
+C'est comme si nous,
+
+1333
+00:25:55,380 --> 00:25:56,400
+on faisait avec lui
+
+1334
+00:25:56,400 --> 00:25:58,180
+un concours de répartie
+
+1335
+00:25:58,180 --> 00:25:58,820
+de vannes,
+
+1336
+00:25:58,900 --> 00:25:59,280
+bien sûr.
+
+1337
+00:25:59,540 --> 00:25:59,840
+Et encore,
+
+1338
+00:26:00,000 --> 00:26:00,240
+mais genre,
+
+1339
+00:26:00,320 --> 00:26:00,440
+juste,
+
+1340
+00:26:00,600 --> 00:26:01,660
+c'était...
+
+1341
+00:26:01,660 --> 00:26:02,420
+Ouais,
+
+1342
+00:26:02,560 --> 00:26:03,080
+quoi qu'ils disent,
+
+1343
+00:26:03,080 --> 00:26:03,480
+déjà,
+
+1344
+00:26:03,540 --> 00:26:04,100
+tu ne peux pas parler
+
+1345
+00:26:04,100 --> 00:26:05,120
+parce qu'ils ont leur speech
+
+1346
+00:26:05,120 --> 00:26:06,340
+pré-préparé en tête,
+
+1347
+00:26:06,400 --> 00:26:06,820
+donc...
+
+1348
+00:26:06,820 --> 00:26:09,280
+Ça manque un peu
+
+1349
+00:26:09,280 --> 00:26:11,320
+de moments présents,
+
+1350
+00:26:11,360 --> 00:26:11,480
+quoi.
+
+1351
+00:26:12,340 --> 00:26:12,580
+Ouais,
+
+1352
+00:26:12,660 --> 00:26:13,020
+mais par contre,
+
+1353
+00:26:13,080 --> 00:26:13,780
+ils te retournent vraiment,
+
+1354
+00:26:14,220 --> 00:26:15,180
+quoi qu'ils disent,
+
+1355
+00:26:15,260 --> 00:26:15,480
+le gars,
+
+1356
+00:26:15,980 --> 00:26:16,100
+toi,
+
+1357
+00:26:16,140 --> 00:26:16,360
+t'es là,
+
+1358
+00:26:16,760 --> 00:26:17,520
+t'as rien.
+
+1359
+00:26:17,700 --> 00:26:17,920
+Et puis,
+
+1360
+00:26:17,960 --> 00:26:18,580
+ils sont sympas,
+
+1361
+00:26:18,780 --> 00:26:19,180
+et puis aussi,
+
+1362
+00:26:19,260 --> 00:26:19,800
+t'as pas envie,
+
+1363
+00:26:19,920 --> 00:26:20,520
+t'es pas non plus
+
+1364
+00:26:20,520 --> 00:26:21,580
+un militant politique de ouf,
+
+1365
+00:26:21,620 --> 00:26:22,240
+tu respectes les gens
+
+1366
+00:26:22,240 --> 00:26:22,740
+en face de toi,
+
+1367
+00:26:22,840 --> 00:26:23,760
+et si tu veux vraiment
+
+1368
+00:26:23,760 --> 00:26:24,260
+le cartonner,
+
+1369
+00:26:24,620 --> 00:26:25,200
+faut que tu te mettes
+
+1370
+00:26:25,200 --> 00:26:26,780
+en mode de vouloir
+
+1371
+00:26:26,780 --> 00:26:27,200
+le cartonner,
+
+1372
+00:26:27,300 --> 00:26:27,660
+alors qu'en fait,
+
+1373
+00:26:27,700 --> 00:26:28,180
+t'as pas envie.
+
+1374
+00:26:28,180 --> 00:26:33,620
+Il y avait Ferrari
+
+1375
+00:26:33,620 --> 00:26:33,920
+quand même
+
+1376
+00:26:33,920 --> 00:26:34,780
+qui s'en était pris à Val,
+
+1377
+00:26:34,860 --> 00:26:35,400
+c'est qu'il avait vendu
+
+1378
+00:26:35,400 --> 00:26:36,540
+énormément de place
+
+1379
+00:26:36,540 --> 00:26:37,200
+sur le moment,
+
+1380
+00:26:37,620 --> 00:26:38,540
+en faisant le truc
+
+1381
+00:26:38,540 --> 00:26:38,980
+de Ruquier.
+
+1382
+00:26:39,660 --> 00:26:40,600
+Il avait gueulé,
+
+1383
+00:26:41,600 --> 00:26:43,420
+et ça avait...
+
+1384
+00:26:43,420 --> 00:26:44,040
+Parce que pour le coup,
+
+1385
+00:26:45,440 --> 00:26:46,300
+aller sur un plateau,
+
+1386
+00:26:46,640 --> 00:26:47,460
+je te parle de toi
+
+1387
+00:26:47,460 --> 00:26:47,780
+qui aime bien
+
+1388
+00:26:47,780 --> 00:26:48,740
+la rentabilité,
+
+1389
+00:26:49,340 --> 00:26:50,120
+si un jour,
+
+1390
+00:26:50,280 --> 00:26:51,000
+tu veux te farcir
+
+1391
+00:26:51,000 --> 00:26:52,700
+un politique,
+
+1392
+00:26:52,860 --> 00:26:53,360
+tu te le fais,
+
+1393
+00:26:53,480 --> 00:26:53,920
+là par contre,
+
+1394
+00:26:53,980 --> 00:26:54,200
+les gens,
+
+1395
+00:26:54,260 --> 00:26:54,680
+ils adorent.
+
+1396
+00:26:54,900 --> 00:26:55,080
+Ouais,
+
+1397
+00:26:55,340 --> 00:26:56,920
+mais c'est faussement engagé
+
+1398
+00:26:56,920 --> 00:26:58,620
+de s'attaquer aux politiques
+
+1399
+00:26:58,620 --> 00:26:59,720
+très démagos.
+
+1400
+00:26:59,920 --> 00:27:00,240
+À l'époque,
+
+1401
+00:27:00,560 --> 00:27:00,940
+je sais pas,
+
+1402
+00:27:01,040 --> 00:27:01,660
+moi j'ai...
+
+1403
+00:27:01,660 --> 00:27:01,880
+Même,
+
+1404
+00:27:02,000 --> 00:27:02,360
+enfin tu vois,
+
+1405
+00:27:02,680 --> 00:27:03,580
+le président qui gagne,
+
+1406
+00:27:03,660 --> 00:27:05,280
+il gagne pas qu'une majorité,
+
+1407
+00:27:05,500 --> 00:27:06,320
+il y a moins de 20%
+
+1408
+00:27:06,320 --> 00:27:06,740
+des gens qui...
+
+1409
+00:27:06,740 --> 00:27:06,880
+Non,
+
+1410
+00:27:06,940 --> 00:27:08,380
+moi j'ai un aspect...
+
+1411
+00:27:08,380 --> 00:27:08,600
+En fait,
+
+1412
+00:27:08,680 --> 00:27:09,380
+j'arrive pas à tous
+
+1413
+00:27:09,380 --> 00:27:09,940
+les considérer
+
+1414
+00:27:09,940 --> 00:27:10,640
+comme des enculés
+
+1415
+00:27:10,640 --> 00:27:11,900
+parce que je me dis
+
+1416
+00:27:11,900 --> 00:27:12,940
+que si c'était pas eux,
+
+1417
+00:27:12,980 --> 00:27:13,800
+ce seraient d'autres enculés,
+
+1418
+00:27:13,860 --> 00:27:14,200
+de toute façon,
+
+1419
+00:27:14,320 --> 00:27:14,840
+c'est le poste
+
+1420
+00:27:14,840 --> 00:27:15,740
+qui fait que t'es un enculé.
+
+1421
+00:27:15,860 --> 00:27:16,400
+C'est pas genre,
+
+1422
+00:27:16,720 --> 00:27:16,860
+ah,
+
+1423
+00:27:16,900 --> 00:27:17,520
+il se trouve qu'on a pris
+
+1424
+00:27:17,520 --> 00:27:18,400
+tous les sales gars de la Terre
+
+1425
+00:27:18,400 --> 00:27:19,360
+et qu'on les a...
+
+1426
+00:27:19,360 --> 00:27:19,960
+C'est rare,
+
+1427
+00:27:26,920 --> 00:27:28,520
+ça reste un vieux gars
+
+1428
+00:27:28,520 --> 00:27:29,020
+de la campagne,
+
+1429
+00:27:29,140 --> 00:27:29,300
+je veux dire,
+
+1430
+00:27:29,340 --> 00:27:29,920
+il dit des trucs,
+
+1431
+00:27:30,040 --> 00:27:30,880
+on est d'accord.
+
+1432
+00:27:31,380 --> 00:27:31,500
+Oui,
+
+1433
+00:27:31,620 --> 00:27:31,780
+c'est vrai.
+
+1434
+00:27:31,780 --> 00:27:31,860
+Toi,
+
+1435
+00:27:31,920 --> 00:27:32,260
+t'es d'accord,
+
+1436
+00:27:32,360 --> 00:27:32,700
+mais moi...
+
+1437
+00:27:32,700 --> 00:27:32,980
+Non,
+
+1438
+00:27:33,100 --> 00:27:33,140
+non,
+
+1439
+00:27:33,200 --> 00:27:34,000
+mais moi j'aime bien
+
+1440
+00:27:34,000 --> 00:27:34,820
+l'animal.
+
+1441
+00:27:34,940 --> 00:27:35,300
+La salle,
+
+1442
+00:27:35,380 --> 00:27:35,900
+c'est très marrant.
+
+1443
+00:27:36,080 --> 00:27:36,320
+Parce que voilà,
+
+1444
+00:27:36,400 --> 00:27:37,220
+j'aime bien son personnage.
+
+1445
+00:27:38,120 --> 00:27:38,900
+Il est folclorique,
+
+1446
+00:27:38,980 --> 00:27:40,320
+mais c'est...
+
+1447
+00:27:40,320 --> 00:27:40,860
+Enfin bref,
+
+1448
+00:27:41,080 --> 00:27:42,240
+pour revenir à notre sujet
+
+1449
+00:27:42,240 --> 00:27:42,640
+d'aujourd'hui
+
+1450
+00:27:42,640 --> 00:27:43,220
+qui était quand même
+
+1451
+00:27:43,220 --> 00:27:44,060
+le début,
+
+1452
+00:27:44,280 --> 00:27:45,180
+parce qu'on est dans
+
+1453
+00:27:45,180 --> 00:27:45,920
+cette salle,
+
+1454
+00:27:46,020 --> 00:27:46,460
+je rappelle,
+
+1455
+00:27:46,660 --> 00:27:47,440
+jamais le Covid Club.
+
+1456
+00:27:48,780 --> 00:27:49,640
+Moi je me posais la question,
+
+1457
+00:27:50,160 --> 00:27:50,940
+qu'est-ce que tu changerais
+
+1458
+00:27:50,940 --> 00:27:51,400
+toi au début,
+
+1459
+00:27:51,400 --> 00:27:52,480
+si tu reprenais
+
+1460
+00:27:52,480 --> 00:27:55,140
+du début ?
+
+1461
+00:27:55,140 --> 00:27:57,240
+Je ferais quoi différemment ?
+
+1462
+00:27:57,240 --> 00:27:58,340
+Des blagues ?
+
+1463
+00:27:58,340 --> 00:28:00,240
+Je ferais pas ces blagues-là.
+
+1464
+00:28:01,120 --> 00:28:01,340
+Ouais,
+
+1465
+00:28:01,440 --> 00:28:01,720
+ben oui,
+
+1466
+00:28:01,780 --> 00:28:02,240
+parce que c'est dur
+
+1467
+00:28:02,240 --> 00:28:02,700
+d'avoir un regret,
+
+1468
+00:28:02,780 --> 00:28:03,200
+mais c'est qu'en fait,
+
+1469
+00:28:03,420 --> 00:28:04,940
+tous les un an,
+
+1470
+00:28:05,020 --> 00:28:05,560
+ce que tu disais
+
+1471
+00:28:05,560 --> 00:28:06,120
+l'année d'avance,
+
+1472
+00:28:06,220 --> 00:28:06,780
+c'est scandaleux
+
+1473
+00:28:06,780 --> 00:28:07,860
+et c'est...
+
+1474
+00:28:07,860 --> 00:28:08,120
+Ouais.
+
+1475
+00:28:09,140 --> 00:28:10,040
+Ah ben je suis en fraise,
+
+1476
+00:28:10,180 --> 00:28:10,460
+zéro.
+
+1477
+00:28:10,580 --> 00:28:10,960
+Il y a deux,
+
+1478
+00:28:11,080 --> 00:28:11,500
+trois trucs
+
+1479
+00:28:11,500 --> 00:28:12,520
+dans mes vieux passages
+
+1480
+00:28:12,520 --> 00:28:13,460
+que des fois,
+
+1481
+00:28:13,720 --> 00:28:15,020
+je regarde
+
+1482
+00:28:15,020 --> 00:28:16,060
+parce qu'on me les envoie
+
+1483
+00:28:16,060 --> 00:28:16,840
+pour se foutre de ma gueule
+
+1484
+00:28:16,840 --> 00:28:17,120
+ou quoi.
+
+1485
+00:28:17,280 --> 00:28:17,820
+Tu les enlèves.
+
+1486
+00:28:17,940 --> 00:28:18,440
+Et je me dis,
+
+1487
+00:28:18,500 --> 00:28:18,960
+ça va,
+
+1488
+00:28:19,060 --> 00:28:19,260
+putain,
+
+1489
+00:28:19,320 --> 00:28:19,660
+ça en vrai,
+
+1490
+00:28:19,660 --> 00:28:20,460
+je trouve ça va,
+
+1491
+00:28:20,560 --> 00:28:21,140
+mais sinon tout le reste,
+
+1492
+00:28:21,220 --> 00:28:21,440
+je me dis,
+
+1493
+00:28:21,680 --> 00:28:21,980
+mais waouh.
+
+1494
+00:28:22,120 --> 00:28:22,280
+En fait,
+
+1495
+00:28:22,360 --> 00:28:23,220
+souvent les angles,
+
+1496
+00:28:23,460 --> 00:28:24,260
+les angles,
+
+1497
+00:28:24,360 --> 00:28:24,960
+t'es d'accord ?
+
+1498
+00:28:24,960 --> 00:28:25,360
+Il y a quelqu'un
+
+1499
+00:28:25,360 --> 00:28:25,820
+qui m'avait dit,
+
+1500
+00:28:25,900 --> 00:28:26,800
+ça reprend tes...
+
+1501
+00:28:26,800 --> 00:28:27,580
+Souvent les premiers trucs
+
+1502
+00:28:27,580 --> 00:28:28,460
+que t'as essayé d'écrire,
+
+1503
+00:28:28,960 --> 00:28:29,860
+tu les pensais vraiment
+
+1504
+00:28:29,860 --> 00:28:30,560
+et ils sont importants,
+
+1505
+00:28:30,620 --> 00:28:31,680
+c'est juste que t'avais pas encore
+
+1506
+00:28:31,680 --> 00:28:32,800
+les skills pour bien les faire.
+
+1507
+00:28:33,160 --> 00:28:33,780
+Donc ça serait bien
+
+1508
+00:28:33,780 --> 00:28:34,740
+d'aller retrouver tes vannes,
+
+1509
+00:28:34,800 --> 00:28:35,000
+dire putain,
+
+1510
+00:28:35,060 --> 00:28:35,860
+la vanne est nulle.
+
+1511
+00:28:36,020 --> 00:28:36,140
+En fait,
+
+1512
+00:28:36,180 --> 00:28:36,560
+ce sujet,
+
+1513
+00:28:36,640 --> 00:28:36,880
+il est bien,
+
+1514
+00:28:36,940 --> 00:28:37,380
+il faut que j'en parle
+
+1515
+00:28:37,380 --> 00:28:37,800
+et il me travaille.
+
+1516
+00:28:38,040 --> 00:28:38,820
+C'est ce que j'essaie de faire,
+
+1517
+00:28:38,920 --> 00:28:39,620
+mais j'ai trop de...
+
+1518
+00:28:39,620 --> 00:28:40,240
+100 pages,
+
+1519
+00:28:40,360 --> 00:28:41,440
+100 pages remplies.
+
+1520
+00:28:41,440 --> 00:28:42,540
+C'est trop chiant
+
+1521
+00:28:42,540 --> 00:28:43,280
+pour vous donner
+
+1522
+00:28:43,280 --> 00:28:43,720
+dans les trucs,
+
+1523
+00:28:43,820 --> 00:28:43,940
+quoi.
+
+1524
+00:28:45,080 --> 00:28:45,600
+Il faut demander
+
+1525
+00:28:45,600 --> 00:28:46,340
+un oeil extérieur,
+
+1526
+00:28:46,420 --> 00:28:46,960
+des fois en disant,
+
+1527
+00:28:47,080 --> 00:28:47,320
+regarde,
+
+1528
+00:28:47,640 --> 00:28:48,820
+tu vois un sujet
+
+1529
+00:28:48,820 --> 00:28:49,620
+que t'aimes bien là-dedans,
+
+1530
+00:28:49,700 --> 00:28:49,840
+quoi.
+
+1531
+00:28:50,440 --> 00:28:51,460
+Vous trouvez qu'on écrit
+
+1532
+00:28:51,460 --> 00:28:52,340
+mieux qu'avant ?
+
+1533
+00:28:52,340 --> 00:28:52,700
+Je sais pas.
+
+1534
+00:28:53,000 --> 00:28:53,540
+Plus vite,
+
+1535
+00:28:53,940 --> 00:28:54,720
+bien mieux.
+
+1536
+00:28:55,240 --> 00:28:55,460
+Et oui,
+
+1537
+00:28:55,580 --> 00:28:55,800
+maintenant,
+
+1538
+00:28:55,940 --> 00:28:57,080
+on comprend comment,
+
+1539
+00:28:57,160 --> 00:28:57,500
+par exemple,
+
+1540
+00:28:57,640 --> 00:28:57,820
+moi,
+
+1541
+00:28:58,320 --> 00:28:59,180
+j'ai compris comment
+
+1542
+00:28:59,180 --> 00:29:00,700
+parler de trucs choquants
+
+1543
+00:29:00,700 --> 00:29:01,860
+sans l'être,
+
+1544
+00:29:02,040 --> 00:29:02,480
+en tout cas,
+
+1545
+00:29:02,600 --> 00:29:03,680
+arriver à pas te mettre
+
+1546
+00:29:03,680 --> 00:29:04,300
+le public à dos
+
+1547
+00:29:04,300 --> 00:29:05,040
+au bout de 4 secondes
+
+1548
+00:29:05,040 --> 00:29:05,980
+en parlant de masturbation
+
+1549
+00:29:05,980 --> 00:29:06,360
+et de caca.
+
+1550
+00:29:06,820 --> 00:29:07,680
+Tu trouves très vite
+
+1551
+00:29:07,680 --> 00:29:09,000
+que tu peux parler du truc.
+
+1552
+00:29:09,000 --> 00:29:09,320
+Après,
+
+1553
+00:29:09,360 --> 00:29:09,920
+tu choisis vraiment
+
+1554
+00:29:09,920 --> 00:29:10,380
+les bons sujets.
+
+1555
+00:29:10,440 --> 00:29:10,600
+Non,
+
+1556
+00:29:10,720 --> 00:29:11,000
+mais tu vois,
+
+1557
+00:29:11,640 --> 00:29:12,620
+c'est un exemple
+
+1558
+00:29:12,620 --> 00:29:13,220
+et ce que je veux dire,
+
+1559
+00:29:13,300 --> 00:29:14,800
+c'est que quand tu es jeune,
+
+1560
+00:29:15,100 --> 00:29:15,560
+surtout moi,
+
+1561
+00:29:15,700 --> 00:29:16,120
+mon idole,
+
+1562
+00:29:16,200 --> 00:29:16,780
+c'était Louis C.K.,
+
+1563
+00:29:16,780 --> 00:29:17,100
+je suis arrivé,
+
+1564
+00:29:17,200 --> 00:29:17,500
+je me suis dit,
+
+1565
+00:29:17,540 --> 00:29:18,000
+je vais dire les trucs
+
+1566
+00:29:18,000 --> 00:29:18,740
+les plus choquants du monde
+
+1567
+00:29:18,740 --> 00:29:18,960
+et je me suis dit,
+
+1568
+00:29:18,960 --> 00:29:19,820
+c'est juste nul en fait.
+
+1569
+00:29:20,300 --> 00:29:20,940
+Mais à bout d'un moment,
+
+1570
+00:29:21,020 --> 00:29:22,160
+tu comprends comment le faire.
+
+1571
+00:29:23,040 --> 00:29:24,080
+Parce que ce qui t'intéresse
+
+1572
+00:29:24,080 --> 00:29:24,540
+dans le sujet,
+
+1573
+00:29:24,640 --> 00:29:24,920
+justement,
+
+1574
+00:29:25,320 --> 00:29:26,880
+c'est pas de dire,
+
+1575
+00:29:27,020 --> 00:29:27,720
+je vais choquer les gens,
+
+1576
+00:29:27,800 --> 00:29:28,080
+mais plutôt,
+
+1577
+00:29:28,200 --> 00:29:28,600
+non mais en vrai,
+
+1578
+00:29:28,700 --> 00:29:29,440
+il y a une vraie question
+
+1579
+00:29:29,440 --> 00:29:29,960
+derrière ça
+
+1580
+00:29:29,960 --> 00:29:31,120
+et je sais que ça a l'air dégueu,
+
+1581
+00:29:31,200 --> 00:29:31,700
+mais écoutez-moi.
+
+1582
+00:29:32,320 --> 00:29:32,520
+Donc,
+
+1583
+00:29:32,740 --> 00:29:32,900
+ouais,
+
+1584
+00:29:33,620 --> 00:29:33,940
+je sais pas,
+
+1585
+00:29:34,260 --> 00:29:35,080
+je jouerais plus
+
+1586
+00:29:35,080 --> 00:29:36,180
+si je pouvais changer quelque chose.
+
+1587
+00:29:36,740 --> 00:29:36,960
+Plus.
+
+1588
+00:29:37,200 --> 00:29:37,380
+Oui,
+
+1589
+00:29:37,820 --> 00:29:38,100
+en fait,
+
+1590
+00:29:38,140 --> 00:29:38,500
+je me disais,
+
+1591
+00:29:38,580 --> 00:29:38,820
+c'est bon,
+
+1592
+00:29:38,920 --> 00:29:39,960
+j'ai fait une fois ou deux par semaine
+
+1593
+00:29:39,960 --> 00:29:40,380
+alors qu'en fait,
+
+1594
+00:29:40,420 --> 00:29:40,920
+c'était débile.
+
+1595
+00:29:41,000 --> 00:29:41,580
+Même à l'époque,
+
+1596
+00:29:41,900 --> 00:29:43,480
+j'aurais dû arpenter les plateaux
+
+1597
+00:29:43,480 --> 00:29:43,960
+dix fois plus.
+
+1598
+00:29:44,320 --> 00:29:45,500
+Mais vu que j'avais un métier à côté,
+
+1599
+00:29:45,600 --> 00:29:46,020
+c'était chiant.
+
+1600
+00:29:46,400 --> 00:29:46,740
+Ah mais là,
+
+1601
+00:29:46,780 --> 00:29:46,920
+tu vois,
+
+1602
+00:29:47,000 --> 00:29:47,080
+moi,
+
+1603
+00:29:47,140 --> 00:29:47,720
+en ce moment,
+
+1604
+00:29:47,820 --> 00:29:48,380
+je suis le truc
+
+1605
+00:29:48,380 --> 00:29:49,580
+où j'essaie de trouver le...
+
+1606
+00:29:49,580 --> 00:29:50,180
+Ça m'a manqué
+
+1607
+00:29:50,180 --> 00:29:51,140
+de jouer un peu cet été,
+
+1608
+00:29:51,840 --> 00:29:52,860
+mais je veux pas non plus jouer
+
+1609
+00:29:52,860 --> 00:29:53,340
+tous les jours.
+
+1610
+00:29:53,620 --> 00:29:55,480
+J'essaie de trouver le bon...
+
+1611
+00:29:55,480 --> 00:29:56,080
+Jouer tout le temps,
+
+1612
+00:29:56,140 --> 00:29:56,380
+tout le temps,
+
+1613
+00:29:56,460 --> 00:29:56,960
+tu deviens aussi...
+
+1614
+00:29:56,960 --> 00:29:58,440
+J'ai l'impression que tu deviens un robot,
+
+1615
+00:29:58,540 --> 00:29:59,220
+tu vis plus la vie,
+
+1616
+00:29:59,780 --> 00:30:00,000
+mais en fait,
+
+1617
+00:30:00,080 --> 00:30:00,940
+t'as juste une vie de...
+
+1618
+00:30:00,940 --> 00:30:01,180
+C'est drôle,
+
+1619
+00:30:01,240 --> 00:30:02,020
+t'as une vie d'humoriste,
+
+1620
+00:30:02,120 --> 00:30:03,260
+donc les trucs que t'as raconté,
+
+1621
+00:30:03,500 --> 00:30:03,920
+c'est...
+
+1622
+00:30:03,920 --> 00:30:04,060
+Ouais,
+
+1623
+00:30:04,100 --> 00:30:04,540
+j'ai pris le train
+
+1624
+00:30:04,540 --> 00:30:05,280
+pour aller faire un plat.
+
+1625
+00:30:06,120 --> 00:30:07,120
+Quand tu te fais une pause
+
+1626
+00:30:07,120 --> 00:30:08,220
+et que tu revis la vraie vie,
+
+1627
+00:30:08,340 --> 00:30:09,660
+c'est là que je trouve un truc à dire.
+
+1628
+00:30:10,140 --> 00:30:10,280
+Ouais,
+
+1629
+00:30:10,360 --> 00:30:10,680
+moi,
+
+1630
+00:30:10,760 --> 00:30:11,420
+c'est le truc que je changerais,
+
+1631
+00:30:11,460 --> 00:30:12,180
+je crois que je jouerais un peu moins.
+
+1632
+00:30:12,340 --> 00:30:13,280
+Surtout sur quelques années.
+
+1633
+00:30:13,280 --> 00:30:14,300
+Tu raconterais ta vie du quotidien,
+
+1634
+00:30:14,300 --> 00:30:15,500
+je t'ai en business.
+
+1635
+00:30:15,780 --> 00:30:16,140
+C'est ça.
+
+1636
+00:30:17,180 --> 00:30:17,860
+J'ai pris,
+
+1637
+00:30:17,980 --> 00:30:18,540
+je t'ai pris le chat.
+
+1638
+00:30:18,560 --> 00:30:19,060
+À l'air tour,
+
+1639
+00:30:19,460 --> 00:30:19,760
+écho.
+
+1640
+00:30:20,320 --> 00:30:20,760
+Qu'est-ce que tu...
+
+1641
+00:30:20,760 --> 00:30:21,080
+Wow,
+
+1642
+00:30:21,920 --> 00:30:22,660
+rien du tout.
+
+1643
+00:30:23,340 --> 00:30:24,180
+Mais t'as rien écho.
+
+1644
+00:30:24,340 --> 00:30:24,780
+Mais si.
+
+1645
+00:30:24,900 --> 00:30:25,360
+Mais pourquoi tu...
+
+1646
+00:30:25,360 --> 00:30:25,720
+Demande,
+
+1647
+00:30:25,780 --> 00:30:27,080
+il y a Davidson qui était là écho ou pas ?
+
+1648
+00:30:27,080 --> 00:30:27,220
+Oui,
+
+1649
+00:30:27,280 --> 00:30:27,620
+mais Davidson,
+
+1650
+00:30:27,760 --> 00:30:28,320
+il était en écho,
+
+1651
+00:30:28,380 --> 00:30:28,500
+oui.
+
+1652
+00:30:29,620 --> 00:30:29,820
+Ah,
+
+1653
+00:30:29,880 --> 00:30:30,000
+toi,
+
+1654
+00:30:30,040 --> 00:30:30,480
+t'étais en écho,
+
+1655
+00:30:30,560 --> 00:30:30,660
+lui,
+
+1656
+00:30:30,700 --> 00:30:31,100
+il était en business.
+
+1657
+00:30:31,860 --> 00:30:31,980
+Lui,
+
+1658
+00:30:32,040 --> 00:30:32,520
+il était en business.
+
+1659
+00:30:32,960 --> 00:30:33,240
+Non.
+
+1660
+00:30:33,380 --> 00:30:33,580
+Ah,
+
+1661
+00:30:33,660 --> 00:30:34,260
+on était en écho.
+
+1662
+00:30:34,260 --> 00:30:34,500
+Ah,
+
+1663
+00:30:34,500 --> 00:30:35,820
+mais les masques tombent.
+
+1664
+00:30:35,940 --> 00:30:36,860
+On était en écho tous ensemble,
+
+1665
+00:30:36,940 --> 00:30:37,640
+il y avait même marié au milieu.
+
+1666
+00:30:37,680 --> 00:30:37,820
+Non,
+
+1667
+00:30:37,820 --> 00:30:39,640
+mais là où je suis inquiet,
+
+1668
+00:30:39,800 --> 00:30:40,800
+c'est que si toi,
+
+1669
+00:30:40,900 --> 00:30:41,460
+t'étais en écho,
+
+1670
+00:30:41,540 --> 00:30:43,580
+Davidson devait être dans la soute ou un truc comme ça.
+
+1671
+00:30:44,240 --> 00:30:45,740
+C'est sûr que tu lui prends pas les mêmes places.
+
+1672
+00:30:45,880 --> 00:30:46,300
+J'aurais préféré,
+
+1673
+00:30:46,420 --> 00:30:46,660
+dis-toi,
+
+1674
+00:30:46,740 --> 00:30:47,620
+mais...
+
+1675
+00:30:47,620 --> 00:30:47,980
+Attends,
+
+1676
+00:30:48,160 --> 00:30:48,400
+ah ouais,
+
+1677
+00:30:48,620 --> 00:30:50,680
+moi je trouvais que t'étais au moins en écho premium.
+
+1678
+00:30:51,020 --> 00:30:51,180
+Non,
+
+1679
+00:30:51,260 --> 00:30:51,380
+non,
+
+1680
+00:30:51,880 --> 00:30:52,860
+on avait un partenariat
+
+1681
+00:30:52,860 --> 00:30:55,540
+avec une compagnie aérienne
+
+1682
+00:30:55,540 --> 00:30:56,140
+qui n'a pas du tout
+
+1683
+00:30:56,140 --> 00:30:57,360
+trompé le nom
+
+1684
+00:30:57,360 --> 00:30:58,620
+pour qu'on soit surclassé.
+
+1685
+00:30:59,120 --> 00:30:59,320
+Donc,
+
+1686
+00:30:59,440 --> 00:31:00,160
+on a fait écho,
+
+1687
+00:31:00,280 --> 00:31:00,820
+ce qui est bien aussi.
+
+1688
+00:31:01,260 --> 00:31:02,120
+Ce n'était pas la même que celle
+
+1689
+00:31:02,120 --> 00:31:02,840
+qu'on avait pris pour y aller.
+
+1690
+00:31:02,840 --> 00:31:03,400
+La condescendance.
+
+1691
+00:31:03,780 --> 00:31:04,540
+Mais ce sont pas.
+
+1692
+00:31:04,820 --> 00:31:04,960
+Nous,
+
+1693
+00:31:04,960 --> 00:31:06,740
+on était allés avec le business à Tahiti.
+
+1694
+00:31:07,100 --> 00:31:07,360
+Près bien,
+
+1695
+00:31:07,420 --> 00:31:07,520
+ouais.
+
+1696
+00:31:07,580 --> 00:31:09,100
+Mais ce n'était pas la même compagnie ?
+
+1697
+00:31:09,100 --> 00:31:09,280
+Si.
+
+1698
+00:31:10,440 --> 00:31:11,340
+On leur tire dessus,
+
+1699
+00:31:11,440 --> 00:31:12,000
+ils ont tout de la merde.
+
+1700
+00:31:12,100 --> 00:31:12,220
+Moi,
+
+1701
+00:31:12,260 --> 00:31:12,700
+je le dis.
+
+1702
+00:31:13,080 --> 00:31:13,720
+Je ne sais pas,
+
+1703
+00:31:13,820 --> 00:31:15,140
+mais j'étais assez déçu.
+
+1704
+00:31:15,340 --> 00:31:15,920
+Tu sais quoi ?
+
+1705
+00:31:15,920 --> 00:31:17,000
+Je n'ai pas envie d'y aller à Tahiti,
+
+1706
+00:31:17,120 --> 00:31:18,560
+mais j'ai juste envie d'y aller
+
+1707
+00:31:18,560 --> 00:31:19,720
+et que moi,
+
+1708
+00:31:20,360 --> 00:31:21,640
+je sois face sur place en première
+
+1709
+00:31:21,640 --> 00:31:22,260
+pour te dire.
+
+1710
+00:31:22,680 --> 00:31:22,800
+Ouais,
+
+1711
+00:31:22,860 --> 00:31:23,040
+ouais.
+
+1712
+00:31:23,460 --> 00:31:23,600
+Non,
+
+1713
+00:31:23,660 --> 00:31:24,620
+mais c'est vrai que,
+
+1714
+00:31:24,620 --> 00:31:25,380
+par contre,
+
+1715
+00:31:25,440 --> 00:31:28,700
+quand tu prends un voyage de 10 heures en écho...
+
+1716
+00:31:28,700 --> 00:31:29,240
+Ah,
+
+1717
+00:31:29,260 --> 00:31:29,880
+mais ce n'est pas 10 heures,
+
+1718
+00:31:29,980 --> 00:31:30,360
+c'est 24.
+
+1719
+00:31:30,600 --> 00:31:30,640
+Ah,
+
+1720
+00:31:30,680 --> 00:31:32,460
+il y a eu un bout en business.
+
+1721
+00:31:32,620 --> 00:31:32,720
+Non,
+
+1722
+00:31:32,720 --> 00:31:33,980
+t'as deux vols,
+
+1723
+00:31:34,060 --> 00:31:34,180
+en fait.
+
+1724
+00:31:34,720 --> 00:31:35,180
+De Tahiti,
+
+1725
+00:31:35,280 --> 00:31:35,560
+tu reviens,
+
+1726
+00:31:35,680 --> 00:31:37,140
+tu fais une escale soit à Los Angeles
+
+1727
+00:31:37,140 --> 00:31:37,760
+soit à Seattle
+
+1728
+00:31:37,760 --> 00:31:38,720
+et ensuite,
+
+1729
+00:31:38,920 --> 00:31:40,080
+tu repars pour la France.
+
+1730
+00:31:40,300 --> 00:31:41,260
+Il faut que t'arrêtes cette conversation.
+
+1731
+00:31:41,500 --> 00:31:41,860
+Pourquoi ?
+
+1732
+00:31:41,860 --> 00:31:42,400
+Parce que là,
+
+1733
+00:31:42,500 --> 00:31:43,200
+t'es vraiment...
+
+1734
+00:31:43,200 --> 00:31:43,360
+Enfin,
+
+1735
+00:31:43,440 --> 00:31:43,560
+non,
+
+1736
+00:31:43,720 --> 00:31:45,060
+on est trop...
+
+1737
+00:31:45,060 --> 00:31:45,820
+On est trop ?
+
+1738
+00:31:45,820 --> 00:31:47,220
+Déconnectés des gens.
+
+1739
+00:31:47,320 --> 00:31:47,480
+T'es là,
+
+1740
+00:31:47,540 --> 00:31:47,680
+ouais,
+
+1741
+00:31:47,740 --> 00:31:48,480
+tu ne pars pas à Los Angeles.
+
+1742
+00:31:48,600 --> 00:31:48,640
+Non,
+
+1743
+00:31:48,680 --> 00:31:49,880
+mais c'est vrai que c'est dur en écho.
+
+1744
+00:31:50,260 --> 00:31:50,380
+Non.
+
+1745
+00:31:50,600 --> 00:31:51,520
+Mais c'est très dur en écho.
+
+1746
+00:31:51,620 --> 00:31:51,820
+Mais non,
+
+1747
+00:31:51,960 --> 00:31:52,460
+c'est bien,
+
+1748
+00:31:52,500 --> 00:31:53,900
+t'as pris l'avion pour ton métier.
+
+1749
+00:31:53,900 --> 00:31:54,020
+Oui,
+
+1750
+00:31:54,040 --> 00:31:54,480
+c'est très bien.
+
+1751
+00:31:54,640 --> 00:31:55,000
+C'est stop.
+
+1752
+00:31:55,000 --> 00:31:56,220
+T'es privilégié au max.
+
+1753
+00:31:56,400 --> 00:31:58,540
+Même si t'étais dans une calme à prendre des coups de fouet.
+
+1754
+00:31:58,560 --> 00:31:58,740
+Il l'a fait pour lui,
+
+1755
+00:31:58,780 --> 00:32:00,640
+il l'a fait pour répandre l'humour à travers la planète.
+
+1756
+00:32:00,660 --> 00:32:01,860
+J'ai fait pour faire rire les Tahitiens.
+
+1757
+00:32:02,340 --> 00:32:03,880
+C'est une cause humaniste.
+
+1758
+00:32:04,120 --> 00:32:04,480
+Le problème,
+
+1759
+00:32:04,580 --> 00:32:05,280
+c'est que le lendemain,
+
+1760
+00:32:05,360 --> 00:32:06,700
+je jouais à Strasbourg
+
+1761
+00:32:06,700 --> 00:32:07,960
+et quand t'es en écho que tu dors pas,
+
+1762
+00:32:08,060 --> 00:32:08,200
+après,
+
+1763
+00:32:08,340 --> 00:32:09,520
+ton spectacle à Strasbourg,
+
+1764
+00:32:09,700 --> 00:32:10,300
+il pue la merde.
+
+1765
+00:32:10,540 --> 00:32:10,720
+Oui,
+
+1766
+00:32:10,860 --> 00:32:11,400
+puis Strasbourg,
+
+1767
+00:32:11,400 --> 00:32:12,080
+je suis un gros Strasbourgeois
+
+1768
+00:32:12,080 --> 00:32:15,340
+qui j'ai fait une piètre prestation.
+
+1769
+00:32:15,660 --> 00:32:15,780
+Oui,
+
+1770
+00:32:15,840 --> 00:32:16,180
+ils ne savent pas.
+
+1771
+00:32:17,180 --> 00:32:18,080
+Ils n'ont aucune idée.
+
+1772
+00:32:18,120 --> 00:32:18,180
+Oui,
+
+1773
+00:32:18,240 --> 00:32:18,560
+je pense que...
+
+1774
+00:32:18,560 --> 00:32:19,500
+Ils habitent à Strasbourg,
+
+1775
+00:32:19,580 --> 00:32:19,780
+les gars.
+
+1776
+00:32:19,960 --> 00:32:22,140
+Tout est plus ou moins égal.
+
+1777
+00:32:22,420 --> 00:32:23,600
+Fait que pas le tir sur Strasbourg.
+
+1778
+00:32:23,780 --> 00:32:23,920
+Non,
+
+1779
+00:32:23,980 --> 00:32:24,720
+c'est très joli en plus.
+
+1780
+00:32:24,840 --> 00:32:25,180
+Très bien.
+
+1781
+00:32:25,800 --> 00:32:26,360
+C'est très bien.
+
+1782
+00:32:26,740 --> 00:32:26,900
+Bon,
+
+1783
+00:32:27,040 --> 00:32:27,380
+et...
+
+1784
+00:32:27,380 --> 00:32:28,120
+Passez sur le feu.
+
+1785
+00:32:28,120 --> 00:32:28,220
+Oui,
+
+1786
+00:32:28,260 --> 00:32:28,640
+dis-moi une question.
+
+1787
+00:32:28,680 --> 00:32:31,260
+Est-ce qu'on peut en parler de ton accident ?
+
+1788
+00:32:31,260 --> 00:32:31,500
+Ah,
+
+1789
+00:32:31,760 --> 00:32:32,080
+bah oui.
+
+1790
+00:32:32,080 --> 00:32:33,780
+On fait une petite digression ?
+
+1791
+00:32:33,780 --> 00:32:34,140
+C'est bon.
+
+1792
+00:32:34,160 --> 00:32:35,040
+J'étais à Tahiti.
+
+1793
+00:32:35,200 --> 00:32:35,320
+Oui.
+
+1794
+00:32:35,500 --> 00:32:35,680
+Allez,
+
+1795
+00:32:35,740 --> 00:32:36,460
+montre-la ta croûte.
+
+1796
+00:32:36,900 --> 00:32:38,280
+Tu fais faire un gros bobo ?
+
+1797
+00:32:38,280 --> 00:32:38,540
+Non,
+
+1798
+00:32:38,600 --> 00:32:38,800
+mais ça,
+
+1799
+00:32:38,800 --> 00:32:39,080
+ça date.
+
+1800
+00:32:39,080 --> 00:32:39,580
+Un gros bobo ?
+
+1801
+00:32:39,580 --> 00:32:40,440
+Il reste ça.
+
+1802
+00:32:40,580 --> 00:32:41,480
+Ça date.
+
+1803
+00:32:41,800 --> 00:32:42,480
+C'est qu'à deux heures.
+
+1804
+00:32:42,900 --> 00:32:43,040
+Non,
+
+1805
+00:32:43,040 --> 00:32:43,380
+mais en fait,
+
+1806
+00:32:43,460 --> 00:32:43,900
+c'est ce que j'ai fait,
+
+1807
+00:32:43,960 --> 00:32:44,620
+le mec chaud,
+
+1808
+00:32:44,760 --> 00:32:45,560
+et je suis allé surfer
+
+1809
+00:32:45,560 --> 00:32:46,800
+sur ce qu'on appelle
+
+1810
+00:32:46,800 --> 00:32:47,820
+des spots de riffs,
+
+1811
+00:32:47,940 --> 00:32:48,600
+donc de récifs,
+
+1812
+00:32:48,900 --> 00:32:51,040
+où les vagues sont bien formées
+
+1813
+00:32:51,040 --> 00:32:51,260
+et tout,
+
+1814
+00:32:51,340 --> 00:32:52,500
+mais qu'il n'y a pas beaucoup d'eau
+
+1815
+00:32:52,500 --> 00:32:53,160
+et quand tu tombes,
+
+1816
+00:32:53,300 --> 00:32:54,360
+tu as même le corail.
+
+1817
+00:32:54,900 --> 00:32:55,300
+Et donc,
+
+1818
+00:32:55,360 --> 00:32:56,620
+j'ai mangé quelques fois.
+
+1819
+00:32:56,900 --> 00:32:57,240
+Mais bon,
+
+1820
+00:32:57,280 --> 00:32:57,860
+ça valait la peine.
+
+1821
+00:32:58,040 --> 00:32:58,160
+Voilà,
+
+1822
+00:32:58,220 --> 00:32:59,100
+j'ai pris mon petit tube,
+
+1823
+00:32:59,920 --> 00:33:01,000
+j'ai fait le souvenir de ma vie.
+
+1824
+00:33:01,400 --> 00:33:01,720
+Attends.
+
+1825
+00:33:01,940 --> 00:33:02,080
+Bon,
+
+1826
+00:33:02,200 --> 00:33:02,480
+attends,
+
+1827
+00:33:02,640 --> 00:33:03,840
+mais extrapole,
+
+1828
+00:33:04,120 --> 00:33:04,980
+à un moment,
+
+1829
+00:33:05,240 --> 00:33:05,900
+tu t'es viandé
+
+1830
+00:33:05,900 --> 00:33:06,540
+et tu t'es dit
+
+1831
+00:33:06,540 --> 00:33:07,120
+merde.
+
+1832
+00:33:07,440 --> 00:33:07,640
+Ouais,
+
+1833
+00:33:07,820 --> 00:33:08,240
+par contre,
+
+1834
+00:33:08,300 --> 00:33:08,620
+j'ai eu peur.
+
+1835
+00:33:08,620 --> 00:33:09,140
+je suis allé,
+
+1836
+00:33:09,280 --> 00:33:11,020
+pour ceux qui connaissent un peu Tahiti,
+
+1837
+00:33:11,160 --> 00:33:11,800
+je suis allé à un spot
+
+1838
+00:33:11,800 --> 00:33:13,420
+en face de l'hôtel
+
+1839
+00:33:13,420 --> 00:33:14,420
+qui s'appelle Tapuna.
+
+1840
+00:33:14,700 --> 00:33:15,180
+Bien sûr,
+
+1841
+00:33:15,280 --> 00:33:16,240
+de nombreux auditeurs
+
+1842
+00:33:16,240 --> 00:33:16,640
+se disent,
+
+1843
+00:33:16,740 --> 00:33:17,040
+mais oui,
+
+1844
+00:33:17,140 --> 00:33:17,640
+à Tahiti,
+
+1845
+00:33:17,840 --> 00:33:18,960
+en face de l'hôtel Tapuna,
+
+1846
+00:33:19,060 --> 00:33:19,380
+évidemment.
+
+1847
+00:33:19,560 --> 00:33:19,740
+Non,
+
+1848
+00:33:19,800 --> 00:33:20,340
+en face de l'hôtel,
+
+1849
+00:33:20,400 --> 00:33:20,860
+le témoine,
+
+1850
+00:33:21,000 --> 00:33:21,200
+d'ailleurs.
+
+1851
+00:33:21,900 --> 00:33:22,440
+Ça change tout.
+
+1852
+00:33:22,440 --> 00:33:22,600
+C'est cool.
+
+1853
+00:33:23,740 --> 00:33:24,720
+Les terraciers connaissent.
+
+1854
+00:33:24,820 --> 00:33:25,540
+Ils sont très très cool,
+
+1855
+00:33:25,640 --> 00:33:26,540
+donc c'est un 5 étoiles
+
+1856
+00:33:26,540 --> 00:33:27,280
+où il a dormi gratos.
+
+1857
+00:33:28,480 --> 00:33:28,920
+Vas-y.
+
+1858
+00:33:29,440 --> 00:33:30,300
+J'ai dormi là-bas,
+
+1859
+00:33:30,440 --> 00:33:31,820
+mais on a payé,
+
+1860
+00:33:31,900 --> 00:33:32,760
+c'était pas gratos.
+
+1861
+00:33:33,400 --> 00:33:34,060
+Quand t'es mal à l'aise,
+
+1862
+00:33:34,060 --> 00:33:35,220
+tu te grattes un peu les aisselles.
+
+1863
+00:33:35,440 --> 00:33:35,560
+C'est ça,
+
+1864
+00:33:35,620 --> 00:33:35,980
+j'ai remarqué.
+
+1865
+00:33:36,680 --> 00:33:40,860
+C'est David Iquitaille
+
+1866
+00:33:40,860 --> 00:33:41,260
+qui nous a dit,
+
+1867
+00:33:41,300 --> 00:33:41,840
+quand tu te grattes
+
+1868
+00:33:41,840 --> 00:33:43,000
+les deux tétons en même temps,
+
+1869
+00:33:43,340 --> 00:33:44,120
+tu es mal à l'aise.
+
+1870
+00:33:44,900 --> 00:33:45,920
+Je suis allé,
+
+1871
+00:33:46,020 --> 00:33:46,400
+il y avait 2 mètres.
+
+1872
+00:33:46,400 --> 00:33:47,380
+Tu sens qu'il y a la business.
+
+1873
+00:33:49,340 --> 00:33:50,360
+Il y avait 2 mètres
+
+1874
+00:33:50,360 --> 00:33:51,440
+et j'ai fait le show.
+
+1875
+00:33:52,780 --> 00:33:53,420
+J'ai mangé,
+
+1876
+00:33:53,540 --> 00:33:53,720
+en fait,
+
+1877
+00:33:54,020 --> 00:33:54,800
+c'est hyper dangereux,
+
+1878
+00:33:54,900 --> 00:33:56,000
+il faut mettre un casque,
+
+1879
+00:33:56,060 --> 00:33:56,500
+surtout pour ceux
+
+1880
+00:33:56,500 --> 00:33:57,220
+qui ne sont pas habitués.
+
+1881
+00:33:57,840 --> 00:33:58,400
+Il y a 2 personnes
+
+1882
+00:33:58,400 --> 00:33:59,160
+qui sont parties à l'hôpital
+
+1883
+00:33:59,160 --> 00:33:59,820
+ce jour-là en plus.
+
+1884
+00:34:00,740 --> 00:34:00,900
+Donc,
+
+1885
+00:34:00,980 --> 00:34:01,640
+assez vénère.
+
+1886
+00:34:01,840 --> 00:34:02,000
+Et moi,
+
+1887
+00:34:02,040 --> 00:34:02,640
+je me suis fait retourner
+
+1888
+00:34:02,640 --> 00:34:03,680
+sur le récif.
+
+1889
+00:34:03,880 --> 00:34:05,120
+J'ai mis mes bras
+
+1890
+00:34:05,120 --> 00:34:06,060
+pour protéger mon visage
+
+1891
+00:34:06,060 --> 00:34:07,500
+et j'ai tapé très fort
+
+1892
+00:34:07,500 --> 00:34:09,720
+les coudes.
+
+1893
+00:34:10,160 --> 00:34:11,000
+Sur l'eau ?
+
+1894
+00:34:11,000 --> 00:34:11,840
+Sur le récif,
+
+1895
+00:34:11,900 --> 00:34:12,000
+ouais.
+
+1896
+00:34:12,260 --> 00:34:12,540
+D'accord.
+
+1897
+00:34:12,540 --> 00:34:12,920
+Parce qu'en fait,
+
+1898
+00:34:13,000 --> 00:34:13,700
+la vague te prend
+
+1899
+00:34:13,700 --> 00:34:14,440
+et tu ne peux rien faire.
+
+1900
+00:34:14,680 --> 00:34:14,940
+Donc, voilà.
+
+1901
+00:34:16,220 --> 00:34:16,460
+Davidson,
+
+1902
+00:34:16,700 --> 00:34:17,220
+ici présent,
+
+1903
+00:34:17,340 --> 00:34:17,920
+en témoignera
+
+1904
+00:34:17,920 --> 00:34:18,400
+parce que lui,
+
+1905
+00:34:18,500 --> 00:34:19,580
+il est allé faire du snorkeling
+
+1906
+00:34:19,580 --> 00:34:20,880
+un jour où il y avait 2 mètres.
+
+1907
+00:34:21,280 --> 00:34:22,320
+Il n'a pas trouvé mieux
+
+1908
+00:34:22,320 --> 00:34:23,900
+que d'aller avec son masque
+
+1909
+00:34:23,900 --> 00:34:24,200
+et tu bats.
+
+1910
+00:34:24,320 --> 00:34:24,720
+Il s'est retrouvé
+
+1911
+00:34:24,720 --> 00:34:25,520
+à pocher des vagues.
+
+1912
+00:34:25,540 --> 00:34:26,640
+Ah, mais tu t'es fait éclater aussi.
+
+1913
+00:34:26,820 --> 00:34:27,440
+Il s'est fait éclater
+
+1914
+00:34:27,440 --> 00:34:28,720
+et il s'est fait récupérer
+
+1915
+00:34:28,720 --> 00:34:29,620
+par un Tahitien,
+
+1916
+00:34:29,720 --> 00:34:29,880
+Ken.
+
+1917
+00:34:30,320 --> 00:34:30,920
+Attends, attends.
+
+1918
+00:34:31,080 --> 00:34:31,640
+C'est ça peut-être
+
+1919
+00:34:31,640 --> 00:34:32,100
+la vraie histoire.
+
+1920
+00:34:32,780 --> 00:34:33,100
+Mec,
+
+1921
+00:34:33,180 --> 00:34:33,480
+donc toi,
+
+1922
+00:34:33,580 --> 00:34:34,740
+tu vas à la mer
+
+1923
+00:34:34,740 --> 00:34:35,640
+en vacances à Tahiti
+
+1924
+00:34:35,640 --> 00:34:37,060
+et putain,
+
+1925
+00:34:37,120 --> 00:34:37,780
+le cliché, quoi.
+
+1926
+00:34:38,180 --> 00:34:38,640
+Il a fallu
+
+1927
+00:34:38,640 --> 00:34:40,740
+te sauver des eaux, quoi.
+
+1928
+00:34:41,680 --> 00:34:42,900
+Tu t'es fait maître nagerie,
+
+1929
+00:34:42,940 --> 00:34:43,040
+quoi.
+
+1930
+00:34:43,140 --> 00:34:44,640
+Tu t'es fait...
+
+1931
+00:34:44,640 --> 00:34:47,780
+Ça va être de ma faute.
+
+1932
+00:34:47,820 --> 00:34:48,200
+Non, mais c'est que
+
+1933
+00:34:48,200 --> 00:34:49,180
+toi, tu lui as pas dit
+
+1934
+00:34:49,180 --> 00:34:50,260
+c'est peut-être quoi ?
+
+1935
+00:34:50,260 --> 00:34:51,780
+Toi, t'as eu peur ?
+
+1936
+00:34:51,780 --> 00:34:52,020
+Ah ouais,
+
+1937
+00:34:52,080 --> 00:34:52,520
+toi, t'as eu peur,
+
+1938
+00:34:52,580 --> 00:34:53,280
+vraiment ?
+
+1939
+00:34:53,280 --> 00:34:53,480
+Attends,
+
+1940
+00:34:53,520 --> 00:34:53,760
+parce que l'autre,
+
+1941
+00:34:53,820 --> 00:34:54,500
+avec son vieux bobo,
+
+1942
+00:34:54,620 --> 00:34:54,780
+en fait,
+
+1943
+00:34:55,060 --> 00:34:55,820
+c'est rien du tout.
+
+1944
+00:34:55,820 --> 00:34:57,120
+Non, mais c'est un drama.
+
+1945
+00:34:57,600 --> 00:34:58,420
+Je lui ai mis un gilet,
+
+1946
+00:34:58,520 --> 00:34:59,760
+donc il peut pas se noyer.
+
+1947
+00:35:00,220 --> 00:35:00,760
+Il flotte.
+
+1948
+00:35:02,660 --> 00:35:03,260
+Il dit,
+
+1949
+00:35:03,320 --> 00:35:03,400
+ouais,
+
+1950
+00:35:03,460 --> 00:35:04,000
+j'ai pas eu me noyer,
+
+1951
+00:35:04,100 --> 00:35:04,240
+non.
+
+1952
+00:35:06,360 --> 00:35:06,640
+Attends,
+
+1953
+00:35:06,720 --> 00:35:07,280
+mais t'as mis un gilet,
+
+1954
+00:35:07,340 --> 00:35:07,820
+parce que tu sais pas
+
+1955
+00:35:07,820 --> 00:35:08,440
+très bien nager à la base,
+
+1956
+00:35:08,480 --> 00:35:09,280
+c'est ça ?
+
+1957
+00:35:09,280 --> 00:35:09,600
+À la base,
+
+1958
+00:35:09,700 --> 00:35:10,000
+t'avais pas nager.
+
+1959
+00:35:10,020 --> 00:35:10,040
+Donc toi,
+
+1960
+00:35:10,040 --> 00:35:10,660
+t'as pas trop nager
+
+1961
+00:35:10,660 --> 00:35:11,480
+et t'allais partir
+
+1962
+00:35:11,480 --> 00:35:12,540
+dans les vagues de 2 mètres
+
+1963
+00:35:12,540 --> 00:35:13,320
+faire l'up.
+
+1964
+00:35:15,620 --> 00:35:16,280
+Il a dérivé.
+
+1965
+00:35:16,640 --> 00:35:17,760
+Il a dérivé.
+
+1966
+00:35:18,500 --> 00:35:18,620
+Ouais.
+
+1967
+00:35:19,480 --> 00:35:19,760
+Wow.
+
+1968
+00:35:20,980 --> 00:35:22,040
+Non, mais il nous a fait peur,
+
+1969
+00:35:22,140 --> 00:35:22,420
+Davidson.
+
+1970
+00:35:22,920 --> 00:35:24,100
+On l'a emmené en kayak
+
+1971
+00:35:24,100 --> 00:35:25,080
+et il a fait une sieste
+
+1972
+00:35:25,080 --> 00:35:27,220
+au milieu du chenal traversiste.
+
+1973
+00:35:27,380 --> 00:35:27,740
+C'est-à-dire qu'il y a
+
+1974
+00:35:27,740 --> 00:35:29,640
+des bateaux qui passent,
+
+1975
+00:35:29,800 --> 00:35:29,960
+voilà,
+
+1976
+00:35:30,200 --> 00:35:30,840
+qui peuvent te couper,
+
+1977
+00:35:30,960 --> 00:35:31,040
+quoi.
+
+1978
+00:35:31,320 --> 00:35:31,520
+Et lui,
+
+1979
+00:35:31,600 --> 00:35:32,140
+il dormait.
+
+1980
+00:35:32,240 --> 00:35:32,500
+Et machin,
+
+1981
+00:35:32,680 --> 00:35:32,900
+t'es là,
+
+1982
+00:35:33,120 --> 00:35:33,740
+dépêche-toi,
+
+1983
+00:35:33,820 --> 00:35:34,440
+Davidson et lui,
+
+1984
+00:35:34,560 --> 00:35:34,960
+il dormait,
+
+1985
+00:35:35,020 --> 00:35:35,160
+voilà.
+
+1986
+00:35:35,500 --> 00:35:36,080
+Comme quand on dort
+
+1987
+00:35:36,080 --> 00:35:36,960
+vraiment pas bien en seconde.
+
+1988
+00:35:37,140 --> 00:35:38,280
+On dort pas bien en déco.
+
+1989
+00:35:39,940 --> 00:35:40,860
+Alors que sur un kayak,
+
+1990
+00:35:41,500 --> 00:35:41,840
+en vrai,
+
+1991
+00:35:42,060 --> 00:35:43,440
+est-ce que t'es peut-être
+
+1992
+00:35:43,440 --> 00:35:44,360
+au deuxième ou peut-être
+
+1993
+00:35:44,360 --> 00:35:44,500
+non,
+
+1994
+00:35:44,560 --> 00:35:45,240
+mais ce serait cool
+
+1995
+00:35:45,240 --> 00:35:45,860
+d'avoir toi,
+
+1996
+00:35:46,500 --> 00:35:46,660
+toi,
+
+1997
+00:35:46,720 --> 00:35:47,520
+t'étais jamais parti
+
+1998
+00:35:47,520 --> 00:35:48,140
+dans un truc comme ça
+
+1999
+00:35:48,140 --> 00:35:48,620
+parce que Franjo,
+
+2000
+00:35:48,720 --> 00:35:48,940
+Tahiti,
+
+2001
+00:35:49,040 --> 00:35:49,700
+c'est sa deuxième maison,
+
+2002
+00:35:49,800 --> 00:35:50,420
+il y va tous les ans.
+
+2003
+00:35:50,680 --> 00:35:50,820
+Non,
+
+2004
+00:35:50,820 --> 00:35:50,980
+non,
+
+2005
+00:35:51,100 --> 00:35:51,940
+c'est la deuxième fois
+
+2006
+00:35:51,940 --> 00:35:52,180
+que j'y vais.
+
+2007
+00:35:52,240 --> 00:35:52,360
+Toi,
+
+2008
+00:35:52,460 --> 00:35:53,000
+ce serait cool
+
+2009
+00:35:53,000 --> 00:35:53,840
+de savoir ce que t'en as pensé
+
+2010
+00:35:53,840 --> 00:35:54,420
+parce qu'en gros,
+
+2011
+00:35:54,540 --> 00:35:55,280
+c'est la première fois
+
+2012
+00:35:55,280 --> 00:35:56,040
+que tu faisais un énorme voyage,
+
+2013
+00:35:56,140 --> 00:35:56,200
+toi,
+
+2014
+00:35:56,260 --> 00:35:57,240
+c'est ça ?
+
+2015
+00:35:57,240 --> 00:35:57,420
+Putain,
+
+2016
+00:35:57,500 --> 00:35:58,140
+premier voyage,
+
+2017
+00:35:58,240 --> 00:35:58,940
+c'est l'autre bout du monde,
+
+2018
+00:35:59,020 --> 00:35:59,120
+quoi.
+
+2019
+00:36:00,240 --> 00:36:01,040
+Il a eu le mal du pays.
+
+2020
+00:36:01,880 --> 00:36:02,280
+À un moment,
+
+2021
+00:36:02,480 --> 00:36:03,640
+il a refusé la vie.
+
+2022
+00:36:03,760 --> 00:36:04,500
+On était à Réatea,
+
+2023
+00:36:04,580 --> 00:36:05,260
+il est un peu plus loin
+
+2024
+00:36:05,260 --> 00:36:06,720
+et il a dormi 17h.
+
+2025
+00:36:06,800 --> 00:36:06,980
+Il a dit,
+
+2026
+00:36:07,040 --> 00:36:07,160
+moi,
+
+2027
+00:36:07,420 --> 00:36:07,860
+j'arrête,
+
+2028
+00:36:07,940 --> 00:36:08,420
+c'est plus ma guerre.
+
+2029
+00:36:08,600 --> 00:36:09,640
+On l'a perdu d'habit.
+
+2030
+00:36:09,660 --> 00:36:09,760
+Ouais,
+
+2031
+00:36:09,800 --> 00:36:09,920
+moi,
+
+2032
+00:36:09,940 --> 00:36:10,340
+je peux comprendre.
+
+2033
+00:36:10,820 --> 00:36:11,800
+C'est trop loin Tahiti,
+
+2034
+00:36:11,880 --> 00:36:12,500
+ça fait un truc bizarre.
+
+2035
+00:36:12,640 --> 00:36:12,720
+Moi,
+
+2036
+00:36:12,840 --> 00:36:13,860
+j'aime bien les Tahitiens,
+
+2037
+00:36:13,900 --> 00:36:14,400
+ils sont trop cools,
+
+2038
+00:36:14,720 --> 00:36:15,100
+mais à un moment,
+
+2039
+00:36:15,160 --> 00:36:15,600
+tu réalises,
+
+2040
+00:36:16,180 --> 00:36:17,040
+qu'est-ce que je fous là,
+
+2041
+00:36:17,100 --> 00:36:17,360
+quoi ?
+
+2042
+00:36:17,360 --> 00:36:18,400
+Si t'es pas un gros taré du surf,
+
+2043
+00:36:18,580 --> 00:36:19,200
+qu'est-ce que je fous là ?
+
+2044
+00:36:19,200 --> 00:36:19,940
+Même moi,
+
+2045
+00:36:19,960 --> 00:36:20,920
+je suis un gros taré du surf
+
+2046
+00:36:20,920 --> 00:36:21,740
+et je me disais,
+
+2047
+00:36:21,800 --> 00:36:22,480
+qu'est-ce que je fous là ?
+
+2048
+00:36:22,480 --> 00:36:23,040
+Je l'ai eu aussi,
+
+2049
+00:36:23,120 --> 00:36:23,260
+tu vois.
+
+2050
+00:36:23,260 --> 00:36:25,080
+T'es sur un caillou
+
+2051
+00:36:25,080 --> 00:36:25,880
+dans le Pacifique
+
+2052
+00:36:25,880 --> 00:36:27,180
+rempli de gens
+
+2053
+00:36:27,180 --> 00:36:27,880
+qui pourront arriver
+
+2054
+00:36:27,880 --> 00:36:28,440
+jusqu'à ce caillou
+
+2055
+00:36:28,440 --> 00:36:29,700
+sont des descendants
+
+2056
+00:36:29,700 --> 00:36:30,900
+de machines de guerre
+
+2057
+00:36:30,900 --> 00:36:31,540
+surpuissantes
+
+2058
+00:36:31,540 --> 00:36:32,140
+qui ont pagaillé
+
+2059
+00:36:32,140 --> 00:36:32,980
+des milliers de kilomètres
+
+2060
+00:36:32,980 --> 00:36:33,400
+et l'autre,
+
+2061
+00:36:33,560 --> 00:36:35,200
+il part avec sa...
+
+2062
+00:36:35,200 --> 00:36:36,980
+sa palmie l'ampère
+
+2063
+00:36:36,980 --> 00:36:37,940
+et il l'a rattrapé
+
+2064
+00:36:37,940 --> 00:36:39,040
+encore un coup d'un.
+
+2065
+00:36:39,340 --> 00:36:40,200
+Dès que je suis pas en France,
+
+2066
+00:36:40,320 --> 00:36:40,460
+maintenant,
+
+2067
+00:36:40,540 --> 00:36:41,340
+j'ai des trucs de...
+
+2068
+00:36:41,340 --> 00:36:41,560
+Des fois,
+
+2069
+00:36:41,680 --> 00:36:42,240
+je suis trop content.
+
+2070
+00:36:43,440 --> 00:36:44,180
+Quand j'étais au Canada,
+
+2071
+00:36:44,320 --> 00:36:44,740
+c'était cet été,
+
+2072
+00:36:44,840 --> 00:36:45,000
+je me disais,
+
+2073
+00:36:45,080 --> 00:36:46,420
+qu'est-ce que je fous là ?
+
+2074
+00:36:46,420 --> 00:36:46,840
+Alors que j'étais
+
+2075
+00:36:46,840 --> 00:36:47,980
+super content d'y être.
+
+2076
+00:36:48,580 --> 00:36:48,740
+Ouais,
+
+2077
+00:36:48,820 --> 00:36:49,180
+la Tahiti,
+
+2078
+00:36:49,300 --> 00:36:49,920
+c'est vraiment genre...
+
+2079
+00:36:49,920 --> 00:36:50,140
+Ouais,
+
+2080
+00:36:50,500 --> 00:36:50,900
+et surtout,
+
+2081
+00:36:51,320 --> 00:36:51,640
+un mois,
+
+2082
+00:36:51,760 --> 00:36:52,200
+parce qu'en fait,
+
+2083
+00:36:52,600 --> 00:36:53,580
+tu pars à...
+
+2084
+00:36:53,580 --> 00:36:54,660
+On a fait l'Australie avant,
+
+2085
+00:36:54,780 --> 00:36:55,480
+donc franchement,
+
+2086
+00:36:55,560 --> 00:36:56,100
+c'est long.
+
+2087
+00:36:56,420 --> 00:36:56,700
+Moi,
+
+2088
+00:36:56,800 --> 00:36:57,480
+je sais que j'ai une période
+
+2089
+00:36:57,480 --> 00:36:58,780
+où on a à peu près la même.
+
+2090
+00:36:58,840 --> 00:36:59,340
+Genre 10,
+
+2091
+00:36:59,420 --> 00:36:59,800
+12 jours,
+
+2092
+00:36:59,880 --> 00:37:00,060
+c'est vrai.
+
+2093
+00:37:01,060 --> 00:37:01,380
+Franchement,
+
+2094
+00:37:01,460 --> 00:37:02,180
+au bout du 20e,
+
+2095
+00:37:02,260 --> 00:37:02,720
+t'es là...
+
+2096
+00:37:02,720 --> 00:37:03,380
+Moi,
+
+2097
+00:37:03,460 --> 00:37:03,820
+je t'avais dit
+
+2098
+00:37:03,820 --> 00:37:04,340
+quand tu me dis
+
+2099
+00:37:04,340 --> 00:37:05,400
+que je pars si longtemps.
+
+2100
+00:37:05,760 --> 00:37:05,860
+Ouais,
+
+2101
+00:37:05,900 --> 00:37:06,240
+mais c'est dur,
+
+2102
+00:37:06,360 --> 00:37:07,220
+c'est dur d'être riche.
+
+2103
+00:37:07,680 --> 00:37:08,160
+C'est dur.
+
+2104
+00:37:08,320 --> 00:37:08,420
+Non,
+
+2105
+00:37:08,500 --> 00:37:08,820
+mais...
+
+2106
+00:37:08,820 --> 00:37:11,080
+Je suis parti travailler,
+
+2107
+00:37:11,200 --> 00:37:11,360
+les gars.
+
+2108
+00:37:11,480 --> 00:37:12,120
+Par contre,
+
+2109
+00:37:12,200 --> 00:37:12,520
+t'arrêtes maintenant.
+
+2110
+00:37:13,180 --> 00:37:13,580
+T'arrêtes,
+
+2111
+00:37:13,700 --> 00:37:14,800
+t'as fait 4 dates de merde.
+
+2112
+00:37:15,040 --> 00:37:16,120
+Il y avait combien d'Australiens ?
+
+2113
+00:37:16,120 --> 00:37:16,820
+C'est pas les vacances.
+
+2114
+00:37:16,900 --> 00:37:17,520
+Il y avait combien de Français ?
+
+2115
+00:37:17,520 --> 00:37:18,080
+J'ai travaillé,
+
+2116
+00:37:18,200 --> 00:37:19,600
+j'ai écrit un passage
+
+2117
+00:37:19,600 --> 00:37:20,560
+sur l'Australie
+
+2118
+00:37:20,560 --> 00:37:21,720
+que je vais publier bientôt.
+
+2119
+00:37:21,800 --> 00:37:22,260
+En un mois,
+
+2120
+00:37:22,360 --> 00:37:23,300
+un passage ?
+
+2121
+00:37:23,300 --> 00:37:24,080
+Et t'as fait 4 dates.
+
+2122
+00:37:24,280 --> 00:37:25,280
+4 dates ?
+
+2123
+00:37:25,280 --> 00:37:25,580
+Bah oui.
+
+2124
+00:37:25,920 --> 00:37:27,960
+T'as fait une date par semaine ?
+
+2125
+00:37:27,960 --> 00:37:28,840
+Le Tahiti
+
+2126
+00:37:28,840 --> 00:37:29,740
+que je publierai l'an prochain
+
+2127
+00:37:29,740 --> 00:37:30,640
+parce que je le garde au show
+
+2128
+00:37:30,640 --> 00:37:31,980
+pour le refaire l'an prochain à Tahiti.
+
+2129
+00:37:32,380 --> 00:37:32,500
+Non,
+
+2130
+00:37:32,600 --> 00:37:33,540
+mais j'ai pas chômé,
+
+2131
+00:37:33,620 --> 00:37:33,740
+les gars.
+
+2132
+00:37:34,200 --> 00:37:35,460
+J'ai commencé à écrire
+
+2133
+00:37:35,460 --> 00:37:36,020
+mon prochain...
+
+2134
+00:37:36,020 --> 00:37:36,180
+Oui,
+
+2135
+00:37:36,400 --> 00:37:36,940
+c'est comme moi,
+
+2136
+00:37:37,020 --> 00:37:37,620
+dans ma maison,
+
+2137
+00:37:38,480 --> 00:37:39,660
+tous les deux jours,
+
+2138
+00:37:39,720 --> 00:37:40,280
+je faisais une vidéo
+
+2139
+00:37:40,280 --> 00:37:41,240
+face-cam sur les JO
+
+2140
+00:37:41,240 --> 00:37:41,940
+et j'ai travaillé,
+
+2141
+00:37:42,000 --> 00:37:42,100
+quoi.
+
+2142
+00:37:42,220 --> 00:37:42,480
+Voilà.
+
+2143
+00:37:43,140 --> 00:37:43,380
+Finalement,
+
+2144
+00:37:43,440 --> 00:37:44,200
+j'ai jamais fait autant de vues.
+
+2145
+00:37:45,260 --> 00:37:46,100
+Quand on en a rien.
+
+2146
+00:37:46,140 --> 00:37:46,460
+C'était le seul
+
+2147
+00:37:46,460 --> 00:37:47,140
+à mon rôle de l'histoire.
+
+2148
+00:37:47,740 --> 00:37:48,060
+Ça se trouve,
+
+2149
+00:37:48,060 --> 00:37:48,640
+t'as vendu des places
+
+2150
+00:37:48,640 --> 00:37:49,120
+pour l'Européen ?
+
+2151
+00:37:49,120 --> 00:37:49,560
+Tu sais même pas,
+
+2152
+00:37:49,620 --> 00:37:49,840
+mon gars.
+
+2153
+00:37:49,940 --> 00:37:50,060
+Moi,
+
+2154
+00:37:50,080 --> 00:37:50,480
+je pense que oui.
+
+2155
+00:37:50,680 --> 00:37:50,820
+Bah,
+
+2156
+00:37:50,900 --> 00:37:51,440
+il y a pas longtemps,
+
+2157
+00:37:51,500 --> 00:37:52,220
+j'ai quand même fait une blague
+
+2158
+00:37:52,220 --> 00:37:53,500
+sur Michel Barnier et tout
+
+2159
+00:37:53,500 --> 00:37:54,120
+et j'ai eu...
+
+2160
+00:37:54,120 --> 00:37:54,280
+Bah,
+
+2161
+00:37:54,340 --> 00:37:55,280
+c'était quand même plus drôle
+
+2162
+00:37:55,280 --> 00:37:55,980
+pendant les JO
+
+2163
+00:37:55,980 --> 00:37:57,060
+et moins politique.
+
+2164
+00:37:57,380 --> 00:37:57,600
+Donc,
+
+2165
+00:37:57,660 --> 00:37:58,640
+les gens étaient furieux.
+
+2166
+00:37:58,820 --> 00:37:58,960
+En fait,
+
+2167
+00:37:59,300 --> 00:38:00,300
+ils ont juste rencontré
+
+2168
+00:38:00,300 --> 00:38:01,060
+un gars qui faisait des blagues
+
+2169
+00:38:01,060 --> 00:38:01,600
+sur le sport
+
+2170
+00:38:01,600 --> 00:38:02,420
+et ils pensaient
+
+2171
+00:38:02,420 --> 00:38:03,080
+que j'allais continuer
+
+2172
+00:38:03,080 --> 00:38:03,680
+à faire ça.
+
+2173
+00:38:04,400 --> 00:38:04,680
+Bah non,
+
+2174
+00:38:05,240 --> 00:38:05,540
+évidemment.
+
+2175
+00:38:05,760 --> 00:38:05,860
+Bah,
+
+2176
+00:38:05,860 --> 00:38:06,260
+la Barnier,
+
+2177
+00:38:06,360 --> 00:38:07,560
+je prépare un truc aussi
+
+2178
+00:38:07,560 --> 00:38:08,360
+et des choses à dire.
+
+2179
+00:38:08,560 --> 00:38:08,940
+En vrai,
+
+2180
+00:38:09,180 --> 00:38:09,820
+est-ce que t'as eu...
+
+2181
+00:38:09,820 --> 00:38:09,920
+Putain,
+
+2182
+00:38:09,920 --> 00:38:10,520
+la phrase de...
+
+2183
+00:38:10,520 --> 00:38:12,220
+Quel bléron !
+
+2184
+00:38:12,220 --> 00:38:13,300
+Ah,
+
+2185
+00:38:13,360 --> 00:38:13,540
+bah là,
+
+2186
+00:38:13,580 --> 00:38:14,200
+il y a des choses à dire.
+
+2187
+00:38:14,320 --> 00:38:15,240
+C'est marrant quand même.
+
+2188
+00:38:15,440 --> 00:38:15,960
+Il y a plein de trucs à dire.
+
+2189
+00:38:16,000 --> 00:38:16,120
+Ah,
+
+2190
+00:38:16,120 --> 00:38:16,760
+il y a des choses à dire.
+
+2191
+00:38:16,760 --> 00:38:18,340
+Est-ce que tu t'es dit
+
+2192
+00:38:18,340 --> 00:38:18,880
+je vais crever
+
+2193
+00:38:18,880 --> 00:38:19,900
+pendant quelques secondes ?
+
+2194
+00:38:19,900 --> 00:38:20,640
+Et est-ce que du coup,
+
+2195
+00:38:20,700 --> 00:38:21,440
+ça a changé ?
+
+2196
+00:38:21,440 --> 00:38:22,400
+Est-ce que t'as l'expérience
+
+2197
+00:38:22,400 --> 00:38:23,260
+maintenant de...
+
+2198
+00:38:23,260 --> 00:38:23,420
+Ah,
+
+2199
+00:38:23,480 --> 00:38:23,900
+c'est bon,
+
+2200
+00:38:24,860 --> 00:38:26,000
+j'ai capté des trucs sur le vide ?
+
+2201
+00:38:26,000 --> 00:38:26,040
+En fait,
+
+2202
+00:38:26,100 --> 00:38:26,960
+je me suis dit
+
+2203
+00:38:26,960 --> 00:38:28,900
+parce que j'ai dû être
+
+2204
+00:38:28,900 --> 00:38:31,180
+plus de 6-7 secondes
+
+2205
+00:38:31,180 --> 00:38:31,600
+sous l'eau
+
+2206
+00:38:31,600 --> 00:38:33,840
+à cause d'une vague
+
+2207
+00:38:33,840 --> 00:38:34,260
+plusieurs fois,
+
+2208
+00:38:34,340 --> 00:38:34,720
+ça m'est arrivé.
+
+2209
+00:38:35,400 --> 00:38:35,620
+Et en fait,
+
+2210
+00:38:35,680 --> 00:38:35,760
+moi,
+
+2211
+00:38:35,820 --> 00:38:36,880
+je suis...
+
+2212
+00:38:36,880 --> 00:38:38,060
+il faut être un peu apnéniste,
+
+2213
+00:38:38,180 --> 00:38:38,420
+je pense,
+
+2214
+00:38:38,500 --> 00:38:39,160
+pour aller dans des conditions
+
+2215
+00:38:39,160 --> 00:38:39,500
+comme ça.
+
+2216
+00:38:40,040 --> 00:38:40,280
+Et donc,
+
+2217
+00:38:40,360 --> 00:38:41,340
+plus de 6-7 secondes,
+
+2218
+00:38:41,420 --> 00:38:42,460
+ça commence à être très très long
+
+2219
+00:38:42,460 --> 00:38:43,280
+quand t'es soufflé
+
+2220
+00:38:43,280 --> 00:38:44,800
+et que tu te fais vraiment
+
+2221
+00:38:44,800 --> 00:38:45,480
+noyer par la vague.
+
+2222
+00:38:45,600 --> 00:38:46,400
+C'est-à-dire que tu remontes pas
+
+2223
+00:38:46,400 --> 00:38:48,260
+parce que t'as trop d'air en plus
+
+2224
+00:38:48,260 --> 00:38:49,820
+parce que c'est tout blanc,
+
+2225
+00:38:49,900 --> 00:38:50,420
+il y a plein de bulles là
+
+2226
+00:38:50,420 --> 00:38:51,060
+donc tu remontes pas
+
+2227
+00:38:51,060 --> 00:38:53,000
+et tu respires
+
+2228
+00:38:53,000 --> 00:38:54,480
+et tu te refais plonger
+
+2229
+00:38:54,480 --> 00:38:56,080
+et c'est hyper flippant
+
+2230
+00:38:56,080 --> 00:38:56,420
+et tu te dis
+
+2231
+00:38:56,420 --> 00:38:57,180
+waouh,
+
+2232
+00:38:57,200 --> 00:38:58,460
+est-ce que j'y retourne là ou pas ?
+
+2233
+00:38:58,460 --> 00:39:00,300
+C'est très flippant.
+
+2234
+00:39:00,780 --> 00:39:01,220
+Je suis retourné
+
+2235
+00:39:01,220 --> 00:39:01,920
+parce que je suis con.
+
+2236
+00:39:02,060 --> 00:39:02,180
+Ouais,
+
+2237
+00:39:02,220 --> 00:39:02,700
+t'as un problème.
+
+2238
+00:39:06,880 --> 00:39:08,060
+Tom Cruise,
+
+2239
+00:39:08,140 --> 00:39:08,880
+c'est-à-dire que t'aimes bien
+
+2240
+00:39:08,880 --> 00:39:09,900
+te mettre dans la merde.
+
+2241
+00:39:10,320 --> 00:39:11,040
+Pas me mettre dans la merde
+
+2242
+00:39:11,040 --> 00:39:11,940
+mais j'aime bien prendre des vagues
+
+2243
+00:39:11,940 --> 00:39:12,900
+et parfois les belles vagues.
+
+2244
+00:39:13,000 --> 00:39:13,480
+Tom Cruise,
+
+2245
+00:39:13,580 --> 00:39:15,020
+il passe son temps à...
+
+2246
+00:39:15,020 --> 00:39:15,960
+Le gars frôle la mort
+
+2247
+00:39:15,960 --> 00:39:17,420
+en permanence en fait.
+
+2248
+00:39:17,660 --> 00:39:18,780
+Toutes les cascades qu'il fait,
+
+2249
+00:39:19,120 --> 00:39:19,980
+c'est scandale.
+
+2250
+00:39:20,280 --> 00:39:21,680
+Il est obligé de payer l'assurance lui-même.
+
+2251
+00:39:21,760 --> 00:39:22,740
+Il peut crever tout le temps en fait.
+
+2252
+00:39:22,860 --> 00:39:23,400
+Les trucs qu'il fait,
+
+2253
+00:39:24,020 --> 00:39:24,560
+c'est des trucs...
+
+2254
+00:39:24,560 --> 00:39:26,320
+C'est toujours une sur l'autologue.
+
+2255
+00:39:26,420 --> 00:39:27,520
+Il est protégé par...
+
+2256
+00:39:27,520 --> 00:39:28,260
+Ah bah sûrement.
+
+2257
+00:39:28,260 --> 00:39:28,880
+Par Raël, je crois.
+
+2258
+00:39:29,400 --> 00:39:32,220
+Mais il y a un truc
+
+2259
+00:39:32,220 --> 00:39:33,280
+dans Mission Impossible,
+
+2260
+00:39:33,460 --> 00:39:33,820
+il saute,
+
+2261
+00:39:33,920 --> 00:39:34,900
+il rattrape un hélicoptère
+
+2262
+00:39:34,900 --> 00:39:36,080
+en moto ou un truc comme ça.
+
+2263
+00:39:36,220 --> 00:39:37,160
+Il fallait la faire une fois.
+
+2264
+00:39:37,300 --> 00:39:37,620
+Elle est bonne,
+
+2265
+00:39:37,700 --> 00:39:39,420
+tout le monde autour du plateau.
+
+2266
+00:39:39,520 --> 00:39:39,560
+On dit,
+
+2267
+00:39:39,600 --> 00:39:40,260
+putain, c'est un miracle.
+
+2268
+00:39:40,360 --> 00:39:40,480
+Il dit,
+
+2269
+00:39:40,520 --> 00:39:41,720
+on va se la refaire deux, trois fois.
+
+2270
+00:39:42,000 --> 00:39:42,360
+Parce qu'en fait,
+
+2271
+00:39:42,400 --> 00:39:42,820
+elle est bonne,
+
+2272
+00:39:42,900 --> 00:39:43,420
+mais il est fou.
+
+2273
+00:39:43,880 --> 00:39:45,060
+Il a un vrai désir
+
+2274
+00:39:45,060 --> 00:39:45,960
+de frôler la main.
+
+2275
+00:39:46,200 --> 00:39:47,000
+En plus, il a fini le jeu,
+
+2276
+00:39:47,120 --> 00:39:47,620
+il se fait chier.
+
+2277
+00:39:47,860 --> 00:39:48,420
+Ah bah là, lui,
+
+2278
+00:39:48,520 --> 00:39:48,820
+il s'enmerde.
+
+2279
+00:39:48,880 --> 00:39:49,520
+Il a tout gagné,
+
+2280
+00:39:49,600 --> 00:39:50,440
+donc là, il tente des trucs.
+
+2281
+00:39:50,620 --> 00:39:51,420
+Il y a moyen qu'il se fasse chier.
+
+2282
+00:39:51,900 --> 00:39:53,180
+Il n'était pas content au JO
+
+2283
+00:39:53,180 --> 00:39:54,360
+parce que sa cascade
+
+2284
+00:39:54,360 --> 00:39:55,820
+n'était pas assez rapide.
+
+2285
+00:39:56,280 --> 00:39:57,080
+Et lui,
+
+2286
+00:39:57,220 --> 00:39:58,760
+il doit être bien pénible.
+
+2287
+00:39:59,000 --> 00:40:00,240
+Au quotidien, là ?
+
+2288
+00:40:00,240 --> 00:40:01,120
+Oui, oui.
+
+2289
+00:40:01,120 --> 00:40:02,060
+Il doit être bien l'empêche.
+
+2290
+00:40:02,080 --> 00:40:03,200
+Mais c'est sûr qu'on a dû lui refuser.
+
+2291
+00:40:03,340 --> 00:40:04,060
+On ne voulait pas que le mec
+
+2292
+00:40:04,060 --> 00:40:05,100
+prenne le risque de se croûter
+
+2293
+00:40:05,100 --> 00:40:06,000
+devant le Stade de France.
+
+2294
+00:40:06,160 --> 00:40:06,720
+T'as la mauvaise pub.
+
+2295
+00:40:07,080 --> 00:40:07,580
+T'as Tom Cruise
+
+2296
+00:40:07,580 --> 00:40:08,740
+qui s'éclate au Stade de France.
+
+2297
+00:40:08,940 --> 00:40:09,460
+C'est un peu relou, quoi.
+
+2298
+00:40:10,160 --> 00:40:11,020
+J'ai pas vu la...
+
+2299
+00:40:11,020 --> 00:40:11,820
+Bah là, on leur a dit,
+
+2300
+00:40:11,880 --> 00:40:12,940
+eh, bonne chance, Los Angeles.
+
+2301
+00:40:13,300 --> 00:40:13,780
+Ah là, là.
+
+2302
+00:40:14,060 --> 00:40:14,580
+C'est l'égiotarique.
+
+2303
+00:40:14,580 --> 00:40:15,060
+J'ai pas vu.
+
+2304
+00:40:15,160 --> 00:40:15,500
+Qu'est-ce qu'il fait ?
+
+2305
+00:40:15,500 --> 00:40:16,800
+Il atterrissait en parachute
+
+2306
+00:40:16,800 --> 00:40:17,420
+sur le Stade de France.
+
+2307
+00:40:17,660 --> 00:40:18,860
+Il sautait du haut
+
+2308
+00:40:18,860 --> 00:40:19,700
+du Stade de France.
+
+2309
+00:40:20,120 --> 00:40:21,520
+Et après, il prenait une moto et tout.
+
+2310
+00:40:21,580 --> 00:40:22,720
+Mais lui, il voulait que ça tombe
+
+2311
+00:40:22,720 --> 00:40:24,460
+vitesse quasi réelle, tu vois.
+
+2312
+00:40:24,560 --> 00:40:24,880
+Oui, oui.
+
+2313
+00:40:24,940 --> 00:40:25,740
+Il voulait faire le ouf.
+
+2314
+00:40:25,880 --> 00:40:26,060
+Voilà.
+
+2315
+00:40:26,220 --> 00:40:27,420
+Et on lui a dit, bah, non.
+
+2316
+00:40:27,780 --> 00:40:28,860
+Et du coup, il a mal pris.
+
+2317
+00:40:29,320 --> 00:40:30,060
+Mais ils l'ont fait quand même.
+
+2318
+00:40:30,120 --> 00:40:30,660
+Ils l'ont fait en live.
+
+2319
+00:40:31,000 --> 00:40:31,780
+Oui, c'est pas ?
+
+2320
+00:40:31,780 --> 00:40:32,880
+Elle s'est rémunée de...
+
+2321
+00:40:32,880 --> 00:40:33,760
+Mais c'est à vous que j'ai pas regardé.
+
+2322
+00:40:33,960 --> 00:40:34,760
+J'ai regardé l'ouverture.
+
+2323
+00:40:34,840 --> 00:40:36,080
+Elle s'est rémunée de clôture.
+
+2324
+00:40:36,260 --> 00:40:37,200
+Est-ce qu'on peut...
+
+2325
+00:40:37,200 --> 00:40:37,880
+Je pense qu'on doit
+
+2326
+00:40:37,880 --> 00:40:39,280
+optimer à coups.
+
+2327
+00:40:39,960 --> 00:40:40,500
+Quand même,
+
+2328
+00:40:40,840 --> 00:40:42,120
+on a fait des tonnes de vues
+
+2329
+00:40:42,120 --> 00:40:42,740
+et moins,
+
+2330
+00:40:42,840 --> 00:40:43,340
+mais je l'ai fait
+
+2331
+00:40:43,340 --> 00:40:44,220
+beaucoup de fois sur ça.
+
+2332
+00:40:44,320 --> 00:40:45,440
+Mais je pense que c'est quand même
+
+2333
+00:40:45,440 --> 00:40:46,180
+une énorme...
+
+2334
+00:40:46,180 --> 00:40:47,180
+Bah, c'est passé maintenant.
+
+2335
+00:40:47,480 --> 00:40:48,140
+Mais ça a quand même été
+
+2336
+00:40:48,140 --> 00:40:48,960
+une énorme réussite
+
+2337
+00:40:48,960 --> 00:40:49,640
+à tout point de vue.
+
+2338
+00:40:49,960 --> 00:40:51,880
+Et on s'est planté sur tout, quoi.
+
+2339
+00:40:52,240 --> 00:40:52,780
+Alors, ouais.
+
+2340
+00:40:52,980 --> 00:40:53,860
+Une énorme réussite.
+
+2341
+00:40:54,040 --> 00:40:55,420
+Je m'ai agréablement surpris.
+
+2342
+00:40:55,840 --> 00:40:57,200
+Sauf que Philippe Catherine, peut-être.
+
+2343
+00:40:58,000 --> 00:40:58,560
+T'as ma grand-mère,
+
+2344
+00:40:58,660 --> 00:41:00,260
+c'est pas un truc de ouf ?
+
+2345
+00:41:00,260 --> 00:41:01,040
+Ta grand-mère, elle...
+
+2346
+00:41:01,040 --> 00:41:01,520
+Non, mais attends.
+
+2347
+00:41:01,560 --> 00:41:02,060
+Ma grand-mère,
+
+2348
+00:41:02,140 --> 00:41:03,420
+elle est quand même un peu...
+
+2349
+00:41:03,420 --> 00:41:04,280
+Et avec tous les trucs,
+
+2350
+00:41:04,360 --> 00:41:05,020
+genre Thomas VDB,
+
+2351
+00:41:05,100 --> 00:41:05,740
+elle peut pas le voir.
+
+2352
+00:41:05,920 --> 00:41:06,680
+Genre, c'est un dégueu.
+
+2353
+00:41:06,780 --> 00:41:07,480
+Donc, moi aussi.
+
+2354
+00:41:07,700 --> 00:41:08,060
+Enfin, voilà.
+
+2355
+00:41:08,060 --> 00:41:09,600
+Tous les gars un peu bizarres.
+
+2356
+00:41:09,720 --> 00:41:10,020
+Ah, toi aussi,
+
+2357
+00:41:10,060 --> 00:41:10,520
+elle t'aime pas ?
+
+2358
+00:41:10,520 --> 00:41:11,180
+Bien sûr que non.
+
+2359
+00:41:11,900 --> 00:41:13,000
+Mais elle m'a dit...
+
+2360
+00:41:13,000 --> 00:41:13,580
+Elle m'a dit...
+
+2361
+00:41:13,580 --> 00:41:14,560
+Ta grand-mère ?
+
+2362
+00:41:14,560 --> 00:41:15,560
+C'est dur, ça, quand même.
+
+2363
+00:41:15,900 --> 00:41:16,320
+Ah ouais, enfin,
+
+2364
+00:41:16,420 --> 00:41:17,500
+tant qu'elle fait du magret de canard,
+
+2365
+00:41:17,580 --> 00:41:18,000
+rien à foutre.
+
+2366
+00:41:18,900 --> 00:41:20,160
+Mais je veux dire...
+
+2367
+00:41:20,160 --> 00:41:21,240
+Mais si, elle m'aime bien,
+
+2368
+00:41:21,280 --> 00:41:22,700
+mais personnellement...
+
+2369
+00:41:22,700 --> 00:41:23,820
+Enfin, pas personnellement,
+
+2370
+00:41:23,900 --> 00:41:24,120
+justement,
+
+2371
+00:41:24,300 --> 00:41:25,720
+les blagues que je fais,
+
+2372
+00:41:25,860 --> 00:41:26,360
+ma gueule...
+
+2373
+00:41:26,360 --> 00:41:27,520
+Elle supporte pas, quoi.
+
+2374
+00:41:27,640 --> 00:41:28,180
+C'est surtout...
+
+2375
+00:41:28,180 --> 00:41:29,120
+Elle est quand même un peu réac.
+
+2376
+00:41:29,620 --> 00:41:30,600
+Elle adore Catherine.
+
+2377
+00:41:30,860 --> 00:41:31,020
+Elle dit,
+
+2378
+00:41:31,040 --> 00:41:31,480
+« Ouais, je l'aime bien.
+
+2379
+00:41:31,540 --> 00:41:32,340
+Il est décalé, ce gars.
+
+2380
+00:41:32,480 --> 00:41:33,660
+Il était à poil et tout. »
+
+2381
+00:41:38,060 --> 00:41:38,840
+T'es plus la grand-mère
+
+2382
+00:41:38,840 --> 00:41:39,320
+que je connais.
+
+2383
+00:41:39,440 --> 00:41:40,420
+Qu'est-ce qui se passe ?
+
+2384
+00:41:40,420 --> 00:41:40,760
+Et donc,
+
+2385
+00:41:40,920 --> 00:41:41,660
+bon, bah, apparemment,
+
+2386
+00:41:41,720 --> 00:41:42,180
+les drag queens
+
+2387
+00:41:42,180 --> 00:41:42,800
+et Philippe Catherine,
+
+2388
+00:41:42,920 --> 00:41:43,520
+c'est gros, oui, quoi.
+
+2389
+00:41:43,560 --> 00:41:43,920
+Mais attends,
+
+2390
+00:41:43,980 --> 00:41:46,020
+dans la famille Erédon,
+
+2391
+00:41:46,120 --> 00:41:47,700
+la cérémonie d'ouverture,
+
+2392
+00:41:47,740 --> 00:41:48,340
+elle n'a pas dû passer.
+
+2393
+00:41:48,520 --> 00:41:49,260
+Non, elle n'était pas ensemble.
+
+2394
+00:41:49,780 --> 00:41:50,320
+Oui, bah,
+
+2395
+00:41:50,380 --> 00:41:52,120
+je pense que ça ne serait pas passé.
+
+2396
+00:41:52,440 --> 00:41:53,300
+Non, je n'ai pas regardé.
+
+2397
+00:41:53,320 --> 00:41:54,100
+Non, parce que les gens ont dit
+
+2398
+00:41:54,100 --> 00:41:55,140
+qu'il y a beaucoup de religieux
+
+2399
+00:41:55,140 --> 00:41:55,480
+qui sont énervés.
+
+2400
+00:41:55,580 --> 00:41:56,540
+On voit que ça parodiait la scène.
+
+2401
+00:41:56,620 --> 00:41:57,240
+Mais déjà, la scène,
+
+2402
+00:41:57,340 --> 00:41:58,160
+c'est déjà un tableau
+
+2403
+00:41:58,160 --> 00:41:58,840
+qui n'est pas dans la Bible.
+
+2404
+00:41:58,940 --> 00:41:59,360
+Et en plus,
+
+2405
+00:41:59,360 --> 00:42:00,260
+ça avait déjà été parodié
+
+2406
+00:42:00,260 --> 00:42:00,740
+des milliers de fois.
+
+2407
+00:42:00,820 --> 00:42:01,560
+Mais c'est vrai que les 14
+
+2408
+00:42:01,560 --> 00:42:02,300
+sont beaucoup énervés
+
+2409
+00:42:02,300 --> 00:42:02,880
+sur la scène.
+
+2410
+00:42:04,120 --> 00:42:04,960
+C'est vrai que les 14
+
+2411
+00:42:04,960 --> 00:42:05,820
+sont beaucoup énervés
+
+2412
+00:42:05,820 --> 00:42:06,200
+sur la scène.
+
+2413
+00:42:06,200 --> 00:42:06,620
+Alors que la scène,
+
+2414
+00:42:06,720 --> 00:42:07,400
+c'est déjà un tableau.
+
+2415
+00:42:07,520 --> 00:42:08,440
+Ça n'a rien à voir, en fait.
+
+2416
+00:42:08,620 --> 00:42:09,400
+Déjà une interprétation.
+
+2417
+00:42:10,220 --> 00:42:10,680
+En gros,
+
+2418
+00:42:10,720 --> 00:42:11,780
+ils ont mis des drag queens
+
+2419
+00:42:11,780 --> 00:42:12,600
+pour refaire la scène.
+
+2420
+00:42:12,620 --> 00:42:12,900
+C'est un délire
+
+2421
+00:42:12,900 --> 00:42:13,560
+que ce n'est pas la scène.
+
+2422
+00:42:13,900 --> 00:42:14,420
+C'est la scène.
+
+2423
+00:42:14,460 --> 00:42:14,720
+Ah, voilà.
+
+2424
+00:42:14,920 --> 00:42:16,580
+C'est le machin de Bacchus, là.
+
+2425
+00:42:16,580 --> 00:42:17,280
+Il disait que...
+
+2426
+00:42:17,280 --> 00:42:17,700
+Je ne sais pas.
+
+2427
+00:42:18,060 --> 00:42:19,460
+Parce que la scène,
+
+2428
+00:42:19,640 --> 00:42:20,220
+à la base,
+
+2429
+00:42:21,220 --> 00:42:22,660
+ça a été...
+
+2430
+00:42:22,660 --> 00:42:23,440
+Comment parler ?
+
+2431
+00:42:23,440 --> 00:42:24,060
+Regarde, voilà,
+
+2432
+00:42:24,060 --> 00:42:24,900
+on débriefe un truc
+
+2433
+00:42:24,900 --> 00:42:25,420
+d'il y a deux mois.
+
+2434
+00:42:25,700 --> 00:42:26,880
+Non, mais c'est toujours
+
+2435
+00:42:26,880 --> 00:42:27,820
+un peu d'actu.
+
+2436
+00:42:28,320 --> 00:42:29,340
+Pourquoi ça a fait polémique ?
+
+2437
+00:42:29,340 --> 00:42:29,780
+Parce que c'était
+
+2438
+00:42:29,780 --> 00:42:30,380
+des drag queens.
+
+2439
+00:42:30,600 --> 00:42:31,280
+C'est vrai que tu aurais pu
+
+2440
+00:42:31,280 --> 00:42:32,300
+mettre n'importe quoi d'autre.
+
+2441
+00:42:32,480 --> 00:42:33,060
+Peut-être que ça aurait...
+
+2442
+00:42:33,060 --> 00:42:33,440
+Mais oui !
+
+2443
+00:42:33,440 --> 00:42:34,920
+N'importe qui d'autre,
+
+2444
+00:42:35,020 --> 00:42:35,300
+Frangeau.
+
+2445
+00:42:35,560 --> 00:42:36,380
+Allez !
+
+2446
+00:42:36,380 --> 00:42:36,940
+C'est pas grave.
+
+2447
+00:42:37,320 --> 00:42:38,720
+N'importe qui d'autre !
+
+2448
+00:42:38,720 --> 00:42:39,600
+Qui d'autre !
+
+2449
+00:42:39,600 --> 00:42:40,400
+Le reste des personnes !
+
+2450
+00:42:40,400 --> 00:42:41,260
+Qui, qui, qui !
+
+2451
+00:42:41,260 --> 00:42:42,320
+Après, c'est pas ma grand-mère.
+
+2452
+00:42:42,520 --> 00:42:43,340
+C'est étonnant, mais c'est...
+
+2453
+00:42:43,340 --> 00:42:43,620
+Je garde.
+
+2454
+00:42:43,620 --> 00:42:44,640
+Tu peux le garder.
+
+2455
+00:42:44,900 --> 00:42:45,620
+On va le garder aussi.
+
+2456
+00:42:45,700 --> 00:42:46,420
+On va bien le mettre en ligne,
+
+2457
+00:42:46,420 --> 00:42:47,140
+le petit dérapage.
+
+2458
+00:42:47,160 --> 00:42:47,460
+T'inquiète, t'inquiète.
+
+2459
+00:42:47,660 --> 00:42:48,560
+Non, mais c'était la drag queen,
+
+2460
+00:42:48,640 --> 00:42:49,220
+mais bon, il aurait pu...
+
+2461
+00:42:49,220 --> 00:42:50,280
+En gros, on porte quoi d'autre ?
+
+2462
+00:42:50,280 --> 00:42:51,880
+Moi, j'ai vu la cérémonie d'ouverture.
+
+2463
+00:42:53,560 --> 00:42:54,740
+J'ai...
+
+2464
+00:42:54,740 --> 00:42:55,720
+Alors, au risque de paraître
+
+2465
+00:42:55,720 --> 00:42:56,620
+un peu réac,
+
+2466
+00:42:56,680 --> 00:42:57,080
+il y a deux choses
+
+2467
+00:42:57,080 --> 00:42:57,580
+qui m'ont gêné.
+
+2468
+00:42:57,700 --> 00:42:58,580
+Je trouve qu'on voyait
+
+2469
+00:42:58,580 --> 00:43:00,720
+trop les drag queens.
+
+2470
+00:43:01,080 --> 00:43:01,160
+Voilà.
+
+2471
+00:43:01,720 --> 00:43:02,360
+D'accord, on réveille.
+
+2472
+00:43:02,660 --> 00:43:03,480
+Mais trop le cheval.
+
+2473
+00:43:04,140 --> 00:43:04,960
+Ah, le cheval !
+
+2474
+00:43:04,960 --> 00:43:06,500
+Ah oui, ça, c'est ta communauté !
+
+2475
+00:43:06,500 --> 00:43:08,000
+Tout le monde est au présent !
+
+2476
+00:43:08,000 --> 00:43:09,360
+C'est marrant, c'est pour toi, ça !
+
+2477
+00:43:09,360 --> 00:43:10,020
+Attends, laisse-moi finir !
+
+2478
+00:43:10,020 --> 00:43:10,900
+Je dis ça, on me dit
+
+2479
+00:43:10,900 --> 00:43:12,660
+« Ouais, t'es transphobe et tout ! »
+
+2480
+00:43:12,660 --> 00:43:13,360
+Et j'ai dit...
+
+2481
+00:43:13,360 --> 00:43:14,220
+Mais drag queen et trans,
+
+2482
+00:43:14,300 --> 00:43:15,040
+c'est pas la même chose !
+
+2483
+00:43:15,040 --> 00:43:17,300
+Non, c'est transgenre
+
+2484
+00:43:17,300 --> 00:43:18,000
+ou drag queen, voilà.
+
+2485
+00:43:18,520 --> 00:43:19,160
+Alors, c'est pas du tout
+
+2486
+00:43:19,160 --> 00:43:19,620
+la même chose.
+
+2487
+00:43:19,720 --> 00:43:20,080
+Il y a les deux.
+
+2488
+00:43:21,120 --> 00:43:21,960
+C'est pas comparable.
+
+2489
+00:43:22,120 --> 00:43:22,800
+Il y a les deux, il y a les deux.
+
+2490
+00:43:22,980 --> 00:43:23,500
+Dans le truc.
+
+2491
+00:43:23,600 --> 00:43:24,100
+Oui, il y a les deux.
+
+2492
+00:43:24,200 --> 00:43:25,480
+Il y a aussi des tomates
+
+2493
+00:43:25,480 --> 00:43:26,600
+et des chiens.
+
+2494
+00:43:26,820 --> 00:43:27,300
+Mais ça n'a rien à voir.
+
+2495
+00:43:27,320 --> 00:43:28,080
+Là, il a raison, il y avait tout.
+
+2496
+00:43:28,920 --> 00:43:29,480
+Il y avait les deux.
+
+2497
+00:43:29,680 --> 00:43:30,320
+Les communautés des chevaux.
+
+2498
+00:43:30,320 --> 00:43:31,640
+SGMT qui étaient représentés.
+
+2499
+00:43:31,700 --> 00:43:32,140
+Je trouvais qu'il y avait
+
+2500
+00:43:32,140 --> 00:43:33,740
+trop ça et trop le cheval.
+
+2501
+00:43:34,320 --> 00:43:34,940
+Et on m'a dit
+
+2502
+00:43:34,940 --> 00:43:36,700
+« T'es transphobe, j'ai l'hiver. »
+
+2503
+00:43:36,700 --> 00:43:37,780
+Je pense la même chose
+
+2504
+00:43:37,780 --> 00:43:38,420
+du cheval, tu vois.
+
+2505
+00:43:38,920 --> 00:43:40,000
+Je suis pas chevalophobe.
+
+2506
+00:43:40,120 --> 00:43:40,840
+Pour autant, c'est juste que
+
+2507
+00:43:40,840 --> 00:43:41,840
+je trouve qu'on les voyait trop.
+
+2508
+00:43:42,800 --> 00:43:43,940
+Ils étaient trop là, quoi.
+
+2509
+00:43:44,380 --> 00:43:45,580
+Le cheval aussi, c'était chiant.
+
+2510
+00:43:45,800 --> 00:43:46,500
+Je crois qu'il l'a dit,
+
+2511
+00:43:46,700 --> 00:43:48,180
+le mec Thomas Jolie,
+
+2512
+00:43:48,260 --> 00:43:48,880
+il a dit que c'est pas lui
+
+2513
+00:43:48,880 --> 00:43:49,880
+qui gérait la réalisation
+
+2514
+00:43:49,880 --> 00:43:50,620
+et qui dit que oui,
+
+2515
+00:43:50,700 --> 00:43:51,260
+ils ont passé un peu
+
+2516
+00:43:51,260 --> 00:43:52,260
+trop de temps sur le...
+
+2517
+00:43:52,260 --> 00:43:53,480
+Ils se sont même banqués, quoi.
+
+2518
+00:43:53,860 --> 00:43:54,880
+Ils se sont même dégoûtés.
+
+2519
+00:43:55,360 --> 00:43:56,040
+Parce qu'en fait,
+
+2520
+00:43:56,900 --> 00:43:58,000
+par rapport à ce que...
+
+2521
+00:43:58,000 --> 00:43:58,900
+Mais il y a quand même
+
+2522
+00:43:58,900 --> 00:44:00,240
+deux personnes qui sont dégoûtées.
+
+2523
+00:44:00,340 --> 00:44:00,840
+Il y a déjà...
+
+2524
+00:44:00,840 --> 00:44:01,880
+Il faut te dire que les gens
+
+2525
+00:44:01,880 --> 00:44:02,840
+qui ont payé...
+
+2526
+00:44:02,840 --> 00:44:03,400
+Les pompiers aussi,
+
+2527
+00:44:03,480 --> 00:44:04,100
+on les a pas filmés.
+
+2528
+00:44:04,180 --> 00:44:05,420
+Le BMX, on les a pas filmés.
+
+2529
+00:44:05,820 --> 00:44:06,540
+Mais ça, c'était la pluie.
+
+2530
+00:44:06,620 --> 00:44:08,200
+C'est parce qu'il s'était préenregistré.
+
+2531
+00:44:09,160 --> 00:44:09,840
+Je crois qu'on a pas trop vu
+
+2532
+00:44:09,840 --> 00:44:11,100
+le danseur de l'autorat
+
+2533
+00:44:11,100 --> 00:44:12,140
+qui dansait là-haut sur le mans
+
+2534
+00:44:12,140 --> 00:44:12,800
+en la vue de seconde.
+
+2535
+00:44:12,860 --> 00:44:13,220
+Ouais, voilà.
+
+2536
+00:44:13,240 --> 00:44:14,020
+Lui, il dansait vraiment.
+
+2537
+00:44:14,300 --> 00:44:14,600
+Ouais, ouais.
+
+2538
+00:44:14,720 --> 00:44:15,760
+Donc tu peux te dire
+
+2539
+00:44:15,760 --> 00:44:16,700
+« Ok, il y a quand même
+
+2540
+00:44:16,700 --> 00:44:19,240
+un déséquilibre sur les gens
+
+2541
+00:44:19,240 --> 00:44:20,000
+qui sont filmés. »
+
+2542
+00:44:20,000 --> 00:44:21,160
+Donc je comprends
+
+2543
+00:44:21,160 --> 00:44:22,220
+que ça puisse faire polémique.
+
+2544
+00:44:22,220 --> 00:44:23,180
+Mais bon, ça s'est bien passé.
+
+2545
+00:44:23,640 --> 00:44:25,260
+Donc, il y ait des accusations
+
+2546
+00:44:25,260 --> 00:44:25,780
+de...
+
+2547
+00:44:25,780 --> 00:44:27,160
+Évidemment, oui.
+
+2548
+00:44:27,300 --> 00:44:29,680
+Est-ce que c'est pas un peu woke ?
+
+2549
+00:44:29,680 --> 00:44:30,960
+C'était les Jeux de Paris, mec.
+
+2550
+00:44:31,120 --> 00:44:31,760
+C'était pas les Jeux...
+
+2551
+00:44:31,760 --> 00:44:32,220
+Pour le coup,
+
+2552
+00:44:33,360 --> 00:44:35,440
+Paris, c'est une...
+
+2553
+00:44:35,440 --> 00:44:37,380
+Enfin, ça me paraissait normal, moi.
+
+2554
+00:44:37,600 --> 00:44:38,560
+Enfin, j'ai pas trouvé
+
+2555
+00:44:38,560 --> 00:44:39,460
+que ça était disproportionné.
+
+2556
+00:44:39,540 --> 00:44:40,200
+Je trouve que justement,
+
+2557
+00:44:40,260 --> 00:44:41,840
+ils ont bien mis pour tout le monde.
+
+2558
+00:44:42,120 --> 00:44:42,840
+Un peu d'arabe.
+
+2559
+00:44:42,860 --> 00:44:43,300
+On va dire ça.
+
+2560
+00:44:43,300 --> 00:44:43,700
+Un peu...
+
+2561
+00:44:43,700 --> 00:44:44,680
+Un peu...
+
+2562
+00:44:44,680 --> 00:44:45,640
+Mais si, ils ont été filmés.
+
+2563
+00:44:45,640 --> 00:44:46,420
+Il y a eu les pompiers.
+
+2564
+00:44:46,520 --> 00:44:47,580
+Il y a eu la garde républicaine.
+
+2565
+00:44:47,980 --> 00:44:49,100
+Moi, je trouve qu'ils ont été bons
+
+2566
+00:44:49,100 --> 00:44:49,780
+dans le fait de...
+
+2567
+00:44:49,780 --> 00:44:50,640
+On va en mettre un petit peu
+
+2568
+00:44:50,640 --> 00:44:51,000
+pour tout le monde.
+
+2569
+00:44:51,100 --> 00:44:52,540
+Voir, c'était tellement calculé.
+
+2570
+00:44:52,540 --> 00:44:53,220
+C'était long,
+
+2571
+00:44:53,320 --> 00:44:54,620
+le temps de diffusion du...
+
+2572
+00:44:54,620 --> 00:44:55,020
+C'était long,
+
+2573
+00:44:55,200 --> 00:44:55,920
+mais je trouve que
+
+2574
+00:44:55,920 --> 00:44:56,520
+trop de cheval
+
+2575
+00:44:56,520 --> 00:44:58,540
+et trop de...
+
+2576
+00:44:58,540 --> 00:44:59,700
+de couillère.
+
+2577
+00:44:59,840 --> 00:45:01,320
+Et le métal, ça t'allait ?
+
+2578
+00:45:01,320 --> 00:45:01,800
+Trop long, le cheval.
+
+2579
+00:45:01,800 --> 00:45:02,420
+Et le métal, j'ai bien.
+
+2580
+00:45:02,800 --> 00:45:03,280
+C'était bien.
+
+2581
+00:45:03,540 --> 00:45:04,280
+C'était stylé avec Gauss.
+
+2582
+00:45:04,280 --> 00:45:04,940
+Ça m'a fait du bien.
+
+2583
+00:45:05,220 --> 00:45:05,680
+Ça m'a fait du bien.
+
+2584
+00:45:06,320 --> 00:45:06,960
+Non, c'était très bien.
+
+2585
+00:45:07,000 --> 00:45:07,220
+C'était joli.
+
+2586
+00:45:07,320 --> 00:45:08,120
+Non, mais c'était cool quand même.
+
+2587
+00:45:08,160 --> 00:45:09,260
+En vrai, ça c'est quand même...
+
+2588
+00:45:09,260 --> 00:45:10,200
+Bon, on a beaucoup chié.
+
+2589
+00:45:10,940 --> 00:45:11,980
+Globalement, ça s'est bien passé.
+
+2590
+00:45:12,140 --> 00:45:12,720
+Et les mecs
+
+2591
+00:45:12,720 --> 00:45:13,420
+qui ont âgé dans la scène
+
+2592
+00:45:13,420 --> 00:45:14,240
+ne sont pas encore morts.
+
+2593
+00:45:14,540 --> 00:45:15,640
+On attend encore les résultats.
+
+2594
+00:45:15,720 --> 00:45:16,440
+Attends, mais il y a des gens
+
+2595
+00:45:16,440 --> 00:45:17,160
+qui sont malades, c'est ça ?
+
+2596
+00:45:17,160 --> 00:45:17,980
+Oui, il y a eu des malades, oui.
+
+2597
+00:45:18,340 --> 00:45:18,600
+Évidemment.
+
+2598
+00:45:19,180 --> 00:45:20,100
+On a été très médidant,
+
+2599
+00:45:20,160 --> 00:45:20,720
+mais c'est ça qui marche.
+
+2600
+00:45:20,800 --> 00:45:21,160
+Les gens aiment bien
+
+2601
+00:45:21,160 --> 00:45:22,020
+quand on chine sur des trucs.
+
+2602
+00:45:22,380 --> 00:45:22,960
+Mais oui, bien sûr,
+
+2603
+00:45:23,020 --> 00:45:23,860
+on continuera à le faire.
+
+2604
+00:45:24,280 --> 00:45:24,800
+Bien sûr, oui.
+
+2605
+00:45:24,940 --> 00:45:25,660
+C'est à n'importe quel point.
+
+2606
+00:45:25,660 --> 00:45:27,200
+Bravo Tony Estanguet.
+
+2607
+00:45:27,560 --> 00:45:28,300
+Bravo toute l'organisation.
+
+2608
+00:45:28,300 --> 00:45:28,700
+Non, il a géré.
+
+2609
+00:45:28,820 --> 00:45:29,480
+Et les Paralympiques,
+
+2610
+00:45:29,520 --> 00:45:30,040
+vous avez guetté un peu ?
+
+2611
+00:45:30,040 --> 00:45:31,040
+Petit pari sur Tony Estanguet,
+
+2612
+00:45:31,120 --> 00:45:31,260
+je pense,
+
+2613
+00:45:31,380 --> 00:45:33,020
+futur ministre des sports.
+
+2614
+00:45:33,220 --> 00:45:34,620
+Et son discours était pas mal.
+
+2615
+00:45:35,100 --> 00:45:35,720
+Moi, j'aime bien Tony.
+
+2616
+00:45:36,240 --> 00:45:36,900
+Et Zébaud,
+
+2617
+00:45:37,160 --> 00:45:37,940
+il me présente bien
+
+2618
+00:45:37,940 --> 00:45:38,580
+et tout, il est beau.
+
+2619
+00:45:39,100 --> 00:45:40,620
+Il est politicien,
+
+2620
+00:45:40,680 --> 00:45:41,320
+du coup, automatiquement.
+
+2621
+00:45:41,460 --> 00:45:42,080
+Ah ben, le CIO,
+
+2622
+00:45:42,240 --> 00:45:43,260
+c'est une organisation politique.
+
+2623
+00:45:43,580 --> 00:45:43,700
+Mais non.
+
+2624
+00:45:43,760 --> 00:45:44,460
+Je pense qu'il est
+
+2625
+00:45:44,460 --> 00:45:45,680
+futur ministre des sports.
+
+2626
+00:45:45,780 --> 00:45:46,680
+Ça, ça me paraît assez évident.
+
+2627
+00:45:47,420 --> 00:45:48,060
+Et Paralympiques,
+
+2628
+00:45:48,140 --> 00:45:48,740
+oui, j'y suis allé.
+
+2629
+00:45:48,840 --> 00:45:49,140
+J'ai vu.
+
+2630
+00:45:49,360 --> 00:45:49,740
+Il y a la base,
+
+2631
+00:45:49,840 --> 00:45:50,360
+il fait kayak.
+
+2632
+00:45:50,600 --> 00:45:50,880
+C'est beau.
+
+2633
+00:45:50,960 --> 00:45:52,060
+J'ai vu tennis fauteuil
+
+2634
+00:45:52,060 --> 00:45:53,200
+et basket fauteuil.
+
+2635
+00:45:53,380 --> 00:45:54,000
+Les deux, trop bien.
+
+2636
+00:45:54,560 --> 00:45:55,560
+Je pense,
+
+2637
+00:45:55,660 --> 00:45:56,540
+j'ai dit dans un podcast,
+
+2638
+00:45:56,740 --> 00:45:58,300
+qu'il y a un gars
+
+2639
+00:45:58,300 --> 00:45:59,100
+du basket fauteuil
+
+2640
+00:45:59,100 --> 00:46:00,120
+qui est totalement valide
+
+2641
+00:46:00,120 --> 00:46:01,280
+car il a mis 35 points.
+
+2642
+00:46:01,400 --> 00:46:01,620
+Et en fait,
+
+2643
+00:46:01,660 --> 00:46:02,440
+on m'a dit que dans les équipes,
+
+2644
+00:46:02,440 --> 00:46:04,380
+il y a des quasi-valideurs.
+
+2645
+00:46:04,440 --> 00:46:04,980
+T'as vu les...
+
+2646
+00:46:04,980 --> 00:46:06,040
+Oui, parce qu'en fait,
+
+2647
+00:46:06,100 --> 00:46:06,660
+c'est par points.
+
+2648
+00:46:06,980 --> 00:46:07,880
+C'est un peu comme un jeu
+
+2649
+00:46:07,880 --> 00:46:08,240
+de...
+
+2650
+00:46:08,240 --> 00:46:09,380
+C'est un peu comme un jeu
+
+2651
+00:46:09,380 --> 00:46:10,300
+de quand tu te fais une équipe
+
+2652
+00:46:10,300 --> 00:46:10,960
+à Final Fantasy.
+
+2653
+00:46:11,340 --> 00:46:12,000
+En fait, t'as le droit
+
+2654
+00:46:12,000 --> 00:46:13,180
+à un certain nombre de points.
+
+2655
+00:46:13,640 --> 00:46:14,540
+Donc, t'as un gars super...
+
+2656
+00:46:14,540 --> 00:46:15,180
+La rêve de geek,
+
+2657
+00:46:15,320 --> 00:46:15,840
+je l'ai pas du tout.
+
+2658
+00:46:15,920 --> 00:46:17,160
+Non, mais n'importe quel jeu
+
+2659
+00:46:17,160 --> 00:46:18,280
+où tu te fais une équipe
+
+2660
+00:46:18,280 --> 00:46:18,720
+et t'as le droit
+
+2661
+00:46:18,720 --> 00:46:19,540
+à un certain nombre de points.
+
+2662
+00:46:19,640 --> 00:46:20,020
+Donc, tu peux avoir
+
+2663
+00:46:20,020 --> 00:46:20,800
+un gars très fort,
+
+2664
+00:46:20,900 --> 00:46:21,640
+un gars très diminué.
+
+2665
+00:46:21,740 --> 00:46:22,580
+En fait, il y a un...
+
+2666
+00:46:22,580 --> 00:46:22,940
+Mais c'est vrai,
+
+2667
+00:46:23,000 --> 00:46:23,420
+c'est au point.
+
+2668
+00:46:23,660 --> 00:46:24,140
+Tu peux pas avoir
+
+2669
+00:46:24,140 --> 00:46:24,960
+plus de 8 points
+
+2670
+00:46:24,960 --> 00:46:25,940
+sur le terrain en même temps.
+
+2671
+00:46:26,080 --> 00:46:27,100
+Donc, tu peux pas avoir
+
+2672
+00:46:27,100 --> 00:46:28,180
+tes 4 diminués
+
+2673
+00:46:28,180 --> 00:46:29,260
+ou tes 4 trop forts
+
+2674
+00:46:29,260 --> 00:46:29,720
+en même temps.
+
+2675
+00:46:30,040 --> 00:46:30,300
+Tu peux mettre
+
+2676
+00:46:30,300 --> 00:46:30,980
+tes 4 diminués.
+
+2677
+00:46:31,040 --> 00:46:31,600
+Ah, tu peux, oui.
+
+2678
+00:46:31,760 --> 00:46:32,360
+C'est très con.
+
+2679
+00:46:32,440 --> 00:46:33,040
+Mais tu peux pas
+
+2680
+00:46:33,040 --> 00:46:33,760
+mettre tes 4 plus fort.
+
+2681
+00:46:33,800 --> 00:46:34,740
+Putain, j'ai eu...
+
+2682
+00:46:34,740 --> 00:46:35,920
+Et je peux le dire...
+
+2683
+00:46:35,920 --> 00:46:37,500
+J'ai fait un...
+
+2684
+00:46:37,500 --> 00:46:38,180
+Pas un lapsus,
+
+2685
+00:46:38,260 --> 00:46:38,540
+vous voyez, voilà.
+
+2686
+00:46:39,260 --> 00:46:40,020
+Genre, j'ai dû le dire au moins
+
+2687
+00:46:40,020 --> 00:46:41,900
+20 fois pendant les Jeux Paralympiques.
+
+2688
+00:46:42,620 --> 00:46:43,240
+Quand je parlais
+
+2689
+00:46:43,240 --> 00:46:43,940
+des Jeux Paralympiques,
+
+2690
+00:46:44,020 --> 00:46:45,040
+je disais...
+
+2691
+00:46:45,040 --> 00:46:47,600
+Je parlais des Jeux Paralympiques
+
+2692
+00:46:47,600 --> 00:46:47,940
+et après,
+
+2693
+00:46:48,020 --> 00:46:48,680
+je faisais référence
+
+2694
+00:46:48,680 --> 00:46:50,360
+aux Jeux Olympiques.
+
+2695
+00:46:51,160 --> 00:46:51,460
+Et je disais,
+
+2696
+00:46:51,520 --> 00:46:52,140
+ah, c'est comme
+
+2697
+00:46:52,140 --> 00:46:52,800
+aux Jeux Olympiques.
+
+2698
+00:46:52,920 --> 00:46:53,400
+Et au lieu de dire
+
+2699
+00:46:53,400 --> 00:46:54,040
+juste aux Jeux Olympiques,
+
+2700
+00:46:54,120 --> 00:46:54,320
+je disais,
+
+2701
+00:46:54,400 --> 00:46:55,480
+aux Jeux Olympiques normaux.
+
+2702
+00:46:57,460 --> 00:46:58,240
+Et je l'ai fait
+
+2703
+00:46:58,240 --> 00:46:59,160
+plein de fois
+
+2704
+00:46:59,160 --> 00:47:00,220
+et je m'excuse.
+
+2705
+00:47:00,500 --> 00:47:01,080
+Ouais, je l'ai fait...
+
+2706
+00:47:01,080 --> 00:47:02,300
+Non, mais comme ça,
+
+2707
+00:47:02,400 --> 00:47:02,800
+avec les gens
+
+2708
+00:47:02,800 --> 00:47:03,280
+avec qui je parlais.
+
+2709
+00:47:03,420 --> 00:47:04,260
+Ah, bah, c'est pas filmé, ça.
+
+2710
+00:47:04,620 --> 00:47:05,080
+Bah, là, maintenant,
+
+2711
+00:47:05,120 --> 00:47:05,420
+c'est filmé.
+
+2712
+00:47:06,860 --> 00:47:07,560
+Mais non, mais en plus,
+
+2713
+00:47:07,720 --> 00:47:08,620
+moi, j'ai vraiment...
+
+2714
+00:47:08,620 --> 00:47:10,340
+Le gars qui se concelle
+
+2715
+00:47:10,340 --> 00:47:11,020
+lui-même, au fait,
+
+2716
+00:47:11,120 --> 00:47:12,040
+j'ai dit plein de merde.
+
+2717
+00:47:12,440 --> 00:47:13,240
+En plus, j'ai vraiment kiffé
+
+2718
+00:47:13,240 --> 00:47:13,740
+les Paralympiques.
+
+2719
+00:47:13,840 --> 00:47:14,680
+Alors, j'ai pas autant regardé
+
+2720
+00:47:14,680 --> 00:47:15,540
+parce qu'ils sont un peu cons.
+
+2721
+00:47:15,620 --> 00:47:16,040
+Ils l'ont mis pendant
+
+2722
+00:47:16,040 --> 00:47:17,380
+que les gens, ils retravaillent.
+
+2723
+00:47:17,400 --> 00:47:17,600
+Ouais.
+
+2724
+00:47:18,260 --> 00:47:18,520
+Mais il y a...
+
+2725
+00:47:18,520 --> 00:47:18,640
+En même temps,
+
+2726
+00:47:18,740 --> 00:47:19,620
+est-ce que ça a fait polémique,
+
+2727
+00:47:19,700 --> 00:47:19,960
+ça aussi ?
+
+2728
+00:47:19,960 --> 00:47:20,520
+Est-ce que tu peux le mettre
+
+2729
+00:47:20,520 --> 00:47:21,500
+en même temps que tout le monde ?
+
+2730
+00:47:21,500 --> 00:47:21,840
+J'ai l'impression
+
+2731
+00:47:21,840 --> 00:47:23,080
+que c'est une énorme galère déjà.
+
+2732
+00:47:23,300 --> 00:47:23,920
+Fallait le mettre avant.
+
+2733
+00:47:24,000 --> 00:47:24,520
+Tu le mets avant ?
+
+2734
+00:47:24,520 --> 00:47:25,500
+En vrai, fallait le mettre avant.
+
+2735
+00:47:25,560 --> 00:47:26,140
+Faut le mettre avant, je pense.
+
+2736
+00:47:26,140 --> 00:47:26,500
+Et par contre,
+
+2737
+00:47:26,560 --> 00:47:27,400
+il y a de la médaille à gratter.
+
+2738
+00:47:27,580 --> 00:47:28,260
+Parce qu'il y a des trucs
+
+2739
+00:47:28,260 --> 00:47:29,320
+où genre, ils sont quatre.
+
+2740
+00:47:30,240 --> 00:47:31,280
+Tu sais, vu qu'il y a plein de catégories,
+
+2741
+00:47:31,320 --> 00:47:31,760
+ils sont quatre.
+
+2742
+00:47:32,160 --> 00:47:32,960
+Donc, t'as une chance sur quatre
+
+2743
+00:47:32,960 --> 00:47:33,920
+de taper la médaille d'or.
+
+2744
+00:47:34,060 --> 00:47:34,480
+J'ai entendu.
+
+2745
+00:47:34,480 --> 00:47:35,580
+Et c'est 80 000 balles en français.
+
+2746
+00:47:35,580 --> 00:47:37,100
+J'ai entendu dans une file d'attente
+
+2747
+00:47:37,100 --> 00:47:38,500
+à Paris, un mec dire
+
+2748
+00:47:38,500 --> 00:47:40,220
+« Il faut que je me trouve un handicap. »
+
+2749
+00:47:40,220 --> 00:47:40,580
+Attends.
+
+2750
+00:47:40,580 --> 00:47:41,940
+Je te jure, j'ai entendu un mec dire
+
+2751
+00:47:41,940 --> 00:47:42,860
+« Il faut que je me trouve. »
+
+2752
+00:47:42,860 --> 00:47:43,380
+Il parle à son pas,
+
+2753
+00:47:43,420 --> 00:47:44,080
+« Il faut que je me trouve un handicap. »
+
+2754
+00:47:44,080 --> 00:47:44,520
+Il y a une catégorie
+
+2755
+00:47:44,520 --> 00:47:45,660
+moins de 75 de cuillère.
+
+2756
+00:47:45,720 --> 00:47:46,280
+Allez !
+
+2757
+00:47:46,280 --> 00:47:47,280
+Ah !
+
+2758
+00:47:48,040 --> 00:47:49,340
+Non, mais tu sais que...
+
+2759
+00:47:49,340 --> 00:47:49,960
+Tu as vu l'histoire
+
+2760
+00:47:49,960 --> 00:47:50,860
+de l'équipe d'Espagne
+
+2761
+00:47:50,860 --> 00:47:52,320
+qui a triché en 2000 ?
+
+2762
+00:47:52,320 --> 00:47:52,500
+Oui.
+
+2763
+00:47:53,040 --> 00:47:54,460
+Genre l'équipe de basket d'Espagne,
+
+2764
+00:47:54,560 --> 00:47:55,540
+ils gagnent.
+
+2765
+00:47:55,940 --> 00:47:56,480
+Parce que c'était
+
+2766
+00:47:56,480 --> 00:47:57,060
+l'équipe de basket
+
+2767
+00:47:57,060 --> 00:48:00,040
+genre de bas conscient intellectuel.
+
+2768
+00:48:00,040 --> 00:48:01,840
+Sauf que c'était que des gars
+
+2769
+00:48:01,840 --> 00:48:03,660
+comme nous.
+
+2770
+00:48:04,260 --> 00:48:05,040
+Putain, je sais pas comment on dit.
+
+2771
+00:48:05,040 --> 00:48:05,640
+Non, pas comme toi.
+
+2772
+00:48:05,980 --> 00:48:06,400
+Pas comme toi.
+
+2773
+00:48:06,400 --> 00:48:07,380
+Des gars classiques.
+
+2774
+00:48:07,480 --> 00:48:08,120
+C'est quoi le terme ?
+
+2775
+00:48:08,120 --> 00:48:08,700
+Normands.
+
+2776
+00:48:09,520 --> 00:48:09,760
+Normaux.
+
+2777
+00:48:10,140 --> 00:48:11,060
+Non, on va dire normaux.
+
+2778
+00:48:11,280 --> 00:48:11,920
+Des gars cool.
+
+2779
+00:48:11,940 --> 00:48:12,640
+Que des gars valides.
+
+2780
+00:48:13,280 --> 00:48:13,700
+Et genre, en fait,
+
+2781
+00:48:13,780 --> 00:48:14,500
+quand ils ont gagné,
+
+2782
+00:48:14,560 --> 00:48:15,280
+ils sont passés aux infos.
+
+2783
+00:48:15,640 --> 00:48:16,420
+Puis genre, t'as plein de gens
+
+2784
+00:48:16,420 --> 00:48:16,620
+qui ont dit
+
+2785
+00:48:16,620 --> 00:48:17,380
+« Non, mais lui, je le connais.
+
+2786
+00:48:17,760 --> 00:48:18,320
+C'est Juanito.
+
+2787
+00:48:18,440 --> 00:48:18,860
+Il est avec moi.
+
+2788
+00:48:19,420 --> 00:48:20,480
+Il est avec moi au bureau.
+
+2789
+00:48:20,800 --> 00:48:21,160
+Il porte quoi ?
+
+2790
+00:48:21,160 --> 00:48:22,160
+Il a pas de problème de cerveau.
+
+2791
+00:48:22,240 --> 00:48:22,980
+Et ils se sont tous fait attraper.
+
+2792
+00:48:23,340 --> 00:48:24,520
+Il a un doctorat.
+
+2793
+00:48:25,260 --> 00:48:25,840
+Non, mais s'il y a
+
+2794
+00:48:25,840 --> 00:48:26,720
+de plus en plus d'oseilles,
+
+2795
+00:48:26,800 --> 00:48:28,040
+il va y avoir de plus en plus de triches.
+
+2796
+00:48:28,240 --> 00:48:29,620
+J'ai lu des trucs de ouf.
+
+2797
+00:48:30,020 --> 00:48:30,860
+Genre, je crois que ça s'appelle
+
+2798
+00:48:30,860 --> 00:48:31,440
+le boosting.
+
+2799
+00:48:31,760 --> 00:48:32,300
+C'est une technique.
+
+2800
+00:48:32,740 --> 00:48:34,080
+Genre, les gens qui sont paraplégiques.
+
+2801
+00:48:34,360 --> 00:48:35,280
+Donc, qui sentent pas leurs jambes.
+
+2802
+00:48:35,700 --> 00:48:36,420
+Il y a une technique
+
+2803
+00:48:36,420 --> 00:48:38,420
+pour avoir une montée d'adrénaline.
+
+2804
+00:48:39,400 --> 00:48:41,200
+Parce que si t'es dans un pic d'adrénaline,
+
+2805
+00:48:41,300 --> 00:48:42,700
+t'as 10% de capacité en plus.
+
+2806
+00:48:42,780 --> 00:48:43,120
+Par exemple,
+
+2807
+00:48:43,500 --> 00:48:44,140
+ils se lacèrent.
+
+2808
+00:48:44,240 --> 00:48:44,700
+C'est un vrai truc.
+
+2809
+00:48:44,840 --> 00:48:45,840
+Ils se lacèrent les couilles.
+
+2810
+00:48:46,480 --> 00:48:48,160
+Ou ils se pètent un bras.
+
+2811
+00:48:48,260 --> 00:48:48,940
+Ils se pètent une jambe.
+
+2812
+00:48:49,080 --> 00:48:49,400
+Un truc comme ça.
+
+2813
+00:48:49,780 --> 00:48:50,580
+Du coup, ton corps,
+
+2814
+00:48:50,640 --> 00:48:51,680
+il a une réaction de
+
+2815
+00:48:55,840 --> 00:48:57,380
+quelqu'un qui serait pas paraplégique.
+
+2816
+00:48:57,480 --> 00:48:58,240
+Il aurait tellement de douleur
+
+2817
+00:48:58,240 --> 00:48:59,460
+que c'est hôpital.
+
+2818
+00:48:59,600 --> 00:48:59,860
+Enfin, je sais pas.
+
+2819
+00:49:00,080 --> 00:49:00,580
+Tu t'évanouis.
+
+2820
+00:49:01,100 --> 00:49:02,020
+Mais eux, vu qu'ils sentent rien,
+
+2821
+00:49:02,120 --> 00:49:02,640
+ça leur fait juste
+
+2822
+00:49:02,640 --> 00:49:04,180
+un pic d'adrénaline gigantesque
+
+2823
+00:49:04,180 --> 00:49:04,580
+dans le corps.
+
+2824
+00:49:05,000 --> 00:49:06,280
+Et ça fait qu'ils font une performance.
+
+2825
+00:49:06,900 --> 00:49:08,120
+Ils ont plus de puissance.
+
+2826
+00:49:08,520 --> 00:49:09,880
+C'est ça que je veux faire.
+
+2827
+00:49:10,060 --> 00:49:11,440
+Tu peux le faire...
+
+2828
+00:49:11,440 --> 00:49:12,240
+C'est limité quand même.
+
+2829
+00:49:12,520 --> 00:49:13,100
+T'as que deux jambes.
+
+2830
+00:49:13,720 --> 00:49:14,340
+Non, mais après, oui.
+
+2831
+00:49:14,460 --> 00:49:15,280
+C'est qu'il faut vite...
+
+2832
+00:49:15,280 --> 00:49:16,180
+C'est-à-dire que tu fais ta performance
+
+2833
+00:49:16,180 --> 00:49:16,920
+et après, je pense qu'il faut
+
+2834
+00:49:16,920 --> 00:49:17,460
+qu'ils s'occupent de toi.
+
+2835
+00:49:17,520 --> 00:49:18,060
+Mais c'est qu'il y a des risques.
+
+2836
+00:49:25,840 --> 00:49:26,700
+L'épreuve, si t'es tout rouge,
+
+2837
+00:49:26,880 --> 00:49:28,760
+tu peux te faire se qualifier.
+
+2838
+00:49:29,080 --> 00:49:29,720
+Et de la triche même.
+
+2839
+00:49:30,320 --> 00:49:31,160
+Ouais, mais ils doivent plus
+
+2840
+00:49:31,160 --> 00:49:31,940
+se passer entre les gouttes
+
+2841
+00:49:31,940 --> 00:49:32,720
+parce que ça doit être plus chaud.
+
+2842
+00:49:32,820 --> 00:49:33,580
+Ah, ça le triche.
+
+2843
+00:49:34,780 --> 00:49:36,280
+Un mec en photo et qu'il galère.
+
+2844
+00:49:36,540 --> 00:49:37,200
+Non, mais je pense que
+
+2845
+00:49:37,200 --> 00:49:38,100
+t'as un peu plus de scrupules.
+
+2846
+00:49:38,240 --> 00:49:39,360
+Il y en a un qui s'est fait attraper
+
+2847
+00:49:39,360 --> 00:49:40,620
+justement parce que
+
+2848
+00:49:40,620 --> 00:49:41,740
+je crois que c'est un Turc
+
+2849
+00:49:41,740 --> 00:49:42,960
+qui a gagné.
+
+2850
+00:49:43,100 --> 00:49:43,400
+Ils ont dit
+
+2851
+00:49:43,400 --> 00:49:44,880
+qu'on n'est pas trop sur ce handicap.
+
+2852
+00:49:45,000 --> 00:49:45,740
+C'est dur à évaluer
+
+2853
+00:49:45,740 --> 00:49:46,340
+si j'ai bien compris.
+
+2854
+00:49:47,340 --> 00:49:47,960
+Mais mec, c'est con.
+
+2855
+00:49:48,060 --> 00:49:48,960
+Mais quand il connaît rien,
+
+2856
+00:49:49,040 --> 00:49:50,140
+la première fois que moi j'ai vu,
+
+2857
+00:49:50,400 --> 00:49:50,820
+je regardais,
+
+2858
+00:49:50,820 --> 00:49:51,740
+je vois une course de vélo
+
+2859
+00:49:51,740 --> 00:49:52,240
+sur piste
+
+2860
+00:49:52,240 --> 00:49:53,520
+et il y a un gars
+
+2861
+00:49:53,520 --> 00:49:55,100
+avec deux jambes
+
+2862
+00:49:55,100 --> 00:49:57,340
+qui est en finale
+
+2863
+00:49:57,340 --> 00:49:57,800
+contre un mec
+
+2864
+00:49:57,800 --> 00:49:58,440
+qui n'a qu'une jambe.
+
+2865
+00:49:59,560 --> 00:49:59,820
+Mais oui,
+
+2866
+00:49:59,940 --> 00:50:00,420
+t'es toujours là.
+
+2867
+00:50:00,540 --> 00:50:00,720
+Mais tu dis,
+
+2868
+00:50:00,760 --> 00:50:02,100
+c'est quoi son handicap ?
+
+2869
+00:50:02,100 --> 00:50:02,380
+En fait,
+
+2870
+00:50:02,460 --> 00:50:03,180
+c'est qu'ils estiment
+
+2871
+00:50:03,180 --> 00:50:03,640
+que l'autre,
+
+2872
+00:50:03,840 --> 00:50:04,740
+que sa jambe à gauche...
+
+2873
+00:50:04,740 --> 00:50:05,380
+C'est pour ça que moi
+
+2874
+00:50:05,380 --> 00:50:05,760
+je suis allé voir
+
+2875
+00:50:05,760 --> 00:50:06,640
+des trucs simples.
+
+2876
+00:50:07,540 --> 00:50:08,360
+Tennis fauteuil,
+
+2877
+00:50:08,520 --> 00:50:09,300
+basket fauteuil.
+
+2878
+00:50:09,400 --> 00:50:10,180
+C'est comme je connais
+
+2879
+00:50:10,180 --> 00:50:10,820
+mais sur fauteuil.
+
+2880
+00:50:10,840 --> 00:50:11,800
+T'as pas vu rugby fauteuil ?
+
+2881
+00:50:11,800 --> 00:50:12,460
+Et rugby fauteuil,
+
+2882
+00:50:12,540 --> 00:50:13,000
+il n'y avait plus de place.
+
+2883
+00:50:13,160 --> 00:50:13,320
+Par contre,
+
+2884
+00:50:13,380 --> 00:50:14,220
+j'ai vu un documentaire
+
+2885
+00:50:14,220 --> 00:50:14,740
+sur ces gars.
+
+2886
+00:50:14,740 --> 00:50:15,840
+C'est génial.
+
+2887
+00:50:16,300 --> 00:50:16,680
+Trop bien.
+
+2888
+00:50:17,220 --> 00:50:18,080
+C'est vraiment des grands taqués.
+
+2889
+00:50:18,160 --> 00:50:18,380
+Mais déjà,
+
+2890
+00:50:18,420 --> 00:50:18,700
+au basket,
+
+2891
+00:50:18,800 --> 00:50:19,300
+ils tombent beaucoup
+
+2892
+00:50:19,300 --> 00:50:19,620
+et en fait,
+
+2893
+00:50:19,680 --> 00:50:20,660
+ils se rattrapent tout seuls.
+
+2894
+00:50:21,020 --> 00:50:21,280
+Les gars,
+
+2895
+00:50:21,340 --> 00:50:21,860
+ils sont gainés,
+
+2896
+00:50:21,920 --> 00:50:22,480
+c'est un truc de ouf.
+
+2897
+00:50:22,900 --> 00:50:23,340
+Ils tombent
+
+2898
+00:50:23,340 --> 00:50:24,020
+et sur le devant,
+
+2899
+00:50:24,120 --> 00:50:25,000
+ils poussent comme ça
+
+2900
+00:50:25,000 --> 00:50:25,400
+et ils se remettent
+
+2901
+00:50:25,400 --> 00:50:25,900
+sur les fauteuils.
+
+2902
+00:50:26,020 --> 00:50:27,400
+Mais c'était vraiment sympa.
+
+2903
+00:50:28,060 --> 00:50:29,640
+Et ils ont un pourcentage
+
+2904
+00:50:29,640 --> 00:50:30,140
+de réussite.
+
+2905
+00:50:30,220 --> 00:50:30,760
+C'était génial,
+
+2906
+00:50:30,820 --> 00:50:31,060
+le basket.
+
+2907
+00:50:32,060 --> 00:50:33,120
+Je crois qu'on est sur la fin.
+
+2908
+00:50:33,120 --> 00:50:33,280
+C'est fini,
+
+2909
+00:50:33,380 --> 00:50:34,120
+on va faire le deuxième.
+
+2910
+00:50:35,760 --> 00:50:37,720
+On terminera sur les paralympiques.
+
+2911
+00:50:37,740 --> 00:50:38,880
+Tu vois que Franjo est fatigué.
+
+2912
+00:50:39,220 --> 00:50:39,500
+Non, non.
+
+2913
+00:50:39,720 --> 00:50:40,420
+Si, mais je vois
+
+2914
+00:50:40,420 --> 00:50:41,400
+que cette expérience de mort,
+
+2915
+00:50:41,480 --> 00:50:42,000
+ça t'a tout changé.
+
+2916
+00:50:42,140 --> 00:50:42,860
+Si, ça t'a changé.
+
+2917
+00:50:42,960 --> 00:50:43,640
+Moi, je suis très bien.
+
+2918
+00:50:43,720 --> 00:50:44,460
+Je suis très content d'être là.
+
+2919
+00:50:45,080 --> 00:50:45,460
+Si, il s'est fait
+
+2920
+00:50:45,460 --> 00:50:46,440
+des vacances un peu simples
+
+2921
+00:50:46,440 --> 00:50:46,920
+en écho,
+
+2922
+00:50:47,460 --> 00:50:48,460
+en auberge de jeunesse.
+
+2923
+00:50:48,760 --> 00:50:49,640
+Ouais, t'as vu le vrai mort.
+
+2924
+00:50:49,660 --> 00:50:50,380
+Dans le limousin.
+
+2925
+00:50:50,880 --> 00:50:51,680
+T'as fait comme tout le monde.
+
+2926
+00:50:52,060 --> 00:50:52,820
+T'as fait en écho
+
+2927
+00:50:52,820 --> 00:50:53,580
+et t'as failli mourir.
+
+2928
+00:50:53,720 --> 00:50:54,560
+Les vacances de tout le monde.
+
+2929
+00:50:54,820 --> 00:50:55,140
+Attends,
+
+2930
+00:50:55,220 --> 00:50:56,060
+les vacances comme tout le monde.
+
+2931
+00:50:56,860 --> 00:50:57,700
+T'as été Los Angeles,
+
+2932
+00:50:58,000 --> 00:50:58,480
+Australie.
+
+2933
+00:50:58,480 --> 00:51:00,820
+J'ai pas été à Los Angeles.
+
+2934
+00:51:01,260 --> 00:51:01,960
+J'étais Seattle.
+
+2935
+00:51:02,300 --> 00:51:03,400
+C'est juste une escale.
+
+2936
+00:51:03,540 --> 00:51:03,800
+Sorry.
+
+2937
+00:51:04,040 --> 00:51:04,900
+Et j'ai dû payer mon visa.
+
+2938
+00:51:05,100 --> 00:51:06,080
+30 dollars.
+
+2939
+00:51:10,420 --> 00:51:10,920
+Alors que normalement,
+
+2940
+00:51:10,980 --> 00:51:11,080
+bon.
+
+2941
+00:51:11,420 --> 00:51:12,200
+J'ai travaillé, les gars.
+
+2942
+00:51:13,140 --> 00:51:14,080
+Et t'arrêtes maintenant.
+
+2943
+00:51:14,300 --> 00:51:15,460
+4 dates, 4 dates.
+
+2944
+00:51:15,480 --> 00:51:16,020
+Pas 4 dates.
+
+2945
+00:51:16,140 --> 00:51:17,300
+J'ai fait 9 dates, mec.
+
+2946
+00:51:17,680 --> 00:51:18,960
+T'es parti combien de temps en tout ?
+
+2947
+00:51:18,960 --> 00:51:19,380
+Un mois ?
+
+2948
+00:51:19,380 --> 00:51:19,840
+25 jours.
+
+2949
+00:51:19,880 --> 00:51:20,340
+9 dates ?
+
+2950
+00:51:20,340 --> 00:51:21,880
+Mec, moi, au bout de 15 jours,
+
+2951
+00:51:21,960 --> 00:51:22,740
+je panique, je veux rentrer.
+
+2952
+00:51:23,380 --> 00:51:23,560
+Oui.
+
+2953
+00:51:23,880 --> 00:51:24,380
+C'est très flou.
+
+2954
+00:51:24,460 --> 00:51:25,720
+Donc, j'ai fait 9 dates.
+
+2955
+00:51:26,100 --> 00:51:26,740
+10 même,
+
+2956
+00:51:26,820 --> 00:51:27,280
+parce qu'il y en a une
+
+2957
+00:51:27,280 --> 00:51:28,720
+qu'on compte pas sur 25 jours.
+
+2958
+00:51:28,980 --> 00:51:29,820
+Ça fait que j'ai joué quasiment
+
+2959
+00:51:29,820 --> 00:51:30,260
+un jour.
+
+2960
+00:51:30,260 --> 00:51:31,020
+Ok, ok, ok.
+
+2961
+00:51:32,140 --> 00:51:33,120
+Tu vois, j'ai pas chômé.
+
+2962
+00:51:33,380 --> 00:51:34,100
+Mais ouais, t'as raison.
+
+2963
+00:51:34,340 --> 00:51:35,220
+Les gens ont gagné une police.
+
+2964
+00:51:35,220 --> 00:51:35,980
+C'est toi qui a raison.
+
+2965
+00:51:36,500 --> 00:51:37,020
+C'est l'assistante.
+
+2966
+00:51:37,920 --> 00:51:39,560
+Et même Tahiti et compagnie.
+
+2967
+00:51:39,720 --> 00:51:40,500
+On a beaucoup joué là-bas.
+
+2968
+00:51:40,560 --> 00:51:41,280
+On a beaucoup apprécié.
+
+2969
+00:51:41,380 --> 00:51:41,980
+Et on revient d'ailleurs
+
+2970
+00:51:41,980 --> 00:51:42,420
+l'an prochain.
+
+2971
+00:51:43,060 --> 00:51:44,520
+Très heureux de revenir à Tahiti.
+
+2972
+00:51:44,680 --> 00:51:46,260
+Tu me prends en première partie ?
+
+2973
+00:51:46,260 --> 00:51:46,440
+Ouais.
+
+2974
+00:51:47,360 --> 00:51:47,920
+Faites l'Australie.
+
+2975
+00:51:48,040 --> 00:51:48,860
+Par contre, ça va me coûter cher.
+
+2976
+00:51:49,120 --> 00:51:49,860
+Urbain, en vacances,
+
+2977
+00:51:50,060 --> 00:51:51,080
+il s'en va de la chambre.
+
+2978
+00:51:51,980 --> 00:51:52,900
+C'est vrai, on l'a vu cet été.
+
+2979
+00:51:53,580 --> 00:51:54,540
+On est en train de tirer, là.
+
+2980
+00:51:55,100 --> 00:51:55,980
+Allez, bisous.
+
+2981
+00:51:56,100 --> 00:51:57,240
+Merci beaucoup, c'était la rentrée.
+
+2982
+00:51:57,240 --> 00:51:57,340
+Merci.
+
+2983
+00:51:57,340 --> 00:51:58,540
+Qu'est-ce qu'on dit ?
+
+2984
+00:51:58,540 --> 00:51:59,340
+Le plus important,
+
+2985
+00:51:59,760 --> 00:52:00,640
+déjà, j'aimerais remercier
+
+2986
+00:52:00,640 --> 00:52:01,480
+ceux qui ont continué
+
+2987
+00:52:01,480 --> 00:52:02,220
+à donner sur Tipeee
+
+2988
+00:52:02,220 --> 00:52:03,340
+malgré les vacances.
+
+2989
+00:52:03,580 --> 00:52:04,280
+Ça fait plaisir
+
+2990
+00:52:04,280 --> 00:52:05,440
+parce que c'est, entre autres,
+
+2991
+00:52:05,540 --> 00:52:06,380
+grâce à vous qu'on continue.
+
+2992
+00:52:06,380 --> 00:52:06,540
+Ouais.
+
+2993
+00:52:06,980 --> 00:52:08,080
+Et malgré ma mauvaise humeur,
+
+2994
+00:52:08,180 --> 00:52:08,420
+apparemment.
+
+2995
+00:52:08,580 --> 00:52:08,720
+Voilà.
+
+2996
+00:52:09,160 --> 00:52:10,480
+Donc, ceux qui ne le font pas,
+
+2997
+00:52:10,900 --> 00:52:11,560
+mettez sur Tipeee.
+
+2998
+00:52:11,860 --> 00:52:12,540
+Sinon, on arrête.
+
+2999
+00:52:13,680 --> 00:52:14,680
+On dirait une vieille menace
+
+3000
+00:52:14,680 --> 00:52:16,600
+d'un prof d'SVT sans charisme.
+
+3001
+00:52:17,640 --> 00:52:18,380
+On est en tournée
+
+3002
+00:52:18,380 --> 00:52:19,140
+dans toute la France.
+
+3003
+00:52:19,320 --> 00:52:19,420
+Voilà.
+
+3004
+00:52:19,640 --> 00:52:20,260
+Notre prochaine date,
+
+3005
+00:52:20,360 --> 00:52:21,300
+c'est le 29 septembre
+
+3006
+00:52:21,300 --> 00:52:22,680
+à Nantes.
+
+3007
+00:52:23,060 --> 00:52:23,140
+Voilà.
+
+3008
+00:52:23,500 --> 00:52:24,160
+Juste après Lyon.
+
+3009
+00:52:24,160 --> 00:52:25,160
+C'est complet, non ?
+
+3010
+00:52:25,160 --> 00:52:25,260
+Oui.
+
+3011
+00:52:26,720 --> 00:52:27,340
+Nantes, c'est plein.
+
+3012
+00:52:27,740 --> 00:52:28,820
+Il y a une deuxième date à Lyon.
+
+3013
+00:52:28,820 --> 00:52:29,960
+Lyon, c'est en octobre.
+
+3014
+00:52:30,220 --> 00:52:30,660
+Complet aussi.
+
+3015
+00:52:31,000 --> 00:52:31,100
+Voilà.
+
+3016
+00:52:31,200 --> 00:52:32,060
+Donc, on va revenir.
+
+3017
+00:52:32,300 --> 00:52:33,360
+On remet des dates à Lyon.
+
+3018
+00:52:34,040 --> 00:52:34,560
+Je crois que c'est...
+
+3019
+00:52:34,560 --> 00:52:35,520
+C'est des dates de quoi ?
+
+3020
+00:52:35,520 --> 00:52:35,940
+Il faut expliquer.
+
+3021
+00:52:36,020 --> 00:52:36,800
+C'est un plateau.
+
+3022
+00:52:37,100 --> 00:52:38,000
+On fait chacun un extrait
+
+3023
+00:52:38,000 --> 00:52:38,640
+de notre spectacle.
+
+3024
+00:52:39,140 --> 00:52:39,500
+Donc, venez.
+
+3025
+00:52:39,900 --> 00:52:40,540
+C'est pas le podcast.
+
+3026
+00:52:41,340 --> 00:52:42,040
+C'est pas le podcast.
+
+3027
+00:52:42,480 --> 00:52:43,160
+Donc, on est à Lyon.
+
+3028
+00:52:43,340 --> 00:52:44,260
+On a remis une date à Lyon
+
+3029
+00:52:44,260 --> 00:52:44,940
+parce que c'était complet.
+
+3030
+00:52:45,360 --> 00:52:45,540
+Voilà.
+
+3031
+00:52:45,660 --> 00:52:47,180
+On joue à la salle Victor Hugo
+
+3032
+00:52:47,180 --> 00:52:48,040
+ou R2, je crois.
+
+3033
+00:52:48,540 --> 00:52:49,280
+R2, je crois.
+
+3034
+00:52:49,580 --> 00:52:50,220
+Victor Hugo ?
+
+3035
+00:52:50,220 --> 00:52:51,020
+RIO ?
+
+3036
+00:52:51,020 --> 00:52:52,480
+RIO, un truc comme ça.
+
+3037
+00:52:52,720 --> 00:52:53,280
+Je ne sais plus.
+
+3038
+00:52:53,860 --> 00:52:55,120
+Donc, à Lyon, à Nantes,
+
+3039
+00:52:55,440 --> 00:52:55,900
+à Toulouse,
+
+3040
+00:52:55,900 --> 00:52:57,040
+il reste encore quelques places.
+
+3041
+00:52:57,580 --> 00:52:58,900
+Lille et...
+
+3042
+00:52:59,480 --> 00:52:59,820
+Voilà.
+
+3043
+00:53:00,040 --> 00:53:00,360
+Bordeaux.
+
+3044
+00:53:00,460 --> 00:53:00,880
+Après tout, hein ?
+
+3045
+00:53:00,880 --> 00:53:01,120
+Bordeaux.
+
+3046
+00:53:01,160 --> 00:53:01,560
+Ah oui, Bordeaux.
+
+3047
+00:53:01,740 --> 00:53:02,440
+Bordeaux, il reste encore
+
+3048
+00:53:02,440 --> 00:53:02,860
+quelques places.
+
+3049
+00:53:03,420 --> 00:53:03,960
+Donc, n'hésitez pas
+
+3050
+00:53:03,960 --> 00:53:04,500
+à venir nous voir.
+
+3051
+00:53:04,740 --> 00:53:05,800
+Nous, on a joué à Biarris cet été.
+
+3052
+00:53:05,940 --> 00:53:06,540
+C'était exceptionnel.
+
+3053
+00:53:06,640 --> 00:53:07,420
+C'était vraiment très, très cool.
+
+3054
+00:53:07,880 --> 00:53:08,780
+Et on remet d'ailleurs
+
+3055
+00:53:08,780 --> 00:53:09,420
+une date à Biarris
+
+3056
+00:53:09,420 --> 00:53:10,240
+parce qu'on a trop kiffé
+
+3057
+00:53:10,240 --> 00:53:10,600
+l'an prochain.
+
+3058
+00:53:11,160 --> 00:53:11,320
+Voilà.
+
+3059
+00:53:11,680 --> 00:53:12,800
+Un mot de la fin ?
+
+3060
+00:53:12,800 --> 00:53:14,300
+Les notes, des trucs.
+
+3061
+00:53:14,400 --> 00:53:15,240
+Il n'y a pas des notes à mettre.
+
+3062
+00:53:15,840 --> 00:53:16,520
+Moi, je joue à l'Européen.
+
+3063
+00:53:16,860 --> 00:53:17,920
+Le 26 octobre.
+
+3064
+00:53:18,360 --> 00:53:19,560
+On reprend tous nos spectacles.
+
+3065
+00:53:19,560 --> 00:53:20,580
+On reprend tous les spectacles.
+
+3066
+00:53:20,580 --> 00:53:21,460
+Paris est en tournée.
+
+3067
+00:53:21,640 --> 00:53:22,500
+Je mets tout sur les trois dates.
+
+3068
+00:53:22,700 --> 00:53:23,580
+C'est les trois dernières
+
+3069
+00:53:23,580 --> 00:53:24,220
+de ce spectacle.
+
+3070
+00:53:25,060 --> 00:53:25,380
+Oui, oui.
+
+3071
+00:53:25,720 --> 00:53:26,340
+Allez voir Urbain.
+
+3072
+00:53:26,540 --> 00:53:27,380
+Moi, je joue toutes les semaines
+
+3073
+00:53:27,380 --> 00:53:27,900
+aux Républiques.
+
+3074
+00:53:28,000 --> 00:53:28,160
+Venez.
+
+3075
+00:53:28,960 --> 00:53:29,280
+Pareil.
+
+3076
+00:53:29,340 --> 00:53:30,020
+Pareil pour Pierre.
+
+3077
+00:53:30,400 --> 00:53:31,120
+À joie en Thibaut.
+
+3078
+00:53:31,240 --> 00:53:31,820
+Les tournées partout.
+
+3079
+00:53:32,280 --> 00:53:32,600
+Allez.
+
+3080
+00:53:33,120 --> 00:53:33,700
+Gros bisous.
+
+3081
+00:53:33,820 --> 00:53:34,460
+Merci à tous.
+
+3082
+00:53:34,580 --> 00:53:34,920
+Vive la vie.
+
+3083
+00:53:34,920 --> 00:53:35,200
+Très bientôt.
+
+3084
+00:53:35,500 --> 00:53:36,240
+Et puis, merci.
+
+3085
+00:53:36,340 --> 00:53:37,000
+Vive Jamel.
+
+3086
+00:53:37,160 --> 00:53:38,740
+Ici, c'est le JCC.
+
+3087
+00:53:39,580 --> 00:53:40,580
+Merci Jamel Comédie Club
+
+3088
+00:53:40,580 --> 00:53:40,960
+pour l'accueil.
+
+3089
+00:53:41,260 --> 00:53:42,360
+Merci de m'avoir jamais pris
+
+3090
+00:53:42,360 --> 00:53:42,800
+dans l'émission.
+
+3091
+00:53:43,000 --> 00:53:44,200
+J'ai fait le meilleur finish, là.
+
+3092
+00:53:44,560 --> 00:53:45,500
+Ici, c'est le JCC.
+
+3093
+00:53:46,040 --> 00:53:47,020
+Pas, mais on finit là-dessus.
+
