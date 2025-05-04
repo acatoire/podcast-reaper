@@ -9,6 +9,14 @@ requests~=2.32.3
 openai-whisper
 mutagen~=1.47.0
 reportlab~=4.2.5
+
+# FOr translation
+# You need to install https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/
+# During the installation, make sure to select the "Desktop development with C++" workload.
+# and https://cmake.org/download/
+#To enable GPU support, you need to set the ARGOS_DEVICE_TYPE env variable to cuda or auto.
+argostranslate
+
 #pyannote.audio # for speaker diarization
 #torch~=2.5.1
 #torchaudio~=2.5.1

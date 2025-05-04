@@ -5,7 +5,9 @@ import xml.etree.ElementTree as ET
 import json
 
 # RSS feed URL
-rss_url = "https://feeds.acast.com/public/shows/podkassos"
+#rss_url = "https://feeds.acast.com/public/shows/podkassos"
+#rss_url = "https://feed.ausha.co/omN08urqM3Yx" # Fucked-up-movies
+rss_url = "https://feed.ausha.co/od2gpHDD3WG1" # Sortie de scene
 
 # Retrieve RSS feed data
 response = requests.get(rss_url)
@@ -36,7 +38,11 @@ for item in root.findall("./channel/item"):
     try:
         pub_date_formatted = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%d")
     except ValueError:
-        raise ValueError(f"Invalid date format: {pub_date}")
+        try:
+            pub_date_formatted = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
+        except ValueError:
+            raise ValueError(f"Invalid date format: {pub_date}")
+
 
     enclosure = item.find("enclosure")
     if enclosure is not None:
@@ -46,7 +52,8 @@ for item in root.findall("./channel/item"):
                          "description": description,
                          "date": pub_date_formatted,
                          "cleanTitle": clean_title,
-                         "fileName": f"{pub_date_formatted}-{clean_title}.mp3"
+                         "fileName": f"{pub_date_formatted}-{clean_title}.mp3",
+                         "label": ""
                          })
 
 # Write data to a JSON file
