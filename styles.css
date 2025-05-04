@@ -767,20 +767,29 @@ h1 {
 }
 
 /* Responsive styles */
-@media (max-width: 400px) {
+@media (max-width: 650px) {
     .podcast-list {
         grid-template-columns: 1fr;
+    }
+
+    .podcast-card img {
+        height: 250px;
+    }
+}
+
+@media (min-width: 651px) and (max-width: 1000px) {
+    .podcast-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1001px) {
+    .podcast-list {
+        grid-template-columns: repeat(3, 1fr);
     }
 }
 
 @media (max-width: 768px) {
-    .podcast-list {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    }
-
-    .podcast-platforms {
-        gap: 10px;
-    }
 
     .podcast-platforms a {
         width: 35px;
