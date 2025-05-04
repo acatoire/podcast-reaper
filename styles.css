@@ -296,6 +296,10 @@ h1 {
 
 .search-bar {
     margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: nowrap;
 }
 
 #search-form {
@@ -307,7 +311,7 @@ h1 {
 
 #search-input {
     flex: 1;
-    min-width: 100px;
+    min-width: 50px;
     max-width: 200px;
     padding: 8px 12px;
     border: 1px solid #ddd;
@@ -865,16 +869,21 @@ h1 {
         width: 100%;
     }
 
+    .search-bar {
+        gap: 5px;
+    }
+
     #search-form {
         flex-direction: row;
         gap: 5px;
         align-items: center;
+        flex: 1;
     }
 
     #search-input {
         min-width: 0;
         max-width: none;
-        width: calc(100% - 50px);
+        width: calc(100% - 82px);
     }
 
     .search-button {

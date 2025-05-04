@@ -22,6 +22,8 @@
                 <input type="text" name="query" id="search-input" placeholder="Search in transcripts..." required>
                 <button type="submit" class="search-icon-button"><i class="fas fa-search"></i></button>
             </form>
+            <button id="share-button" class="search-icon-button" title="Copy link to clipboard"><i class="fas fa-share-alt"></i></button>
+            <div id="share-notification" style="display: none; position: fixed; top: 10px; right: 10px; background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px; z-index: 1000;">URL copied to clipboard!</div>
         </div>
 
         <!-- Podcast selection (collapsible) -->
@@ -58,6 +60,7 @@
     <!-- Scrollable transcript area -->
     <div class="scrollable-content">
         <div class="transcript-navigation">
+            <div id="language-selector-container" class="language-selector-container" style="display: none;"></div>
             <button id="scroll-up" class="scroll-button"><i class="fas fa-chevron-up"></i></button>
             <button id="scroll-down" class="scroll-button"><i class="fas fa-chevron-down"></i></button>
         </div>
@@ -192,6 +195,9 @@
                                 const episodeDropdown = document.getElementById('episodes-dropdown');
                                 episodeDropdown.value = 0;
                                 displayEpisodeDetails(episodes[0], podcastId);
+
+                                // Update URL with season and episode parameters
+                                updateUrlParams(seasonIndex, episodes[0].cleanTitle);
                             } else {
                                 // If no episodes, reset episode content
                                 document.querySelector('.episode-content').innerHTML = '<h2>No episodes available</h2><p>This season has no episodes available.</p>';
@@ -209,7 +215,42 @@
                 if (episodeIndex !== '') {
                     const episode = JSON.parse(this.options[this.selectedIndex].dataset.episode);
                     displayEpisodeDetails(episode, podcastId);
+
+                    // Update URL with the selected episode parameter
+                    const seasonIndex = document.getElementById('season-dropdown').value;
+                    updateUrlParams(seasonIndex, episode.cleanTitle);
                 }
+            });
+
+            // Function to update URL parameters without reloading the page
+            function updateUrlParams(seasonIndex, episodeTitle) {
+                const url = new URL(window.location.href);
+                url.searchParams.set('id', podcastId);
+                url.searchParams.set('season', seasonIndex);
+                url.searchParams.set('episode', episodeTitle);
+                window.history.pushState({}, '', url);
+            }
+
+            // Setup share button functionality
+            const shareButton = document.getElementById('share-button');
+            const shareNotification = document.getElementById('share-notification');
+
+            shareButton.addEventListener('click', function() {
+                // Copy current URL to clipboard
+                navigator.clipboard.writeText(window.location.href)
+                    .then(() => {
+                        // Show notification
+                        shareNotification.style.display = 'block';
+
+                        // Hide notification after 5 seconds
+                        setTimeout(() => {
+                            shareNotification.style.display = 'none';
+                        }, 5000);
+                    })
+                    .catch(err => {
+                        console.error('Failed to copy URL: ', err);
+                        alert('Failed to copy URL to clipboard');
+                    });
             });
         });
 
@@ -359,11 +400,21 @@
             icon.classList.add('fa-chevron-down');
 
             // Add event listeners for logging player actions
+            // Variables to track last event time to prevent double events
+            let lastPlayTime = 0;
+            const debounceTime = 300; // milliseconds
+
             audioPlayer.addEventListener('play', function() {
-                console.log('Player action: PLAY at timestamp', formatTime(this.currentTime * 1000));
+                const now = Date.now();
+                // Only log if enough time has passed since the last play event
+                if (now - lastPlayTime > debounceTime) {
+                    console.log('Player action: PLAY at timestamp', formatTime(this.currentTime * 1000));
+                    lastPlayTime = now;
+                }
             });
 
             audioPlayer.addEventListener('pause', function() {
+                // Always log pause events without debounce
                 console.log('Player action: PAUSE at timestamp', formatTime(this.currentTime * 1000));
             });
 
@@ -412,8 +463,8 @@
 
                     // Update the current line container with the text from the active row
                     const currentLineContainer = document.querySelector('.current-line-container');
-                    if (currentLineContainer && activeRow.cells && activeRow.cells.length > 2) {
-                        // Get the text from the third cell (index 2) of the active row
+                    if (currentLineContainer && activeRow.cells && activeRow.cells.length > 3) {
+                        // Get the text from the fourth cell (index 3) of the active row
                         const textCell = activeRow.cells[3];
                         if (textCell) {
                             currentLineContainer.textContent = textCell.textContent;
@@ -434,12 +485,12 @@
                 // Add a loading message to the transcript container
                 transcriptContainer.innerHTML = '<p>Loading transcript...</p>';
 
-                // Function to fetch TSV content
-                const fetchTsvContent = (path) => {
+                // Function to fetch transcript content (TSV or VTT)
+                const fetchTranscriptContent = (path) => {
                     return fetch(path)
                         .then(response => {
                             if (!response.ok) {
-                                throw new Error('TSV file not found at ' + path);
+                                throw new Error('Transcript file not found at ' + path);
                             }
                             return response.text();
                         });
@@ -447,7 +498,8 @@
 
                 // Create an array of paths to try
                 const pathsToTry = [
-                    `podcasts/${id}/turbo/${dateStr}/${dateStr}.tsv`
+                    `podcasts/${id}/turbo/${dateStr}/${dateStr}.vtt`,
+                    `podcasts/${id}/turbo/${dateStr}/${dateStr}.tsv` // Fallback to TSV if VTT not found
                 ].filter(path => path.includes('//') === false); // Filter out invalid paths
 
                 // Try each path in sequence until one works
@@ -461,7 +513,7 @@
                     const currentPath = pathsToTry[currentPathIndex];
                     currentPathIndex++;
 
-                    return fetchTsvContent(currentPath)
+                    return fetchTranscriptContent(currentPath)
                         .catch(error => {
                             console.warn(`Attempt ${currentPathIndex} failed:`, error);
                             return tryNextPath(); // Try the next path
@@ -470,55 +522,173 @@
 
                 // Start trying paths
                 tryNextPath()
-                    .then(tsvContent => {
-                        // Parse the TSV content
-                        const lines = tsvContent.split('\n');
-                        const tsvData = lines.map(line => line.split('\t'));
+                    .then(content => {
+                        // Determine if the content is VTT or TSV based on the current path
+                        const isVtt = pathsToTry[currentPathIndex - 1].toLowerCase().endsWith('.vtt');
 
-                        // Create a table to display the TSV content
+                        let transcriptData = [];
+                        let detectedLanguages = new Set();
+                        let hasLanguageCues = false;
+
+                        if (isVtt) {
+                            // Parse VTT content
+                            const lines = content.split('\n');
+                            let currentCue = null;
+                            let languages = {};
+
+                            for (let i = 0; i < lines.length; i++) {
+                                const line = lines[i].trim();
+
+                                // Skip WEBVTT header and empty lines
+                                if (line === 'WEBVTT' || line === '') continue;
+
+                                // Check if line is a timestamp
+                                if (line.includes(' --> ')) {
+                                    // Start a new cue
+                                    const [startTime, endTime] = line.split(' --> ');
+                                    currentCue = {
+                                        startTime: convertVttTimeToMs(startTime),
+                                        endTime: convertVttTimeToMs(endTime),
+                                        texts: {}
+                                    };
+                                    continue;
+                                }
+
+                                // If we have a current cue and this line is text
+                                if (currentCue) {
+                                    // Check for language cues like <c.en>text</c>
+                                    const langMatch = line.match(/<c\.([a-z]{2})>(.*?)<\/c>/);
+
+                                    if (langMatch) {
+                                        // We have a language cue
+                                        hasLanguageCues = true;
+                                        const lang = langMatch[1];
+                                        const text = langMatch[2];
+
+                                        detectedLanguages.add(lang);
+                                        currentCue.texts[lang] = text;
+                                    } else if (line !== '') {
+                                        // No language cue, just regular text
+                                        // If the next line is empty or a timestamp, add this cue to the data
+                                        if (i + 1 >= lines.length || lines[i + 1].trim() === '' || lines[i + 1].includes(' --> ')) {
+                                            currentCue.texts['default'] = line;
+                                            transcriptData.push(currentCue);
+                                            currentCue = null;
+                                        }
+                                    }
+
+                                    // If the next line is empty or a timestamp and we have language cues, add this cue to the data
+                                    if (hasLanguageCues && currentCue && (i + 1 >= lines.length || lines[i + 1].trim() === '' || lines[i + 1].includes(' --> '))) {
+                                        transcriptData.push(currentCue);
+                                        currentCue = null;
+                                    }
+                                }
+                            }
+                        } else {
+                            // Parse TSV content
+                            const lines = content.split('\n');
+                            const tsvData = lines.map(line => line.split('\t'));
+
+                            // Skip header row
+                            for (let i = 1; i < tsvData.length; i++) {
+                                if (tsvData[i].length >= 3) {
+                                    transcriptData.push({
+                                        startTime: parseInt(tsvData[i][0]),
+                                        endTime: parseInt(tsvData[i][1]),
+                                        texts: { 'default': tsvData[i][2] }
+                                    });
+                                }
+                            }
+                        }
+
+                        // Create a table to display the transcript content
                         const table = document.createElement('table');
                         table.className = 'tsv-table';
                         table.id = 'transcript-table';
 
+                        // Add language selector if multiple languages detected
+                        let selectedLanguage = 'default';
+                        if (hasLanguageCues && detectedLanguages.size > 0) {
+                            // Convert Set to Array for easier manipulation
+                            const languages = Array.from(detectedLanguages);
+                            selectedLanguage = languages[0]; // Default to first language
+
+                            // Get the language selector container in the transcript navigation
+                            const langSelectorContainer = document.getElementById('language-selector-container');
+                            langSelectorContainer.style.display = 'block';
+                            langSelectorContainer.innerHTML = ''; // Clear any existing content
+
+                            // Create language selector
+                            const langSelector = document.createElement('select');
+                            langSelector.id = 'language-selector';
+                            langSelector.className = 'language-selector scroll-button'; // Apply same styling as scroll buttons
+                            langSelector.style.marginBottom = '10px';
+                            langSelector.style.width = 'auto';
+                            langSelector.style.padding = '5px';
+
+                            // Add options for each language
+                            languages.forEach(lang => {
+                                const option = document.createElement('option');
+                                option.value = lang;
+                                option.textContent = lang.toUpperCase();
+                                langSelector.appendChild(option);
+                            });
+
+                            // Add change event listener
+                            langSelector.addEventListener('change', function() {
+                                selectedLanguage = this.value;
+                                updateTranscriptLanguage(selectedLanguage, transcriptData);
+                            });
+
+                            langSelectorContainer.appendChild(langSelector);
+                        }
+
                         // Add header row
                         const headerRow = document.createElement('tr');
-                        if (tsvData[0] && tsvData[0].length >= 3) {
-                            // Add line number header
-                            const lineNumberHeader = document.createElement('th');
-                            lineNumberHeader.textContent = "#";
-                            headerRow.appendChild(lineNumberHeader);
 
-                            const startHeader = document.createElement('th');
-                            startHeader.textContent = tsvData[0][0];
-                            headerRow.appendChild(startHeader);
+                        // Add line number header
+                        const lineNumberHeader = document.createElement('th');
+                        lineNumberHeader.textContent = "#";
+                        headerRow.appendChild(lineNumberHeader);
 
-                            const endHeader = document.createElement('th');
-                            endHeader.textContent = tsvData[0][1];
-                            headerRow.appendChild(endHeader);
+                        const startHeader = document.createElement('th');
+                        startHeader.textContent = "Start";
+                        headerRow.appendChild(startHeader);
 
-                            const textHeader = document.createElement('th');
-                            textHeader.textContent = tsvData[0][2];
-                            headerRow.appendChild(textHeader);
-                        }
+                        const endHeader = document.createElement('th');
+                        endHeader.textContent = "End";
+                        headerRow.appendChild(endHeader);
+
+                        const textHeader = document.createElement('th');
+                        textHeader.textContent = "Text";
+                        headerRow.appendChild(textHeader);
+
                         table.appendChild(headerRow);
 
-                        // Add data rows (skip header row)
-                        for (let i = 1; i < tsvData.length; i++) {
-                            if (tsvData[i].length >= 3) {
+                        // Function to update transcript with selected language
+                        function updateTranscriptLanguage(lang, data) {
+                            // Clear existing rows except header
+                            while (table.rows.length > 1) {
+                                table.deleteRow(1);
+                            }
+
+                            // Add data rows
+                            for (let i = 0; i < data.length; i++) {
+                                const cue = data[i];
+                                const text = cue.texts[lang] || cue.texts['default'] || '';
+
                                 const row = document.createElement('tr');
-                                row.id = `transcript-row-${i}`;
-                                // Store the start time in milliseconds as a data attribute
-                                row.dataset.startTime = tsvData[i][0];
-                                row.dataset.rowIndex = i;
-                                // Add cursor pointer to indicate it's clickable
+                                row.id = `transcript-row-${i + 1}`;
+                                row.dataset.startTime = cue.startTime;
+                                row.dataset.rowIndex = i + 1;
                                 row.style.cursor = 'pointer';
+
                                 // Add click event listener to play audio at this timestamp
                                 row.addEventListener('click', function(event) {
                                     // Prevent default behavior
                                     event.preventDefault();
 
                                     // Check if the click originated from the audio player or its controls
-                                    // This prevents the transcript click handler from interfering with pause/play buttons
                                     if (event.target.closest('.audio-player')) {
                                         return;
                                     }
@@ -529,25 +699,25 @@
                                             // Convert milliseconds to seconds for the audio player
                                             audioPlayer.currentTime = parseFloat(this.dataset.startTime) / 1000;
 
-                                            // Use a promise to handle play() which returns a promise
                                             // Log the attempt to play
                                             console.log('Player action: Attempting to PLAY from transcript click at timestamp', formatTime(parseFloat(this.dataset.startTime)));
 
-                                            try {
-                                                const playPromise = audioPlayer.play();
+                                            // Don't automatically play to avoid autoplay restrictions
+                                            // Just update the UI to show which line was clicked
+                                            console.log('Transcript row clicked. Audio position updated without autoplay.');
 
-                                                if (playPromise !== undefined) {
-                                                    playPromise.catch(error => {
-                                                        console.error('Error playing audio:', error);
-                                                        // If autoplay is prevented, inform the user
-                                                        if (error.name === 'NotAllowedError') {
-                                                            console.log('Autoplay prevented by browser. User interaction required to play audio.');
-                                                            // You could also display a message to the user here
-                                                        }
-                                                    });
+                                            // If audio is already playing, continue playing from the new position
+                                            if (!audioPlayer.paused) {
+                                                try {
+                                                    const playPromise = audioPlayer.play();
+                                                    if (playPromise !== undefined) {
+                                                        playPromise.catch(error => {
+                                                            console.error('Error playing audio:', error);
+                                                        });
+                                                    }
+                                                } catch (error) {
+                                                    console.error('Exception when trying to play audio:', error);
                                                 }
-                                            } catch (error) {
-                                                console.error('Exception when trying to play audio:', error);
                                             }
 
                                             // Remove active-line class from all rows
@@ -564,28 +734,70 @@
 
                                 // Add line number cell
                                 const lineNumberCell = document.createElement('td');
-                                lineNumberCell.textContent = i;
+                                lineNumberCell.textContent = i + 1;
                                 row.appendChild(lineNumberCell);
 
+                                // Add start time cell
                                 const startCell = document.createElement('td');
-                                startCell.textContent = formatTime(tsvData[i][0]);
+                                startCell.textContent = formatTime(cue.startTime);
                                 row.appendChild(startCell);
 
+                                // Add end time cell
                                 const endCell = document.createElement('td');
-                                endCell.textContent = formatTime(tsvData[i][1]);
+                                endCell.textContent = formatTime(cue.endTime);
                                 row.appendChild(endCell);
 
+                                // Add text cell
                                 const textCell = document.createElement('td');
-                                textCell.textContent = tsvData[i][2];
+                                textCell.textContent = text;
                                 row.appendChild(textCell);
 
                                 table.appendChild(row);
                             }
+
+                            // Update current line container with selected language
+                            const currentLineContainer = document.querySelector('.current-line-container');
+                            if (currentLineContainer) {
+                                const activeRow = document.querySelector('.tsv-table tr.active-line');
+                                if (activeRow && activeRow.cells && activeRow.cells.length > 3) {
+                                    currentLineContainer.textContent = activeRow.cells[3].textContent;
+                                }
+                            }
                         }
+
+                        // Initial population of the table
+                        updateTranscriptLanguage(selectedLanguage, transcriptData);
 
                         // Add the transcript to the transcript container
                         transcriptContainer.innerHTML = '<h3>Transcript</h3><p class="transcript-hint"><small>Click on any line to play from that timestamp</small></p>';
                         transcriptContainer.appendChild(table);
+
+                        // Helper function to convert VTT timestamp to milliseconds
+                        function convertVttTimeToMs(vttTime) {
+                            const parts = vttTime.split(':');
+                            let ms = 0;
+
+                            if (parts.length === 2) {
+                                // Format: MM:SS.mmm
+                                const [minutes, secondsWithMs] = parts;
+                                const [seconds, milliseconds] = secondsWithMs.split('.');
+
+                                ms += parseInt(minutes) * 60 * 1000;
+                                ms += parseInt(seconds) * 1000;
+                                ms += parseInt(milliseconds || 0);
+                            } else if (parts.length === 3) {
+                                // Format: HH:MM:SS.mmm
+                                const [hours, minutes, secondsWithMs] = parts;
+                                const [seconds, milliseconds] = secondsWithMs.split('.');
+
+                                ms += parseInt(hours) * 60 * 60 * 1000;
+                                ms += parseInt(minutes) * 60 * 1000;
+                                ms += parseInt(seconds) * 1000;
+                                ms += parseInt(milliseconds || 0);
+                            }
+
+                            return ms;
+                        }
 
                         // Setup scroll buttons
                         const scrollUpBtn = document.getElementById('scroll-up');
