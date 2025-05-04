@@ -701,25 +701,7 @@
 
                                             // Log the attempt to play
                                             console.log('Player action: Attempting to PLAY from transcript click at timestamp', formatTime(parseFloat(this.dataset.startTime)));
-
-                                            // Don't automatically play to avoid autoplay restrictions
-                                            // Just update the UI to show which line was clicked
-                                            console.log('Transcript row clicked. Audio position updated without autoplay.');
-
-                                            // If audio is already playing, continue playing from the new position
-                                            if (!audioPlayer.paused) {
-                                                try {
-                                                    const playPromise = audioPlayer.play();
-                                                    if (playPromise !== undefined) {
-                                                        playPromise.catch(error => {
-                                                            console.error('Error playing audio:', error);
-                                                        });
-                                                    }
-                                                } catch (error) {
-                                                    console.error('Exception when trying to play audio:', error);
-                                                }
-                                            }
-
+                                            audioPlayer.play();
                                             // Remove active-line class from all rows
                                             const allRows = document.querySelectorAll('.tsv-table tr');
                                             allRows.forEach(r => r.classList.remove('active-line'));
