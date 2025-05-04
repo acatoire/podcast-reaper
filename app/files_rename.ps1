@@ -1,10 +1,12 @@
 # Define the target directory
-$targetFolder = "../podcasts/pardon_gpt/turbo"
+$targetFolder = "C:\git\podcast-reaper\podcasts\pardon_gpt\turbo"
 
 # Get all subfolders in the target directory
 Get-ChildItem -Path $targetFolder -Directory | ForEach-Object {
     # Extract the date prefix from the folder name (first 10 characters)
     $datePrefix = $_.Name.Substring(0, 10)
+    # print actual folder
+    Write-Host "Processing folder: $($_.FullName)"
 
     # Get all matching files in the current folder
     Get-ChildItem -Path $_.FullName -File | ForEach-Object {
@@ -16,11 +18,19 @@ Get-ChildItem -Path $targetFolder -Directory | ForEach-Object {
         # Rename the file
         Rename-Item -Path $_.FullName -NewName $newName
     }
+}
+
+# Get all subfolders in the target directory
+Get-ChildItem -Path $targetFolder -Directory | ForEach-Object {
+    # Extract the date prefix from the folder name (first 10 characters)
+    $datePrefix = $_.Name.Substring(0, 10)
+    # print actual folder
+    Write-Host "Processing folder: $($_.FullName)"
 
     # Get all matching files in the current folder
     Get-ChildItem -Path $_.FullName -File | Where-Object {
         ($_.Extension -in ".json", ".srt", ".tsv", ".txt", ".vtt", ".diari") -and
-                ($_.Name -notin "*info.txt", "*transcript.txt")
+                $_.Name -notmatch "info\.txt|transcript\.txt"
     } | ForEach-Object {
         # Construct the new file name with only the date and extension
         $newName = "$datePrefix$($_.Extension)"

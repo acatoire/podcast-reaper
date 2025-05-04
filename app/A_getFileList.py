@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 import json
 
 # RSS feed URL
-rss_url = "https://feeds.acast.com/public/shows/pardon-gpt"
+rss_url = "https://feeds.acast.com/public/shows/podkassos"
 
 # Retrieve RSS feed data
 response = requests.get(rss_url)

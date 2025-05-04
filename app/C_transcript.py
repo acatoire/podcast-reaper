@@ -19,9 +19,25 @@ max_threads = os.cpu_count()
 #print(f"Maximum available threads: {max_threads}")
 #threads = input(f"Enter the number of threads to use (max {max_threads}): ") or str(max_threads)
 
+
 # Load the Whisper model
+def load_whisper_model(model_requested):
+    local_model_path = model_requested + '.pt'
+
+    # Check if the model file exists locally
+    if os.path.exists(local_model_path):
+        print(f"Loading Whisper model from local file: {local_model_path}")
+        model_load = whisper.load_model(local_model_path)
+    else:
+        print(f"Downloading Whisper model: {model_requested}")
+        model_load = whisper.load_model(model_requested)
+        # Save the model locally
+        print(f"Saving Whisper model to: {local_model_path}")
+        model.save(local_model_path)
+    return model_load
+
 print(f"Loading Whisper model: {model_size}")
-model = whisper.load_model(model_size)
+model = load_whisper_model(model_size)
 
 # List all MP3 files in the input folder
 mp3_files = [filename for filename in os.listdir(input_folder) if filename.endswith(".mp3")]
@@ -30,14 +46,14 @@ mp3_files = [filename for filename in os.listdir(input_folder) if filename.endsw
 print("MP3 files found:")
 for index, filename in enumerate(mp3_files, start=1):
     print(f"{time.strftime('%H:%M:%S')} - {index/len(mp3_files)*100:.2f}% - {index}/{len(mp3_files)}: {filename}")
-    dateName = filename[0:10]
+    date_name = filename[0:10]
     file_path = os.path.join(input_folder, filename)
 
     # Create output directory structure
     base_name = os.path.splitext(filename)[0]
-    output_dir = os.path.join(output_folder, model_size, dateName)
-    transcript_path = os.path.join(output_dir, f"{dateName}-transcript.txt")
-    info_path = os.path.join(output_dir, f"{dateName}-info.txt")
+    output_dir = os.path.join(output_folder, model_size, date_name)
+    transcript_path = os.path.join(output_dir, f"{date_name}-transcript.txt")
+    info_path = os.path.join(output_dir, f"{date_name}-info.txt")
 
     if os.path.exists(transcript_path):
         print(f"Transcript already exists for {filename}, skipping.")
@@ -66,7 +82,7 @@ for index, filename in enumerate(mp3_files, start=1):
         f.write(result["text"])
 
     output_writer = get_writer(output_format, output_dir)
-    output_writer(result, base_name, {})
+    output_writer(result, date_name, {})
 
     with open(info_path, "a", encoding="utf-8") as info_file:
         info_file.write(f"Transcript Time: {execution_time:.2f} minutes\n")
