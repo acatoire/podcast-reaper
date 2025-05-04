@@ -1,0 +1,178 @@
+{
+  "name": "Pardon GPT",
+  "description": "Urbain et Dédo font des blagues sur les films les plus malsains, les plus bizarres les plus perchés de la création. Ceux qui même mauvais reviennent te hanter et dont tu te dis que les cerveaux qui les ont pondus sont biens malades.\n",
+  "authors": "Urbain et Dédo",
+  "listen": [
+    {
+      "name": "apple",
+      "link": "https://podcasts.apple.com/fr/podcast/f-d-up-movies/id1559710522"
+    },
+    {
+      "name": "acast",
+      "link": null
+    },
+    {
+      "name": "spotify",
+      "link": "https://open.spotify.com/show/44jJgQZjzsttdWTCI4GJcc"
+    },
+    {
+      "name": "deezer",
+      "link": "https://www.deezer.com/fr/show/2333762"
+    },
+    {
+      "name": "ausha",
+      "link": "https://podcast.ausha.co/fucked-up-movies"
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "description": "",
+      "link": "https://fr.wikipedia.org/wiki/"
+    },
+    {
+      "name": "",
+      "description": "",
+      "link": "https://fr.wikipedia.org/wiki/"
+    }
+  ],
+  "Saisons": [
+    {
+      "name": "2025",
+      "episodes": [
+        {
+          "url": "https://audio.ausha.co/yg25PIeq02qo.mp3?t=1744964704",
+          "episode": "#13 Eraserhead, \"Le\" film fou de notre maître David Lynch (RIP Sensei)",
+          "description": "<p>Le premier film de David Lynch est une folie pure, un cauchemar ambulant et on en a parlé seulement 2h30. La moindre des choses pour rendre hommage au pape du bizarre, à celui sans qui ce podcast n'existerait sûrement pas, notre père spirituel : Le grand David. On parlera de sa vie, de son influence et bien sûr on vous décriera ce film que vous avez toujours voulu voir sans jamais avoir voulu vous lancer, dans les moindres détails glauques. Avec une petite emphase sur Jocelyne Jouec**illes On est de retour ! Faites tourner l'info et le podcast autour de vous ! Et venez nous voir en spectacle aussi. Merci de vos messages et de votre soutien</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-04-18",
+          "cleanTitle": "#13_Eraserhead_Le_film_fou_de_notre_maître_David_Lynch_(RIP_Sensei)",
+          "fileName": "2025-04-18-#13_Eraserhead_Le_film_fou_de_notre_maître_David_Lynch_(RIP_Sensei).mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/yvErPUWgVMdn.mp3?t=1737540319",
+          "episode": "#12 Festen, un bon film \"familial\" (Avec Nicolas Berno)",
+          "description": "<p>Vous prendrez bien un peu de Danemark, un peu de révélations familiales, un peu de cringe assumé. C'est Festen, l'occasion de se dire que la famille c'est pas toujours toujours des bons moments. Merci à Nicolas  d'avoir été un si bon invité. Merci à bous pour vos dm, vos partages, vos commentaires et notes sur les applications. La promo c'est vous.</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-01-22",
+          "cleanTitle": "#12_Festen_un_bon_film_familial_(Avec_Nicolas_Berno)",
+          "fileName": "2025-01-22-#12_Festen_un_bon_film_familial_(Avec_Nicolas_Berno).mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/bz2LPI1v5M0X.mp3?t=1736336414",
+          "episode": "#11 Les dents de la mer 4 (La revanche) (Une belle bouse)",
+          "description": "<p>Oubliez pas de noter et de commenter le podcast, on a besoin de vous ! Ceci étant dit,  bonne année 2025 . Un peu en retard on vous fait ce que que Dédo appelle \"un film de Noël\", alors que pas du tout, y'a 5 secondes à Noël et ça se passe aux Bahamas. Les dents de la mer 4 est une bonne bouse qu'on rangera plus dans la catégorie WTF que \"F*ck*d Up\" (dérangé, pour ceux qui ont toujours pas compris). Ce qui fait qu'il est très marrant à voir et encore plus à raconter. On espère que vous allez kiffer</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-01-08",
+          "cleanTitle": "#11_Les_dents_de_la_mer_4_(La_revanche)_(Une_belle_bouse)",
+          "fileName": "2025-01-08-#11_Les_dents_de_la_mer_4_(La_revanche)_(Une_belle_bouse).mp3",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "name": "2024",
+      "episodes": [
+        {
+          "url": "https://audio.ausha.co/ow5pPFJPMqNm.mp3?t=1733388686",
+          "episode": "#10 Uzumaki (Un film spiralement chelou)",
+          "description": "<p>Film japonais bizarroïde de 2000, uzumaki parle d'une petite ville dont les habitants deviennent petit à petit tous fascinés par les spirales. Adapté d'un manga à la base, qui vient lui même d'être réadapté en  anime cette année, uzumaki n'est pas un chef d'oeuvre mais reste très sympa et assez chelou pour qu'on dise plein de bêtises dessus. </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2024-12-05",
+          "cleanTitle": "#10_Uzumaki_(Un_film_spiralement_chelou)",
+          "fileName": "2024-12-05-#10_Uzumaki_(Un_film_spiralement_chelou).mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/B19XdiwV85GB.mp3?t=1731506263",
+          "episode": "#9 The Substance (Episode Marathon) (Allez voir le film !)",
+          "description": "<p>On parle du film de l'année ! Queen Fargeat vous avez tout notre respect. On le dit pleion de fois mais si vous avez pas vu le film foncez ! Et écoutez après. Dites nous si ça vous plaît les épisodes géants comme ça</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2024-11-13",
+          "cleanTitle": "#9_The_Substance_(Episode_Marathon)_(Allez_voir_le_film__)",
+          "fileName": "2024-11-13-#9_The_Substance_(Episode_Marathon)_(Allez_voir_le_film__).mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/omk9PI6K9W0R.mp3?t=1729610271",
+          "episode": "#8 Terrifier 3",
+          "description": "<p>C'est le comeback ! On devait, pour mille raisons, parler de ce film encore en salle ! Ce phénomène !!  Accrochez vous. Episode marathon !</p><p> Dedo et Urbain sont en spectacle partout en France. Allez trouver des places bordel, Attendez pas un lien ça prend deux secondes sur google</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2024-10-22",
+          "cleanTitle": "#8_Terrifier_3",
+          "fileName": "2024-10-22-#8_Terrifier_3.mp3",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "name": "2022",
+      "episodes": [
+        {
+          "url": "https://audio.ausha.co/yEa8pcEvdYpW.mp3?t=1652202124",
+          "episode": "#7 Cannibal Holocaust",
+          "description": "<p>De retour, avec un son aux oignons, et un film... Et ben on a réussi a faire des blagues mais c'est une belle saloperie. Après c'était là pour dénoncer donc ça va. Sauf que les gars ont aussi fait de belles horreur sur le tournage, du coup ça va moyenasse. Du coup, inception de la saloperie humaine. Trigger Warning pour les kiwis et les kumquats. La bise et n'oubliez pas les partages et les commentaires. On est back  !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2022-05-10",
+          "cleanTitle": "#7_Cannibal_Holocaust",
+          "fileName": "2022-05-10-#7_Cannibal_Holocaust.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/BQ8j0cqV3e1a.mp3?t=1651580071",
+          "episode": "#6 Butt Boy",
+          "description": "<p>4 mois bordel ! Mais on est de retour avec du lourd ! Butt Boy, l'histoire d'un homme qui aspire des objets, des chiens et des enfants dans son fondement. Chef d'oeuvre ! On vous  raconte le film en détail pour ceux qui ne veulent pas le voir, ou avoir la sensation de le revoir avec des potes. Le film est dispo sur Prime. Enjoy ! Chaque like, partage, commentaire compte. Faites tourner !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2022-03-12",
+          "cleanTitle": "#6_Butt_Boy",
+          "fileName": "2022-03-12-#6_Butt_Boy.mp3",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "name": "2021",
+      "episodes": [
+        {
+          "url": "https://audio.ausha.co/Bq1vPu11E01K.mp3?t=1651631584",
+          "episode": "#5 Malignant",
+          "description": "<p>Pour une fois on est sur un film récent. Dedo venait de le voir en salle et voulait en parler.</p>\n<p>Est ce que le truc le plus fucked up du film c'est que ces acteurs aient pris un cours de comédie un jour ? Peu-être !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2021-10-11",
+          "cleanTitle": "#5_Malignant",
+          "fileName": "2021-10-11-#5_Malignant.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/b5mn5sPlqRJD.mp3?t=1651625451",
+          "episode": "#4  Massacre à la tronçonneuse 2",
+          "description": "<p>Danser avec le visage découpé de son ami sur la tête peut-il être romantique ?</p>\n<p><br></p>\n<p>Peut-on réaliser la chapelle sixtine en frites ?</p>\n<p><br></p>\n<p>Dennis Hopper est-il l'humain le plus bizarre de la création ?</p>\n<p><br></p>\n<p>Met-on trop longtemps entre les épisodes ?</p>\n<p><br></p>\n<p>Toutes ces questions et d'autres seront abordées dans ce podcast. Et en gros, on a bien ri.</p>\n<p><br></p>\n<p>Partagez la bonne parole mes frères et soeurs !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2021-08-31",
+          "cleanTitle": "#4__Massacre_à_la_tronçonneuse_2",
+          "fileName": "2021-08-31-#4__Massacre_à_la_tronçonneuse_2.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/yvErPUqWz80g.mp3?t=1651617999",
+          "episode": "#3 Visitor Q",
+          "description": "<p>Seb Mellia notre ami, et recordman du nombre de podcast français a bien voulu souffrir en regardant avec nous Visitor Q, un film familial que personne ne devrait voir avec sa famille. Tout nu en famille, jet d'objets qui coupent, pas mal de substances, copulation sur personne inanimée, caillasse dans la gueule. Visitor Q c'est tout ça, mais c'est aussi un bon film... selon nous... selon Seb c'était plus une torture. On vous raconte ça dans les moindres détails.</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2021-06-05",
+          "cleanTitle": "#3_Visitor_Q",
+          "fileName": "2021-06-05-#3_Visitor_Q.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/yvErPUA63PYd.mp3?t=1651672141",
+          "episode": "#2 La Grande Bouffe",
+          "description": "<p>Pas besoin d'être un film d'horreur pour être affreusement malsain, glauque, scatophile et porno. Ce film est une perversion à lui tout seul donc il était pas trop compliqué de faire un maximum de blagues idiotes. En plus c'est un vrai bon film, ce qui sera pas toujours le cas dans ce podcast. Si vous voulez voir le film, le service de streaming arrow l'a, et vous pouvez prendre un mois gratuit (ceci n'est pas un placement de produit, d'ailleurs arrow n'est pas dispo en france il vous faudra un vpn). Est ce qu'on est fous de lancer un podcast qui parle de caca, de mort, de bouffe à chaque épisode ? Peut-être.. Mais on est pas les seuls, merci d'avoir êté tès nombreux à streamer le premier épisode et merci pour vo commentaires, vos cinq étoiles, vos messages. On espère que cet épisode vous plaira. On a adoré le faire de notre côté.</p>\n<p><br></p>\n<p>Le Facebook : https://www.facebook.com/fukedupmoviespodcast</p>\n<p>Le Twitter : https://twitter.com/FuckedMovies</p>\n<p> Urbain Et Dédo </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2021-04-11",
+          "cleanTitle": "#2_La_Grande_Bouffe",
+          "fileName": "2021-04-11-#2_La_Grande_Bouffe.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/BxMZPc69e44o.mp3?t=1651590942",
+          "episode": "#1 Human Centipede",
+          "description": "<p>Dans ce podcast Urbain et Dédo, humoristes, cinéphiles et amateurs de sacrifices humains vont vous parler des films les plus malsains, les plus sordides, bref, les plus 'fucked up' de l'histoire du 7e art. Aujourd'hui, c'est bouche à fesse,  avec Human Centipede.</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2021-02-21",
+          "cleanTitle": "#1_Human_Centipede",
+          "fileName": "2021-02-21-#1_Human_Centipede.mp3",
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

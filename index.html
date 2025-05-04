@@ -35,107 +35,206 @@
 
     <div class="scrollable-content">
         <main>
-            <div class="podcast-list">
-                <div class="podcast-card" data-podcast-id="plutot_caustique">
-                    <a href="podcast.html?id=plutot_caustique">
-                        <img src="./podcasts/plutot_caustique/logo.png" alt="Plutot Caustique">
-                    </a>
-                    <div class="podcast-info">
-                        <a href="podcast.html?id=plutot_caustique" class="podcast-title-link">
-                            <h2>Plutot Caustique</h2>
-                        </a>
-                        <p>A podcast about humor, culture, and social commentary.</p>
-                        <div class="podcast-platforms">
-                            <a href="https://podcasts.apple.com/fr/podcast/plut%C3%B4t-caustique/id1384316631" target="_blank" title="Listen on Apple Podcasts"><i class="fa-brands fa-apple"></i></a>
-                            <a href="https://feeds.acast.com/public/shows/plutot-caustique" target="_blank" title="Listen on Acast"><i class="fa-solid fa-podcast"></i></a>
-                            <a href="https://open.spotify.com/show/3Lxbi2pKd0lJTlFUHyjFJV" target="_blank" title="Listen on Spotify"><i class="fa-brands fa-spotify"></i></a>
-                            <a href="https://www.deezer.com/fr/show/59996" target="_blank" title="Listen on Deezer"><i class="fa-brands fa-deezer"></i></a>
-                        </div>
-                        <div class="podcast-stats">
-                            <span><i class="fas fa-podcast"></i> <span class="episode-count">Loading...</span></span>
-                            <span><i class="fas fa-clock"></i> <span class="total-time">Loading...</span></span>
-                        </div>
-                    </div>
+            <div class="podcast-list" id="podcast-list">
+                <!-- Podcast cards will be dynamically loaded here -->
+                <div class="loading-indicator">
+                    <p>Loading podcasts...</p>
                 </div>
-                <div class="podcast-card" data-podcast-id="pardon_gpt">
-                    <a href="podcast.html?id=pardon_gpt">
-                        <img src="./podcasts/pardon_gpt/logo.jpeg" alt="Pardon GPT">
-                    </a>
-                    <div class="podcast-info">
-                        <a href="podcast.html?id=pardon_gpt" class="podcast-title-link">
-                            <h2>Pardon GPT</h2>
-                        </a>
-                        <p>A podcast featuring Pierre Lapin & Rémi Boyes with ChatGPT integration.</p>
-                        <div class="podcast-platforms">
-                            <a href="https://podcasts.apple.com/fr/podcast/pardon-gpt/id1687086031" target="_blank" title="Listen on Apple Podcasts"><i class="fa-brands fa-apple"></i></a>
-                            <a href="https://feeds.acast.com/public/shows/pardon-gpt" target="_blank" title="Listen on Acast"><i class="fa-solid fa-podcast"></i></a>
-                            <a href="https://open.spotify.com/show/15oSRGTL6iuzxZCuGZm12i" target="_blank" title="Listen on Spotify"><i class="fa-brands fa-spotify"></i></a>
-                            <a href="https://www.deezer.com/fr/show/3850777" target="_blank" title="Listen on Deezer"><i class="fa-brands fa-deezer"></i></a>
-                        </div>
-                        <div class="podcast-stats">
-                            <span><i class="fas fa-podcast"></i> <span class="episode-count">Loading...</span></span>
-                            <span><i class="fas fa-clock"></i> <span class="total-time">Loading...</span></span>
-                        </div>
-                    </div>
-                </div>
-                <!-- More podcast cards can be added here as they become available -->
             </div>
         </main>
     </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            // Get all podcast cards
-            const podcastCards = document.querySelectorAll('.podcast-card');
+            const podcastListContainer = document.getElementById('podcast-list');
 
-            // Process each podcast card
-            podcastCards.forEach(card => {
-                const podcastId = card.getAttribute('data-podcast-id');
-                const episodeCountElement = card.querySelector('.episode-count');
-                const totalTimeElement = card.querySelector('.total-time');
+            // Fetch the index.json file to get podcast information
+            fetch('index.json')
+                .then(response => response.json())
+                .then(indexData => {
+                    // Clear loading indicator
+                    podcastListContainer.innerHTML = '';
 
-                // Fetch podcast data
-                fetch(`podcasts/${podcastId}/episodes.json`)
-                    .then(response => response.json())
-                    .then(data => {
-                        // Count total episodes
-                        let totalEpisodes = 0;
-                        const episodeDates = [];
+                    // Process each podcast from the index
+                    indexData.podcasts.forEach(podcast => {
+                        createPodcastCard(podcast, podcastListContainer);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error loading index.json:', error);
+                    podcastListContainer.innerHTML = '<p>Error loading podcasts. Please try again later.</p>';
+                });
+        });
 
-                        data.Saisons.forEach(season => {
-                            // Handle nested arrays in episodes (like in pardon_gpt)
-                            if (Array.isArray(season.episodes) && season.episodes.length > 0) {
-                                if (Array.isArray(season.episodes[0])) {
-                                    // Handle nested array structure
-                                    season.episodes.forEach(episodeGroup => {
-                                        episodeGroup.forEach(episode => {
-                                            totalEpisodes++;
-                                            episodeDates.push(episode.date);
-                                        });
-                                    });
-                                } else {
-                                    // Handle flat array structure
-                                    totalEpisodes += season.episodes.length;
-                                    season.episodes.forEach(episode => {
+        // Function to create a podcast card
+        function createPodcastCard(podcast, container) {
+            // Create card element
+            const card = document.createElement('div');
+            card.className = 'podcast-card';
+            card.setAttribute('data-podcast-id', podcast.id);
+
+            // Create image link
+            const imageLink = document.createElement('a');
+            imageLink.href = `podcast.html?id=${podcast.id}`;
+
+            const image = document.createElement('img');
+            image.src = podcast.image;
+            image.alt = podcast.name;
+
+            imageLink.appendChild(image);
+            card.appendChild(imageLink);
+
+            // Create info container
+            const infoContainer = document.createElement('div');
+            infoContainer.className = 'podcast-info';
+
+            // Create title link
+            const titleLink = document.createElement('a');
+            titleLink.href = `podcast.html?id=${podcast.id}`;
+            titleLink.className = 'podcast-title-link';
+
+            const title = document.createElement('h2');
+            title.textContent = podcast.name;
+
+            titleLink.appendChild(title);
+            infoContainer.appendChild(titleLink);
+
+            // Create description paragraph (will be populated from episodes.json)
+            const description = document.createElement('p');
+            description.className = 'podcast-description';
+            description.textContent = 'Loading description...';
+            infoContainer.appendChild(description);
+
+            // Create platforms container
+            const platformsContainer = document.createElement('div');
+            platformsContainer.className = 'podcast-platforms';
+
+            // Add platform links
+            if (podcast.platforms.apple) {
+                const appleLink = createPlatformLink(podcast.platforms.apple, 'fa-brands fa-apple', 'Listen on Apple Podcasts');
+                platformsContainer.appendChild(appleLink);
+            }
+
+            if (podcast.platforms.acast) {
+                const acastLink = createPlatformLink(podcast.platforms.acast, 'fa-solid fa-podcast', 'Listen on Acast');
+                platformsContainer.appendChild(acastLink);
+            }
+
+            if (podcast.platforms.spotify) {
+                const spotifyLink = createPlatformLink(podcast.platforms.spotify, 'fa-brands fa-spotify', 'Listen on Spotify');
+                platformsContainer.appendChild(spotifyLink);
+            }
+
+            if (podcast.platforms.deezer) {
+                const deezerLink = createPlatformLink(podcast.platforms.deezer, 'fa-brands fa-deezer', 'Listen on Deezer');
+                platformsContainer.appendChild(deezerLink);
+            }
+
+            if (podcast.platforms.ausha) {
+                const aushaLink = createPlatformLink(podcast.platforms.ausha, 'fa-solid fa-headphones', 'Listen on Ausha');
+                platformsContainer.appendChild(aushaLink);
+            }
+
+            infoContainer.appendChild(platformsContainer);
+
+            // Create stats container
+            const statsContainer = document.createElement('div');
+            statsContainer.className = 'podcast-stats';
+
+            const episodeCountSpan = document.createElement('span');
+            const episodeIcon = document.createElement('i');
+            episodeIcon.className = 'fas fa-podcast';
+            const episodeCount = document.createElement('span');
+            episodeCount.className = 'episode-count';
+            episodeCount.textContent = 'Loading...';
+
+            episodeCountSpan.appendChild(episodeIcon);
+            episodeCountSpan.appendChild(document.createTextNode(' '));
+            episodeCountSpan.appendChild(episodeCount);
+
+            const timeSpan = document.createElement('span');
+            const timeIcon = document.createElement('i');
+            timeIcon.className = 'fas fa-clock';
+            const totalTime = document.createElement('span');
+            totalTime.className = 'total-time';
+            totalTime.textContent = 'Loading...';
+
+            timeSpan.appendChild(timeIcon);
+            timeSpan.appendChild(document.createTextNode(' '));
+            timeSpan.appendChild(totalTime);
+
+            statsContainer.appendChild(episodeCountSpan);
+            statsContainer.appendChild(timeSpan);
+
+            infoContainer.appendChild(statsContainer);
+            card.appendChild(infoContainer);
+
+            // Add the card to the container
+            container.appendChild(card);
+
+            // Fetch podcast data from episodes.json to get description and calculate stats
+            fetch(`podcasts/${podcast.id}/episodes.json`)
+                .then(response => response.json())
+                .then(data => {
+                    // Update description
+                    if (data.description) {
+                        description.textContent = data.description;
+                    }
+
+                    // Count total episodes
+                    let totalEpisodes = 0;
+                    const episodeDates = [];
+
+                    data.Saisons.forEach(season => {
+                        // Handle nested arrays in episodes (like in pardon_gpt)
+                        if (Array.isArray(season.episodes) && season.episodes.length > 0) {
+                            if (Array.isArray(season.episodes[0])) {
+                                // Handle nested array structure
+                                season.episodes.forEach(episodeGroup => {
+                                    episodeGroup.forEach(episode => {
+                                        totalEpisodes++;
                                         episodeDates.push(episode.date);
                                     });
-                                }
+                                });
+                            } else {
+                                // Handle flat array structure
+                                totalEpisodes += season.episodes.length;
+                                season.episodes.forEach(episode => {
+                                    episodeDates.push(episode.date);
+                                });
                             }
-                        });
-
-                        // Update episode count
-                        episodeCountElement.textContent = `${totalEpisodes} ep`;
-
-                        // Calculate total time from TSV files
-                        calculateTotalTime(podcastId, episodeDates, totalTimeElement);
-                    })
-                    .catch(error => {
-                        console.error(`Error loading podcast data for ${podcastId}:`, error);
-                        episodeCountElement.textContent = 'Error loading';
-                        totalTimeElement.textContent = 'Error loading';
+                        }
                     });
-            });
-        });
+
+                    // Update episode count
+                    episodeCount.textContent = `${totalEpisodes} ep`;
+
+                    // Calculate total time from TSV files
+                    calculateTotalTime(podcast.id, episodeDates, totalTime);
+                })
+                .catch(error => {
+                    console.error(`Error loading podcast data for ${podcast.id}:`, error);
+                    description.textContent = 'Error loading description';
+                    episodeCount.textContent = 'Error loading';
+                    totalTime.textContent = 'Error loading';
+                });
+        }
+
+        // Helper function to create platform links
+        function createPlatformLink(url, iconClass, title) {
+            const link = document.createElement('a');
+            if (url) {
+                link.href = url;
+                link.target = '_blank';
+                link.title = title;
+
+                const icon = document.createElement('i');
+                icon.className = iconClass;
+
+                link.appendChild(icon);
+            }
+            return link;
+        }
 
         function calculateTotalTime(podcastId, episodeDates, totalTimeElement) {
             let totalTimeMs = 0;
