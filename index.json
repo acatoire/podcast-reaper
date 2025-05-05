@@ -44,6 +44,18 @@
         "deezer": "https://www.deezer.com/fr/show/2333762",
         "ausha": "https://podcast.ausha.co/fucked-up-movies"
       }
+    },
+    {
+      "id": "tout_est_nul",
+      "name": "Tout est nul",
+      "image": "./podcasts/tout_est_nul/logo.jpeg",
+      "platforms": {
+        "apple": "https://podcasts.apple.com/fr/podcast/tout-est-nul/id1585562023",
+        "acast": null,
+        "spotify": "https://open.spotify.com/show/6Hz4YbyTKSM0TqVo5cEER7",
+        "deezer": "https://www.deezer.com/us/show/2973492",
+        "ausha": "https://podcast.ausha.co/toutestnul"
+      }
     }
   ]
 }
