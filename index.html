@@ -16,10 +16,12 @@
             font-size: 0.9rem;
             color: #666;
         }
+
         .podcast-stats span {
             display: flex;
             align-items: center;
         }
+
         .podcast-stats i {
             margin-right: 5px;
         }
@@ -30,7 +32,7 @@
             border-radius: 8px;
             padding: 20px;
             margin-bottom: 30px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
 
         .welcome-section h2 {
@@ -80,302 +82,283 @@
     </style>
 </head>
 <body>
-    <div class="fixed-content">
-        <header>
-            <h1>Podcast Reaper</h1>
-            <p>Discover and listen to your favorite podcasts</p>
-        </header>
-    </div>
+<div class="fixed-content">
+    <header>
+        <h1>Podcast Reaper</h1>
+        <p>Discover and listen to your favorite podcasts</p>
+    </header>
+</div>
 
-    <div class="scrollable-content">
-        <main>
-            <div class="welcome-section">
-                <h2>Bienvenue sur Podcast Reaper</h2>
-                <div class="welcome-content">
-                    <p>Bienvenue sur mon site dédié aux podcasts ! Accro aux podcasts, j'en consomme énormément au quotidien. Partant d'une idée un peu idiote, j'ai entrepris de convertir en texte, à l'aide des derniers outils en intelligence artificielle (Whisper), le podcast plutôt caustique de Urbain et Clément. Pour partager le résultat, j'ai créé ce site (encore une fois avec beaucoup d'IA, cette fois-ci avec Junie de JetBrains) et j'y ajoute progressivement de nouvelles fonctionnalités. Vous y trouverez notamment :</p>
+<div class="scrollable-content">
+    <main>
+        <div class="welcome-section">
+            <h2>Bienvenue sur Podcast Reaper</h2>
+            <div class="welcome-content">
+                <p>Bienvenue sur mon site dédié aux podcasts ! Accro aux podcasts, j'en consomme énormément au
+                    quotidien. Partant d'une idée un peu idiote, j'ai entrepris de convertir en texte, à l'aide des
+                    derniers outils en intelligence artificielle (Whisper), le podcast plutôt caustique de Urbain et
+                    Clément. Pour partager le résultat, j'ai créé ce site (encore une fois avec beaucoup d'IA, cette
+                    fois-ci avec Junie de JetBrains) et j'y ajoute progressivement de nouvelles fonctionnalités. Vous y
+                    trouverez notamment :</p>
 
-                    <ul>
-                        <li>Sous-titrage en live</li>
-                        <li>Traduction des sous-titres</li>
-                        <li>Recherche et comparaison de contenu</li>
-                    </ul>
+                <ul>
+                    <li>Sous-titrage en live</li>
+                    <li>Traduction des sous-titres</li>
+                    <li>Recherche et comparaison de contenu</li>
+                </ul>
 
-                    <p>Je réalise ce projet sur mon temps libre, souvent très tard le soir, et le site n'est pas forcément toujours stable. J'ai plein d'idées, mais n'étant ni développeur web ni chercheur en IA, j'avance à mon rythme.</p>
-                    <p>Je n'ais pas vocation a monétiser ce travail, d'ou l'hebergement simple. Les ecoutes se font sur les flux officiels des artistes.</p>
+                <p>Je réalise ce projet sur mon temps libre, souvent très tard le soir, et le site n'est pas forcément
+                    toujours stable. J'ai plein d'idées, mais n'étant ni développeur web ni chercheur en IA, j'avance à
+                    mon rythme.</p>
+                <p>Je n'ais pas vocation a monétiser ce travail, d'ou l'hebergement simple. Les ecoutes se font sur les
+                    flux officiels des artistes.</p>
 
-                    <p>Professionnellement, je suis dans l'informatique, ancien développeur embarqué et maintenant ingénieur en automatisation de tests.</p>
+                <p>Professionnellement, je suis dans l'informatique, ancien développeur embarqué et maintenant ingénieur
+                    en automatisation de tests.</p>
 
-                    <p>Je convertis et traduis les podcasts en local sur mon PC personnel. N'hésitez pas à me proposer des idées ou à signaler des bugs via l'interface de tickets de GitHub. Explorez, découvrez et profitez de cette expérience unique autour des podcasts !</p>
+                <p>Je convertis et traduis les podcasts en local sur mon PC personnel. N'hésitez pas à me proposer des
+                    idées ou à signaler des bugs via l'interface de tickets de GitHub. Explorez, découvrez et profitez
+                    de cette expérience unique autour des podcasts !</p>
 
-                    <p class="signature">Axel</p>
-                </div>
+                <p class="signature">Axel</p>
             </div>
+        </div>
 
-            <div class="podcast-list" id="podcast-list">
-                <!-- Podcast cards will be dynamically loaded here -->
-                <div class="loading-indicator">
-                    <p>Loading podcasts...</p>
-                </div>
+        <div class="podcast-list" id="podcast-list">
+            <!-- Podcast cards will be dynamically loaded here -->
+            <div class="loading-indicator">
+                <p>Loading podcasts...</p>
             </div>
-        </main>
-    </div>
+        </div>
+    </main>
+</div>
 
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const podcastListContainer = document.getElementById('podcast-list');
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const podcastListContainer = document.getElementById('podcast-list');
 
-            // Fetch the index.json file to get podcast information
-            fetch('index.json')
-                .then(response => response.json())
-                .then(indexData => {
-                    // Clear loading indicator
-                    podcastListContainer.innerHTML = '';
+        // Fetch the index.json file to get podcast information
+        fetch('index.json')
+            .then(response => response.json())
+            .then(indexData => {
+                // Clear loading indicator
+                podcastListContainer.innerHTML = '';
 
-                    // Process each podcast from the index
-                    indexData.podcasts.forEach(podcast => {
-                        createPodcastCard(podcast, podcastListContainer);
-                    });
-                })
-                .catch(error => {
-                    console.error('Error loading index.json:', error);
-                    podcastListContainer.innerHTML = '<p>Error loading podcasts. Please try again later.</p>';
+                // Process each podcast from the index
+                indexData.podcasts.forEach(podcast => {
+                    createPodcastCard(podcast, podcastListContainer);
                 });
-        });
-
-        // Function to create a podcast card
-        function createPodcastCard(podcast, container) {
-            // Create card element
-            const card = document.createElement('div');
-            card.className = 'podcast-card';
-            card.setAttribute('data-podcast-id', podcast.id);
-
-            // Create image link
-            const imageLink = document.createElement('a');
-            imageLink.href = `podcast.html?id=${podcast.id}`;
-
-            const image = document.createElement('img');
-            image.src = podcast.image;
-            image.alt = podcast.name;
-
-            imageLink.appendChild(image);
-            card.appendChild(imageLink);
-
-            // Create info container
-            const infoContainer = document.createElement('div');
-            infoContainer.className = 'podcast-info';
-
-            // Create title link
-            const titleLink = document.createElement('a');
-            titleLink.href = `podcast.html?id=${podcast.id}`;
-            titleLink.className = 'podcast-title-link';
-
-            const title = document.createElement('h2');
-            title.textContent = podcast.name;
-
-            titleLink.appendChild(title);
-            infoContainer.appendChild(titleLink);
-
-            // Create description paragraph (will be populated from episodes.json)
-            const description = document.createElement('p');
-            description.className = 'podcast-description';
-            description.textContent = 'Loading description...';
-            infoContainer.appendChild(description);
-
-            // Create platforms container
-            const platformsContainer = document.createElement('div');
-            platformsContainer.className = 'podcast-platforms';
-
-            // Add platform links
-            if (podcast.platforms.apple) {
-                const appleLink = createPlatformLink(podcast.platforms.apple, 'fa-brands fa-apple', 'Listen on Apple Podcasts');
-                platformsContainer.appendChild(appleLink);
-            }
-
-            if (podcast.platforms.acast) {
-                const acastLink = createPlatformLink(podcast.platforms.acast, 'fa-solid fa-podcast', 'Listen on Acast');
-                platformsContainer.appendChild(acastLink);
-            }
-
-            if (podcast.platforms.spotify) {
-                const spotifyLink = createPlatformLink(podcast.platforms.spotify, 'fa-brands fa-spotify', 'Listen on Spotify');
-                platformsContainer.appendChild(spotifyLink);
-            }
-
-            if (podcast.platforms.deezer) {
-                const deezerLink = createPlatformLink(podcast.platforms.deezer, 'fa-brands fa-deezer', 'Listen on Deezer');
-                platformsContainer.appendChild(deezerLink);
-            }
-
-            if (podcast.platforms.ausha) {
-                const aushaLink = createPlatformLink(podcast.platforms.ausha, 'fa-solid fa-headphones', 'Listen on Ausha');
-                platformsContainer.appendChild(aushaLink);
-            }
-
-            infoContainer.appendChild(platformsContainer);
-
-            // Create stats container
-            const statsContainer = document.createElement('div');
-            statsContainer.className = 'podcast-stats';
-
-            const episodeCountSpan = document.createElement('span');
-            const episodeIcon = document.createElement('i');
-            episodeIcon.className = 'fas fa-podcast';
-            const episodeCount = document.createElement('span');
-            episodeCount.className = 'episode-count';
-            episodeCount.textContent = 'Loading...';
-
-            episodeCountSpan.appendChild(episodeIcon);
-            episodeCountSpan.appendChild(document.createTextNode(' '));
-            episodeCountSpan.appendChild(episodeCount);
-
-            const timeSpan = document.createElement('span');
-            const timeIcon = document.createElement('i');
-            timeIcon.className = 'fas fa-clock';
-            const totalTime = document.createElement('span');
-            totalTime.className = 'total-time';
-            totalTime.textContent = 'Loading...';
-
-            timeSpan.appendChild(timeIcon);
-            timeSpan.appendChild(document.createTextNode(' '));
-            timeSpan.appendChild(totalTime);
-
-            statsContainer.appendChild(episodeCountSpan);
-            statsContainer.appendChild(timeSpan);
-
-            infoContainer.appendChild(statsContainer);
-            card.appendChild(infoContainer);
-
-            // Add the card to the container
-            container.appendChild(card);
-
-            // Fetch podcast data from episodes.json to get description and calculate stats
-            fetch(`podcasts/${podcast.id}/episodes.json`)
-                .then(response => response.json())
-                .then(data => {
-                    // Update description
-                    if (data.description) {
-                        description.textContent = data.description;
-                    }
-
-                    // Count total episodes
-                    let totalEpisodes = 0;
-                    const episodeDates = [];
-
-                    data.Saisons.forEach(season => {
-                        // Handle nested arrays in episodes (like in pardon_gpt)
-                        if (Array.isArray(season.episodes) && season.episodes.length > 0) {
-                            if (Array.isArray(season.episodes[0])) {
-                                // Handle nested array structure
-                                season.episodes.forEach(episodeGroup => {
-                                    episodeGroup.forEach(episode => {
-                                        totalEpisodes++;
-                                        episodeDates.push(episode.date);
-                                    });
-                                });
-                            } else {
-                                // Handle flat array structure
-                                totalEpisodes += season.episodes.length;
-                                season.episodes.forEach(episode => {
-                                    episodeDates.push(episode.date);
-                                });
-                            }
-                        }
-                    });
-
-                    // Update episode count
-                    episodeCount.textContent = `${totalEpisodes} ep`;
-
-                    // Calculate total time from TSV files
-                    calculateTotalTime(podcast.id, episodeDates, totalTime);
-                })
-                .catch(error => {
-                    console.error(`Error loading podcast data for ${podcast.id}:`, error);
-                    description.textContent = 'Error loading description';
-                    episodeCount.textContent = 'Error loading';
-                    totalTime.textContent = 'Error loading';
-                });
-        }
-
-        // Helper function to create platform links
-        function createPlatformLink(url, iconClass, title) {
-            const link = document.createElement('a');
-            if (url) {
-                link.href = url;
-                link.target = '_blank';
-                link.title = title;
-
-                const icon = document.createElement('i');
-                icon.className = iconClass;
-
-                link.appendChild(icon);
-            }
-            return link;
-        }
-
-        function calculateTotalTime(podcastId, episodeDates, totalTimeElement) {
-            let totalTimeMs = 0;
-            let processedCount = 0;
-
-            // Process each episode
-            episodeDates.forEach(date => {
-                // Fetch TSV file
-                fetch(`podcasts/${podcastId}/turbo/${date}/${date}.tsv`)
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error('TSV file not found');
-                        }
-                        return response.text();
-                    })
-                    .then(tsvContent => {
-                        // Parse TSV content
-                        const lines = tsvContent.split('\n');
-
-                        // Get the last line with content
-                        let lastLine = null;
-                        for (let i = lines.length - 1; i >= 0; i--) {
-                            if (lines[i].trim() !== '') {
-                                lastLine = lines[i];
-                                break;
-                            }
-                        }
-
-                        if (lastLine) {
-                            // Extract end time from the last line
-                            const parts = lastLine.split('\t');
-                            if (parts.length >= 2) {
-                                const endTime = parseInt(parts[1]);
-                                if (!isNaN(endTime)) {
-                                    totalTimeMs += endTime;
-                                }
-                            }
-                        }
-                    })
-                    .catch(error => {
-                        console.warn(`Error loading TSV for ${date}:`, error);
-                    })
-                    .finally(() => {
-                        processedCount++;
-
-                        // When all episodes are processed, update the total time display
-                        if (processedCount === episodeDates.length) {
-                            // Convert milliseconds to day, hours and minutes
-                            const totalDays = Math.floor(totalTimeMs / (1000 * 60 * 60 * 24));
-                            const remainingMs = totalTimeMs % (1000 * 60 * 60 * 24);
-                            const totalHours = Math.floor(remainingMs / (1000 * 60 * 60));
-                            const totalMinutes = Math.floor((remainingMs % (1000 * 60 * 60)) / (1000 * 60));
-
-                            totalTimeElement.textContent = `${totalDays}d ${totalHours}h ${totalMinutes}m`;
-                        }
-                    });
+            })
+            .catch(error => {
+                console.error('Error loading index.json:', error);
+                podcastListContainer.innerHTML = '<p>Error loading podcasts. Please try again later.</p>';
             });
+    });
+
+    // Function to create a podcast card
+    function createPodcastCard(podcast, container) {
+        // Create card element
+        const card = document.createElement('div');
+        card.className = 'podcast-card';
+        card.setAttribute('data-podcast-id', podcast.id);
+
+        // Create image link
+        const imageLink = document.createElement('a');
+        imageLink.href = `podcast.html?id=${podcast.id}`;
+
+        const image = document.createElement('img');
+        image.src = podcast.image;
+        image.alt = podcast.name;
+
+        imageLink.appendChild(image);
+        card.appendChild(imageLink);
+
+        // Create info container
+        const infoContainer = document.createElement('div');
+        infoContainer.className = 'podcast-info';
+
+        // Create title link
+        const titleLink = document.createElement('a');
+        titleLink.href = `podcast.html?id=${podcast.id}`;
+        titleLink.className = 'podcast-title-link';
+
+        const title = document.createElement('h2');
+        title.textContent = podcast.name;
+
+        titleLink.appendChild(title);
+        infoContainer.appendChild(titleLink);
+
+        // Create description paragraph (will be populated from episodes.json)
+        const description = document.createElement('p');
+        description.className = 'podcast-description';
+        description.textContent = 'Loading description...';
+        infoContainer.appendChild(description);
+
+        // Create platforms container
+        const platformsContainer = document.createElement('div');
+        platformsContainer.className = 'podcast-platforms';
+
+        // Add platform links
+        if (podcast.platforms.apple) {
+            const appleLink = createPlatformLink(podcast.platforms.apple, 'fa-brands fa-apple', 'Listen on Apple Podcasts');
+            platformsContainer.appendChild(appleLink);
         }
 
-        // Helper function to format time
-        function formatTime(milliseconds) {
-            const hours = Math.floor(milliseconds / (1000 * 60 * 60));
-            const minutes = Math.floor((milliseconds % (1000 * 60 * 60)) / (1000 * 60));
-            return `${hours}h ${minutes}m`;
+        if (podcast.platforms.acast) {
+            const acastLink = createPlatformLink(podcast.platforms.acast, 'fa-solid fa-podcast', 'Listen on Acast');
+            platformsContainer.appendChild(acastLink);
         }
-    </script>
+
+        if (podcast.platforms.spotify) {
+            const spotifyLink = createPlatformLink(podcast.platforms.spotify, 'fa-brands fa-spotify', 'Listen on Spotify');
+            platformsContainer.appendChild(spotifyLink);
+        }
+
+        if (podcast.platforms.deezer) {
+            const deezerLink = createPlatformLink(podcast.platforms.deezer, 'fa-brands fa-deezer', 'Listen on Deezer');
+            platformsContainer.appendChild(deezerLink);
+        }
+
+        if (podcast.platforms.ausha) {
+            const aushaLink = createPlatformLink(podcast.platforms.ausha, 'fa-solid fa-headphones', 'Listen on Ausha');
+            platformsContainer.appendChild(aushaLink);
+        }
+
+        infoContainer.appendChild(platformsContainer);
+
+        // Create stats container
+        const statsContainer = document.createElement('div');
+        statsContainer.className = 'podcast-stats';
+
+        const episodeCountSpan = document.createElement('span');
+        const episodeIcon = document.createElement('i');
+        episodeIcon.className = 'fas fa-podcast';
+        const episodeCount = document.createElement('span');
+        episodeCount.className = 'episode-count';
+        episodeCount.textContent = 'Loading...';
+
+        episodeCountSpan.appendChild(episodeIcon);
+        episodeCountSpan.appendChild(document.createTextNode(' '));
+        episodeCountSpan.appendChild(episodeCount);
+
+        const timeSpan = document.createElement('span');
+        const timeIcon = document.createElement('i');
+        timeIcon.className = 'fas fa-clock';
+        const totalTime = document.createElement('span');
+        totalTime.className = 'total-time';
+        totalTime.textContent = 'Loading...';
+
+        timeSpan.appendChild(timeIcon);
+        timeSpan.appendChild(document.createTextNode(' '));
+        timeSpan.appendChild(totalTime);
+
+        statsContainer.appendChild(episodeCountSpan);
+        statsContainer.appendChild(timeSpan);
+
+        infoContainer.appendChild(statsContainer);
+        card.appendChild(infoContainer);
+
+        // Add the card to the container
+        container.appendChild(card);
+
+        // Fetch podcast data from episodes.json to get description and calculate stats
+        fetch(`podcasts/${podcast.id}/episodes.json`)
+            .then(response => response.json())
+            .then(data => {
+                // Update description
+                if (data.description) {
+                    description.textContent = data.description;
+                }
+
+                // Count total episodes
+                let totalEpisodes = 0;
+                let totalTimeMin = 0;
+                const episodeDates = [];
+
+                data.Saisons.forEach(season => {
+                    // Handle nested arrays in episodes (like in pardon_gpt)
+                    if (Array.isArray(season.episodes) && season.episodes.length > 0) {
+                        if (Array.isArray(season.episodes[0])) {
+                            // Handle nested array structure
+                            season.episodes.forEach(episodeGroup => {
+                                episodeGroup.forEach(episode => {
+                                    totalEpisodes++;
+                                    totalTimeMin += episode.duration;
+                                    episodeDates.push(episode.date);
+                                    console.log("??????????????"); // FIXME not needed
+                                });
+                            });
+                        } else {
+                            // Handle flat array structure
+                            totalEpisodes += season.episodes.length;
+                            season.episodes.forEach(episode => {
+                                episodeDates.push(episode.date);
+                                if(episode.duration) {
+                                    totalTimeMin += episode.duration;
+                                    console.log(totalTimeMin);
+                                }
+                                else{
+                                    console.log("No duration for episode");
+                                }
+                                // console.log(episode.duration);
+                            });
+                        }
+                    }
+                });
+
+                // Update episode count
+                episodeCount.textContent = `${totalEpisodes} ep`;
+
+                // Calculate total time from TSV files
+                calculateTotalTime(totalTimeMin, totalTime);
+            })
+            .catch(error => {
+                console.error(`Error loading podcast data for ${podcast.id}:`, error);
+                description.textContent = 'Error loading description';
+                episodeCount.textContent = 'Error loading';
+                totalTime.textContent = 'Error loading';
+            });
+    }
+
+    // Helper function to create platform links
+    function createPlatformLink(url, iconClass, title) {
+        const link = document.createElement('a');
+        if (url) {
+            link.href = url;
+            link.target = '_blank';
+            link.title = title;
+
+            const icon = document.createElement('i');
+            icon.className = iconClass;
+
+            link.appendChild(icon);
+        }
+        return link;
+    }
+
+    function calculateTotalTime(totalTimeMin, totalTimeElement) {
+
+
+        // Convert milliseconds to day, hours and minutes
+        const totalDays = Math.floor(totalTimeMin / (60 * 24));
+        let remainingMin = totalTimeMin % (60 * 24);
+        const totalHours = Math.floor(remainingMin / (60));
+        remainingMin = remainingMin % (60);
+
+        const durationString = `${totalDays}d ${totalHours}h ${remainingMin}m`;
+
+        console.log(durationString);
+
+        totalTimeElement.textContent = durationString
+
+    }
+
+    // Helper function to format time
+    function formatTime(milliseconds) {
+        const hours = Math.floor(milliseconds / (1000 * 60 * 60));
+        const minutes = Math.floor((milliseconds % (1000 * 60 * 60)) / (1000 * 60));
+        return `${hours}h ${minutes}m`;
+    }
+</script>
 </body>
 </html>
