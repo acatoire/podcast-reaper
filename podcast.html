@@ -498,7 +498,7 @@
 
                 // Create an array of paths to try
                 const pathsToTry = [
-                    `podcasts/${id}/turbo/${dateStr}/translated_${dateStr}.vtt`
+                    `podcasts/${id}/turbo/${dateStr}/translated_${dateStr}.vtt`,
                     `podcasts/${id}/turbo/${dateStr}/${dateStr}.vtt`, // Fallback to one language VTT
                     `podcasts/${id}/turbo/${dateStr}/${dateStr}.tsv` // Fallback to TSV if VTT not found
                 ].filter(path => path.includes('//') === false); // Filter out invalid paths
