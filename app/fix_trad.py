@@ -15,9 +15,9 @@ for root, _, files in os.walk(target_directory):
                 content = f.read()
 
             # Replace > followed by any type of newline and <c.fr> with >\r\n<c.en>
-            # updated_content = re.sub(r">\s<c\.fr>", r">\r\n<c.en>", content, flags=re.DOTALL)
-            #updated_content = re.sub(r">\s\s<c\.en>", r">\n<c.en>", content, flags=re.DOTALL)
-            updated_content = re.sub(r">\s<c\.en>", r">\n<c.en>", content, flags=re.DOTALL)
+            updated_content = re.sub(r">\s<c\.fr>", r">\n<c.en>", content, flags=re.DOTALL)
+            # updated_content = re.sub(r">\s\s<c\.en>", r">\n<c.en>", content, flags=re.DOTALL)
+            updated_content = re.sub(r">\s<c\.en>", r">\n<c.en>", updated_content, flags=re.DOTALL)
 
             # Write the updated content back to the file
             with open(file_path, "w", encoding="utf-8") as f:
