@@ -2,16 +2,37 @@ import os
 import json
 import requests
 
-# Path to the JSON file
-json_file_path = "episodes.json"
+# The JSON file must have this structure:
+# {
+#   "name": "...",
+#   "description": "...",
+#   "authors": "...",
+#   "listen": [
+#     {"name": "apple", "link": "..."},
+#     {"name": "acast", "link": "..."},
+#     {"name": "spotify", "link": "..."},
+#     {"name": "deezer", "link": "..."}
+#   ],
+#   "Saisons": [
+#     {
+#       "name": "...",
+#       "episodes": [
+#         {"url": "...", ...}
+#       ]
+#     }
+#   ]
+# }
+
+input_json_path = input("Enter the path to the existing episodes.json: ").strip()
+with open(input_json_path, "r", encoding="utf-8") as f:
+    podcast_info = json.load(f)
 
 # Destination folder for downloaded files
-download_folder = "./downloads"
+download_folder = os.path.join(os.path.dirname(input_json_path), "downloads")
 os.makedirs(download_folder, exist_ok=True)
 
-# Load data from the JSON file
-with open(json_file_path, "r", encoding="utf-8") as json_file:
-    episodes = json.load(json_file)
+# Get the new season content
+episodes = next((saison["episodes"] for saison in podcast_info["Saisons"] if saison["name"] == "new episodes"), [])
 
 # Download each file
 for episode in episodes:

@@ -4,9 +4,12 @@ import time
 from mutagen.mp3 import MP3
 from whisper.utils import get_writer
 
+# ask the root folder to work on
+root_folder = input("Enter the path to the folder containing downloads folder: ").strip()
+
 # Specify input and output directories
-input_folder = "./downloads"  # Replace with your folder containing MP3 files
-output_folder = "./transcript"  # Base folder for transcripts
+input_folder = root_folder + "/downloads"  # Replace with your folder containing MP3 files
+output_folder = root_folder + "/transcript"  # Base folder for transcripts
 output_format = "all"
 #model_size = input("Choose Whisper model size (1 for 'turbo', 2 for 'large-v3'): ")
 #model_size = "turbo" if model_size == "1" else "large-v3"

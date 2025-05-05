@@ -71,7 +71,7 @@ for index_folder, folder in enumerate(folders, start=1):
 
                     # Translate the content
                     translated_content += "<c.fr>" + line + "</c>\n"
-                    translated_content += "<c.fr>" + argostranslate.translate.translate(line, from_code,
+                    translated_content += "<c.en>" + argostranslate.translate.translate(line, from_code,
                                                                                         to_code) + "</c>\n"
 
         # Save the translated content to a new file

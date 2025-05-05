@@ -47,7 +47,8 @@
           "date": "2025-04-18",
           "cleanTitle": "#13_Eraserhead_Le_film_fou_de_notre_maître_David_Lynch_(RIP_Sensei)",
           "fileName": "2025-04-18-#13_Eraserhead_Le_film_fou_de_notre_maître_David_Lynch_(RIP_Sensei).mp3",
-          "label": ""
+          "label": "",
+          "duration": 144
         },
         {
           "url": "https://audio.ausha.co/yvErPUWgVMdn.mp3?t=1737540319",
@@ -56,7 +57,8 @@
           "date": "2025-01-22",
           "cleanTitle": "#12_Festen_un_bon_film_familial_(Avec_Nicolas_Berno)",
           "fileName": "2025-01-22-#12_Festen_un_bon_film_familial_(Avec_Nicolas_Berno).mp3",
-          "label": ""
+          "label": "",
+          "duration": 136
         },
         {
           "url": "https://audio.ausha.co/bz2LPI1v5M0X.mp3?t=1736336414",
@@ -65,7 +67,8 @@
           "date": "2025-01-08",
           "cleanTitle": "#11_Les_dents_de_la_mer_4_(La_revanche)_(Une_belle_bouse)",
           "fileName": "2025-01-08-#11_Les_dents_de_la_mer_4_(La_revanche)_(Une_belle_bouse).mp3",
-          "label": ""
+          "label": "",
+          "duration": 149
         }
       ]
     },
@@ -79,7 +82,8 @@
           "date": "2024-12-05",
           "cleanTitle": "#10_Uzumaki_(Un_film_spiralement_chelou)",
           "fileName": "2024-12-05-#10_Uzumaki_(Un_film_spiralement_chelou).mp3",
-          "label": ""
+          "label": "",
+          "duration": 137
         },
         {
           "url": "https://audio.ausha.co/B19XdiwV85GB.mp3?t=1731506263",
@@ -88,7 +92,8 @@
           "date": "2024-11-13",
           "cleanTitle": "#9_The_Substance_(Episode_Marathon)_(Allez_voir_le_film__)",
           "fileName": "2024-11-13-#9_The_Substance_(Episode_Marathon)_(Allez_voir_le_film__).mp3",
-          "label": ""
+          "label": "",
+          "duration": 203
         },
         {
           "url": "https://audio.ausha.co/omk9PI6K9W0R.mp3?t=1729610271",
@@ -97,7 +102,8 @@
           "date": "2024-10-22",
           "cleanTitle": "#8_Terrifier_3",
           "fileName": "2024-10-22-#8_Terrifier_3.mp3",
-          "label": ""
+          "label": "",
+          "duration": 131
         }
       ]
     },
@@ -111,7 +117,8 @@
           "date": "2022-05-10",
           "cleanTitle": "#7_Cannibal_Holocaust",
           "fileName": "2022-05-10-#7_Cannibal_Holocaust.mp3",
-          "label": ""
+          "label": "",
+          "duration": 104
         },
         {
           "url": "https://audio.ausha.co/BQ8j0cqV3e1a.mp3?t=1651580071",
@@ -120,7 +127,8 @@
           "date": "2022-03-12",
           "cleanTitle": "#6_Butt_Boy",
           "fileName": "2022-03-12-#6_Butt_Boy.mp3",
-          "label": ""
+          "label": "",
+          "duration": 79
         }
       ]
     },
@@ -134,7 +142,8 @@
           "date": "2021-10-11",
           "cleanTitle": "#5_Malignant",
           "fileName": "2021-10-11-#5_Malignant.mp3",
-          "label": ""
+          "label": "",
+          "duration": 98
         },
         {
           "url": "https://audio.ausha.co/b5mn5sPlqRJD.mp3?t=1651625451",
@@ -143,7 +152,8 @@
           "date": "2021-08-31",
           "cleanTitle": "#4__Massacre_à_la_tronçonneuse_2",
           "fileName": "2021-08-31-#4__Massacre_à_la_tronçonneuse_2.mp3",
-          "label": ""
+          "label": "",
+          "duration": 64
         },
         {
           "url": "https://audio.ausha.co/yvErPUqWz80g.mp3?t=1651617999",
@@ -152,7 +162,8 @@
           "date": "2021-06-05",
           "cleanTitle": "#3_Visitor_Q",
           "fileName": "2021-06-05-#3_Visitor_Q.mp3",
-          "label": ""
+          "label": "",
+          "duration": 93
         },
         {
           "url": "https://audio.ausha.co/yvErPUA63PYd.mp3?t=1651672141",
@@ -161,7 +172,8 @@
           "date": "2021-04-11",
           "cleanTitle": "#2_La_Grande_Bouffe",
           "fileName": "2021-04-11-#2_La_Grande_Bouffe.mp3",
-          "label": ""
+          "label": "",
+          "duration": 135
         },
         {
           "url": "https://audio.ausha.co/BxMZPc69e44o.mp3?t=1651590942",
@@ -170,7 +182,8 @@
           "date": "2021-02-21",
           "cleanTitle": "#1_Human_Centipede",
           "fileName": "2021-02-21-#1_Human_Centipede.mp3",
-          "label": ""
+          "label": "",
+          "duration": 94
         }
       ]
     }
