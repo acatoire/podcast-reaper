@@ -3,7 +3,7 @@
     {
       "id": "plutot_caustique",
       "name": "Plutot Caustique",
-      "image": "./podcasts/plutot_caustique/logo.png",
+      "image": "./podcasts/plutot_caustique/plutot-caustique.webp",
       "platforms": {
         "apple": "https://podcasts.apple.com/fr/podcast/plut%C3%B4t-caustique/id1384316631",
         "acast": "https://feeds.acast.com/public/shows/plutot-caustique",
@@ -60,7 +60,7 @@
     {
       "id": "adc",
       "name": "L'apéro du Captain",
-      "image": "./podcasts/adc/logo.jpeg",
+      "image": "./podcasts/adc/logo.webp",
       "platforms": {
         "apple": "https://podcasts.apple.com/fr/podcast/lap%C3%A9ro-du-captain/id327018584",
         "acast": null,
