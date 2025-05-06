@@ -56,6 +56,20 @@
         "deezer": "https://www.deezer.com/us/show/2973492",
         "ausha": "https://podcast.ausha.co/toutestnul"
       }
+    },
+    {
+      "id": "adc",
+      "name": "L'apéro du Captain",
+      "image": "./podcasts/adc/logo.jpeg",
+      "platforms": {
+        "apple": "https://podcasts.apple.com/fr/podcast/lap%C3%A9ro-du-captain/id327018584",
+        "acast": null,
+        "spotify": "https://open.spotify.com/show/6ivbsvdDCHp2qPv1dagvQL",
+        "deezer": "https://www.deezer.com/fr/show/4161",
+        "ausha": null,
+        "feedburner": "http://feeds.feedburner.com/LaperoDuCaptain",
+        "podCloud": "https://podcloud.fr/podcast/lapero-du-captain"
+      }
     }
   ]
 }
