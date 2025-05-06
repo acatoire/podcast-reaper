@@ -9,7 +9,7 @@ root_folder = input("Enter the path to the folder containing downloads folder: "
 
 # Specify input and output directories
 input_folder = root_folder + "/downloads"  # Replace with your folder containing MP3 files
-output_folder = root_folder + "/transcript"  # Base folder for transcripts
+output_folder = root_folder  # Base folder for transcripts
 output_format = "all"
 #model_size = input("Choose Whisper model size (1 for 'turbo', 2 for 'large-v3'): ")
 #model_size = "turbo" if model_size == "1" else "large-v3"
