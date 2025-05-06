@@ -14,6 +14,8 @@
   - Transcrire l'épisode.
   - Traduire l'épisode.
 - [ ] Écrire un script Python pour remplir le fichier JSON avec la durée des épisodes.
+- [x] Update each episode with the duration in the JSON file reading the content of the info file.
 
 ## Voice Model
 - [ ] Créer un modèle de voix à partir des sons.
+

@@ -2,28 +2,13 @@
   "name": "Pardon GPT",
   "description": "Urbain et Dédo font des blagues sur les films les plus malsains, les plus bizarres les plus perchés de la création. Ceux qui même mauvais reviennent te hanter et dont tu te dis que les cerveaux qui les ont pondus sont biens malades.\n",
   "authors": "Urbain et Dédo",
-  "listen": [
-    {
-      "name": "apple",
-      "link": "https://podcasts.apple.com/fr/podcast/f-d-up-movies/id1559710522"
-    },
-    {
-      "name": "acast",
-      "link": null
-    },
-    {
-      "name": "spotify",
-      "link": "https://open.spotify.com/show/44jJgQZjzsttdWTCI4GJcc"
-    },
-    {
-      "name": "deezer",
-      "link": "https://www.deezer.com/fr/show/2333762"
-    },
-    {
-      "name": "ausha",
-      "link": "https://podcast.ausha.co/fucked-up-movies"
-    }
-  ],
+  "listen": {
+    "apple": "https://podcasts.apple.com/fr/podcast/f-d-up-movies/id1559710522",
+    "acast": null,
+    "spotify": "https://open.spotify.com/show/44jJgQZjzsttdWTCI4GJcc",
+    "deezer": "https://www.deezer.com/fr/show/2333762",
+    "ausha": "https://podcast.ausha.co/fucked-up-movies"
+  },
   "references": [
     {
       "name": "",

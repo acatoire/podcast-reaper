@@ -2,40 +2,12 @@
   "name": "podkassos",
   "description": "Enfin un podcast avec des humoristes qui parlent d'autre chose que leur métier de parisien dont on se fout. Ici on parle vrai sujets, argent, amour, complots et grosses genvices.",
   "authors": "Franjo, Pierre Thevenoux et Urbain",
-  "listen": [
-    {
-      "name": "apple",
-      "link": "https://podcasts.apple.com/fr/podcast/podkassos/id1714420932"
-    },
-    {
-      "name": "acast",
-      "link": "https://feeds.acast.com/public/shows/podkassos"
-    },
-    {
-      "name": "spotify",
-      "link": "https://open.spotify.com/show/5oEwhzXKUAWcHklOWWbVmS"
-    },
-    {
-      "name": "deezer",
-      "link": "https://www.deezer.com/fr/show/1000396911"
-    }
-  ],
-  "references": [
-    {
-      "name": "Franjo",
-      "description": ""
-    },
-    {
-      "name": "Urbain",
-      "description": "",
-      "link": ""
-    },
-    {
-      "name": "Pierre Thevenoux",
-      "description": "",
-      "link": ""
-    }
-  ],
+  "listen": {
+    "apple": "https://podcasts.apple.com/fr/podcast/podkassos/id1714420932",
+    "acast": "https://feeds.acast.com/public/shows/podkassos",
+    "spotify": "https://open.spotify.com/show/5oEwhzXKUAWcHklOWWbVmS",
+    "deezer": "https://www.deezer.com/fr/show/1000396911"
+  },
   "Saisons": [
     {
       "name": "Saison 2",

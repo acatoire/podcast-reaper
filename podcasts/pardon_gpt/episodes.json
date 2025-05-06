@@ -2,24 +2,12 @@
   "name": "Pardon GPT",
   "description": "Si une IA comme ChatGPT lançait son podcast iel demanderait évidemment à Pierre Lapin et Rémi Boyes de lui trouver les meilleur.e.s invité.e.s !",
   "authors": "Pierre Lapin, Rémi Boyes, Léo",
-  "listen": [
-    {
-      "name": "apple",
-      "link": "https://podcasts.apple.com/fr/podcast/plut%C3%B4t-caustique/id1384316631"
-    },
-    {
-      "name": "acast",
-      "link": "https://feeds.acast.com/public/shows/pardon-gpt"
-    },
-    {
-      "name": "spotify",
-      "link": "https://open.spotify.com/show/15oSRGTL6iuzxZCuGZm12i"
-    },
-    {
-      "name": "deezer",
-      "link": "https://podcasts.apple.com/fr/podcast/pardon-gpt/id1687086031"
-    }
-  ],
+  "listen": {
+    "apple": "https://podcasts.apple.com/fr/podcast/plut%C3%B4t-caustique/id1384316631",
+    "acast": "https://feeds.acast.com/public/shows/pardon-gpt",
+    "spotify": "https://open.spotify.com/show/15oSRGTL6iuzxZCuGZm12i",
+    "deezer": "https://podcasts.apple.com/fr/podcast/pardon-gpt/id1687086031"
+  },
   "references": [
     {
       "name": "François Cluzet",

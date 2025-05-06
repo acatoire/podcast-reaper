@@ -2,28 +2,13 @@
   "name": "Tout est nul",
   "description": "Urbain et son ami Thibault, un des seuls êtres plus abjects que lui, débriefent les gros blockbusters, qu'en bons boomer ils détestent (quasi) tous. A force d'être frustré que tout ce qu'on aime soit devenu nul, on le crie haut et fort : tout est nul ! Ou presque. Parce que attention, on sera sévères mais juste. Si c'est pas trop nul on l'admetrra avec quasi plaisir. Mais ce sera rare, parce que maintenant tout est nul",
   "authors": "Urbain et Thibault",
-  "listen": [
-    {
-      "name": "apple",
-      "link": "https://podcasts.apple.com/fr/podcast/tout-est-nul/id1585562023"
+  "listen": {
+    "apple": "https://podcasts.apple.com/fr/podcast/tout-est-nul/id1585562023",
+    "acast": null,
+    "spotify": "https://open.spotify.com/show/6Hz4YbyTKSM0TqVo5cEER7",
+    "deezer": "https://www.deezer.com/us/show/2973492",
+    "ausha": "https://podcast.ausha.co/toutestnul"
     },
-    {
-      "name": "acast",
-      "link": null
-    },
-    {
-      "name": "spotify",
-      "link": "https://open.spotify.com/show/6Hz4YbyTKSM0TqVo5cEER7"
-    },
-    {
-      "name": "deezer",
-      "link": "https://www.deezer.com/us/show/2973492"
-    },
-    {
-      "name": "ausha",
-      "link": "https://podcast.ausha.co/toutestnul"
-    }
-  ],
   "references": [
     {
       "name": "",
