@@ -37,44 +37,53 @@ folders = [folder for folder in os.listdir(input_folder) if
 
 print(f"Found {folders.__len__()} Folders:")
 
-for index_folder, folder in enumerate(folders, start=1):
+initial_files = []
+final_list_to_process = []
 
-    print(f"{index_folder}/{len(folders)}: {folder}")
-    folder_path = os.path.join(input_folder, folder)
-
+for folder in folders:
     # List all files in the folder
-    files = [filename for filename in os.listdir(folder_path)
+    files = [os.path.join(input_folder, folder, filename) for filename in os.listdir(os.path.join(input_folder, folder))
              if (filename.endswith(".vtt") and
                  not filename.startswith("translated_"))]
 
-    print(f"Found {files.__len__()} vtt file:")
-    for index_file, filename in enumerate(files, start=1):
-        print(f"{index_file}/{len(files)}: {filename}")
-        file_path = os.path.join(folder_path, filename)
-        output_file = f"translated_{filename}"
+    initial_files += files
 
-        # Check if the file is already translated
-        if os.path.exists(os.path.join(folder_path, output_file)):
-            print(f"Translated file already exists: {output_file}, skipping.")
-            continue
+print(f"Found {len(initial_files)} vtt files")
 
-        # Read the file content
-        with open(file_path, 'r', encoding='utf-8') as file:
-            # Read the file content line by line
-            translated_content = ""
-            for line in file:
-                if " --> " in line or line.strip() == "" or 'WEBVTT' in line:
-                    translated_content += line  # Write the line as is
-                else:
-                    # remove last return if present
-                    line = line.rstrip()
+for filepath in initial_files:
+    output_path = os.path.join(os.path.dirname(filepath),
+                               "translated_" + os.path.basename(filepath))
 
-                    # Translate the content
-                    translated_content += "<c.fr>" + line + "</c>\n"
-                    translated_content += "<c.en>" + argostranslate.translate.translate(line, from_code,
-                                                                                        to_code) + "</c>\n"
+    # Check if the file is already translated
+    if not os.path.exists(output_path):
+        final_list_to_process += [filepath]
+
+print(f"Found {len(final_list_to_process)} vtt to process")
+
+for index_file, filepath in enumerate(final_list_to_process, start=1):
+    print(f"{index_file}/{len(final_list_to_process)}: {filepath}")
+    output_path = os.path.join(os.path.dirname(filepath),
+                               "translated_" + os.path.basename(filepath))
+
+    # Read the file content
+    with open(filepath, 'r', encoding='utf-8') as file:
+        # Read the file content line by line
+        translated_content = ""
+        for line in file:
+            if (" --> " in line or
+                    line.strip() == "" or
+                    'WEBVTT' in line):
+                # Write the line as is
+                translated_content += line  # Write the line as is
+            else:
+                # remove last return if present
+                line = line.rstrip()
+                # Write the input line as french
+                translated_content += "<c.fr>" + line + "</c>\n"
+                # Translate the content
+                translated_content += "<c.en>" + argostranslate.translate.translate(line, from_code,
+                                                                                    to_code) + "</c>\n"
 
         # Save the translated content to a new file
-        translated_file_path = os.path.join(folder_path, output_file)
-        with open(translated_file_path, 'w', encoding='utf-8') as translated_file:
+        with open(output_path, 'w', encoding='utf-8') as translated_file:
             translated_file.write(translated_content)
