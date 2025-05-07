@@ -3117,7 +3117,8 @@
           "date": "2011-05-21",
           "cleanTitle": "ADC_#76-Le_projectionniste_et_les_33mm_de_lapin_du_serial_laveur",
           "fileName": "2011-05-21-ADC_#76-Le_projectionniste_et_les_33mm_de_lapin_du_serial_laveur.mp3",
-          "label": ""
+          "label": "",
+          "duration": 185
         },
         {
           "url": "https://podcast.captainweb.net/l-apero-du-captain-75.mp3",
@@ -3126,7 +3127,8 @@
           "date": "2011-05-16",
           "cleanTitle": "ADC_#75-Assemblée_magique_sur_le_Das_Boot_de_Pippa",
           "fileName": "2011-05-16-ADC_#75-Assemblée_magique_sur_le_Das_Boot_de_Pippa.mp3",
-          "label": ""
+          "label": "",
+          "duration": 153
         },
         {
           "url": "https://podcast.captainweb.net/l-apero-du-captain-74.mp3",
