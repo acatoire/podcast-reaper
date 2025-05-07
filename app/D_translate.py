@@ -63,7 +63,7 @@ for index_folder, folder in enumerate(folders, start=1):
             # Read the file content line by line
             translated_content = ""
             for line in file:
-                if " --> " in line or line.strip() == "":
+                if " --> " in line or line.strip() == "" or 'WEBVTT' in line:
                     translated_content += line  # Write the line as is
                 else:
                     # remove last return if present
