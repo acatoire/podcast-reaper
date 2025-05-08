@@ -15,9 +15,9 @@
     - [ ] Permet d'ajouter la personne qui parle
     - [ ] Permet de corriger le transcript ou sa traduction
     - Possible de faire des PR anonymes?
-- [ ] Ajouter Une vue liste des podcasts sur la page index.html
-- [ ] Ajoute
-
+- [ ] On index.html can you :
+      - add a list view in addition to the card view
+      - add the number of transcript and translated podcast 150 [C 100 T 90] with hover hint C is converted to text, T is translated.  
 ## Python Scripts
 - [ ] Modifier les scriptes pour qu'ils travaillent dans le dossier podcast directement.
 - [ ] Créer un script Python pour vérifier si les épisodes sont présents localement :
