@@ -5,6 +5,18 @@
       pour sélectionner aléatoirement une saison et un épisode.
 - [ ] Lors de la saisie manuelle de la saison, empêcher le collapse automatique. 
       Ne le faire que lors de la sélection d'un épisode.
+- [ ] Ajouter un bouton pour partager une page sur toutes les pages
+- [ ] Ajouter une page de description pour chaque podcast avec des statistiques et 
+      des informations sur le podcast. Ainsi que quelques search fights.
+- [ ] Ajouter le moyen de proposer des modifications. 
+    - [ ] PR automatique?
+    - [ ] Formulaire qui génère un mail? 
+    - [ ] Formulaire qui génère un ticket sur le repo?
+    - [ ] Permet d'ajouter la personne qui parle
+    - [ ] Permet de corriger le transcript ou sa traduction
+    - Possible de faire des PR anonymes?
+- [ ] Ajouter Une vue liste des podcasts sur la page index.html
+- [ ] Ajoute
 
 ## Python Scripts
 - [ ] Modifier les scriptes pour qu'ils travaillent dans le dossier podcast directement.
