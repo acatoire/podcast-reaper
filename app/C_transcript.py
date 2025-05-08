@@ -44,11 +44,24 @@ model = load_whisper_model(model_size)
 
 # List all MP3 files in the input folder
 mp3_files = [filename for filename in os.listdir(input_folder) if filename.endswith(".mp3")]
+mp3_to_process = []
 
 # Print the list of MP3 files
-print("MP3 files found:")
-for index, filename in enumerate(mp3_files, start=1):
-    print(f"{time.strftime('%H:%M:%S')} - {index/len(mp3_files)*100:.2f}% - {index}/{len(mp3_files)}: {filename}")
+print(f"Found {len(mp3_files)} MP3 files found")
+
+for filename in mp3_files:
+    base_name = os.path.splitext(filename)[0]
+    date_name = filename[0:10]
+    output_dir = os.path.join(output_folder, model_size, date_name)
+    transcript_path = os.path.join(output_dir, f"{date_name}-transcript.txt")
+
+    if not os.path.exists(transcript_path):
+        mp3_to_process.append(filename)
+
+print(f"Found {len(mp3_to_process)} MP3 files to process")
+
+for index, filename in enumerate(mp3_to_process, start=1):
+    print(f"{time.strftime('%H:%M:%S')} - {index/len(mp3_to_process)*100:.2f}% - {index}/{len(mp3_to_process)}: {filename}")
     date_name = filename[0:10]
     file_path = os.path.join(input_folder, filename)
 
@@ -58,9 +71,6 @@ for index, filename in enumerate(mp3_files, start=1):
     transcript_path = os.path.join(output_dir, f"{date_name}-transcript.txt")
     info_path = os.path.join(output_dir, f"{date_name}-info.txt")
 
-    if os.path.exists(transcript_path):
-        print(f"Transcript already exists for {filename}, skipping.")
-        continue
 
     os.makedirs(output_dir, exist_ok=True)
 

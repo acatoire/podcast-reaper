@@ -9,12 +9,18 @@ os.environ["ARGOS_DEVICE_TYPE"] = "cuda"  # or "cpu" for CPU support
 import argostranslate.package
 import argostranslate.translate
 
-input_folder = (
-        input("Enter the path to the folder containing transcripts (default: ./transcript/turbo): ")
-        or "./transcript/turbo")
+input_folder = (input("Enter the path to the folder containing transcripts folder: "))
+
+transcript_folder = os.path.join(input_folder, "turbo")
+
+if not os.path.exists(transcript_folder):
+    print(f"Error: The folder {transcript_folder} does not exist.")
+    exit(1)
 
 from_code = "fr"
 to_code = "en"
+
+print(f"Translate from {from_code} to {to_code}")
 
 # Download and install Argos Translate package
 argostranslate.package.update_package_index()
@@ -27,7 +33,8 @@ package_to_install = next(
 argostranslate.package.install_from_path(package_to_install.download())
 
 # Translate
-translatedText = argostranslate.translate.translate("Bien venue dans le traducteur de vtt", from_code, to_code)
+translatedText = argostranslate.translate.translate(
+    "Bien venue dans le traducteur de vtt, c'est un test avant de commencer.", from_code, to_code)
 print(translatedText)
 
 # For each folder in the input folder, open the vtt file and translate it lien per lines

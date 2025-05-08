@@ -25,19 +25,18 @@ import os
 #   ]
 # }
 
-input_json_path = input("Enter the path to the existing episodes.json: ").strip()
+input_path = input("Enter the path to the existing containing episodes.json: ").strip()
+input_json_path = os.path.join(input_path, "episodes.json")
+
 with open(input_json_path, "r", encoding="utf-8") as f:
     podcast_info = json.load(f)
 
 rss_url = None
 listen = podcast_info.get("listen", [])
-for provider in ["acast", "ausha", "feedburner"]:
-    for entry in listen:
-        if entry.get("name") == provider and entry.get("link"):
-            rss_url = entry["link"]
-            break
-    if rss_url:
-        break
+
+rss_url = listen["acast"]
+rss_url = listen["ausha"]
+rss_url = listen["feedburner"]
 
 if not rss_url:
     print("No valid RSS URL found in 'acast' or 'spotify' fields.")

@@ -3,8 +3,9 @@ import json
 import re
 
 # Paths
-input_json_path = input("Enter the path to the existing episodes.json: ").strip()
-info_files_dir = os.path.join(os.path.dirname(input_json_path), "turbo")
+input_path = input("Enter the path to the existing containing episodes.json: ").strip()
+input_json_path = os.path.join(input_path, "episodes.json")
+info_files_dir = os.path.join(input_path, "turbo")
 
 # Load the JSON data
 with open(input_json_path, 'r', encoding='utf-8') as json_file:
