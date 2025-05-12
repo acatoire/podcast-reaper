@@ -39,8 +39,8 @@ print(translatedText)
 
 # For each folder in the input folder, open the vtt file and translate it lien per lines
 # List all folders in the input folder
-folders = [folder for folder in os.listdir(input_folder) if
-           os.path.isdir(os.path.join(input_folder, folder))]
+folders = [folder for folder in os.listdir(transcript_folder) if
+           os.path.isdir(os.path.join(transcript_folder, folder))]
 
 print(f"Found {folders.__len__()} Folders:")
 
@@ -49,7 +49,7 @@ final_list_to_process = []
 
 for folder in folders:
     # List all files in the folder
-    files = [os.path.join(input_folder, folder, filename) for filename in os.listdir(os.path.join(input_folder, folder))
+    files = [os.path.join(transcript_folder, folder, filename) for filename in os.listdir(os.path.join(transcript_folder, folder))
              if (filename.endswith(".vtt") and
                  not filename.startswith("translated_"))]
 
