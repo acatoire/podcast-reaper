@@ -1,6 +1,8 @@
 # TODO
 
 ## Podcast Page Enhancements
+- [ ] Add a player on the search page
+- [ ] Add a search button for local search on the podcase page in addition to the search-fight
 - [ ] Ajouter un bouton avec une icône aléatoire sur la page podcast 
       pour sélectionner aléatoirement une saison et un épisode.
 - [ ] Lors de la saisie manuelle de la saison, empêcher le collapse automatique. 
