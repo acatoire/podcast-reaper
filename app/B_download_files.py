@@ -23,7 +23,9 @@ import requests
 #   ]
 # }
 
-input_json_path = input("Enter the path to the existing episodes.json: ").strip()
+root_folder = input("Enter the path to the folder containing episodes.json: ").strip()
+
+input_json_path = os.path.join(root_folder, 'episodes.json')
 with open(input_json_path, "r", encoding="utf-8") as f:
     podcast_info = json.load(f)
 

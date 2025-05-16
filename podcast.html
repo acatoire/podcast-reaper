@@ -30,6 +30,7 @@
         <div class="podcast-selection">
             <div class="selection-header">
                 <button id="toggle-selection" class="toggle-button"><i class="fas fa-chevron-down"></i></button>
+                <button id="random-episode-btn" class="toggle-button" title="Random episode"><i class="fas fa-random"></i></button>
                 <h3 id="selection-title">Select Podcast</h3>
             </div>
             <div class="selection-content" id="selection-content">
@@ -242,6 +243,39 @@
             // Setup share button functionality
             const shareButton = document.getElementById('share-button');
             const shareNotification = document.getElementById('share-notification');
+
+            // --- RANDOM EPISODE BUTTON LOGIC ---
+            const randomBtn = document.getElementById('random-episode-btn');
+            randomBtn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                fetch(`podcasts/${podcastId}/episodes.json`)
+                    .then(response => response.json())
+                    .then(data => {
+                        const saisons = data.Saisons;
+                        if (!saisons || saisons.length === 0) return;
+                        // Pick a random season
+                        const seasonIndex = Math.floor(Math.random() * saisons.length);
+                        const episodes = saisons[seasonIndex].episodes;
+                        if (!episodes || episodes.length === 0) return;
+                        // Pick a random episode
+                        const episodeIndex = Math.floor(Math.random() * episodes.length);
+                        // Update dropdowns
+                        document.getElementById('season-dropdown').value = seasonIndex;
+                        setupEpisodeDropdown(episodes);
+                        document.getElementById('episodes-dropdown').value = episodeIndex;
+                        // Display episode
+                        displayEpisodeDetails(episodes[episodeIndex], podcastId);
+                        // Update URL
+                        updateUrlParams(seasonIndex, episodes[episodeIndex].cleanTitle);
+                        // Collapse selection panel
+                        const selectionContent = document.getElementById('selection-content');
+                        const toggleSelectionBtn = document.getElementById('toggle-selection');
+                        const icon = toggleSelectionBtn.querySelector('i');
+                        selectionContent.classList.remove('open');
+                        icon.classList.remove('fa-chevron-up');
+                        icon.classList.add('fa-chevron-down');
+                    });
+            });
 
             shareButton.addEventListener('click', function() {
                 // Copy current URL to clipboard

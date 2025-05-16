@@ -582,17 +582,31 @@ h1 {
 .toggle-button {
     background-color: #e6f0ff;
     color: #4a6fa5;
-    border: 1px solid #d0e0f7;
-    border-radius: 4px;
-    padding: 4px 8px;
+    border: 2px solid #4a6fa5;
+    border-radius: 6px; /* square with slightly rounded corners */
+    padding: 8px 10px;
+    transition: background 0.2s, box-shadow 0.2s, border 0.2s;
     cursor: pointer;
-    font-size: 0.9rem;
-    min-width: 60px;
-    text-align: center;
+    box-shadow: 0 2px 8px rgba(74,111,165,0.08);
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    min-height: 38px;
 }
 
 .toggle-button:hover {
-    background-color: #d0e0f7;
+    background: #4a6fa5;
+    color: #fff;
+    border: 2px solid #2c3e50;
+    box-shadow: 0 4px 12px rgba(74,111,165,0.15);
+}
+
+.selection-header .toggle-button i {
+    font-size: 1.2em;
 }
 
 .occurrences-count {
