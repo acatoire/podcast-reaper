@@ -216,6 +216,14 @@
                     const episode = JSON.parse(this.options[this.selectedIndex].dataset.episode);
                     displayEpisodeDetails(episode, podcastId);
 
+                    // After episode is selected, collapse the selection panel
+                    const selectionContent = document.getElementById('selection-content');
+                    const toggleSelectionBtn = document.getElementById('toggle-selection');
+                    const icon = toggleSelectionBtn.querySelector('i');
+                    selectionContent.classList.remove('open');
+                    icon.classList.remove('fa-chevron-up');
+                    icon.classList.add('fa-chevron-down');
+
                     // Update URL with the selected episode parameter
                     const seasonIndex = document.getElementById('season-dropdown').value;
                     updateUrlParams(seasonIndex, episode.cleanTitle);
@@ -389,15 +397,6 @@
                 labelsContainer.appendChild(labelsList);
                 detailsContainer.appendChild(labelsContainer);
             }
-
-            // After episode is selected, collapse the selection panel
-            const selectionContent = document.getElementById('selection-content');
-            const toggleSelectionBtn = document.getElementById('toggle-selection');
-            const icon = toggleSelectionBtn.querySelector('i');
-
-            selectionContent.classList.remove('open');
-            icon.classList.remove('fa-chevron-up');
-            icon.classList.add('fa-chevron-down');
 
             // Add event listeners for logging player actions
             // Variables to track last event time to prevent double events
