@@ -137,7 +137,7 @@
     document.addEventListener('DOMContentLoaded', function () {
         const podcastListContainer = document.getElementById('podcast-list');
 
-        // Fetch the index.json file to get podcast information
+        // Fetch the podcasts.json file to get podcast information
         fetch('index.json')
             .then(response => response.json())
             .then(indexData => {
