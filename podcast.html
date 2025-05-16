@@ -20,8 +20,9 @@
             <form id="search-form" action="search.html" method="get">
                 <input type="hidden" name="podcast" id="podcast-id-input">
                 <input type="text" name="query" id="search-input" placeholder="Search in transcripts..." required>
-                <button type="submit" class="search-icon-button"><i class="fas fa-search"></i></button>
+                <button type="submit" class="search-icon-button" title="Search all episodes"><i class="fas fa-search"></i></button>
             </form>
+            <button id="local-search-button" class="search-icon-button" title="Search in current transcript only"><i class="fas fa-search-location"></i></button>
             <button id="share-button" class="search-icon-button" title="Copy link to clipboard"><i class="fas fa-share-alt"></i></button>
             <div id="share-notification" style="display: none; position: fixed; top: 10px; right: 10px; background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px; z-index: 1000;">URL copied to clipboard!</div>
         </div>
@@ -433,21 +434,13 @@
             }
 
             // Add event listeners for logging player actions
-            // Variables to track last event time to prevent double events
-            let lastPlayTime = 0;
             const debounceTime = 300; // milliseconds
 
             audioPlayer.addEventListener('play', function() {
-                const now = Date.now();
-                // Only log if enough time has passed since the last play event
-                if (now - lastPlayTime > debounceTime) {
-                    console.log('Player action: PLAY at timestamp', formatTime(this.currentTime * 1000));
-                    lastPlayTime = now;
-                }
+                console.log('Player action: PLAY at timestamp', formatTime(this.currentTime * 1000));
             });
 
             audioPlayer.addEventListener('pause', function() {
-                // Always log pause events without debounce
                 console.log('Player action: PAUSE at timestamp', formatTime(this.currentTime * 1000));
             });
 
@@ -477,7 +470,7 @@
                     const startTime = parseFloat(row.dataset.startTime);
 
                     // If this is the last row or the current time is before the next row's start time
-                    if (i === transcriptRows.length - 1 || 
+                    if (i === transcriptRows.length - 1 ||
                         currentTimeMs < parseFloat(transcriptRows[i + 1].dataset.startTime)) {
                         if (currentTimeMs >= startTime) {
                             activeRow = row;
@@ -719,28 +712,23 @@
 
                                 // Add click event listener to play audio at this timestamp
                                 row.addEventListener('click', function(event) {
-                                    // Prevent default behavior
                                     event.preventDefault();
-
-                                    // Check if the click originated from the audio player or its controls
                                     if (event.target.closest('.audio-player')) {
                                         return;
                                     }
-
                                     const audioPlayer = document.querySelector('.audio-player');
                                     if (audioPlayer) {
                                         try {
-                                            // Convert milliseconds to seconds for the audio player
                                             audioPlayer.currentTime = parseFloat(this.dataset.startTime) / 1000;
-
-                                            // Log the attempt to play
-                                            console.log('Player action: Attempting to PLAY from transcript click at timestamp', formatTime(parseFloat(this.dataset.startTime)));
-                                            audioPlayer.play();
+                                            // Toggle play/pause like the space bar
+                                            if (audioPlayer.paused) {
+                                                audioPlayer.play();
+                                            } else {
+                                                audioPlayer.pause();
+                                            }
                                             // Remove active-line class from all rows
                                             const allRows = document.querySelectorAll('.tsv-table tr');
                                             allRows.forEach(r => r.classList.remove('active-line'));
-
-                                            // Add active-line class to the clicked row
                                             this.classList.add('active-line');
                                         } catch (error) {
                                             console.error('Error updating audio player:', error);
@@ -822,129 +810,175 @@
                         // Variable to track the last scrolled position
                         let lastScrolledIndex = null;
 
-                        // Add click event listeners that work for consecutive clicks
-                        scrollUpBtn.addEventListener('click', function() {
-                            console.log('Player action: SCROLL UP button clicked');
-                            // Use requestAnimationFrame to ensure the DOM is updated before scrolling again
-                            requestAnimationFrame(() => {
-                                scrollTranscript(-10);
+                        // --- LOCAL SEARCH BUTTON LOGIC ---
+                        const localSearchBtn = document.getElementById('local-search-button');
+                        localSearchBtn.addEventListener('click', function(e) {
+                            e.preventDefault();
+                            const query = document.getElementById('search-input').value.trim();
+                            if (!query) return;
+                            // Remove previous highlights
+                            const transcriptTable = document.getElementById('transcript-table');
+                            if (!transcriptTable) return;
+                            Array.from(transcriptTable.querySelectorAll('.local-search-highlight')).forEach(el => {
+                                el.classList.remove('local-search-highlight');
                             });
-                        });
-
-                        scrollDownBtn.addEventListener('click', function() {
-                            console.log('Player action: SCROLL DOWN button clicked');
-                            // Use requestAnimationFrame to ensure the DOM is updated before scrolling again
-                            requestAnimationFrame(() => {
-                                scrollTranscript(10);
-                            });
-                        });
-
-                        // Function to scroll transcript by a number of rows
-                        function scrollTranscript(rowCount) {
-                            const table = document.getElementById('transcript-table');
-                            if (!table) return;
-
-                            // Get all rows with line numbers
-                            const rows = Array.from(table.querySelectorAll('tr[id^="transcript-row-"]'));
-                            if (rows.length === 0) return;
-
-                            // Find the most visible row (the one with the largest visible area)
-                            let mostVisibleRowIndex = 0;
-                            let maxVisibleArea = 0;
-
-                            // If we have a last scrolled index and it's valid, use it as a starting point
-                            if (lastScrolledIndex !== null && lastScrolledIndex >= 0 && lastScrolledIndex < rows.length) {
-                                mostVisibleRowIndex = lastScrolledIndex;
-                            } else {
-                                // Otherwise find the most visible row
-                                for (let i = 0; i < rows.length; i++) {
-                                    const row = rows[i];
-                                    const rect = row.getBoundingClientRect();
-
-                                    // Calculate how much of the row is visible in the viewport
-                                    const visibleTop = Math.max(0, rect.top);
-                                    const visibleBottom = Math.min(window.innerHeight, rect.bottom);
-
-                                    if (visibleBottom > visibleTop) {
-                                        const visibleArea = visibleBottom - visibleTop;
-                                        if (visibleArea > maxVisibleArea) {
-                                            maxVisibleArea = visibleArea;
-                                            mostVisibleRowIndex = i;
-                                        }
+                            // Search and highlight
+                            let found = false;
+                            Array.from(transcriptTable.querySelectorAll('tr')).forEach(row => {
+                                if (row.rowIndex === 0) return; // skip header
+                                const textCell = row.cells[3];
+                                if (textCell && textCell.textContent.toLowerCase().includes(query.toLowerCase())) {
+                                    textCell.classList.add('local-search-highlight');
+                                    if (!found) {
+                                        row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                                        found = true;
                                     }
+                                }
+                            });
+                            if (!found) {
+                                // Create a custom modal for no results
+                                let modal = document.createElement('div');
+                                modal.style.position = 'fixed';
+                                modal.style.top = '0';
+                                modal.style.left = '0';
+                                modal.style.width = '100vw';
+                                modal.style.height = '100vh';
+                                modal.style.background = 'rgba(0,0,0,0.4)';
+                                modal.style.display = 'flex';
+                                modal.style.alignItems = 'center';
+                                modal.style.justifyContent = 'center';
+                                modal.style.zIndex = '9999';
+
+                                let box = document.createElement('div');
+                                box.style.background = '#fff';
+                                box.style.padding = '24px 32px';
+                                box.style.borderRadius = '8px';
+                                box.style.boxShadow = '0 2px 16px rgba(0,0,0,0.2)';
+                                box.style.textAlign = 'center';
+
+                                let msg = document.createElement('div');
+                                msg.textContent = 'No results found in this transcript.';
+                                msg.style.marginBottom = '18px';
+                                box.appendChild(msg);
+
+                                let globalBtn = document.createElement('button');
+                                globalBtn.textContent = 'Search in all episodes';
+                                globalBtn.style.margin = '0 8px';
+                                globalBtn.style.padding = '8px 16px';
+                                globalBtn.style.background = '#1976d2';
+                                globalBtn.style.color = '#fff';
+                                globalBtn.style.border = 'none';
+                                globalBtn.style.borderRadius = '4px';
+                                globalBtn.style.cursor = 'pointer';
+                                globalBtn.onclick = function() {
+                                    // Submit the global search form
+                                    document.getElementById('search-form').submit();
+                                    document.body.removeChild(modal);
+                                };
+                                box.appendChild(globalBtn);
+
+                                let closeBtn = document.createElement('button');
+                                closeBtn.textContent = 'Close';
+                                closeBtn.style.margin = '0 8px';
+                                closeBtn.style.padding = '8px 16px';
+                                closeBtn.style.background = '#888';
+                                closeBtn.style.color = '#fff';
+                                closeBtn.style.border = 'none';
+                                closeBtn.style.borderRadius = '4px';
+                                closeBtn.style.cursor = 'pointer';
+                                closeBtn.onclick = function() {
+                                    document.body.removeChild(modal);
+                                };
+                                box.appendChild(closeBtn);
+
+                                modal.appendChild(box);
+                                document.body.appendChild(modal);
+                            }
+                        });
+                        // Add CSS for highlight
+                        (function() {
+                            const style = document.createElement('style');
+                            style.textContent = `.local-search-highlight { background: #ffe082 !important; color: #222 !important; }`;
+                            document.head.appendChild(style);
+                        })();
+
+                        // Scroll up button logic
+                        scrollUpBtn.addEventListener('click', function() {
+                            const transcriptRows = document.querySelectorAll('.tsv-table tr[data-start-time]');
+                            if (transcriptRows.length === 0) return;
+
+                            // Find the first visible row
+                            let firstVisibleRowIndex = null;
+                            for (let i = 0; i < transcriptRows.length; i++) {
+                                if (isElementInViewport(transcriptRows[i])) {
+                                    firstVisibleRowIndex = i;
+                                    break;
                                 }
                             }
 
-                            // Calculate target row index (array index, not row number)
-                            const targetIndex = Math.max(0, Math.min(rows.length - 1, mostVisibleRowIndex + rowCount));
-
-                            // Update the last scrolled index
-                            lastScrolledIndex = targetIndex;
-
-                            // Scroll to the target row
-                            if (targetIndex >= 0 && targetIndex < rows.length) {
-                                rows[targetIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
+                            // Scroll to the previous row if it exists
+                            if (firstVisibleRowIndex !== null && firstVisibleRowIndex > 0) {
+                                const previousRow = transcriptRows[firstVisibleRowIndex - 1];
+                                previousRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                                lastScrolledIndex = firstVisibleRowIndex - 1;
                             }
+                        });
+
+                        // Scroll down button logic
+                        scrollDownBtn.addEventListener('click', function() {
+                            const transcriptRows = document.querySelectorAll('.tsv-table tr[data-start-time]');
+                            if (transcriptRows.length === 0) return;
+
+                            // Find the last visible row
+                            let lastVisibleRowIndex = null;
+                            for (let i = transcriptRows.length - 1; i >= 0; i--) {
+                                if (isElementInViewport(transcriptRows[i])) {
+                                    lastVisibleRowIndex = i;
+                                    break;
+                                }
+                            }
+
+                            // Scroll to the next row if it exists
+                            if (lastVisibleRowIndex !== null && lastVisibleRowIndex < transcriptRows.length - 1) {
+                                const nextRow = transcriptRows[lastVisibleRowIndex + 1];
+                                nextRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                                lastScrolledIndex = lastVisibleRowIndex + 1;
+                            }
+                        });
+
+                        // Helper function to check if an element is in the viewport
+                        function isElementInViewport(el) {
+                            const rect = el.getBoundingClientRect();
+                            return (
+                                rect.top >= 0 &&
+                                rect.left >= 0 &&
+                                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+                                rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+                            );
                         }
                     })
                     .catch(error => {
-                        console.error('Error loading TSV file:', error);
-                        transcriptContainer.innerHTML = '<p>Transcript not available for this episode.</p>';
+                        console.error('Error loading transcript:', error);
+                        transcriptContainer.innerHTML = '<p>Error loading transcript. Please try again later.</p>';
                     });
             }
         }
 
-        // Helper function to format time from milliseconds to MM:SS
-        function formatTime(milliseconds) {
-            const totalSeconds = Math.floor(milliseconds / 1000);
+        function formatTime(ms) {
+            const totalSeconds = Math.floor(ms / 1000);
             const minutes = Math.floor(totalSeconds / 60);
             const seconds = totalSeconds % 60;
-            return `${minutes}:${seconds.toString().padStart(2, '0')}`;
+            const milliseconds = ms % 1000;
+
+            return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}.${String(milliseconds).padStart(3, '0')}`;
         }
 
-        function formatDate(dateString) {
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
-            return new Date(dateString).toLocaleDateString(undefined, options);
+            return date.toLocaleDateString(undefined, options);
         }
-
-        // Helper function to check if an element is visible in the viewport
-        function isElementInViewport(el) {
-            const rect = el.getBoundingClientRect();
-            return (
-                rect.top >= 0 &&
-                rect.left >= 0 &&
-                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-                rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-            );
-        }
-
-        // Add spacebar keyboard shortcut to toggle play/pause
-        document.addEventListener('keydown', function(event) {
-            // Check if the key pressed is the spacebar (key code 32)
-            if (event.keyCode === 32 || event.key === ' ') {
-                // Prevent default spacebar action (scrolling the page)
-                event.preventDefault();
-
-                // Don't trigger if user is typing in an input field or textarea
-                if (event.target.tagName === 'INPUT' || event.target.tagName === 'TEXTAREA') {
-                    return;
-                }
-
-                // Find the audio player
-                const audioPlayer = document.querySelector('.audio-player');
-
-                // If audio player exists, toggle play/pause
-                if (audioPlayer) {
-                    if (audioPlayer.paused) {
-                        console.log('Player action: PLAY (spacebar) at timestamp', formatTime(audioPlayer.currentTime * 1000));
-                        audioPlayer.play();
-                    } else {
-                        console.log('Player action: PAUSE (spacebar) at timestamp', formatTime(audioPlayer.currentTime * 1000));
-                        audioPlayer.pause();
-                    }
-                }
-            }
-        });
     </script>
 </body>
 </html>
+
