@@ -7,8 +7,8 @@
     "acast": null,
     "spotify": "https://open.spotify.com/show/6Hz4YbyTKSM0TqVo5cEER7",
     "deezer": "https://www.deezer.com/us/show/2973492",
-    "ausha": "https://podcast.ausha.co/toutestnul"
-    },
+    "ausha": "https://feed.ausha.co/ykmGlIY7EV8v"
+  },
   "references": [
     {
       "name": "",
@@ -34,141 +34,173 @@
           "fileName": "2025-04-18-#13_Eraserhead_Le_film_fou_de_notre_maître_David_Lynch_(RIP_Sensei).mp3",
           "label": "",
           "duration": 144
+        }
+      ]
+    },
+    {
+      "name": "new episodes",
+      "episodes": [
+        {
+          "url": "https://audio.ausha.co/o9R87hePKr6a.mp3?t=1747417955",
+          "episode": "Faut-il aller voir Thunderbolts ? On en sait rien, on parle à peine du film",
+          "description": "<p>Salut, bon ben comme d'hab sur les Marvel : y'a rien à dire. Urbain le trouvait pas mal, Thib sans plus, du coup pourquoi ne pas parler de absolument tout ce qui nous passe par la tête à la place, avec évidemment toujours ce leitmotiv qui nous est cher : aller en prison le plus rapidement possible ! On a bien réussi !</p><p><br></p><p>Pour le prochain hors série vous préférez ? The Mask, Les Visiteurs ou Alien 3 ?</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-05-16",
+          "cleanTitle": "Faut-il_aller_voir_Thunderbolts___On_en_sait_rien_on_parle_à_peine_du_film",
+          "fileName": "2025-05-16-Faut-il_aller_voir_Thunderbolts___On_en_sait_rien_on_parle_à_peine_du_film.mp3",
+          "label": ""
         },
         {
-          "url": "https://audio.ausha.co/yvErPUWgVMdn.mp3?t=1737540319",
-          "episode": "#12 Festen, un bon film \"familial\" (Avec Nicolas Berno)",
-          "description": "<p>Vous prendrez bien un peu de Danemark, un peu de révélations familiales, un peu de cringe assumé. C'est Festen, l'occasion de se dire que la famille c'est pas toujours toujours des bons moments. Merci à Nicolas  d'avoir été un si bon invité. Merci à bous pour vos dm, vos partages, vos commentaires et notes sur les applications. La promo c'est vous.</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "url": "https://audio.ausha.co/bPMDncX0P01J.mp3?t=1746693519",
+          "episode": "Hors Série Classique : \"Batman 2 Le Défi\", le pingouin ce génie du mal qui nous a tout appris",
+          "description": "<p>Vous nous dites souvent \"mais vous êtes fous\", et bien c'est grâce à ce film. Notre enfance a été détruite par ces films malsains que nous aimons plus que tout. Tout est nul mais avant tout était bien ! Ne l'oubliez jamais !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-05-08",
+          "cleanTitle": "Hors_Série_Classique-Batman_2_Le_Défi_le_pingouin_ce_génie_du_mal_qui_nous_a_tout_appris",
+          "fileName": "2025-05-08-Hors_Série_Classique-Batman_2_Le_Défi_le_pingouin_ce_génie_du_mal_qui_nous_a_tout_appris.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/yp9O5fYZYQVb.mp3?t=1745664226",
+          "episode": "Faut-il aller voir Sinners même si on est fan du KKK ? (Oui, c'est pour tout le monde)",
+          "description": "<p>Les amis !!!!! Grand moment, grand film, grand épisode. Des dérapages à gogo, c'est quand on croit qu'on est bienveillants qu'on est les pires. Mais qu'est ce qu'on a aimé ce film....</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-04-26",
+          "cleanTitle": "Faut-il_aller_voir_Sinners_même_si_on_est_fan_du_KKK___(Oui_c_est_pour_tout_le_monde)",
+          "fileName": "2025-04-26-Faut-il_aller_voir_Sinners_même_si_on_est_fan_du_KKK___(Oui_c_est_pour_tout_le_monde).mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/yEZ27H87nYWP.mp3?t=1744365456",
+          "episode": "Faut-il aller voir Mincecraft si on a pas 12 ans ? (Non évidemment, mais c'est pas si naze en vrai)",
+          "description": "<p>On a dérivé du sujet on va pas se mentir, notamment un très bon passage sur la création des êtres de lumière. Merci de votre soutien, et de vos écoutes en cachette</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-04-11",
+          "cleanTitle": "Faut-il_aller_voir_Mincecraft_si_on_a_pas_12_ans___(Non_évidemment_mais_c_est_pas_si_naze_en_vrai)",
+          "fileName": "2025-04-11-Faut-il_aller_voir_Mincecraft_si_on_a_pas_12_ans___(Non_évidemment_mais_c_est_pas_si_naze_en_vrai).mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/bYmGZIAjQXEG.mp3?t=1744037184",
+          "episode": "Blanche Neige (Bonus) fin de l'épisode qui avait été coupé parce que plus de piles",
+          "description": "<p>Oui ben j'avais oublié de l'uploader voilà</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-04-07",
+          "cleanTitle": "Blanche_Neige_(Bonus)_fin_de_l_épisode_qui_avait_été_coupé_parce_que_plus_de_piles",
+          "fileName": "2025-04-07-Blanche_Neige_(Bonus)_fin_de_l_épisode_qui_avait_été_coupé_parce_que_plus_de_piles.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/b72W7selW5jv.mp3?t=1744017569",
+          "episode": "Faut-il aller voir Blanche Neige, et être donc le 8e spectateur de ce remake Disney tout pourri comme d'hab ?",
+          "description": "<p>Après le Japon, la maladie, après tout, on revient, pire que jamais. Je voulais couper l'épisode mais la flemme, il faudrait tout enlever, le monde va exploser on peut bien cancel Thibault. Je me désolidarise de tous ses propos évidemment, et je le dirai au juge.</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-04-07",
+          "cleanTitle": "Faut-il_aller_voir_Blanche_Neige_et_être_donc_le_8e_spectateur_de_ce_remake_Disney_tout_pourri_comme_d_hab__",
+          "fileName": "2025-04-07-Faut-il_aller_voir_Blanche_Neige_et_être_donc_le_8e_spectateur_de_ce_remake_Disney_tout_pourri_comme_d_hab__.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/bYmGZIgmjVp1.mp3?t=1741271746",
+          "episode": "Faut-il aller voir Mickey 17 si on a qu'une vie ? ( La Corée va t'elle dominer le monde ?)",
+          "description": "<p>Les amis.... un bon film.... espèce rare. On y croyait plus. Vous connaissez l'adage bon film = bon épisode. En même temps mauvais film = aussi bon épisode puisque on est excellents tout le temps. </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-03-06",
+          "cleanTitle": "Faut-il_aller_voir_Mickey_17_si_on_a_qu_une_vie___(_La_Corée_va_t_elle_dominer_le_monde__)",
+          "fileName": "2025-03-06-Faut-il_aller_voir_Mickey_17_si_on_a_qu_une_vie___(_La_Corée_va_t_elle_dominer_le_monde__).mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/o9R87h5KeqZY.mp3?t=1740746807",
+          "episode": "Faut-il aller voir le film le moins crédible du monde \"Bridget Jones on ne sait même plus combien\" ? Une horreur cette m***e",
+          "description": "<p>Attention, à l'aide d'une deuxième pinte et d'un double enregistrement d'épisode en back to back, Urbain a été un odieux personnage tout le long du podcast. Il s'est aussi totalement planté quant à la réception du public féminin de ce film. Il pensait que tout le monde allait détester, mais apparemment le poison est plus léthal qu'il n'y paraît et les fans ont adoré ce truc. Thibault a tant bien que mal tenté de calmer Urbain en vain. Tant que Michel Houellebecq n'aura pas été dans un film où Julia roberts est amoureuse de lui et qu'il fait le gars que ça intéresse pas, il ne décolèrera pas. </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-02-28",
+          "cleanTitle": "Faut-il_aller_voir_le_film_le_moins_crédible_du_monde_Bridget_Jones_on_ne_sait_même_plus_combien___Une_horreur_cette_m___e",
+          "fileName": "2025-02-28-Faut-il_aller_voir_le_film_le_moins_crédible_du_monde_Bridget_Jones_on_ne_sait_même_plus_combien___Une_horreur_cette_m___e.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/B16pWHGkkRAo.mp3?t=1740065013",
+          "episode": "Faut-il aller voir cette supercherie de Captain America, le 112e Marvel de la décennie ?",
+          "description": "<p>A la base ce podcast c'était pour voir des gros films de geek mais y'en a jamais à l'affiche. Bon ben là on a été servi, mais le film est tellement vide qu'on a parlé d'autre chose. Un épisode néanmoins succulent. Le meilleur de sa génération à n'en pas douter</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-02-20",
+          "cleanTitle": "Faut-il_aller_voir_cette_supercherie_de_Captain_America_le_112e_Marvel_de_la_décennie__",
+          "fileName": "2025-02-20-Faut-il_aller_voir_cette_supercherie_de_Captain_America_le_112e_Marvel_de_la_décennie__.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/bj5O4s52mgOy.mp3?t=1738850524",
+          "episode": "Faut-il aller voir le 5e volet des Tuches  même si on adore les jeux de mots et les frites ?",
+          "description": "<p>Première comédie de Tout est Nul, les tuches 5 qu'on appelle le 4 pendant tout le podcast tellement ça parait inconcevable qu'il y'en ait eu 5, est pas vraiment bien. Mais bon on a ri (3 fois quand même) et on a pas passé un mauvais moment. Par contre, comme d'hab, le debrief avec des bières est plus sympa que le film. Merci au dernier bar avant la fin du monde de nous accueillir. Et à cette I.P.A lyonnais d'être délicieuse. </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-02-06",
+          "cleanTitle": "Faut-il_aller_voir_le_5e_volet_des_Tuches__même_si_on_adore_les_jeux_de_mots_et_les_frites__",
+          "fileName": "2025-02-06-Faut-il_aller_voir_le_5e_volet_des_Tuches__même_si_on_adore_les_jeux_de_mots_et_les_frites__.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/BMgVRUM4d30n.mp3?t=1738232577",
+          "episode": "Faut-il aller voir \"Toutes pour une\" si on est pas la réalisatrice de cette bouse  ? (Spoiler Non, mais si, si on veut rire)",
+          "description": "<p>Vous l'avez voulu ? Vous l'avez eu. Episode surnaturel, encore aujourd'hui on n'arrive pas à se remettre de ce qu'on a vu. Vous pensez que c'est gratiné mais c'est bien pire que ça. Il nous aurait fallu 20 heures pour vous parler de ce nauffrage. Ce film c'est un cadeau, une offrande, c'est presque trop beau. Quand j'ai emmené Thibault voir ce film pour lui laisser en parler, j'avais l'impression de vire la scène où le village gaulois donne à Obelix un camp de romains pour lui tout seul en cadeau anniv. On s'est ré-ga-lé le gogo !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-01-30",
+          "cleanTitle": "Faut-il_aller_voir_Toutes_pour_une_si_on_est_pas_la_réalisatrice_de_cette_bouse____(Spoiler_Non_mais_si_si_on_veut_rire)",
+          "fileName": "2025-01-30-Faut-il_aller_voir_Toutes_pour_une_si_on_est_pas_la_réalisatrice_de_cette_bouse____(Spoiler_Non_mais_si_si_on_veut_rire).mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/bVjYDs6adJqq.mp3?t=1737541894",
+          "episode": "Faut-il aller voir Better Man le biopic où Robbie Williams est un singe pour aucune raison",
+          "description": "<p>C'est le film phénomène, c'est le biopic qui doit tous les révolutionner, mais est-ce que ce serait pas la même m*rd* que d'habitude ?</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
           "date": "2025-01-22",
-          "cleanTitle": "#12_Festen_un_bon_film_familial_(Avec_Nicolas_Berno)",
-          "fileName": "2025-01-22-#12_Festen_un_bon_film_familial_(Avec_Nicolas_Berno).mp3",
-          "label": "",
-          "duration": 136
+          "cleanTitle": "Faut-il_aller_voir_Better_Man_le_biopic_où_Robbie_Williams_est_un_singe_pour_aucune_raison",
+          "fileName": "2025-01-22-Faut-il_aller_voir_Better_Man_le_biopic_où_Robbie_Williams_est_un_singe_pour_aucune_raison.mp3",
+          "label": ""
         },
         {
-          "url": "https://audio.ausha.co/bz2LPI1v5M0X.mp3?t=1736336414",
-          "episode": "#11 Les dents de la mer 4 (La revanche) (Une belle bouse)",
-          "description": "<p>Oubliez pas de noter et de commenter le podcast, on a besoin de vous ! Ceci étant dit,  bonne année 2025 . Un peu en retard on vous fait ce que que Dédo appelle \"un film de Noël\", alors que pas du tout, y'a 5 secondes à Noël et ça se passe aux Bahamas. Les dents de la mer 4 est une bonne bouse qu'on rangera plus dans la catégorie WTF que \"F*ck*d Up\" (dérangé, pour ceux qui ont toujours pas compris). Ce qui fait qu'il est très marrant à voir et encore plus à raconter. On espère que vous allez kiffer</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2025-01-08",
-          "cleanTitle": "#11_Les_dents_de_la_mer_4_(La_revanche)_(Une_belle_bouse)",
-          "fileName": "2025-01-08-#11_Les_dents_de_la_mer_4_(La_revanche)_(Une_belle_bouse).mp3",
-          "label": "",
-          "duration": 149
-        }
-      ]
-    },
-    {
-      "name": "2024",
-      "episodes": [
+          "url": "https://audio.ausha.co/B6Jv3hXwmrLG.mp3?t=1736426845",
+          "episode": "Faut-il aller voir le 27e remake de Nosferatu ? (Spoiler  : Oui)",
+          "description": "<p>Tout était nul en 2024 ? Ben.. peut être pas. On a eu un cadeau de Noël le 25 décembre qu'on vous commente avec deux semaines de tard sur la sortie mais ça valait le coup. Comme d'hab il y'a une partie avec et sans spoiler. Comme d'hab, n'oubliez pas de noter et de commenter le podcast, ett de nous dire par dm ce que vous voulez qu'on fasse comme sortie semaine pro. Santix !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2025-01-09",
+          "cleanTitle": "Faut-il_aller_voir_le_27e_remake_de_Nosferatu___(Spoiler_-Oui)",
+          "fileName": "2025-01-09-Faut-il_aller_voir_le_27e_remake_de_Nosferatu___(Spoiler_-Oui).mp3",
+          "label": ""
+        },
         {
-          "url": "https://audio.ausha.co/ow5pPFJPMqNm.mp3?t=1733388686",
-          "episode": "#10 Uzumaki (Un film spiralement chelou)",
-          "description": "<p>Film japonais bizarroïde de 2000, uzumaki parle d'une petite ville dont les habitants deviennent petit à petit tous fascinés par les spirales. Adapté d'un manga à la base, qui vient lui même d'être réadapté en  anime cette année, uzumaki n'est pas un chef d'oeuvre mais reste très sympa et assez chelou pour qu'on dise plein de bêtises dessus. </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "url": "https://audio.ausha.co/yEZ27HRJGNmm.mp3?t=1734014700",
+          "episode": "Faut-il aller voir \"Le seigneur des anneaux la guerre des rohirim\" si on est pas un énorme geek boomer",
+          "description": "<p>Gros début, pour la première fois on était pas du tout d'accord, car thibault ne considère pas les dessins animés comme des films. Apparemment vous êtes nombreux comme lui. Débat !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2024-12-12",
+          "cleanTitle": "Faut-il_aller_voir_Le_seigneur_des_anneaux_la_guerre_des_rohirim_si_on_est_pas_un_énorme_geek_boomer",
+          "fileName": "2024-12-12-Faut-il_aller_voir_Le_seigneur_des_anneaux_la_guerre_des_rohirim_si_on_est_pas_un_énorme_geek_boomer.mp3",
+          "label": ""
+        },
+        {
+          "url": "https://audio.ausha.co/blJO4hazERPq.mp3?t=1733395081",
+          "episode": "Faut-il aller voir \"Wicked\" si on n'est pas une jeune femme de 14 ans qui aime chanter et chialer ?",
+          "description": "<p>Réponse : peut-être. C'était looong, mais pas si nul. On a bien dit des bêtises. Soutenez nous avec vos likes et vos notes  sur les plateformes. Si vous êtes choqués, sachez que cet episode a été censuré du quart de son contenu.. Imaginiez donc... Un jour on vous donnera la vraie version, mais il faudra payer. </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
           "date": "2024-12-05",
-          "cleanTitle": "#10_Uzumaki_(Un_film_spiralement_chelou)",
-          "fileName": "2024-12-05-#10_Uzumaki_(Un_film_spiralement_chelou).mp3",
-          "label": "",
-          "duration": 137
+          "cleanTitle": "Faut-il_aller_voir_Wicked_si_on_n_est_pas_une_jeune_femme_de_14_ans_qui_aime_chanter_et_chialer__",
+          "fileName": "2024-12-05-Faut-il_aller_voir_Wicked_si_on_n_est_pas_une_jeune_femme_de_14_ans_qui_aime_chanter_et_chialer__.mp3",
+          "label": ""
         },
         {
-          "url": "https://audio.ausha.co/B19XdiwV85GB.mp3?t=1731506263",
-          "episode": "#9 The Substance (Episode Marathon) (Allez voir le film !)",
-          "description": "<p>On parle du film de l'année ! Queen Fargeat vous avez tout notre respect. On le dit pleion de fois mais si vous avez pas vu le film foncez ! Et écoutez après. Dites nous si ça vous plaît les épisodes géants comme ça</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2024-11-13",
-          "cleanTitle": "#9_The_Substance_(Episode_Marathon)_(Allez_voir_le_film__)",
-          "fileName": "2024-11-13-#9_The_Substance_(Episode_Marathon)_(Allez_voir_le_film__).mp3",
-          "label": "",
-          "duration": 203
+          "url": "https://audio.ausha.co/yJWnJimj79Zj.mp3?t=1732797798",
+          "episode": "Faut-il aller voir Heretic, le film où Hugh Grant est en cosplay de Ned Flanders méchant ?",
+          "description": "<p>Hugh Grant est vieux et maintenant il est méchant. C'est le pitch de ce huit clos sympathiquement bizarre qui avait tout pour pas être nul et qui ne l'est presque pas. Il y a une partie spoiler et une partie pas spoiler promis on vous préviendra (un poil trop tard). N'oubliez pas de vous abonner et de donner une note à ce podcast si vous le trouvez bien. Sinon, vous pouvez vous abstenir. N'oubliez pas de vous régaler le gogo </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2024-11-28",
+          "cleanTitle": "Faut-il_aller_voir_Heretic_le_film_où_Hugh_Grant_est_en_cosplay_de_Ned_Flanders_méchant__",
+          "fileName": "2024-11-28-Faut-il_aller_voir_Heretic_le_film_où_Hugh_Grant_est_en_cosplay_de_Ned_Flanders_méchant__.mp3",
+          "label": ""
         },
         {
-          "url": "https://audio.ausha.co/omk9PI6K9W0R.mp3?t=1729610271",
-          "episode": "#8 Terrifier 3",
-          "description": "<p>C'est le comeback ! On devait, pour mille raisons, parler de ce film encore en salle ! Ce phénomène !!  Accrochez vous. Episode marathon !</p><p> Dedo et Urbain sont en spectacle partout en France. Allez trouver des places bordel, Attendez pas un lien ça prend deux secondes sur google</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2024-10-22",
-          "cleanTitle": "#8_Terrifier_3",
-          "fileName": "2024-10-22-#8_Terrifier_3.mp3",
-          "label": "",
-          "duration": 131
-        }
-      ]
-    },
-    {
-      "name": "2022",
-      "episodes": [
-        {
-          "url": "https://audio.ausha.co/yEa8pcEvdYpW.mp3?t=1652202124",
-          "episode": "#7 Cannibal Holocaust",
-          "description": "<p>De retour, avec un son aux oignons, et un film... Et ben on a réussi a faire des blagues mais c'est une belle saloperie. Après c'était là pour dénoncer donc ça va. Sauf que les gars ont aussi fait de belles horreur sur le tournage, du coup ça va moyenasse. Du coup, inception de la saloperie humaine. Trigger Warning pour les kiwis et les kumquats. La bise et n'oubliez pas les partages et les commentaires. On est back  !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2022-05-10",
-          "cleanTitle": "#7_Cannibal_Holocaust",
-          "fileName": "2022-05-10-#7_Cannibal_Holocaust.mp3",
-          "label": "",
-          "duration": 104
+          "url": "https://audio.ausha.co/BQJrkh91P0l0.mp3?t=1732282354",
+          "episode": "Faut-il aller voir le panache si on est pas une vieille prof de gauche ?",
+          "description": "<p>Est ce qu'on peut faire un film d'un épisode de l'insit' qui surfe sur la handicap wave ? Pas vraiment, mais  ça donne à matière à dire des choses scandaleuses. rappelez vous si les propos vous choquent c'est des personnages. </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2024-11-22",
+          "cleanTitle": "Faut-il_aller_voir_le_panache_si_on_est_pas_une_vieille_prof_de_gauche__",
+          "fileName": "2024-11-22-Faut-il_aller_voir_le_panache_si_on_est_pas_une_vieille_prof_de_gauche__.mp3",
+          "label": ""
         },
         {
-          "url": "https://audio.ausha.co/BQ8j0cqV3e1a.mp3?t=1651580071",
-          "episode": "#6 Butt Boy",
-          "description": "<p>4 mois bordel ! Mais on est de retour avec du lourd ! Butt Boy, l'histoire d'un homme qui aspire des objets, des chiens et des enfants dans son fondement. Chef d'oeuvre ! On vous  raconte le film en détail pour ceux qui ne veulent pas le voir, ou avoir la sensation de le revoir avec des potes. Le film est dispo sur Prime. Enjoy ! Chaque like, partage, commentaire compte. Faites tourner !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2022-03-12",
-          "cleanTitle": "#6_Butt_Boy",
-          "fileName": "2022-03-12-#6_Butt_Boy.mp3",
-          "label": "",
-          "duration": 79
-        }
-      ]
-    },
-    {
-      "name": "2021",
-      "episodes": [
-        {
-          "url": "https://audio.ausha.co/Bq1vPu11E01K.mp3?t=1651631584",
-          "episode": "#5 Malignant",
-          "description": "<p>Pour une fois on est sur un film récent. Dedo venait de le voir en salle et voulait en parler.</p>\n<p>Est ce que le truc le plus fucked up du film c'est que ces acteurs aient pris un cours de comédie un jour ? Peu-être !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2021-10-11",
-          "cleanTitle": "#5_Malignant",
-          "fileName": "2021-10-11-#5_Malignant.mp3",
-          "label": "",
-          "duration": 98
-        },
-        {
-          "url": "https://audio.ausha.co/b5mn5sPlqRJD.mp3?t=1651625451",
-          "episode": "#4  Massacre à la tronçonneuse 2",
-          "description": "<p>Danser avec le visage découpé de son ami sur la tête peut-il être romantique ?</p>\n<p><br></p>\n<p>Peut-on réaliser la chapelle sixtine en frites ?</p>\n<p><br></p>\n<p>Dennis Hopper est-il l'humain le plus bizarre de la création ?</p>\n<p><br></p>\n<p>Met-on trop longtemps entre les épisodes ?</p>\n<p><br></p>\n<p>Toutes ces questions et d'autres seront abordées dans ce podcast. Et en gros, on a bien ri.</p>\n<p><br></p>\n<p>Partagez la bonne parole mes frères et soeurs !</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2021-08-31",
-          "cleanTitle": "#4__Massacre_à_la_tronçonneuse_2",
-          "fileName": "2021-08-31-#4__Massacre_à_la_tronçonneuse_2.mp3",
-          "label": "",
-          "duration": 64
-        },
-        {
-          "url": "https://audio.ausha.co/yvErPUqWz80g.mp3?t=1651617999",
-          "episode": "#3 Visitor Q",
-          "description": "<p>Seb Mellia notre ami, et recordman du nombre de podcast français a bien voulu souffrir en regardant avec nous Visitor Q, un film familial que personne ne devrait voir avec sa famille. Tout nu en famille, jet d'objets qui coupent, pas mal de substances, copulation sur personne inanimée, caillasse dans la gueule. Visitor Q c'est tout ça, mais c'est aussi un bon film... selon nous... selon Seb c'était plus une torture. On vous raconte ça dans les moindres détails.</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2021-06-05",
-          "cleanTitle": "#3_Visitor_Q",
-          "fileName": "2021-06-05-#3_Visitor_Q.mp3",
-          "label": "",
-          "duration": 93
-        },
-        {
-          "url": "https://audio.ausha.co/yvErPUA63PYd.mp3?t=1651672141",
-          "episode": "#2 La Grande Bouffe",
-          "description": "<p>Pas besoin d'être un film d'horreur pour être affreusement malsain, glauque, scatophile et porno. Ce film est une perversion à lui tout seul donc il était pas trop compliqué de faire un maximum de blagues idiotes. En plus c'est un vrai bon film, ce qui sera pas toujours le cas dans ce podcast. Si vous voulez voir le film, le service de streaming arrow l'a, et vous pouvez prendre un mois gratuit (ceci n'est pas un placement de produit, d'ailleurs arrow n'est pas dispo en france il vous faudra un vpn). Est ce qu'on est fous de lancer un podcast qui parle de caca, de mort, de bouffe à chaque épisode ? Peut-être.. Mais on est pas les seuls, merci d'avoir êté tès nombreux à streamer le premier épisode et merci pour vo commentaires, vos cinq étoiles, vos messages. On espère que cet épisode vous plaira. On a adoré le faire de notre côté.</p>\n<p><br></p>\n<p>Le Facebook : https://www.facebook.com/fukedupmoviespodcast</p>\n<p>Le Twitter : https://twitter.com/FuckedMovies</p>\n<p> Urbain Et Dédo </p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2021-04-11",
-          "cleanTitle": "#2_La_Grande_Bouffe",
-          "fileName": "2021-04-11-#2_La_Grande_Bouffe.mp3",
-          "label": "",
-          "duration": 135
-        },
-        {
-          "url": "https://audio.ausha.co/BxMZPc69e44o.mp3?t=1651590942",
-          "episode": "#1 Human Centipede",
-          "description": "<p>Dans ce podcast Urbain et Dédo, humoristes, cinéphiles et amateurs de sacrifices humains vont vous parler des films les plus malsains, les plus sordides, bref, les plus 'fucked up' de l'histoire du 7e art. Aujourd'hui, c'est bouche à fesse,  avec Human Centipede.</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
-          "date": "2021-02-21",
-          "cleanTitle": "#1_Human_Centipede",
-          "fileName": "2021-02-21-#1_Human_Centipede.mp3",
-          "label": "",
-          "duration": 94
+          "url": "https://audio.ausha.co/B16pWHlAvZW1.mp3?t=1731583134",
+          "episode": "Faut-il aller voir Gladiator 2 si on a des yeux ?",
+          "description": "<p>On vous donne notre avis de boomer peu qualifié sur Gladiator 2, d'abord sans spoiler puis avec spoiler, on vous préviendra quand ce sera le cas</p><br/><p>Hébergé par Ausha. Visitez <a href=\"https://ausha.co/politique-de-confidentialite\">ausha.co/politique-de-confidentialite</a> pour plus d'informations.</p>",
+          "date": "2024-11-14",
+          "cleanTitle": "Faut-il_aller_voir_Gladiator_2_si_on_a_des_yeux__",
+          "fileName": "2024-11-14-Faut-il_aller_voir_Gladiator_2_si_on_a_des_yeux__.mp3",
+          "label": ""
         }
       ]
     }

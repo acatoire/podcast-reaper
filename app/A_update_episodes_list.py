@@ -1,6 +1,6 @@
 from datetime import datetime
 import requests
-import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as ElementTree
 import json
 import os
 
@@ -31,15 +31,15 @@ input_json_path = os.path.join(input_path, "episodes.json")
 with open(input_json_path, "r", encoding="utf-8") as f:
     podcast_info = json.load(f)
 
-rss_url = None
-listen = podcast_info.get("listen", [])
-
-rss_url = listen["acast"]
-rss_url = listen["ausha"]
-rss_url = listen["feedburner"]
+#
+rss_url = podcast_info['listen']['acast']
+if not rss_url:
+    rss_url = podcast_info['listen']['ausha']
+if not rss_url:
+    rss_url = podcast_info['listen']['feedburner']
 
 if not rss_url:
-    print("No valid RSS URL found in 'acast' or 'spotify' fields.")
+    print("No valid RSS URL found in Valid RSS URLs are [acast, ausha, feedburner] fields.")
     exit()
 else:
     print(f"Using RSS URL: {rss_url}")
@@ -57,7 +57,7 @@ if response.status_code != 200:
     print(f"Error retrieving data: {response.status_code}")
     exit()
 
-root = ET.fromstring(response.content)
+root = ElementTree.fromstring(response.content)
 
 new_episodes = []
 for item in root.findall("./channel/item"):
@@ -115,4 +115,3 @@ with open(input_json_path, "w", encoding="utf-8") as file_handler:
     json.dump(updated_json, file_handler, indent=2, ensure_ascii=False)
 
 print(f"JSON file updated: {input_json_path}")
-

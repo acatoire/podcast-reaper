@@ -35,7 +35,7 @@ def load_whisper_model(model_requested):
         print(f"Downloading Whisper model: {model_requested}")
         model_load = whisper.load_model(model_requested)
         # Save the model locally
-        print(f"Saving Whisper model to: {local_model_path}")
+        # print(f"Saving Whisper model to: {local_model_path}")
         # model_load.save(local_model_path) # todo
     return model_load
 
