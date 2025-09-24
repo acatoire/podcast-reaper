@@ -70,6 +70,34 @@
         "feedburner": "http://feeds.feedburner.com/LaperoDuCaptain",
         "podCloud": "https://podcloud.fr/podcast/lapero-du-captain"
       }
+    },
+    {
+      "id": "rodolphe_gala",
+      "name": "Rodolphe et Gala",
+      "image": "./podcasts/rodolphe_gala/logo.webp",
+      "platforms": {
+        "apple": "https://podcasts.apple.com/fr/podcast/les-aventures-de-rodolphe-et-gala-histoires-pour-enfants/id1509423716",
+        "acast": "https://feeds.acast.com/public/shows/les-aventures-de-rodolphe-et-gala-histoires-pour-enfants",
+        "spotify": "https://open.spotify.com/show/3mz8hPI3YvUoiXe9HdmOon",
+        "deezer": "https://www.deezer.com/fr/show/1124642",
+        "ausha": null,
+        "feedburner": null,
+        "podCloud": null
+      }
+    },
+    {
+      "id": "artis",
+      "name": "Artis et Gousse d'Ail",
+      "image": "./podcasts/artis/logo.webp",
+      "platforms": {
+        "apple": "https://podcasts.apple.com/fr/podcast/artis-et-gousse-dail/id1167870621",
+        "acast": null,
+        "spotify": "https://open.spotify.com/show/0nEfQsE20mxtullGDUBFWG",
+        "deezer": "https://www.deezer.com/fr/show/60077",
+        "ausha": null,
+        "feedburner": null,
+        "podCloud": null
+      }
     }
   ]
 }

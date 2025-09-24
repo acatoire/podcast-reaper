@@ -37,6 +37,8 @@ if not rss_url:
     rss_url = podcast_info['listen']['ausha']
 if not rss_url:
     rss_url = podcast_info['listen']['feedburner']
+if not rss_url: # TODO be compatible with audion
+    rss_url = podcast_info['listen']['audion']
 
 if not rss_url:
     print("No valid RSS URL found in Valid RSS URLs are [acast, ausha, feedburner] fields.")
