@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:00,100
+...
+
+2
+00:00:00,100 --> 00:00:02,000
+...
+
+3
+00:00:02,000 --> 00:00:04,000
+...
+
+4
+00:00:05,500 --> 00:00:07,500
+Précédemment, dans la Grim Academy.
+
+5
+00:00:15,500 --> 00:00:16,000
+...
+
+6
+00:00:16,000 --> 00:00:18,500
+Le capitaine pirate Ulysse 51
+
+7
+00:00:18,500 --> 00:00:20,320
+nous mène vers une destination
+
+8
+00:00:20,320 --> 00:00:21,280
+inconnue.
+
+9
+00:00:21,540 --> 00:00:24,080
+Je ne vais pas prendre le risque de vous dévoiler mon plan.
+
+10
+00:00:24,680 --> 00:00:25,280
+Nando Busta,
+
+11
+00:00:25,740 --> 00:00:28,000
+vous allez participer à la plus grande découverte
+
+12
+00:00:28,000 --> 00:00:28,760
+de tous les temps.
+
+13
+00:00:28,760 --> 00:00:31,320
+Les péripéties sont nombreuses.
+
+14
+00:00:31,860 --> 00:00:33,760
+Le bateau tangue !
+
+15
+00:00:34,900 --> 00:00:36,760
+La voile a craqué son slip !
+
+16
+00:00:37,940 --> 00:00:39,460
+Alphada !
+
+17
+00:00:39,460 --> 00:00:41,760
+Il a mis le feu au fil de rhum !
+
+18
+00:00:42,600 --> 00:00:44,400
+Ce sont des gouttes de sang
+
+19
+00:00:44,400 --> 00:00:46,940
+qui tombent du plafond ?
+
+20
+00:00:46,940 --> 00:00:47,640
+Des créatures
+
+21
+00:00:47,640 --> 00:00:50,920
+se dressent sur notre route.
+
+22
+00:00:51,220 --> 00:00:54,160
+Qu'est-ce que c'est que ces monstruosités ?
+
+23
+00:00:54,160 --> 00:00:56,520
+Elles absorbent mon pied !
+
+24
+00:00:56,520 --> 00:00:57,760
+C'est tout fort !
+
+25
+00:00:58,760 --> 00:01:00,760
+Nous en sortirons-nous encore une fois ?
+
+26
+00:01:01,380 --> 00:01:02,860
+Mais enfin mon frère !
+
+27
+00:01:02,860 --> 00:01:05,040
+Tu ne peux pas nous laisser dans l'expectative !
+
+28
+00:01:05,040 --> 00:01:07,760
+Vous faites trop durer le suspens !
+
+29
+00:01:07,760 --> 00:01:08,640
+Ça !
+
+30
+00:01:08,640 --> 00:01:10,740
+Ils le font exprès pour qu'on prenne la version premium
+
+31
+00:01:10,740 --> 00:01:12,540
+à 12,90€ !
+
+32
+00:01:12,540 --> 00:01:13,700
+Qu'elle dit ?
+
+33
+00:01:13,700 --> 00:01:14,760
+Ma maman !
+
+34
+00:01:14,760 --> 00:01:22,760
+La Grime Academy saison 7 est disponible dès aujourd'hui en entier et sans publicité au prix de 12,90€ hors taxes.
+
+35
+00:01:22,760 --> 00:01:26,100
+Pour la découvrir avant tout le monde, cliquez sur le lien dans la description.
+
+36
+00:01:26,100 --> 00:01:28,100
+FANTASK !
+
+37
+00:01:28,100 --> 00:01:34,100
+FANTASK !
+
+38
+00:01:34,100 --> 00:01:36,260
+Studio FantasK est un label de podcast pour enfants.
+
+39
+00:01:36,680 --> 00:01:39,720
+Retrouvez toutes nos séries audio sur le site fantask.studio.
+
+40
+00:01:39,720 --> 00:01:46,600
+Rodolphe et Gala et le débarquement des Kibri.
+
+41
+00:01:46,600 --> 00:01:52,720
+Il était une fois l'histoire de deux petits extraterrestres qui s'appelaient Rodolphe et Gala.
+
+42
+00:01:53,720 --> 00:01:57,940
+Après avoir parcouru des milliers de kilomètres à travers tout l'univers,
+
+43
+00:01:58,640 --> 00:02:01,160
+ils avaient enfin trouvé leur planète idéale.
+
+44
+00:02:01,160 --> 00:02:06,280
+Ils s'étaient installés sur Alpha et ils y vivaient heureux.
+
+45
+00:02:07,320 --> 00:02:11,180
+Entre les tours de cailloux à construire et les histoires de Gala à écouter,
+
+46
+00:02:11,640 --> 00:02:12,820
+ils ne s'ennuyaient jamais.
+
+47
+00:02:14,400 --> 00:02:19,960
+Ce jour-là, Rodolphe était sur le point de battre son record d'empilage de cailloux.
+
+48
+00:02:20,360 --> 00:02:27,000
+Oh oh ! Regarde Gala ! Encore un caillou et ce sera la tour la plus haute que j'ai jamais construite !
+
+49
+00:02:27,000 --> 00:02:32,960
+Allez Rodolphe ! Allez Rodolphe ! Allez ! Allez Rodolphe ! Allez Rodolphe !
+
+50
+00:02:32,960 --> 00:02:35,840
+Mais au moment où Rodolphe posa son dernier caillou,
+
+51
+00:02:36,500 --> 00:02:39,880
+tout se mit à trembler autour d'eux et la tour s'effondra.
+
+52
+00:02:40,360 --> 00:02:45,060
+Oh non ! Ma tour ! C'est pas juste !
+
+53
+00:02:45,060 --> 00:02:48,000
+Regarde ! Nous avons de la visite !
+
+54
+00:02:48,000 --> 00:02:52,340
+Un immense vaisseau spatial s'approchait d'Alpha.
+
+55
+00:02:52,340 --> 00:02:57,500
+Il se posa doucement sur le sol et la porte du vaisseau s'ouvrit.
+
+56
+00:02:58,120 --> 00:03:05,940
+Sortis alors des dizaines, que dis-je, des centaines, que dis-je, des milliers de petits êtres brillants !
+
+57
+00:03:05,940 --> 00:03:08,280
+Gala interrogea son ordinateur de bord.
+
+58
+00:03:08,720 --> 00:03:12,300
+Ordinateur de bord, peux-tu me dire qui sont ces visiteurs ?
+
+59
+00:03:12,300 --> 00:03:14,360
+Ce sont des kibris.
+
+60
+00:03:15,080 --> 00:03:19,520
+Les kibris sont des petits êtres dorés au caractère joyeux qui adorent s'amuser.
+
+61
+00:03:19,520 --> 00:03:23,700
+En effet, les kibris couraient partout en rigolant
+
+62
+00:03:23,700 --> 00:03:28,000
+et grimpaient sur les tours de cailloux qui s'effondraient les unes après les autres.
+
+63
+00:03:28,480 --> 00:03:31,200
+Hé ! Arrêtez ! Vous cassez tout !
+
+64
+00:03:31,200 --> 00:03:33,440
+Allons, Rodolphe, ce n'est pas grave.
+
+65
+00:03:33,860 --> 00:03:36,980
+Laissons-les s'amuser. On reconstruira les tours plus tard.
+
+66
+00:03:37,840 --> 00:03:39,900
+Non, je veux pas qu'ils y touchent.
+
+67
+00:03:40,140 --> 00:03:42,180
+Et s'ils sont pas contents, ils ont qu'à s'en aller.
+
+68
+00:03:42,820 --> 00:03:44,460
+Mais ils viennent juste d'arriver.
+
+69
+00:03:45,080 --> 00:03:48,900
+Très bien ! Eh ben si ils cassent mes tours, moi je vais casser leur vaisseau spatial.
+
+70
+00:03:48,900 --> 00:03:52,240
+Si tu fais ça, ils ne pourront plus repartir.
+
+71
+00:03:53,000 --> 00:03:56,900
+J'en ai ras-le-bol de ces machins trucs tout brillants !
+
+72
+00:03:58,020 --> 00:04:00,020
+Et Rodolphe partit boudé dans son coin.
+
+73
+00:04:02,000 --> 00:04:05,140
+Alors qu'il ronchonnait, il entendit un drôle de bruit.
+
+74
+00:04:05,780 --> 00:04:06,980
+On aurait dit des pleurs.
+
+75
+00:04:07,840 --> 00:04:11,160
+Il se rapprocha et découvrit un petit qui brille.
+
+76
+00:04:11,920 --> 00:04:14,380
+Il s'était coincé le pied sous un gros caillou.
+
+77
+00:04:14,380 --> 00:04:19,380
+Eh ben voilà ! À force de toucher à mes cailloux, tu t'es fait mal !
+
+78
+00:04:20,040 --> 00:04:24,380
+Bouge pas, je vais t'aider !
+
+79
+00:04:25,560 --> 00:04:29,180
+Rodolphe souleva l'énorme caillou pour libérer le qui brille.
+
+80
+00:04:29,680 --> 00:04:33,640
+Mais la pierre était si lourde qu'il la fit retomber sur son propre pied.
+
+81
+00:04:34,160 --> 00:04:38,380
+Oh putain ! Ça fait super mal !
+
+82
+00:04:38,380 --> 00:04:45,760
+Rodolphe avait crié si fort que Gala et tous les autres qui brille s'étaient attroupés autour de lui.
+
+83
+00:04:46,720 --> 00:04:48,780
+Qu'est-ce qui t'arrive, Rodolphe ?
+
+84
+00:04:48,780 --> 00:04:54,380
+Oh, c'est un coche de petit qui brille ! Il avait le pied coincé sous un caillou !
+
+85
+00:04:54,380 --> 00:04:56,680
+Tu l'as sauvé, Rodolphe !
+
+86
+00:04:56,680 --> 00:04:59,380
+Oh, ben je me suis surtout fait super mal !
+
+87
+00:04:59,380 --> 00:05:03,580
+Soudain, le qui brille se mit à clignoter très fort.
+
+88
+00:05:06,580 --> 00:05:10,760
+Oh là là ! Regarde, Gala, comme il brille fort !
+
+89
+00:05:10,760 --> 00:05:12,620
+C'est pas bon signe !
+
+90
+00:05:12,620 --> 00:05:16,260
+C'est peut-être une façon de nous dire qu'il a encore très mal ?
+
+91
+00:05:16,260 --> 00:05:17,680
+Je ne crois pas, Rodolphe !
+
+92
+00:05:17,680 --> 00:05:20,380
+Regarde, tous les qui brillent scintillent !
+
+93
+00:05:20,940 --> 00:05:25,840
+Tout à coup, tous les cailloux de la planète se soulevèrent du sol comme s'ils volaient
+
+94
+00:05:25,840 --> 00:05:28,860
+et se mirent eux aussi à briller très fort.
+
+95
+00:05:28,860 --> 00:05:32,200
+Oh, mais qu'est-ce qu'il faut à mes cailloux ?
+
+96
+00:05:32,200 --> 00:05:33,980
+Que c'est beau !
+
+97
+00:05:33,980 --> 00:05:36,180
+J'espère qu'ils ne vont pas me les voler !
+
+98
+00:05:36,180 --> 00:05:37,760
+Waouh !
+
+99
+00:05:37,760 --> 00:05:40,240
+Si tu touches à mes cailloux, ça va me barder !
+
+100
+00:05:42,060 --> 00:05:49,500
+C'est alors qu'un flash ultra-lumineux éclaira le ciel, éblouissant Rodolphe et Gala.
+
+101
+00:05:50,300 --> 00:05:55,080
+Quand ils ouvrirent à nouveau les yeux, tous les petits cailloux étaient retombés sur le sol.
+
+102
+00:05:55,660 --> 00:05:58,600
+Mais ils n'étaient plus gris, ils étaient dorés.
+
+103
+00:05:58,860 --> 00:06:02,320
+Les qui brillent les avaient transformés en or.
+
+104
+00:06:02,820 --> 00:06:06,240
+Oh, mes cailloux !
+
+105
+00:06:06,240 --> 00:06:10,000
+Les qui brillent remercièrent chaleureusement Gala et Rodolphe,
+
+106
+00:06:10,480 --> 00:06:12,360
+avant de remonter dans leur vaisseau spatial.
+
+107
+00:06:13,200 --> 00:06:15,980
+Leur voyage à travers l'espace ne faisait que commencer
+
+108
+00:06:15,980 --> 00:06:19,040
+et ils avaient bien d'autres galaxies à explorer.
+
+109
+00:06:19,040 --> 00:06:22,120
+Rodolphe plongea dans ses cailloux en or.
+
+110
+00:06:22,120 --> 00:06:28,580
+Quelle chance on a, Gala ! Imagine le bel tour de cailloux qu'on va pouvoir construire !
+
+111
+00:06:28,580 --> 00:06:34,320
+Ce n'est pas de la chance, Rodolphe. Tu as été récompensé pour ta gentillesse et ton courage.
+
+112
+00:06:35,060 --> 00:06:36,500
+Tu crois ?
+
+113
+00:06:36,500 --> 00:06:37,960
+J'en suis si heureux !
+
+114
+00:06:37,960 --> 00:06:42,820
+Nos deux petits extraterrestres étaient si heureux.
+
+115
+00:06:43,360 --> 00:06:48,800
+Leurs planètes étaient super, ils s'amusaient bien ensemble et ils avaient de magnifiques cailloux en or.
+
+116
+00:06:49,800 --> 00:06:51,740
+Mais ce bonheur n'allait pas durer.
+
+117
+00:06:51,740 --> 00:06:55,480
+Barbe Brune, un terrible pirate de l'espace,
+
+118
+00:06:55,720 --> 00:07:00,460
+était déjà en route vers Alpha pour voler leurs précieux trésors.
+
+119
+00:07:17,420 --> 00:07:20,540
+C'était les aventures de Rodolphe et Gala.
+
+120
+00:07:20,540 --> 00:07:26,500
+Une histoire écrite, racontée et mise en musique par Cécilia et Gérald.
+
+121
+00:07:28,080 --> 00:07:31,220
+On vous dit à bientôt pour de nouvelles aventures !
+
+122
+00:07:31,220 --> 00:07:38,760
+Sous-titrage Société Radio-Canada
+

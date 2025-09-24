@@ -1,0 +1,984 @@
+1
+00:00:00,000 --> 00:00:02,000
+FANTASK
+
+2
+00:00:30,000 --> 00:00:31,320
+Les pésies sont nombreuses.
+
+3
+00:00:31,860 --> 00:00:34,000
+Le bateau tangue !
+
+4
+00:00:34,880 --> 00:00:37,000
+La voile a craqué son slip !
+
+5
+00:00:37,940 --> 00:00:42,000
+Alphada ! Il a mis le feu au fil de rhum !
+
+6
+00:00:42,680 --> 00:00:46,000
+Ce sont des gouttes de sang qui tombent du plafond ?
+
+7
+00:00:46,960 --> 00:00:50,920
+Des créatures se dressent sur notre route.
+
+8
+00:00:51,220 --> 00:00:54,140
+Qu'est-ce que c'est que ces monstruosités ?
+
+9
+00:00:54,140 --> 00:00:56,000
+Elles absorbent mon pied !
+
+10
+00:00:56,520 --> 00:00:58,000
+C'est tout fort !
+
+11
+00:00:58,000 --> 00:01:01,380
+Nous en sortirons-nous encore une fois ?
+
+12
+00:01:01,380 --> 00:01:02,880
+Mais enfin mon frère !
+
+13
+00:01:02,880 --> 00:01:05,040
+Tu ne peux pas nous laisser dans l'expectative !
+
+14
+00:01:05,040 --> 00:01:08,000
+Vous faites trop durer le suspens !
+
+15
+00:01:08,000 --> 00:01:12,000
+Ça ! Ils le font exprès pour qu'on prenne la version premium à 12,90€ !
+
+16
+00:01:12,520 --> 00:01:13,700
+Qu'elle dit ?
+
+17
+00:01:13,700 --> 00:01:14,000
+Ma maman !
+
+18
+00:01:15,540 --> 00:01:22,780
+La Grime Academy saison 7 est disponible dès aujourd'hui en entier et sans publicité au prix de 12,90€ hors taxes.
+
+19
+00:01:23,240 --> 00:01:26,000
+Pour la découvrir avant tout le monde, cliquez sur le lien dans la description !
+
+20
+00:01:28,000 --> 00:01:31,380
+Leclerc
+
+21
+00:01:31,380 --> 00:01:32,380
+Leclerc
+
+22
+00:01:32,380 --> 00:01:35,760
+La petite Martha dit, avec les couches, faut pas rigoler.
+
+23
+00:01:36,500 --> 00:01:40,060
+Moi je veux de la douceur, du confort, de l'absorption et pas de fuite.
+
+24
+00:01:40,500 --> 00:01:41,640
+Et qu'on ne parle pas de prix.
+
+25
+00:01:41,940 --> 00:01:44,620
+Toute l'année, les couches mots d'enfant sont appris Leclerc.
+
+26
+00:01:45,000 --> 00:01:49,080
+Et en plus jusqu'au 4 octobre, sur les packs de couches ultra-confort mots d'enfant de Marc Repair,
+
+27
+00:01:49,460 --> 00:01:51,920
+c'est 20% crédité en tickets Leclerc.
+
+28
+00:01:51,920 --> 00:01:54,600
+Sinon, c'est la grosse grosse colère.
+
+29
+00:01:54,860 --> 00:01:57,360
+Marc Repair, pour le meilleur et pour le prix.
+
+30
+00:01:57,580 --> 00:02:00,920
+Modalité, magasin et drive participants sur www.e.leclerc.
+
+31
+00:02:00,920 --> 00:02:06,300
+FANTASQUE
+
+32
+00:02:06,300 --> 00:02:07,300
+FANTASQUE
+
+33
+00:02:07,300 --> 00:02:08,040
+FANTASQUE
+
+34
+00:02:08,040 --> 00:02:10,880
+Studio Fantasque est un label de podcast pour enfants.
+
+35
+00:02:11,280 --> 00:02:14,300
+Retrouvez toutes nos séries audio sur le site fantasque.studio
+
+36
+00:02:14,300 --> 00:02:18,840
+Aux africains, la deux étrangères terrestres
+
+37
+00:02:18,840 --> 00:02:22,320
+Volent au milieu des étoiles
+
+38
+00:02:22,320 --> 00:02:25,600
+Parcours des milliers de kilomètres
+
+39
+00:02:25,600 --> 00:02:28,860
+À bord de leur vaisseau spatial
+
+40
+00:02:28,860 --> 00:02:34,020
+Cherchant la planète idéale
+
+41
+00:02:34,020 --> 00:02:35,740
+Pour habiter
+
+42
+00:02:35,740 --> 00:02:39,980
+Cherchant la planète idéale
+
+43
+00:02:39,980 --> 00:02:40,900
+Pour habiter
+
+44
+00:02:40,900 --> 00:02:49,140
+Rodolphe et Gala est la grotte mystérieuse
+
+45
+00:02:49,140 --> 00:02:52,220
+Dans les épisodes précédents
+
+46
+00:02:52,220 --> 00:02:56,080
+Rodolphe et Gala ont quitté une drôle de planète
+
+47
+00:02:56,080 --> 00:02:57,660
+Habitée par les Copitou
+
+48
+00:02:57,660 --> 00:03:00,720
+Rejoints par leur vaisseau spatial
+
+49
+00:03:00,720 --> 00:03:03,200
+Ils se dirigent vers la planète Alpha
+
+50
+00:03:03,200 --> 00:03:08,400
+Regarde Rodolphe, j'aperçois Alpha droit devant
+
+51
+00:03:08,400 --> 00:03:12,640
+Yuppie, on est bientôt chez nous !
+
+52
+00:03:12,640 --> 00:03:16,440
+Le vaisseau spatial se posa délicatement sur le sol
+
+53
+00:03:16,640 --> 00:03:19,640
+Et les deux petits extraterrestres en sortirent
+
+54
+00:03:19,640 --> 00:03:22,240
+Ils étaient si contents d'être à nouveau chez eux
+
+55
+00:03:22,240 --> 00:03:25,360
+Mais alors que Gala faisait la danse de la joie
+
+56
+00:03:25,360 --> 00:03:26,980
+On est chez nous !
+
+57
+00:03:26,980 --> 00:03:28,140
+On est chez nous !
+
+58
+00:03:28,140 --> 00:03:29,640
+Rodolphe, d'habitude si enthousiaste
+
+59
+00:03:29,640 --> 00:03:31,800
+Semblaient tout tristes
+
+60
+00:03:31,800 --> 00:03:34,400
+Ça ne va pas, Rodolphe ?
+
+61
+00:03:34,400 --> 00:03:36,320
+Oh, j'avais oublié !
+
+62
+00:03:36,320 --> 00:03:37,820
+Qu'as-tu oublié ?
+
+63
+00:03:37,820 --> 00:03:40,380
+Que j'ai plus aucun caillou sur ma planète
+
+64
+00:03:40,380 --> 00:03:43,100
+Barbe Brune les a tous volés dans la grotte
+
+65
+00:03:43,100 --> 00:03:44,220
+Où on les avait cachés
+
+66
+00:03:44,220 --> 00:03:46,680
+Les cailloux, la grotte
+
+67
+00:03:46,680 --> 00:03:50,080
+Mais oui, suis-moi, Rodolphe !
+
+68
+00:03:50,080 --> 00:03:52,220
+Et Gala se mit à marcher à toute vitesse
+
+69
+00:03:52,220 --> 00:03:55,400
+Attends-moi, tu vas trop vite !
+
+70
+00:03:55,400 --> 00:03:57,880
+Mais j'ai tellement hâte de te montrer !
+
+71
+00:03:57,880 --> 00:03:58,880
+Me montrer quoi ?
+
+72
+00:03:58,880 --> 00:04:01,960
+Gala s'arrêta enfin devant une grotte
+
+73
+00:04:01,960 --> 00:04:03,720
+Et pas n'importe quelle grotte
+
+74
+00:04:03,720 --> 00:04:05,340
+Devant LA grotte
+
+75
+00:04:05,340 --> 00:04:08,180
+Celle où tous les ennuis avaient commencé
+
+76
+00:04:08,180 --> 00:04:10,800
+Moi non, j'ai pas envie de rentrer
+
+77
+00:04:10,800 --> 00:04:12,680
+Elle porte malheur cette grotte
+
+78
+00:04:12,680 --> 00:04:14,400
+Fais-moi confiance, Rodolphe
+
+79
+00:04:14,400 --> 00:04:17,720
+Oh non !
+
+80
+00:04:17,720 --> 00:04:19,560
+Malgré les plaintes de Rodolphe
+
+81
+00:04:19,560 --> 00:04:22,000
+Ils s'aventurèrent tous les deux à l'intérieur
+
+82
+00:04:22,000 --> 00:04:24,780
+La grotte était immense
+
+83
+00:04:24,780 --> 00:04:27,940
+Mais Gala semblait parfaitement savoir se diriger dedans
+
+84
+00:04:27,940 --> 00:04:30,400
+Elle tourna deux fois à droite
+
+85
+00:04:30,400 --> 00:04:31,420
+Une fois à gauche
+
+86
+00:04:31,420 --> 00:04:32,680
+Continua tout droit
+
+87
+00:04:32,680 --> 00:04:34,460
+Reprit le chemin de gauche
+
+88
+00:04:34,460 --> 00:04:35,380
+Encore tout droit
+
+89
+00:04:35,380 --> 00:04:36,320
+Et tout à coup
+
+90
+00:04:36,320 --> 00:04:38,120
+Surprise !
+
+91
+00:04:38,120 --> 00:04:38,860
+Oh !
+
+92
+00:04:38,860 --> 00:04:40,860
+Où ça une surprise ?
+
+93
+00:04:40,860 --> 00:04:42,240
+Y'a rien du tout dans cette grotte
+
+94
+00:04:42,240 --> 00:04:43,820
+Mais si, regarde
+
+95
+00:04:43,820 --> 00:04:45,240
+La grotte s'est effondrée
+
+96
+00:04:45,240 --> 00:04:46,980
+Quoi ?
+
+97
+00:04:46,980 --> 00:04:48,760
+Bah ! Qu'est-ce que tu racontes ?
+
+98
+00:04:48,760 --> 00:04:51,500
+La grotte s'est effondrée, Rodolphe !
+
+99
+00:04:51,500 --> 00:04:53,660
+C'est ça ta surprise ?
+
+100
+00:04:53,660 --> 00:04:54,980
+La grotte est bouchée ?
+
+101
+00:04:54,980 --> 00:04:56,320
+Bah, je vois pas ce qu'il y a de super
+
+102
+00:04:56,320 --> 00:05:00,940
+Je préfère sortir de cet endroit de malheur !
+
+103
+00:05:00,940 --> 00:05:01,960
+Gala se mit à rire
+
+104
+00:05:01,960 --> 00:05:04,820
+Rodolphe avait tellement peur de cette grotte
+
+105
+00:05:04,820 --> 00:05:07,600
+Qu'il ne comprenait rien à la surprise de Gala
+
+106
+00:05:07,600 --> 00:05:09,840
+C'est pas gentil de te manquer
+
+107
+00:05:09,840 --> 00:05:11,420
+Je ne m'en parle pas
+
+108
+00:05:11,420 --> 00:05:15,400
+Seulement, c'est bien la première fois que je te vois bouder de si beau caillou
+
+109
+00:05:15,400 --> 00:05:17,420
+En entendant le mot caillou
+
+110
+00:05:17,420 --> 00:05:19,900
+Rodolphe ouvrit de grands yeux
+
+111
+00:05:19,900 --> 00:05:22,480
+Et cette fois-ci, il comprit
+
+112
+00:05:22,480 --> 00:05:27,740
+L'effondrement de la grotte avait provoqué un tas immense de cailloux
+
+113
+00:05:27,740 --> 00:05:29,620
+De quoi faire des dizaines
+
+114
+00:05:29,620 --> 00:05:30,900
+Que dis-je ?
+
+115
+00:05:30,900 --> 00:05:31,640
+Des centaines
+
+116
+00:05:31,640 --> 00:05:32,700
+Que dis-je ?
+
+117
+00:05:32,700 --> 00:05:34,640
+Des milliers de tours de cailloux
+
+118
+00:05:34,640 --> 00:05:36,720
+Ce sera beaucoup de travail
+
+119
+00:05:36,720 --> 00:05:39,080
+Mais nous allons les sortir un par un
+
+120
+00:05:39,080 --> 00:05:42,480
+Et ainsi, remplir à nouveau notre planète de cailloux
+
+121
+00:05:42,480 --> 00:05:44,920
+Yopi !
+
+122
+00:05:44,920 --> 00:05:47,480
+Quelle bonne idée, Gala !
+
+123
+00:05:47,480 --> 00:05:49,680
+Gala se mit à bouger bizarrement
+
+124
+00:05:49,680 --> 00:05:51,260
+Elle cligna des yeux
+
+125
+00:05:51,260 --> 00:05:52,720
+Remua son nez
+
+126
+00:05:52,720 --> 00:05:57,520
+Et tout à coup, deux roues sortirent de dessous ses pieds
+
+127
+00:05:57,520 --> 00:06:00,000
+Elle se mit alors à rouler à toute vitesse
+
+128
+00:06:00,000 --> 00:06:01,820
+Et à sortir un à un
+
+129
+00:06:01,820 --> 00:06:03,280
+Tous les cailloux de la grotte
+
+130
+00:06:03,280 --> 00:06:05,700
+Rodolphe, quant à lui
+
+131
+00:06:05,700 --> 00:06:07,220
+Essayait d'aider comme il pouvait
+
+132
+00:06:07,220 --> 00:06:09,700
+Après de nombreux allers-retours
+
+133
+00:06:09,700 --> 00:06:12,100
+Il ne restait plus qu'un caillou à prendre
+
+134
+00:06:12,100 --> 00:06:13,300
+Attends, Gala
+
+135
+00:06:13,300 --> 00:06:14,680
+Tu dois être fatigué
+
+136
+00:06:14,680 --> 00:06:15,480
+Je vais y aller
+
+137
+00:06:15,480 --> 00:06:16,560
+Très bien
+
+138
+00:06:16,560 --> 00:06:17,760
+Je t'attends ici
+
+139
+00:06:17,760 --> 00:06:21,160
+Rodolphe rentra dans la grotte
+
+140
+00:06:21,160 --> 00:06:23,060
+Il tourna deux fois à droite
+
+141
+00:06:23,060 --> 00:06:24,020
+Une fois à gauche
+
+142
+00:06:24,020 --> 00:06:25,000
+Continua tout droit
+
+143
+00:06:25,000 --> 00:06:26,600
+Reprit le chemin de gauche
+
+144
+00:06:26,600 --> 00:06:27,520
+Encore tout droit
+
+145
+00:06:27,520 --> 00:06:29,920
+Et ramassa le dernier caillou
+
+146
+00:06:29,920 --> 00:06:34,620
+C'est alors qu'il sentit un courant d'air lui chatouiller la tête
+
+147
+00:06:34,620 --> 00:06:36,580
+Il leva les yeux
+
+148
+00:06:36,580 --> 00:06:38,860
+Et aperçut un rayon de lumière
+
+149
+00:06:38,860 --> 00:06:40,980
+Il lâcha son caillou
+
+150
+00:06:40,980 --> 00:06:42,260
+Et s'en approcha
+
+151
+00:06:42,260 --> 00:06:45,560
+Oh ! Un tunnel ?
+
+152
+00:06:45,560 --> 00:06:47,000
+On dirait un passage secret
+
+153
+00:06:47,000 --> 00:06:48,800
+Gala ?
+
+154
+00:06:48,800 --> 00:06:49,800
+Gala !
+
+155
+00:06:49,800 --> 00:06:51,600
+Tu m'entends ?
+
+156
+00:06:51,600 --> 00:06:54,120
+Évidemment, elle était trop loin pour l'entendre
+
+157
+00:06:54,120 --> 00:06:55,980
+Rodolphe hésitait
+
+158
+00:06:55,980 --> 00:07:00,380
+D'un côté, il avait peur de s'aventurer tout seul dans ce petit tunnel
+
+159
+00:07:00,380 --> 00:07:02,100
+Mais d'un autre côté
+
+160
+00:07:02,100 --> 00:07:05,380
+Ce passage secret piquait sa curiosité
+
+161
+00:07:05,380 --> 00:07:10,540
+Et s'il trouvait d'autres cailloux encore plus beaux de l'autre côté ?
+
+162
+00:07:10,540 --> 00:07:12,500
+Gala serait sûrement très fier de lui
+
+163
+00:07:12,500 --> 00:07:16,600
+Allez ! Sois courageux ! On y va !
+
+164
+00:07:16,600 --> 00:07:19,420
+Après s'être encouragé, il se mit à plavente
+
+165
+00:07:19,420 --> 00:07:21,700
+Et rampa dans le passage tout étroit
+
+166
+00:07:21,700 --> 00:07:25,020
+Il pouvait voir la lumière à l'autre bout du tunnel
+
+167
+00:07:25,020 --> 00:07:29,860
+Plus il avançait
+
+168
+00:07:29,860 --> 00:07:32,120
+Plus le tunnel s'élargissait
+
+169
+00:07:32,120 --> 00:07:35,860
+Maintenant, il pouvait presque se mettre debout
+
+170
+00:07:35,860 --> 00:07:38,360
+La lumière était de plus en plus forte
+
+171
+00:07:38,360 --> 00:07:40,200
+Presque éblouissante
+
+172
+00:07:40,200 --> 00:07:41,740
+Pendant ce temps
+
+173
+00:07:41,740 --> 00:07:44,180
+Gala commençait à s'impatienter
+
+174
+00:07:44,180 --> 00:07:47,160
+Il en mettait du temps à sortir ce dernier caillou
+
+175
+00:07:47,160 --> 00:07:52,600
+Et si Rodolphe s'était perdu dans les nombreuses galeries de la grotte ?
+
+176
+00:07:52,600 --> 00:07:55,740
+Inquiète, elle décida de partir à sa recherche
+
+177
+00:07:55,740 --> 00:07:57,920
+Rodolphe ?
+
+178
+00:07:57,920 --> 00:07:59,960
+Rodolphe !
+
+179
+00:07:59,960 --> 00:08:01,540
+Elle tourna deux fois à droite
+
+180
+00:08:01,540 --> 00:08:02,820
+Une fois à gauche
+
+181
+00:08:02,820 --> 00:08:04,100
+Continua tout droit
+
+182
+00:08:04,100 --> 00:08:05,560
+Reprit le chemin de gauche
+
+183
+00:08:05,560 --> 00:08:06,540
+Encore tout droit
+
+184
+00:08:06,540 --> 00:08:08,800
+Et tomba sur le dernier caillou
+
+185
+00:08:08,800 --> 00:08:10,680
+Mais pas de Rodolphe
+
+186
+00:08:10,680 --> 00:08:13,620
+Elle regarda tout autour d'elle
+
+187
+00:08:13,620 --> 00:08:16,620
+Et remarqua à son tour le rayon lumineux
+
+188
+00:08:16,620 --> 00:08:19,400
+Elle décida de voir ça de plus près
+
+189
+00:08:19,400 --> 00:08:21,600
+Et avança dans le tunnel
+
+190
+00:08:21,600 --> 00:08:25,480
+Rodolphe, quant à lui, était presque arrivé au bout
+
+191
+00:08:25,480 --> 00:08:29,220
+Allez ! Encore un petit effort !
+
+192
+00:08:29,220 --> 00:08:31,560
+Enfin, il arriva au bout du tunnel
+
+193
+00:08:31,560 --> 00:08:33,820
+Et put se relever complètement
+
+194
+00:08:33,820 --> 00:08:37,600
+Oh là là ! Mais c'est haut !
+
+195
+00:08:37,600 --> 00:08:41,100
+Il se tenait debout au bord d'un grand précipice
+
+196
+00:08:41,100 --> 00:08:43,820
+Il regarda droit devant lui
+
+197
+00:08:43,820 --> 00:08:46,300
+Et découvrait une chose à l'horizon
+
+198
+00:08:46,300 --> 00:08:48,200
+Qui le laissa sans voix
+
+199
+00:08:48,200 --> 00:08:50,580
+Rodolphe !
+
+200
+00:08:50,580 --> 00:08:52,080
+Rodolphe !
+
+201
+00:08:52,080 --> 00:08:54,080
+Rodolphe !
+
+202
+00:08:54,080 --> 00:08:57,220
+Gala aperçut enfin son amie au bout du tunnel
+
+203
+00:08:57,220 --> 00:08:59,080
+Elle avait beau l'appeler
+
+204
+00:08:59,080 --> 00:09:01,680
+Rodolphe restait immobile
+
+205
+00:09:01,680 --> 00:09:04,640
+Elle se redressa à ses côtés
+
+206
+00:09:04,640 --> 00:09:06,200
+Et vit à son tour
+
+207
+00:09:06,200 --> 00:09:08,140
+Une chose aussi effrayante
+
+208
+00:09:08,140 --> 00:09:09,960
+Que spectaculaire dans le ciel
+
+209
+00:09:09,960 --> 00:09:12,260
+Une boule de lumière géantissime
+
+210
+00:09:12,780 --> 00:09:14,140
+Tournoyait sur elle-même
+
+211
+00:09:14,140 --> 00:09:15,740
+A une vitesse incroyable
+
+212
+00:09:15,740 --> 00:09:18,060
+Des éclairs jaillissaient de tous côtés
+
+213
+00:09:18,060 --> 00:09:19,820
+Et de gros nuages noirs
+
+214
+00:09:19,820 --> 00:09:21,100
+Gravitaient tout autour
+
+215
+00:09:21,100 --> 00:09:24,000
+Gala qui avait beaucoup voyagé
+
+216
+00:09:24,000 --> 00:09:25,240
+En avait vu des choses
+
+217
+00:09:25,240 --> 00:09:28,180
+Mais jamais elle n'avait observé cela
+
+218
+00:09:28,180 --> 00:09:32,900
+Tu crois que ça doit nous inquiéter Gala ?
+
+219
+00:09:32,900 --> 00:09:34,040
+Je ne sais pas Rodolphe
+
+220
+00:09:34,040 --> 00:09:35,480
+Mais une chose est sûre
+
+221
+00:09:35,480 --> 00:09:37,280
+Nous allons découvrir ce que c'est
+
+222
+00:09:37,280 --> 00:09:39,240
+Rodolphe et Gala
+
+223
+00:09:39,240 --> 00:09:41,440
+Regardaient cette boule géante tourner
+
+224
+00:09:41,440 --> 00:09:44,160
+Se demandant bien si toute cette énergie
+
+225
+00:09:44,160 --> 00:09:46,920
+Représentait un danger pour eux et leur planète
+
+226
+00:09:46,920 --> 00:09:48,920
+Ils étaient loin de se douter
+
+227
+00:09:48,920 --> 00:09:50,940
+Que cette découverte allait marquer
+
+228
+00:09:50,940 --> 00:09:53,020
+Le début de nouvelles aventures
+
+229
+00:09:53,020 --> 00:10:00,760
+C'était les aventures de Rodolphe et Gala
+
+230
+00:10:00,760 --> 00:10:05,040
+Une histoire écrite, racontée
+
+231
+00:10:05,040 --> 00:10:08,000
+Et mise en musique par Cécilia et Gérald
+
+232
+00:10:08,000 --> 00:10:12,280
+On vous dit à bientôt pour de nouvelles aventures
+
+233
+00:10:16,920 --> 00:10:20,920
+Leclerc
+
+234
+00:10:20,920 --> 00:10:22,740
+La petite Martha dit
+
+235
+00:10:22,740 --> 00:10:24,580
+Avec les couches, faut pas rigoler
+
+236
+00:10:24,580 --> 00:10:27,980
+Moi je veux de la douceur, du confort, de l'absorption
+
+237
+00:10:27,980 --> 00:10:28,880
+Et pas de fuite
+
+238
+00:10:28,880 --> 00:10:30,480
+Et qu'on ne parle pas de prix
+
+239
+00:10:30,480 --> 00:10:33,480
+Toute l'année, les couches mots d'enfant sont appris Leclerc
+
+240
+00:10:33,480 --> 00:10:35,200
+Et en plus jusqu'au 4 octobre
+
+241
+00:10:35,200 --> 00:10:37,920
+Sur les packs de couches ultra-confort mots d'enfant de Marc Repair
+
+242
+00:10:37,920 --> 00:10:40,740
+C'est 20% crédité en tickets Leclerc
+
+243
+00:10:40,740 --> 00:10:43,460
+Sinon, c'est la grosse grosse colère
+
+244
+00:10:43,460 --> 00:10:46,200
+Marc Repair, pour le meilleur et pour le prix
+
+245
+00:10:46,200 --> 00:10:50,200
+Modalité, magasin et drive participants sur www.e.leclerc
+
+246
+00:10:50,200 --> 00:10:52,200
+Sous-titrage Société Radio-Canada
+

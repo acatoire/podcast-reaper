@@ -1,0 +1,920 @@
+1
+00:00:00,000 --> 00:00:00,100
+...
+
+2
+00:00:00,100 --> 00:00:08,000
+Précédemment, dans la Grim Academy...
+
+3
+00:00:08,000 --> 00:00:12,000
+...
+
+4
+00:00:16,000 --> 00:00:16,600
+...
+
+5
+00:00:16,600 --> 00:00:17,000
+...
+
+6
+00:00:17,000 --> 00:00:18,000
+...
+
+7
+00:00:18,000 --> 00:00:19,000
+...
+
+8
+00:00:19,000 --> 00:00:20,000
+...
+
+9
+00:00:20,000 --> 00:00:21,000
+...
+
+10
+00:00:21,000 --> 00:00:22,000
+...
+
+11
+00:00:22,000 --> 00:00:23,000
+...
+
+12
+00:00:23,000 --> 00:00:24,000
+...
+
+13
+00:00:24,000 --> 00:00:25,000
+...
+
+14
+00:00:25,000 --> 00:00:26,000
+...
+
+15
+00:00:26,000 --> 00:00:27,000
+...
+
+16
+00:00:27,000 --> 00:00:28,000
+...
+
+17
+00:00:28,000 --> 00:00:38,000
+...
+
+18
+00:00:40,000 --> 00:00:42,000
+...
+
+19
+00:00:42,000 --> 00:00:42,060
+...
+
+20
+00:00:47,000 --> 00:00:48,000
+...
+
+21
+00:00:48,000 --> 00:00:49,020
+...
+
+22
+00:00:49,020 --> 00:00:51,000
+...
+
+23
+00:00:52,000 --> 00:00:53,420
+...
+
+24
+00:00:53,420 --> 00:00:56,520
+Elle absorbe mon pied !
+
+25
+00:00:56,520 --> 00:00:58,840
+J'étouffant !
+
+26
+00:00:58,840 --> 00:01:01,380
+Nous en sortirons-nous encore une fois ?
+
+27
+00:01:01,380 --> 00:01:05,040
+Mais enfin mon frère, tu ne peux pas nous laisser dans l'expectative !
+
+28
+00:01:05,040 --> 00:01:07,420
+Vous faites trop durer le suspense !
+
+29
+00:01:08,000 --> 00:01:12,480
+Ça, ils le font exprès pour qu'on prenne la version premium à 12,90€ !
+
+30
+00:01:12,480 --> 00:01:13,700
+Qu'elle dit ?
+
+31
+00:01:13,700 --> 00:01:14,420
+Non, non, non !
+
+32
+00:01:14,420 --> 00:01:22,780
+La Grime Academy saison 7 est disponible dès aujourd'hui en entier et sans publicité au prix de 12,90€ hors taxes.
+
+33
+00:01:22,780 --> 00:01:26,780
+Pour la découvrir avant tout le monde, cliquez sur le lien dans la description !
+
+34
+00:01:29,000 --> 00:01:46,060
+Il était une fois l'histoire d'un petit extraterrestre qui s'appelait Rodolphe.
+
+35
+00:01:47,120 --> 00:01:49,820
+Il aimait construire des tours de cailloux en or,
+
+36
+00:01:50,500 --> 00:01:51,540
+manger des étoiles
+
+37
+00:01:51,540 --> 00:01:56,640
+et écouter les belles histoires que son ami Gala lui racontait avant de dormir.
+
+38
+00:01:57,780 --> 00:01:59,020
+Mais voilà !
+
+39
+00:01:59,020 --> 00:02:01,380
+Barbe Brune, un pirate de l'espace,
+
+40
+00:02:01,860 --> 00:02:05,100
+avait débarqué sur sa planète pour voler son trésor.
+
+41
+00:02:06,760 --> 00:02:08,260
+Voulant à tout prix le protéger,
+
+42
+00:02:08,800 --> 00:02:10,720
+Rodolphe avait été capturé.
+
+43
+00:02:10,720 --> 00:02:16,020
+Gala, qui était venu le sauver, avait été faite prisonnière à sa place.
+
+44
+00:02:17,020 --> 00:02:19,740
+Rodolphe était donc libre, mais plus seul que jamais.
+
+45
+00:02:20,840 --> 00:02:25,800
+Heureusement, son ami Comore, un monstre géant, lui avait proposé son aide.
+
+46
+00:02:25,800 --> 00:02:32,600
+Ensemble, il s'était donc lancé à la recherche de Gala pour la libérer du terrible Barbe Brune.
+
+47
+00:02:32,600 --> 00:02:37,700
+Comore, je crois que j'ai vu le vaisseau de Gala sur cette planète !
+
+48
+00:02:38,700 --> 00:02:39,700
+Allons-y !
+
+49
+00:02:39,700 --> 00:02:43,040
+Attends, Comore, est-ce qu'on a un plan ?
+
+50
+00:02:43,040 --> 00:02:45,480
+Comment ça, un plan ?
+
+51
+00:02:45,480 --> 00:02:47,680
+Bah, tu sais, un plan, quoi !
+
+52
+00:02:47,680 --> 00:02:49,060
+Genre, moi, je vais me cacher,
+
+53
+00:02:49,400 --> 00:02:51,880
+et puis toi, tu ratatines Barbe Brune !
+
+54
+00:02:51,880 --> 00:02:53,520
+Hum-hum !
+
+55
+00:02:53,520 --> 00:02:55,560
+Et après, moi, je sauve Gala,
+
+56
+00:02:55,960 --> 00:02:57,920
+et toi, bah, tu t'en vas !
+
+57
+00:02:57,920 --> 00:02:59,480
+Hum-hum !
+
+58
+00:02:59,480 --> 00:03:01,320
+Je vois où tu veux en venir.
+
+59
+00:03:02,200 --> 00:03:03,240
+Faisons comme ça.
+
+60
+00:03:03,240 --> 00:03:06,240
+Super ! Allons-y !
+
+61
+00:03:06,240 --> 00:03:13,740
+Le repère de Barbe Brune se trouvait sur une île déserte en plein milieu de la mer.
+
+62
+00:03:14,700 --> 00:03:18,900
+Quand Rodolphe posa les pieds sur le sol, il commença à s'enfoncer.
+
+63
+00:03:20,280 --> 00:03:23,780
+Qu'est-ce qu'il se passe ? Regarde, Comore !
+
+64
+00:03:23,780 --> 00:03:27,460
+C'est normal, Rodolphe. Tu marches sur du sable.
+
+65
+00:03:28,500 --> 00:03:31,920
+Ah, perte, j'ai pas le sable !
+
+66
+00:03:31,920 --> 00:03:33,860
+C'est étonnant que tu n'aimes pas.
+
+67
+00:03:33,860 --> 00:03:37,740
+Ce sont pourtant des milliards de petits cailloux.
+
+68
+00:03:38,360 --> 00:03:40,680
+Des milliards ?
+
+69
+00:03:40,680 --> 00:03:41,860
+Reste ici.
+
+70
+00:03:42,440 --> 00:03:44,580
+Je vais inspecter les alentours.
+
+71
+00:03:45,100 --> 00:03:46,440
+Wow !
+
+72
+00:03:46,440 --> 00:03:50,340
+Des milliards de cailloux !
+
+73
+00:03:50,340 --> 00:03:52,380
+Rodolphe prit une poignée de sable
+
+74
+00:03:52,380 --> 00:03:54,220
+et regarda de plus près.
+
+75
+00:03:55,060 --> 00:03:56,080
+Hi-hihi !
+
+76
+00:03:56,080 --> 00:03:58,780
+Ils sont tous minuscules, ces cailloux !
+
+77
+00:03:58,780 --> 00:04:00,920
+Ah ! Mais ce sont mes cailloux !
+
+78
+00:04:00,920 --> 00:04:03,560
+Soudain, une voix retentit derrière lui.
+
+79
+00:04:03,860 --> 00:04:05,320
+C'était Barbe Brune.
+
+80
+00:04:06,520 --> 00:04:08,940
+Lâche tout de suite mon trésor !
+
+81
+00:04:08,940 --> 00:04:10,080
+Alors c'est ça !
+
+82
+00:04:10,080 --> 00:04:12,860
+Tu voles des cailloux pour les transformer en sable !
+
+83
+00:04:13,420 --> 00:04:14,580
+Plus j'ai de sable,
+
+84
+00:04:14,960 --> 00:04:16,660
+plus ma planète est grande.
+
+85
+00:04:17,120 --> 00:04:18,980
+Elle sera bientôt immense !
+
+86
+00:04:18,980 --> 00:04:19,860
+Ha ha ha !
+
+87
+00:04:20,560 --> 00:04:21,860
+Elle est où, gala ?
+
+88
+00:04:21,860 --> 00:04:24,740
+Tu es venu la libérer ?
+
+89
+00:04:24,740 --> 00:04:26,940
+Exactement !
+
+90
+00:04:26,940 --> 00:04:29,080
+Et comment comptes-tu t'y prendre ?
+
+91
+00:04:29,080 --> 00:04:30,840
+Tu vas construire une tour de cailloux
+
+92
+00:04:30,840 --> 00:04:33,520
+ou plutôt devrais-je dire un château de sable ?
+
+93
+00:04:33,520 --> 00:04:34,860
+Ha ha ha !
+
+94
+00:04:34,860 --> 00:04:38,460
+Rodolphe regarda autour de lui.
+
+95
+00:04:38,820 --> 00:04:39,780
+Il cherchait Comor.
+
+96
+00:04:40,340 --> 00:04:42,280
+Où était-il donc passé ?
+
+97
+00:04:42,280 --> 00:04:44,300
+Il avait besoin de son aide maintenant.
+
+98
+00:04:44,300 --> 00:04:47,140
+Qu'est-ce que tu cherches ?
+
+99
+00:04:47,140 --> 00:04:49,760
+Tu crois que la solution va tomber du ciel ?
+
+100
+00:04:49,760 --> 00:04:50,860
+Ha ha ha !
+
+101
+00:04:50,860 --> 00:04:53,300
+Tu crois pas si bien dire !
+
+102
+00:04:54,260 --> 00:04:58,000
+Soudain, une ombre gigantesque perça les nuages.
+
+103
+00:04:58,820 --> 00:05:00,420
+Barbe Brune leva la tête
+
+104
+00:05:00,420 --> 00:05:03,400
+et découvrit Comor qui lui fonçait dessus
+
+105
+00:05:03,400 --> 00:05:04,620
+tel un boulet de canon.
+
+106
+00:05:05,400 --> 00:05:06,300
+Ha ha ha !
+
+107
+00:05:06,300 --> 00:05:07,760
+Te fais-moi le malin !
+
+108
+00:05:07,760 --> 00:05:11,700
+Comor se posa à quelques mètres du pirate.
+
+109
+00:05:12,620 --> 00:05:15,100
+Il s'avança vers Barbe Brune en grognant,
+
+110
+00:05:15,540 --> 00:05:16,580
+prêt à le dévorer.
+
+111
+00:05:17,140 --> 00:05:20,120
+Mais avant qu'il n'ait eu le temps de faire le moindre geste,
+
+112
+00:05:20,540 --> 00:05:23,580
+Barbe Brune dégaina à toute vitesse son minustractor
+
+113
+00:05:23,580 --> 00:05:24,400
+et tira.
+
+114
+00:05:26,720 --> 00:05:29,260
+Comor, qui avait la taille d'un dinosaure,
+
+115
+00:05:29,260 --> 00:05:31,800
+devint aussi petit qu'un lézard.
+
+116
+00:05:32,600 --> 00:05:33,560
+Ah non !
+
+117
+00:05:33,560 --> 00:05:35,540
+T'as encore utilisé ton pistolet laser !
+
+118
+00:05:35,540 --> 00:05:37,680
+C'est pas juste !
+
+119
+00:05:37,680 --> 00:05:38,420
+Ha ha !
+
+120
+00:05:38,420 --> 00:05:40,480
+C'est quoi ce bazar ?
+
+121
+00:05:40,480 --> 00:05:41,720
+Ha ha !
+
+122
+00:05:41,720 --> 00:05:43,260
+Je vous donne 10 secondes
+
+123
+00:05:43,260 --> 00:05:46,280
+pour virer vos grosses fesses dégoûtantes de mon île.
+
+124
+00:05:46,960 --> 00:05:49,780
+Un, deux, trois...
+
+125
+00:05:49,780 --> 00:05:51,600
+Le problème, Barbe Brune,
+
+126
+00:05:51,680 --> 00:05:55,520
+c'est que Comor, il est trop tôt maintenant pour me porter !
+
+127
+00:05:55,520 --> 00:05:58,700
+Quatre, cinq, six...
+
+128
+00:05:58,700 --> 00:05:59,840
+Je te préviens,
+
+129
+00:06:00,040 --> 00:06:02,000
+ta porte irait à monter sur mon dos,
+
+130
+00:06:02,160 --> 00:06:03,380
+tu vas me crabouiller !
+
+131
+00:06:03,380 --> 00:06:06,040
+Sept, huit, neuf...
+
+132
+00:06:06,040 --> 00:06:07,120
+Stop !
+
+133
+00:06:07,120 --> 00:06:08,980
+Gama !
+
+134
+00:06:08,980 --> 00:06:11,760
+Tu tiens vraiment à rejoindre tes amis ?
+
+135
+00:06:11,760 --> 00:06:13,240
+Eh bien, te voilà servi !
+
+136
+00:06:13,240 --> 00:06:19,920
+Et Barbe Brune attrapa Gala, Rodolphe et Comor pour les enfermer dans une cage.
+
+137
+00:06:22,380 --> 00:06:23,840
+Bien qu'elle soit en prison,
+
+138
+00:06:24,300 --> 00:06:27,520
+la petite extraterrestre était toute heureuse de retrouver Rodolphe.
+
+139
+00:06:28,060 --> 00:06:29,380
+Il ne l'avait pas abandonné,
+
+140
+00:06:29,920 --> 00:06:31,500
+il était même venu la sauver.
+
+141
+00:06:33,120 --> 00:06:36,580
+Écoutez-moi bien, nous allons nous échapper, j'ai un plan !
+
+142
+00:06:36,580 --> 00:06:37,920
+Mais comment ?
+
+143
+00:06:38,540 --> 00:06:40,180
+Maintenant que je suis tout petit,
+
+144
+00:06:40,520 --> 00:06:41,920
+je ne sers plus à rien !
+
+145
+00:06:41,920 --> 00:06:45,760
+Au contraire, nous allons profiter de ta petite taille !
+
+146
+00:06:45,760 --> 00:06:48,600
+Regarde tout en haut, il y a un trou dans la cage !
+
+147
+00:06:48,600 --> 00:06:49,920
+On va essayer de l'atteindre !
+
+148
+00:06:49,920 --> 00:06:53,920
+Vas-y, Comor, monte sur ma tête !
+
+149
+00:06:53,920 --> 00:06:57,320
+Comor se hissa sur le crâne de Rodolphe
+
+150
+00:06:57,320 --> 00:07:01,140
+et sauta dans le trou pour atterrir de l'autre côté de la cage.
+
+151
+00:07:03,520 --> 00:07:05,580
+Yopé ! Tu es libre !
+
+152
+00:07:05,580 --> 00:07:07,980
+Et maintenant, qu'est-ce qu'on fait, Gala ?
+
+153
+00:07:07,980 --> 00:07:10,540
+À cette heure-ci, Barbe Brune fait sa sieste.
+
+154
+00:07:10,960 --> 00:07:15,140
+Comor, tu vas en profiter pour aller lui voler son pistolet laser !
+
+155
+00:07:15,140 --> 00:07:18,160
+Euh... On devrait pas plutôt voler les clés de la cage ?
+
+156
+00:07:18,160 --> 00:07:20,760
+Faites-moi confiance, les amis !
+
+157
+00:07:20,760 --> 00:07:23,200
+Comor se faufila donc sans faire de bruit,
+
+158
+00:07:23,200 --> 00:07:25,460
+jusqu'au repère de Barbe Brune.
+
+159
+00:07:26,240 --> 00:07:28,300
+Le pirate dormait profondément
+
+160
+00:07:28,300 --> 00:07:30,260
+et ronflait comme un ours.
+
+161
+00:07:35,060 --> 00:07:37,180
+Comor se glissa dans sa poche
+
+162
+00:07:37,180 --> 00:07:40,000
+et attrapa discrètement le pistolet.
+
+163
+00:07:44,260 --> 00:07:46,120
+Il le hissa sur son dos
+
+164
+00:07:46,120 --> 00:07:48,680
+et le ramena jusqu'à la cage.
+
+165
+00:07:49,280 --> 00:07:50,540
+Super, Comor !
+
+166
+00:07:50,540 --> 00:07:52,560
+Tu as très bien rempli ta mission !
+
+167
+00:07:52,560 --> 00:07:54,420
+Maintenant, tire-nous dessus !
+
+168
+00:07:54,420 --> 00:07:55,500
+Oh, mais ça va pas !
+
+169
+00:07:55,500 --> 00:07:57,660
+Mais t'as complètement perdu la tête !
+
+170
+00:07:57,660 --> 00:07:59,740
+J'ai pas envie d'être à nouveau minuscule !
+
+171
+00:07:59,740 --> 00:08:01,620
+J'ai une voix trop ridicule !
+
+172
+00:08:01,620 --> 00:08:03,560
+C'est la seule solution, Rodolphe !
+
+173
+00:08:03,560 --> 00:08:04,820
+Tire, Comor !
+
+174
+00:08:04,820 --> 00:08:07,900
+Comor appuya sur le Minustractor
+
+175
+00:08:07,900 --> 00:08:10,020
+et Gala et Rodolphe
+
+176
+00:08:10,020 --> 00:08:12,460
+se mirent à rétrécir à toute vitesse.
+
+177
+00:08:12,460 --> 00:08:15,640
+Ils étaient devenus si petits
+
+178
+00:08:15,640 --> 00:08:17,280
+qu'ils purent sans problème
+
+179
+00:08:17,280 --> 00:08:19,340
+passer à travers les barreaux de leur prison.
+
+180
+00:08:19,340 --> 00:08:23,880
+Youpi ! On est tous libres !
+
+181
+00:08:23,880 --> 00:08:25,440
+Pas tout à fait, Rodolphe !
+
+182
+00:08:25,440 --> 00:08:28,400
+On le saura quand on aura quitté cette île !
+
+183
+00:08:28,400 --> 00:08:30,060
+Comment on va faire ?
+
+184
+00:08:30,060 --> 00:08:31,800
+On n'a pas de vaisseau !
+
+185
+00:08:31,800 --> 00:08:34,020
+Mais si, nous avons Comor !
+
+186
+00:08:34,020 --> 00:08:35,620
+Maintenant que nous sommes minuscules,
+
+187
+00:08:35,900 --> 00:08:38,720
+nous allons pouvoir remonter sur son dos !
+
+188
+00:08:38,720 --> 00:08:40,020
+Ben oui !
+
+189
+00:08:40,020 --> 00:08:41,520
+Vous êtes tout léger !
+
+190
+00:08:41,520 --> 00:08:46,840
+Rodolphe et Gala se hissèrent sur le dos de Comor
+
+191
+00:08:46,840 --> 00:08:49,260
+et celui-ci décolla dans les yeux.
+
+192
+00:08:50,480 --> 00:08:52,460
+Barbe brune, qui se réveillait à peine,
+
+193
+00:08:52,980 --> 00:08:55,280
+eut juste le temps de les voir quitter son île.
+
+194
+00:08:55,900 --> 00:08:57,700
+Il était trop tard pour les retenir.
+
+195
+00:08:58,360 --> 00:09:01,400
+Ah non ! Vous m'avez gagné !
+
+196
+00:09:01,400 --> 00:09:05,660
+Les trois amis retournèrent sur la planète de Comor
+
+197
+00:09:05,660 --> 00:09:07,620
+pour dévorer quelques noix magiques
+
+198
+00:09:07,620 --> 00:09:09,580
+et retrouver leur taille normale.
+
+199
+00:09:09,580 --> 00:09:12,920
+Puis, ils remercièrent profondément Comor
+
+200
+00:09:12,920 --> 00:09:16,320
+pour son aide précieuse, son courage et sa gentillesse.
+
+201
+00:09:17,480 --> 00:09:20,000
+Le monstre était fatigué par toutes ses aventures.
+
+202
+00:09:20,540 --> 00:09:22,760
+Il avait grand besoin de se reposer à présent.
+
+203
+00:09:23,880 --> 00:09:26,980
+Eh, Rodolphe, je sais que tu adores construire des tours de cailloux,
+
+204
+00:09:27,400 --> 00:09:28,620
+mais ce n'est pas vraiment le moment.
+
+205
+00:09:28,900 --> 00:09:31,580
+Il faut trouver une solution pour retourner sur notre planète !
+
+206
+00:09:32,240 --> 00:09:34,400
+Tu me fais confiance, Gala ?
+
+207
+00:09:34,400 --> 00:09:36,580
+Oui, alors fais comme moi !
+
+208
+00:09:36,580 --> 00:09:40,460
+Rodolphe grimpa sur sa tour de cailloux et attendit.
+
+209
+00:09:41,140 --> 00:09:42,180
+Gala en fit autant.
+
+210
+00:09:43,240 --> 00:09:45,900
+Tout à coup, une lueur éclaira le ciel.
+
+211
+00:09:46,360 --> 00:09:47,660
+C'était une étoile filante.
+
+212
+00:09:48,400 --> 00:09:49,640
+Quand elle passa devant eux,
+
+213
+00:09:50,040 --> 00:09:51,540
+Rodolphe se jeta dessus,
+
+214
+00:09:51,920 --> 00:09:53,520
+suivi immédiatement par Gala.
+
+215
+00:09:54,000 --> 00:09:57,220
+Et ils furent transportés à travers tout l'univers.
+
+216
+00:09:57,220 --> 00:10:03,680
+Enfin, l'étoile explosa
+
+217
+00:10:03,680 --> 00:10:05,260
+et Rodolphe et Gala
+
+218
+00:10:05,260 --> 00:10:07,900
+furent propulsés sur une planète inconnue.
+
+219
+00:10:09,320 --> 00:10:10,500
+Ils ne savaient pas encore
+
+220
+00:10:10,500 --> 00:10:12,900
+ce qui les attendait sur cette nouvelle planète.
+
+221
+00:10:13,440 --> 00:10:15,740
+Des bonnes ou peut-être des mauvaises surprises.
+
+222
+00:10:16,700 --> 00:10:17,900
+Mais ce qu'ils savaient,
+
+223
+00:10:18,360 --> 00:10:20,600
+c'est que leur amitié était plus forte que tout
+
+224
+00:10:20,600 --> 00:10:23,320
+et qu'ensemble, rien ni personne
+
+225
+00:10:23,320 --> 00:10:24,560
+ne pouvait les arrêter.
+
+226
+00:10:24,560 --> 00:10:35,060
+C'était les aventures de Rodolphe et Gala.
+
+227
+00:10:35,720 --> 00:10:38,020
+Une histoire écrite, racontée
+
+228
+00:10:38,020 --> 00:10:41,000
+et mise en musique par Cécilia et Gérald.
+
+229
+00:10:42,840 --> 00:10:45,300
+On vous dit à bientôt pour de nouvelles aventures.
+
+230
+00:10:45,300 --> 00:10:54,640
+Sous-titrage Société Radio-Canada
+

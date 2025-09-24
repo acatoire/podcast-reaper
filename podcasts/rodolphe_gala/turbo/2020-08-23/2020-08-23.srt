@@ -1,0 +1,868 @@
+1
+00:00:00,000 --> 00:00:00,200
+...
+
+2
+00:00:00,200 --> 00:00:08,000
+Précédemment, dans la Grim Academy...
+
+3
+00:00:08,000 --> 00:00:11,000
+...
+
+4
+00:00:11,000 --> 00:00:16,000
+...
+
+5
+00:00:16,580 --> 00:00:18,000
+...
+
+6
+00:00:18,000 --> 00:00:20,000
+...
+
+7
+00:00:20,000 --> 00:00:21,000
+...
+
+8
+00:00:21,000 --> 00:00:22,000
+...
+
+9
+00:00:22,000 --> 00:00:23,000
+...
+
+10
+00:00:23,000 --> 00:00:24,000
+...
+
+11
+00:00:24,000 --> 00:00:26,000
+...
+
+12
+00:00:26,000 --> 00:00:28,000
+...
+
+13
+00:00:28,000 --> 00:00:31,000
+...
+
+14
+00:00:31,000 --> 00:00:32,000
+...
+
+15
+00:00:32,000 --> 00:00:34,000
+...
+
+16
+00:00:34,000 --> 00:00:37,000
+...
+
+17
+00:00:37,000 --> 00:00:41,000
+...
+
+18
+00:00:41,000 --> 00:00:47,000
+...
+
+19
+00:00:47,000 --> 00:00:49,000
+...
+
+20
+00:00:49,000 --> 00:00:50,000
+...
+
+21
+00:00:50,000 --> 00:00:54,000
+...
+
+22
+00:00:54,000 --> 00:00:56,520
+Elle absorbe mon pied !
+
+23
+00:00:56,520 --> 00:00:58,820
+J'étouffant !
+
+24
+00:00:58,820 --> 00:01:01,380
+Nous en sortirons-nous encore une fois ?
+
+25
+00:01:01,380 --> 00:01:05,040
+Mais enfin mon frère, tu ne peux pas nous laisser dans l'expectative !
+
+26
+00:01:05,040 --> 00:01:07,980
+Vous faites trop durer le suspense !
+
+27
+00:01:07,980 --> 00:01:12,480
+Ça, ils le font exprès pour qu'on prenne la version premium à 12,90€ !
+
+28
+00:01:12,480 --> 00:01:13,700
+Qu'elle dit ?
+
+29
+00:01:13,700 --> 00:01:14,620
+Ma maman !
+
+30
+00:01:14,620 --> 00:01:22,780
+La Grime Academy saison 7 est disponible dès aujourd'hui en entier et sans publicité au prix de 12,90€ hors taxes.
+
+31
+00:01:22,780 --> 00:01:26,780
+Pour la découvrir avant tout le monde, cliquez sur le lien dans la description !
+
+32
+00:01:29,780 --> 00:01:32,780
+FANTASK
+
+33
+00:01:33,400 --> 00:01:36,280
+Studio Fantask est un label de podcast pour enfants.
+
+34
+00:01:36,660 --> 00:01:39,780
+Retrouvez toutes nos séries audio sur le site fantasque.studio
+
+35
+00:01:52,780 --> 00:01:54,780
+Sous-titrage Société Radio-Canada
+
+36
+00:01:54,780 --> 00:02:24,780
+
+
+37
+00:02:24,780 --> 00:02:54,780
+
+
+38
+00:02:54,780 --> 00:03:24,780
+
+
+39
+00:03:24,780 --> 00:03:27,780
+Vous allez voir, le village est super !
+
+40
+00:03:27,780 --> 00:03:29,780
+Il y a plein de construction en cailloux !
+
+41
+00:03:30,580 --> 00:03:32,420
+Tout le monde se précipita au hublot.
+
+42
+00:03:33,060 --> 00:03:36,780
+Quelle joie de retrouver leur planète ainsi que toute leur famille !
+
+43
+00:03:37,240 --> 00:03:41,500
+Le vaisseau se mit à ralentir et bientôt, il se posa sur le sol.
+
+44
+00:03:42,860 --> 00:03:46,740
+Rodolphe, Rodolphine et leurs parents se précipitèrent vers la sortie.
+
+45
+00:03:46,740 --> 00:03:48,740
+Mais quand la porte s'ouvrit...
+
+46
+00:03:48,740 --> 00:03:50,740
+Oh non !
+
+47
+00:03:51,540 --> 00:03:53,840
+Leur planète était méconnaissable.
+
+48
+00:03:54,700 --> 00:04:00,720
+Tout le village était détruit, les tours de cailloux étaient renversées et les maisons étaient démolies.
+
+49
+00:04:01,360 --> 00:04:03,800
+Mais qu'est-ce qui s'est passé ?
+
+50
+00:04:03,800 --> 00:04:09,440
+Personne ne le savait, mais une chose était sûre, quelque chose de grave était arrivé.
+
+51
+00:04:09,440 --> 00:04:14,120
+Ils avancèrent dans les rues désertes en appelant bien fort.
+
+52
+00:04:14,840 --> 00:04:15,920
+Rodolphe !
+
+53
+00:04:15,920 --> 00:04:17,260
+Rodolphe !
+
+54
+00:04:17,260 --> 00:04:18,440
+Rodolphe !
+
+55
+00:04:18,440 --> 00:04:19,440
+Rodolphe !
+
+56
+00:04:19,440 --> 00:04:20,660
+Rodolphe !
+
+57
+00:04:20,660 --> 00:04:21,780
+Rodolphe !
+
+58
+00:04:21,780 --> 00:04:22,840
+Rodolphe !
+
+59
+00:04:22,840 --> 00:04:23,740
+Rodolphe !
+
+60
+00:04:23,740 --> 00:04:25,440
+Mais où sont-ils tous passés ?
+
+61
+00:04:26,700 --> 00:04:30,960
+Soudain, ils entendirent un petit bruit, comme des gémissements.
+
+62
+00:04:31,900 --> 00:04:37,440
+Ils se rapprochèrent et découvrirent cachés derrière un tas de cailloux Rodolfineau.
+
+63
+00:04:37,440 --> 00:04:40,840
+Le pauvre petit tremblait comme une feuille.
+
+64
+00:04:44,740 --> 00:04:45,380
+Rodolphe !
+
+65
+00:04:45,380 --> 00:04:48,460
+Rodolphe qui le connaissait bien s'approcha doucement de lui.
+
+66
+00:04:49,500 --> 00:04:52,580
+Rodolfineau, tu me reconnais ?
+
+67
+00:04:52,580 --> 00:04:56,500
+Ne t'inquiète pas, nous sommes là maintenant, il n'y a plus de danger.
+
+68
+00:04:58,080 --> 00:05:00,840
+Qu'est-ce qui s'est passé ici ?
+
+69
+00:05:00,840 --> 00:05:04,620
+Un peu rassuré, Rodolphe Fignot lui expliqua toute l'histoire.
+
+70
+00:05:05,280 --> 00:05:07,380
+J'étais en train de jouer avec les cailloux.
+
+71
+00:05:07,440 --> 00:05:12,080
+Quand j'ai entendu un gros bruit, j'ai eu peur alors je suis allée me cacher.
+
+72
+00:05:12,520 --> 00:05:13,040
+Continue.
+
+73
+00:05:13,720 --> 00:05:17,820
+J'ai vu un vaisseau spatial. Il était immense.
+
+74
+00:05:18,360 --> 00:05:22,180
+Quand il s'est posé sur la planète, il a tout détruit.
+
+75
+00:05:22,720 --> 00:05:23,900
+Et ensuite ?
+
+76
+00:05:23,900 --> 00:05:28,880
+Des extraterrestres sont sortis du vaisseau. Ils n'arrêtaient pas de crier.
+
+77
+00:05:29,700 --> 00:05:32,460
+Gala se rapprocha et demanda gentiment.
+
+78
+00:05:33,100 --> 00:05:36,340
+Rodolfigno, peux-tu nous dire ce qu'il criait ?
+
+79
+00:05:36,340 --> 00:05:38,920
+Rodolfigno pencha la tête pour regarder Gala.
+
+80
+00:05:39,460 --> 00:05:44,480
+Et quand il la vit, il se cacha à nouveau dans ses mains et se remit à trembler.
+
+81
+00:05:47,520 --> 00:05:50,380
+Rodolfigno, t'as pas à avoir peur ? C'est notre amie.
+
+82
+00:05:50,880 --> 00:05:52,920
+Non, c'est une méchante.
+
+83
+00:05:53,360 --> 00:05:55,580
+Ah, mais pourquoi tu dis ça ?
+
+84
+00:05:55,580 --> 00:05:57,300
+Parce qu'elle est comme eux.
+
+85
+00:05:57,760 --> 00:05:59,460
+Qui ? Gala ?
+
+86
+00:05:59,460 --> 00:06:05,240
+Gala, tu vois, c'est ce qu'il criait. Il criait Gala, Gala.
+
+87
+00:06:05,240 --> 00:06:07,460
+Quoi ? De qui ?
+
+88
+00:06:07,460 --> 00:06:10,540
+Les méchants. C'est les méchants qui criaient Gala.
+
+89
+00:06:10,940 --> 00:06:14,680
+Et comme ils ne l'ont pas trouvé, ils ont capturé tout le monde.
+
+90
+00:06:16,900 --> 00:06:19,100
+Gala ne comprenait rien à cette histoire.
+
+91
+00:06:19,560 --> 00:06:21,440
+Qui étaient ces extraterrestres ?
+
+92
+00:06:21,440 --> 00:06:23,320
+Pourquoi est-ce qu'ils la cherchaient ?
+
+93
+00:06:23,320 --> 00:06:26,580
+Pourquoi avait-il tout détruit et capturé tout le monde ?
+
+94
+00:06:26,580 --> 00:06:27,980
+Il lui fallait des réponses.
+
+95
+00:06:28,340 --> 00:06:30,300
+Et elle savait exactement où les trouver.
+
+96
+00:06:30,300 --> 00:06:32,840
+Rodolphe se retourna vers Gala.
+
+97
+00:06:33,340 --> 00:06:35,860
+Tu sais qui c'est, Gala ? C'est méchant !
+
+98
+00:06:35,860 --> 00:06:37,480
+Mais Gala avait déjà disparu.
+
+99
+00:06:37,860 --> 00:06:39,420
+Elle avait rejoint son vaisseau spatial.
+
+100
+00:06:40,060 --> 00:06:44,860
+Ordinateur de bord, dis-moi qui sont les extraterrestres qui ont débarqué sur cette planète.
+
+101
+00:06:46,300 --> 00:06:48,140
+Ce sont des galaxériens.
+
+102
+00:06:48,660 --> 00:06:51,280
+Des extraterrestres venus du fond de la galaxie.
+
+103
+00:06:51,840 --> 00:06:54,160
+On ne sait que très peu de choses sur leur espèce.
+
+104
+00:06:54,720 --> 00:06:56,300
+Fais-tu pourquoi ils me cherchent ?
+
+105
+00:06:56,300 --> 00:06:59,580
+Car tu appartiens aussi à leur espèce.
+
+106
+00:07:00,280 --> 00:07:02,120
+Comment ça ?
+
+107
+00:07:02,120 --> 00:07:03,920
+Tu es une galaxérienne.
+
+108
+00:07:04,860 --> 00:07:07,540
+Qu'est-ce que tu racontes ?
+
+109
+00:07:07,540 --> 00:07:09,540
+Ces extraterrestres sont ta famille.
+
+110
+00:07:09,720 --> 00:07:11,920
+Ah ! Ma famille !
+
+111
+00:07:11,920 --> 00:07:14,820
+Gala était stupéfaite par sa découverte.
+
+112
+00:07:15,340 --> 00:07:16,660
+Elle aussi avait une famille.
+
+113
+00:07:17,320 --> 00:07:19,000
+Comment c'était possible ?
+
+114
+00:07:19,000 --> 00:07:20,620
+Elle ne se souvenait de rien.
+
+115
+00:07:20,620 --> 00:07:23,200
+Attends-moi, Gala !
+
+116
+00:07:23,200 --> 00:07:25,400
+Gala !
+
+117
+00:07:25,400 --> 00:07:27,480
+Qu'est-ce que tu fais ?
+
+118
+00:07:27,480 --> 00:07:32,740
+Rodolphe, qui avait couru comme un fou, ouvrit la porte du vaisseau et s'engouffra à l'intérieur.
+
+119
+00:07:33,400 --> 00:07:34,300
+Oh !
+
+120
+00:07:34,300 --> 00:07:38,560
+T'allais quand même pas partir sans moi ?
+
+121
+00:07:38,560 --> 00:07:42,020
+Je suis désolée, Rodolphe, mais je dois réparer cette catastrophe.
+
+122
+00:07:42,740 --> 00:07:44,340
+Pourquoi tu dis ça ?
+
+123
+00:07:44,340 --> 00:07:46,600
+Parce que je crois que tout est de ma faute.
+
+124
+00:07:46,960 --> 00:07:48,720
+Oh ! Bon, t'as rien fait.
+
+125
+00:07:48,720 --> 00:07:51,420
+Rodolphe, tu dois descendre maintenant.
+
+126
+00:07:52,180 --> 00:07:54,820
+Mais au lieu de descendre comme Gala lui avait demandé,
+
+127
+00:07:55,420 --> 00:07:57,040
+Rodolphe s'assit à côté d'elle.
+
+128
+00:07:57,400 --> 00:07:58,460
+Qu'est-ce que tu fais ?
+
+129
+00:07:58,460 --> 00:07:59,580
+Je viens avec toi.
+
+130
+00:08:00,040 --> 00:08:01,400
+Non, ce n'est pas possible.
+
+131
+00:08:02,160 --> 00:08:03,740
+Bien sûr que c'est possible.
+
+132
+00:08:04,340 --> 00:08:05,540
+C'est trop dangereux.
+
+133
+00:08:05,920 --> 00:08:06,880
+J'ai pas peur.
+
+134
+00:08:07,280 --> 00:08:09,260
+Ne m'oblige pas à te sortir de force.
+
+135
+00:08:09,540 --> 00:08:10,580
+Rodolphe, descend.
+
+136
+00:08:11,120 --> 00:08:13,300
+Non, je bougerai pas de mon siège.
+
+137
+00:08:14,300 --> 00:08:16,900
+Ah ! Rodolphe, s'il te plaît, descend.
+
+138
+00:08:16,900 --> 00:08:19,200
+J'ai dit non.
+
+139
+00:08:20,120 --> 00:08:24,500
+À ce moment-là, Gala actionna ses roues ainsi que ses deux bras métalliques.
+
+140
+00:08:25,020 --> 00:08:30,280
+Elle attrapa Rodolphe et deux secondes plus tard, celui-ci se retrouva dehors.
+
+141
+00:08:30,780 --> 00:08:32,000
+Ah, mais c'est pas juste.
+
+142
+00:08:32,120 --> 00:08:34,740
+T'as pas le droit de te servir de tes super gadgets sur moi.
+
+143
+00:08:35,280 --> 00:08:36,900
+Tu ne m'as vraiment pas laissé le choix.
+
+144
+00:08:37,560 --> 00:08:38,540
+Écoute-moi, Rodolphe.
+
+145
+00:08:38,940 --> 00:08:41,300
+Tu viens juste de retrouver ta sœur et tes parents.
+
+146
+00:08:41,800 --> 00:08:43,780
+Tu ne peux pas les abandonner une deuxième fois.
+
+147
+00:08:43,780 --> 00:08:46,360
+C'est ta famille et ils comptent sur toi.
+
+148
+00:08:46,760 --> 00:08:48,320
+D'habitude, t'es très intelligente.
+
+149
+00:08:48,500 --> 00:08:50,340
+Mais là, tu ne comprends rien du tout.
+
+150
+00:08:51,060 --> 00:08:52,840
+Pourquoi tu dis ça, Rodolphe ?
+
+151
+00:08:52,840 --> 00:08:54,380
+Mais c'est toi, ma famille.
+
+152
+00:08:55,280 --> 00:08:56,720
+Ta famille ?
+
+153
+00:08:56,720 --> 00:08:58,760
+Oui, et tu comptes autant qu'eux.
+
+154
+00:08:59,120 --> 00:09:03,040
+Alors que ça te plaise ou non, je refuse de te laisser partir toute seule.
+
+155
+00:09:03,720 --> 00:09:05,940
+Oh, Rodolphe, comme tu es gentil.
+
+156
+00:09:05,940 --> 00:09:09,820
+Rodolphe, inaccompagnée par ses parents, venait de les rejoindre.
+
+157
+00:09:10,820 --> 00:09:14,140
+Discrètement, elle fit un petit clin d'œil à Rodolphe et dit.
+
+158
+00:09:14,800 --> 00:09:18,200
+Tu sais, Gala, nous avons beaucoup de travail qui nous attend ici.
+
+159
+00:09:18,600 --> 00:09:20,220
+Il faut reconstruire tout le village.
+
+160
+00:09:20,540 --> 00:09:23,800
+Et avec Rodolphe dans nos pattes, ça risque d'être très compliqué.
+
+161
+00:09:24,020 --> 00:09:26,000
+Ah, pourquoi tu dis ça ?
+
+162
+00:09:26,000 --> 00:09:27,680
+Parce que t'es super maladroit.
+
+163
+00:09:27,920 --> 00:09:29,840
+Maladroit ? Maladroit ?
+
+164
+00:09:29,840 --> 00:09:31,220
+Rodolphe ?
+
+165
+00:09:31,220 --> 00:09:33,360
+Oh oui, c'est vrai, je suis super maladroit.
+
+166
+00:09:34,180 --> 00:09:36,540
+Et puis, imagine que tu croises une araignator.
+
+167
+00:09:36,720 --> 00:09:37,840
+Qui va te défendre ?
+
+168
+00:09:37,840 --> 00:09:39,560
+Oh non, pas encore une araignator.
+
+169
+00:09:40,480 --> 00:09:41,720
+Rodolphe !
+
+170
+00:09:41,720 --> 00:09:45,420
+Ah oui, c'est vrai, t'as besoin de moi au cas où on croiserait une grosse bête toute poilue.
+
+171
+00:09:46,120 --> 00:09:49,540
+Et puis, tu sais, Gala, c'est très important que t'es un copilote.
+
+172
+00:09:49,800 --> 00:09:51,020
+Tous les capitaines en ont un.
+
+173
+00:09:51,600 --> 00:09:54,440
+Euh, oui, enfin, moi, j'y connais rien en pilotage.
+
+174
+00:09:55,080 --> 00:09:56,020
+Rodolphe !
+
+175
+00:09:56,020 --> 00:09:58,980
+Ah oui, bien sûr, je ferais un très très bon copilote.
+
+176
+00:09:58,980 --> 00:10:02,160
+Tu es sûr de vouloir m'accompagner ?
+
+177
+00:10:02,160 --> 00:10:04,840
+Oh oui, capitaine Gala, à votre service.
+
+178
+00:10:06,260 --> 00:10:08,180
+Tout le monde éclata de rire.
+
+179
+00:10:08,700 --> 00:10:11,820
+Gala comprit alors qu'elle ne pouvait pas décider pour Rodolphe
+
+180
+00:10:11,820 --> 00:10:15,100
+et que sa famille était prête à le laisser partir encore une fois.
+
+181
+00:10:15,720 --> 00:10:19,040
+Cette fois-ci, on ne se dit pas adieu, mais juste au revoir.
+
+182
+00:10:19,780 --> 00:10:23,500
+Je promets de protéger Rodolphe et de retrouver toute votre famille.
+
+183
+00:10:24,080 --> 00:10:24,840
+Pareil pour moi.
+
+184
+00:10:24,840 --> 00:10:26,740
+Je promets de me protéger.
+
+185
+00:10:27,040 --> 00:10:29,020
+Enfin, je promets de me protéger.
+
+186
+00:10:29,020 --> 00:10:29,780
+De te protéger.
+
+187
+00:10:30,060 --> 00:10:31,620
+De retrouver toute ma famille.
+
+188
+00:10:31,880 --> 00:10:32,600
+Enfin, ma famille.
+
+189
+00:10:32,820 --> 00:10:33,740
+Enfin, vous m'avez compris.
+
+190
+00:10:34,340 --> 00:10:37,280
+Avant le départ, tout le monde se serra fort dans les bras.
+
+191
+00:10:38,220 --> 00:10:40,720
+Rodolphe et Gala s'installèrent au poste de commandement.
+
+192
+00:10:41,360 --> 00:10:42,700
+Copilote Rodolphe ?
+
+193
+00:10:42,700 --> 00:10:44,100
+Prêt au décollage ?
+
+194
+00:10:44,100 --> 00:10:45,680
+Affirmatif, capitaine Gala.
+
+195
+00:10:46,280 --> 00:10:47,180
+Alors ?
+
+196
+00:10:47,180 --> 00:10:48,700
+En route !
+
+197
+00:10:48,700 --> 00:10:50,840
+Il est en route !
+
+198
+00:10:50,840 --> 00:10:56,280
+Et c'est ainsi que Rodolphe et Gala s'envolèrent pour de nouvelles aventures.
+
+199
+00:10:56,740 --> 00:10:57,840
+Plus unis que jamais.
+
+200
+00:10:58,380 --> 00:11:00,460
+Prêts à accomplir leur prochaine mission.
+
+201
+00:11:00,460 --> 00:11:11,400
+Et voilà !
+
+202
+00:11:11,400 --> 00:11:14,440
+La saison 2 de Rodolphe et Gala est terminée.
+
+203
+00:11:14,960 --> 00:11:15,780
+Déjà ?
+
+204
+00:11:15,780 --> 00:11:17,280
+Ouuuh !
+
+205
+00:11:17,280 --> 00:11:18,800
+On espère que ça vous a plu.
+
+206
+00:11:19,060 --> 00:11:23,040
+Et on vous remercie d'être toujours plus nombreux à suivre leurs aventures.
+
+207
+00:11:23,040 --> 00:11:25,920
+D'ailleurs, la saison 3 arrive bientôt.
+
+208
+00:11:26,520 --> 00:11:28,040
+Yopi !
+
+209
+00:11:28,040 --> 00:11:33,160
+En attendant, vous pouvez nous rejoindre sur notre Facebook, Loustique et Farfelux.
+
+210
+00:11:33,600 --> 00:11:37,580
+Oh oui ! Pour nous envoyer un dessin comme le joli dessin de Léa.
+
+211
+00:11:37,960 --> 00:11:40,020
+Ou nous dire ce que vous pensez de nos histoires.
+
+212
+00:11:40,540 --> 00:11:53,540
+Comme Satine, Hugo, Léo, Noam, Martin et Raphaël, Ewan, Clémentine, Gabriel, Robin, Méli, Ella, Elliot et tant d'autres.
+
+213
+00:11:53,540 --> 00:11:56,620
+Nous, on vous souhaite une très belle rentrée.
+
+214
+00:11:57,020 --> 00:11:59,680
+Et on vous dit à bientôt pour de nouvelles histoires.
+
+215
+00:11:59,820 --> 00:12:00,840
+Au revoir !
+
+216
+00:12:00,840 --> 00:12:02,540
+Bisous, bisous !
+
+217
+00:12:02,540 --> 00:12:07,540
+Sous-titrage Société Radio-Canada
+
