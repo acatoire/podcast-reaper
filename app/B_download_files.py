@@ -36,6 +36,10 @@ os.makedirs(download_folder, exist_ok=True)
 # Get the new season content
 episodes = next((saison["episodes"] for saison in podcast_info["Saisons"] if saison["name"] == "new episodes"), [])
 
+if not episodes:
+    print("No 'new episodes' season found or it is empty.")
+    exit()
+
 # Download each file
 for episode in episodes:
     url = episode["url"]

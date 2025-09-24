@@ -21,10 +21,6 @@
   "Saisons": [
     {
       "name": "new episodes",
-      "episodes": []
-    },
-    {
-      "name": "new episodes",
       "episodes": [
         {
           "url": "https://sphinx.acast.com/p/open/s/65b11699fd0c0a001623174e/e/68484837680b3bd5046d7b56/media.mp3",
@@ -1162,11 +1158,11 @@
         },
         {
           "url": "https://sphinx.acast.com/p/open/s/65b11699fd0c0a001623174e/e/70ef14bb-c803-453e-be46-47ae2df62e6d/media.mp3",
-          "episode": "🎃  TRAILER | Menace Invisible ! Super épisode d'Halloween 🎃",
+          "episode": "🎃  TRAILER |Menace Invisible ! Super épisode d'Halloween 🎃",
           "description": "<p>👻 <strong>MENACE INVISIBLE</strong> 👻</p><br><p>Hahaha !! Oserez-vous venir frissonner dans cet épisode trépidant et inédit des Aventures de Rodolphe et Gala ?!?</p><p>Un super épisode spécial de 15 minutes à écouter en famille, toujours disponible à l'achat premium (2€90)</p><br><p>------------------------------------------------------------------</p><p>🔥 Le clip de <strong>La danse du slip</strong> est disponible sur <a href=\"https://www.youtube.com/watch?v=_ofjl5T-qtw&amp;t=3s\" rel=\"noopener noreferrer\" target=\"_blank\">Youtube</a>, mais aussi sur toutes les plateformes musicales !! Cliquez 👉 <a href=\"https://fanlink.tv/danseduslip\" rel=\"noopener noreferrer\" target=\"_blank\">ICI</a></p><p>💥 Pour acheter le cahier d'activités de Rodolphe et Gala 👉 <a href=\"https://www.loustiketfarfelux.fr/product-page/cahier-d-activit%C3%A9s-les-vacances-de-rodolphe-gala-et-rodolphine\" rel=\"noopener noreferrer\" target=\"_blank\">suivez ce lien</a></p><br><p>——— [LES AVENTURES DE RODOLPHE &amp; GALA] ———</p><p>Vous voulez tout savoir sur nos podcasts ?&nbsp;</p><p>Suivez-nous !&nbsp;👉<a href=\"https://loustiketfarfelux.carrd.co/\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><a href=\"https://fantask.crd.co/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>https://fantask.crd.co</u></a></p><ul><li>Histoires écrites et racontées par :<a href=\"https://www.linkedin.com/in/c%C3%A9cilia-dorai/\" rel=\"noopener noreferrer\" target=\"_blank\"> Cécilia Dorai&nbsp;</a></li><li>Production, Musiques, Sound design et Mixage : <a href=\"https://www.loustiketfarfelux.fr/\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><a href=\"https://fantask.studio/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Studio Fantask</u></a> (Nantes)</li><li>Illustrations : Antoine Giraudineau</li></ul><hr><p style='color:grey; font-size:0.75em;'> Hébergé par Acast. Visitez <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> pour plus d'informations.</p>",
           "date": "2021-10-20",
-          "cleanTitle": "🎃_TRAILER_| Menace_Invisible__Super_épisode_d_Halloween_🎃",
-          "fileName": "2021-10-20-🎃_TRAILER_| Menace_Invisible__Super_épisode_d_Halloween_🎃.mp3",
+          "cleanTitle": "🎃_TRAILER_Menace_Invisible__Super_épisode_d_Halloween_🎃",
+          "fileName": "2021-10-20-TRAILER_Menace_Invisible__Super_épisode_d_Halloween.mp3",
           "label": ""
         },
         {
